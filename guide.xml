@@ -789,7 +789,82 @@
     <category lang="pt">Entertainment</category>
     <desc lang="pt">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
   </programme>
-  <programme start="20260724021500 -0300" stop="20260724031500 -0300" channel="SBT.br">
+  <programme start="20260724021500 -0300" stop="20260724060000 -0300" channel="SBT.br">
+    <title lang="pt">SBT Notícias</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
+  </programme>
+  <programme start="20260724060000 -0300" stop="20260724083000 -0300" channel="SBT.br">
+    <title lang="pt">Se Liga Brasil</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais.</desc>
+  </programme>
+  <programme start="20260724083000 -0300" stop="20260724124500 -0300" channel="SBT.br">
+    <title lang="pt">Primeiro Impacto</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas.</desc>
+  </programme>
+  <programme start="20260724124500 -0300" stop="20260724140000 -0300" channel="SBT.br">
+    <title lang="pt">Chaves</title>
+    <category lang="pt">Sitcom</category>
+    <desc lang="pt">Seu Madruga arranja um pezinho de chirimoia e quer plantá-lo em um vaso. Mas as crianças ficam atrapalhando e ele não consegue terminar o serviço.</desc>
+  </programme>
+  <programme start="20260724140000 -0300" stop="20260724144500 -0300" channel="SBT.br">
+    <title lang="pt">A Desalmada</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Fernanda é uma mulher em busca de vingança depois de ser vítima da crueldade de um homem que a feriu física e emocionalmente na sua noite de núpcias, mas o destino prepara uma armadilha que vai fazê-la acreditar novamente no amor.</desc>
+  </programme>
+  <programme start="20260724144500 -0300" stop="20260724153000 -0300" channel="SBT.br">
+    <title lang="pt">Meu Coração É Teu</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Ana trabalha como dançarina de pole dance até começar a trabalhar para a família Lascuráin que tem sete filhos. Ela se apaixona pelo pai, mas Fernando já está decidido a casar-se com Isabela, pois acredita que terá um bebê com ela.</desc>
+  </programme>
+  <programme start="20260724153000 -0300" stop="20260724170000 -0300" channel="SBT.br">
+    <title lang="pt">Fofocalizando</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos.</desc>
+  </programme>
+  <programme start="20260724170000 -0300" stop="20260724183000 -0300" channel="SBT.br">
+    <title lang="pt">Sortilégio</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Uma história de enganos e traições, onde o ódio que Bruno sente por seu meio-irmão Alessandro, o leva a planejar sua morte só para se tornar herdeiro de sua fortuna.</desc>
+  </programme>
+  <programme start="20260724183000 -0300" stop="20260724194500 -0300" channel="SBT.br">
+    <title lang="pt">Aqui Agora</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As últimas notícias policiais, políticas e internacionais do dia de forma descontraída e dinâmica.</desc>
+  </programme>
+  <programme start="20260724194500 -0300" stop="20260724204500 -0300" channel="SBT.br">
+    <title lang="pt">SBT Brasil</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As principais notícias do Brasil e do mundo com análise profunda dos fatos.</desc>
+  </programme>
+  <programme start="20260724204500 -0300" stop="20260724220000 -0300" channel="SBT.br">
+    <title lang="pt">A História de Joana, a Virgem</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Joana, uma virgem, é inseminada artificialmente por engano após uma confusão na clínica. Sua vida vira de cabeça para baixo com a gravidez inesperada, especialmente quando ela se apaixona pelo pai biológico do bebê, Gabriel.</desc>
+  </programme>
+  <programme start="20260724220000 -0300" stop="20260725000000 -0300" channel="SBT.br">
+    <title lang="pt">Programa do Ratinho</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o &quot;Jornal Racional&quot;, &quot;Gol Show&quot; e &quot;Dez ou Mil&quot;, entre outros.</desc>
+  </programme>
+  <programme start="20260725000000 -0300" stop="20260725010000 -0300" channel="SBT.br">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia.</desc>
+  </programme>
+  <programme start="20260725010000 -0300" stop="20260725013000 -0300" channel="SBT.br">
+    <title lang="pt">Operação Mesquita</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas.</desc>
+  </programme>
+  <programme start="20260725013000 -0300" stop="20260725020000 -0300" channel="SBT.br">
+    <title lang="pt">Passe de Milhões</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Programa de mesa-redonda voltado ao universo do futebol e dos palpites esportivos.</desc>
+  </programme>
+  <programme start="20260725020000 -0300" stop="20260725030000 -0300" channel="SBT.br">
     <title lang="pt">SBT Notícias</title>
     <category lang="pt">News</category>
     <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
@@ -1475,6 +1550,130 @@
     <title lang="pt">Jornal da Cultura</title>
     <category lang="pt">News</category>
     <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  </programme>
+  <programme start="20260723050000 -0300" stop="20260723070000 -0300" channel="Record TV.br">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">O programa apresenta reportagens exclusivas, denúncias e prestação de serviços.</desc>
+  </programme>
+  <programme start="20260723070000 -0300" stop="20260723070500 -0300" channel="Record TV.br">
+    <title lang="pt">Jornal da Record - 24h</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260723070500 -0300" stop="20260723073000 -0300" channel="Record TV.br">
+    <title lang="pt">Balanço Geral Manhã</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">O programa apresenta reportagens exclusivas, denúncias e prestação de serviços.</desc>
+  </programme>
+  <programme start="20260723073000 -0300" stop="20260723084000 -0300" channel="Record TV.br">
+    <title lang="pt">Balanço Geral SP Manhã</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe as notícias mais importantes da região de São Paulo.</desc>
+  </programme>
+  <programme start="20260723084000 -0300" stop="20260723095000 -0300" channel="Record TV.br">
+    <title lang="pt">Fala Brasil</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">O Fala Brasil é um programa de jornalismo moderno e dinâmico que mostra os mais importantes acontecimentos nacionais e internacionais. A missão é apresentar as principais notícias com muito mais profundidade em comparação ao que está estampado nas primeiras páginas dos maiores jornais do país. Diariamente, repórteres de diversas capitais brasileiras entram ao vivo com as principais notícias dos Estados. Outro objetivo do programa é projetar o dia, antecipando os fatos que vão mobilizar a atenção dos brasileiros. A apresentação é de Carla Cecato e Roberta Piza, dois talentos do telejornalismo nacional.</desc>
+  </programme>
+  <programme start="20260723095000 -0300" stop="20260723113000 -0300" channel="Record TV.br">
+    <title lang="pt">Hoje em Dia</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Notícias, prestação de serviço e entretenimento na medida certa são o mote do programa, concebido a partir do mais nobre compromisso da comunicação: informar e formar a opinião pública, sem perder de vista a opção de lazer.</desc>
+  </programme>
+  <programme start="20260723113000 -0300" stop="20260723153000 -0300" channel="Record TV.br">
+    <title lang="pt">Balanço Geral</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Reportagens exclusivas, denúncias e prestação de serviços de interesse da população.</desc>
+  </programme>
+  <programme start="20260723153000 -0300" stop="20260723163000 -0300" channel="Record TV.br">
+    <title lang="pt">Jesus</title>
+    <category lang="pt">Temporada 1 Episódio 63</category>
+    <desc lang="pt">Petrônio reencontra Maria Madalena; Simão Fariseu surpreende a todos e exige que Jesus prove ser mesmo o Messias.</desc>
+  </programme>
+  <programme start="20260723163000 -0300" stop="20260723170000 -0300" channel="Record TV.br">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20260723170000 -0300" stop="20260723170500 -0300" channel="Record TV.br">
+    <title lang="pt">Jornal da Record - 24h</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260723170500 -0300" stop="20260723171500 -0300" channel="Record TV.br">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20260723171500 -0300" stop="20260723181500 -0300" channel="Record TV.br">
+    <title lang="pt">Cidade Alerta</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Programa jornalístico que transmite informações com agilidade e credibilidade, oferecendo ao público uma visão diferente da notícia habitual.</desc>
+  </programme>
+  <programme start="20260723181500 -0300" stop="20260723190000 -0300" channel="Record TV.br">
+    <title lang="pt">Jornal da Record</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</desc>
+  </programme>
+  <programme start="20260723190000 -0300" stop="20260723192000 -0300" channel="Record TV.br">
+    <title lang="pt">Aquecimento Futebol</title>
+    <desc lang="pt">Os últimos preparativos para as principais partidas do futebol brasileiro.</desc>
+  </programme>
+  <programme start="20260723192000 -0300" stop="20260723213000 -0300" channel="Record TV.br">
+    <title lang="pt">Botafogo x Vitória</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260723213000 -0300" stop="20260723223000 -0300" channel="Record TV.br">
+    <title lang="pt">Coração de Mãe</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Karsu vive um casamento infeliz e enfrenta uma rotina sufocante como mãe de três filhos. Sua vida muda radicalmente quando Kuzey desaparece por três anos. Ao retornar, Karsu tenta reconquistar o amor do filho, enquanto descobre a traição do marido.</desc>
+  </programme>
+  <programme start="20260723223000 -0300" stop="20260723233000 -0300" channel="Record TV.br">
+    <title lang="pt">Doc Investigação</title>
+    <category lang="pt">Temporada 3 Episódio 1</category>
+    <desc lang="pt">A repórter investigativa Thais Furlan reconta com detalhes nunca abordados grandes crimes que abalaram o Brasil. Em uma produção exclusiva, nos moldes do gênero true crime, veja entrevistas inéditas com familiares de vítimas de crimes bárbaros.</desc>
+  </programme>
+  <programme start="20260723233000 -0300" stop="20260724001500 -0300" channel="Record TV.br">
+    <title lang="pt">Chicago Fire - Heróis Contra o Fogo</title>
+    <category lang="pt">Drama</category>
+    <desc lang="pt">Integrantes do corpo de bombeiros de Chicago se culpam pela morte de um companheiro e enfrentam problemas pessoais, mas, apesar das tensões, na hora de enfrentar os desafios, deixam as diferenças de lado e arriscam suas vidas.</desc>
+  </programme>
+  <programme start="20260724001500 -0300" stop="20260724004500 -0300" channel="Record TV.br">
+    <title lang="pt">Jornal da Record - 24h</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260724004500 -0300" stop="20260724020000 -0300" channel="Record TV.br">
+    <title lang="pt">Fala que Eu te Escuto</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Pastores e bispos da Igreja Universal do Reino de Deus debatem diariamente os temas mais relevantes da atualidade a partir de uma perspectiva cristã. Os telespectadores participam do programa dando testemunhos impressionantes do poder da fé.</desc>
+  </programme>
+  <programme start="20260724020000 -0300" stop="20260724023000 -0300" channel="Record TV.br">
+    <title lang="pt">Inteligência e Fé</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Programa de orações e bênçãos. No estúdio, fiéis da Universal compartilham histórias.</desc>
+  </programme>
+  <programme start="20260724023000 -0300" stop="20260724033000 -0300" channel="Record TV.br">
+    <title lang="pt">Palavra Amiga</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O bispo Edir Macedo leva uma mensagem de fé para as pessoas que precisam de ajuda.</desc>
+  </programme>
+  <programme start="20260724033000 -0300" stop="20260724040000 -0300" channel="Record TV.br">
+    <title lang="pt">A Última Porta</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O programa leva mensagens de esperança a pessoas com problemas que parecem não ter solução.</desc>
+  </programme>
+  <programme start="20260724040000 -0300" stop="20260724043000 -0300" channel="Record TV.br">
+    <title lang="pt">Ponto de Luz</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Programa religioso voltado para conscientização a espiritual.</desc>
+  </programme>
+  <programme start="20260724043000 -0300" stop="20260724050000 -0300" channel="Record TV.br">
+    <title lang="pt">Prosperidade com Deus</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Programa produzido pela Igreja Universal do Reino de Deus, com notícias e testemunhos de fiéis.</desc>
   </programme>
   <programme start="20260724050000 -0300" stop="20260724070000 -0300" channel="Record TV.br">
     <title lang="pt">Balanço Geral Manhã</title>
@@ -10381,6 +10580,171 @@
     <title lang="pt">Economia pra Você</title>
     <category lang="pt">Bus./financial</category>
     <desc lang="pt">Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
+  </programme>
+  <programme start="20260723060000 -0300" stop="20260723062000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260723062000 -0300" stop="20260723064000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260723064000 -0300" stop="20260723070000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260723070000 -0300" stop="20260723072500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260723072500 -0300" stop="20260723075000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260723075000 -0300" stop="20260723081500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260723081500 -0300" stop="20260723084000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260723084000 -0300" stop="20260723091000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260723091000 -0300" stop="20260723093500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260723093500 -0300" stop="20260723100000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260723100000 -0300" stop="20260723110000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260723110000 -0300" stop="20260723115500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260723115500 -0300" stop="20260723124500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Roma</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Um registro da luta contra o crime organizado no continente europeu, em um de seus terminais aéreos mais movimentados: o Aeroporto Internacional Leonardo da Vinci, Roma.</desc>
+  </programme>
+  <programme start="20260723124500 -0300" stop="20260723134000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivendo Abaixo de Zero - Sabedoria Nativa</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Alasca, povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais.</desc>
+  </programme>
+  <programme start="20260723134000 -0300" stop="20260723143500 -0300" channel="National Geographic.br">
+    <title lang="pt">Celebridades à Prova de Tudo</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Bear Grylls, o aventureiro global e renomado especialista em sobrevivência, leva uma celebridade para um inesquecível fim de semana de aventura na natureza. Os convidados incluem Ben Stiller, Channing Tatum, Zac Efron, Kate Hudson e Kate Winslet.</desc>
+  </programme>
+  <programme start="20260723143500 -0300" stop="20260723153000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.</desc>
+  </programme>
+  <programme start="20260723153000 -0300" stop="20260723161500 -0300" channel="National Geographic.br">
+    <title lang="pt">Predadores Africanos</title>
+    <category lang="pt">Animals</category>
+    <desc lang="pt">A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação.</desc>
+  </programme>
+  <programme start="20260723161500 -0300" stop="20260723172000 -0300" channel="National Geographic.br">
+    <title lang="pt">SOS Cobra</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas.</desc>
+  </programme>
+  <programme start="20260723172000 -0300" stop="20260723181500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260723181500 -0300" stop="20260723191000 -0300" channel="National Geographic.br">
+    <title lang="pt">Brasil Selvagem</title>
+    <category lang="pt">Nature</category>
+    <desc lang="pt">Aventure-se nos exuberantes limites dos maiores brasileiros, que hospedam uma variedade de criaturas incomuns com hábitos igualmente estranhos.</desc>
+  </programme>
+  <programme start="20260723191000 -0300" stop="20260723210000 -0300" channel="National Geographic.br">
+    <title lang="pt">Filme</title>
+    <category lang="pt">Adults only</category>
+    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
+  </programme>
+  <programme start="20260723210000 -0300" stop="20260723220000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260723220000 -0300" stop="20260723225500 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260723225500 -0300" stop="20260723232500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260723232500 -0300" stop="20260723235000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260723235000 -0300" stop="20260724005000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mulheres da Alemanha Nazista</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista.</desc>
+  </programme>
+  <programme start="20260724005000 -0300" stop="20260724015000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mulheres da Alemanha Nazista</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista.</desc>
+  </programme>
+  <programme start="20260724015000 -0300" stop="20260724024000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260724024000 -0300" stop="20260724032500 -0300" channel="National Geographic.br">
+    <title lang="pt">Cidades Desvendadas com Albert Lin</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.</desc>
+  </programme>
+  <programme start="20260724032500 -0300" stop="20260724041000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.</desc>
+  </programme>
+  <programme start="20260724041000 -0300" stop="20260724045500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260724045500 -0300" stop="20260724053500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260724053500 -0300" stop="20260724060000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
   </programme>
   <programme start="20260724060000 -0300" stop="20260724062000 -0300" channel="National Geographic.br">
     <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
@@ -25298,10 +25662,90 @@
     <category lang="pt">Temporada 1 Episódio 5</category>
     <desc lang="pt">Amadeus retorna e exige o controle de sua ópera; o conflito entre os irmãos ameaça ultrapassar qualquer possibilidade de conciliação; Salieri firma um pacto com Maria Antonieta para sabotar o sucesso de Mozart, sem perceber que está colocando em risco a conexão crescente com Maria Anna.</desc>
   </programme>
-  <programme start="20260724052500 -0300" stop="20260724062500 -0300" channel="Film &amp; Arts HD.br">
+  <programme start="20260724052500 -0300" stop="20260724062000 -0300" channel="Film &amp; Arts HD.br">
     <title lang="pt">Mozart/Mozart</title>
     <category lang="pt">Temporada 1 Episódio 6</category>
     <desc lang="pt">Maria Anna enfrenta um casamento com o barão von Sonnenburg, até que ele a confronta com uma escolha inesperada; Amadeus rejeita a proposta de Maria Antonieta de levá-lo a Versalhes e busca o perdão de Maria Anna.</desc>
+  </programme>
+  <programme start="20260724062000 -0300" stop="20260724071500 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">O Show de Graham Norton</title>
+    <category lang="pt">Temporada 33 Episódio 18</category>
+    <desc lang="pt">Stephen Graham, Kaley Cuoco e Adrian Lester se juntam a Graham em seu sofá. A banda Gorillaz apresenta seu novo single &quot;Orange County&quot;.</desc>
+  </programme>
+  <programme start="20260724071500 -0300" stop="20260724080500 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Film&amp;Arts Desde o West End</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Um olhar sobre a produção da série &quot;Peaky Blinders&quot;.</desc>
+  </programme>
+  <programme start="20260724080500 -0300" stop="20260724095500 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Iolanta e o Quebra-Nozes</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">A Volksoper Wien, sob o comando da nova diretora artística Lotte de Beer e do diretor Omer Meir Wellber, apresenta as duas obras de Tchaikovsky, &quot;O Quebra Nozes&quot; e &quot;Iolanta&quot;, em uma noite, mas não como duas peças separadas, e sim fundindo as duas.</desc>
+  </programme>
+  <programme start="20260724095500 -0300" stop="20260724110000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">A Spy Among Friends</title>
+    <category lang="pt">Temporada 1 Episódio 2 - O Copo do Almirante</category>
+    <desc lang="pt">A investigadora Lily Thomas tenta fazer com que Elliott revele o que sabe sobre Philby. Ela usa truques psicológicos para orientá-lo na direção certa.</desc>
+  </programme>
+  <programme start="20260724110000 -0300" stop="20260724120000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Kim Novak, a Rebelde da Era de Ouro</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O primeiro filme sobre Kim Novak, sua carreira e sua emancipação do sistema hollywoodiano, com a participação exclusiva da própria atriz. Um eco do movimento #MeToo. A heroína de &quot;Um Corpo que Cai&quot;, obra-prima de Alfred Hitchcock.</desc>
+  </programme>
+  <programme start="20260724120000 -0300" stop="20260724130000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Hitchcock - O Homem por Trás do Ídolo</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Descubra mais sobre Hitchcock, o homem por trás do diretor, através dos olhos íntimos, gentis e críticos de sua esposa e colaboradora, Alma.</desc>
+  </programme>
+  <programme start="20260724130000 -0300" stop="20260724140000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">O Show de Graham Norton</title>
+    <category lang="pt">Temporada 33 Episódio 18</category>
+    <desc lang="pt">Stephen Graham, Kaley Cuoco e Adrian Lester se juntam a Graham em seu sofá. A banda Gorillaz apresenta seu novo single &quot;Orange County&quot;.</desc>
+  </programme>
+  <programme start="20260724140000 -0300" stop="20260724150000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Mozart/Mozart</title>
+    <category lang="pt">Temporada 1 Episódio 5</category>
+    <desc lang="pt">Amadeus retorna e exige o controle de sua ópera; o conflito entre os irmãos ameaça ultrapassar qualquer possibilidade de conciliação; Salieri firma um pacto com Maria Antonieta para sabotar o sucesso de Mozart, sem perceber que está colocando em risco a conexão crescente com Maria Anna.</desc>
+  </programme>
+  <programme start="20260724150000 -0300" stop="20260724160000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Mozart/Mozart</title>
+    <category lang="pt">Temporada 1 Episódio 6</category>
+    <desc lang="pt">Maria Anna enfrenta um casamento com o barão von Sonnenburg, até que ele a confronta com uma escolha inesperada; Amadeus rejeita a proposta de Maria Antonieta de levá-lo a Versalhes e busca o perdão de Maria Anna.</desc>
+  </programme>
+  <programme start="20260724160000 -0300" stop="20260724175500 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">A Senhora da Van</title>
+    <category lang="pt">Biography / 2015</category>
+    <desc lang="pt">Alan Bennett simpatiza inesperadamente com uma excêntrica mulher que vive em um carro estacionado na frente de sua casa. À medida que a amizade se fortalece, ele descobre a verdadeira história sobre o passado desta misteriosa senhora.</desc>
+  </programme>
+  <programme start="20260724175500 -0300" stop="20260724210000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">La Monnaie: Puccini: Il Trittico</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Com a sua estética particular e inovadora, revolucionou o panorama musical do seu tempo. Obra apresenta três óperas de Puccini em um só ato, baseada na Divina Comédia de Dante.</desc>
+  </programme>
+  <programme start="20260724210000 -0300" stop="20260724220000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Philharmonia</title>
+    <category lang="pt">Temporada 1 Episódio 5</category>
+    <desc lang="pt">Hélène volta ao palco decidida a lutar contra aqueles que tentam destruir a orquestra - mas percebe que está perto do inimigo.</desc>
+  </programme>
+  <programme start="20260724220000 -0300" stop="20260724235000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">As Aventuras de Brigsby Bear</title>
+    <category lang="pt">Comedy / 2017</category>
+    <desc lang="pt">Após ser liberado dos sequestradores que ele pensou serem seus pais, James se propõe a fazer um filme do único programa de televisão que conheceu em sua vida, cancelado abruptamente.</desc>
+  </programme>
+  <programme start="20260724235000 -0300" stop="20260725015500 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Napoleão</title>
+    <category lang="pt">Biography / 2023</category>
+    <desc lang="pt">As origens do comandante militar Napoleão e sua rápida ascensão. Uma visão por meio do prisma de seu relacionamento, muitas vezes volátil, com a esposa, seu amor verdadeiro, Josefina.</desc>
+  </programme>
+  <programme start="20260725015500 -0300" stop="20260725050000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">La Monnaie: Puccini: Il Trittico</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Com a sua estética particular e inovadora, revolucionou o panorama musical do seu tempo. Obra apresenta três óperas de Puccini em um só ato, baseada na Divina Comédia de Dante.</desc>
+  </programme>
+  <programme start="20260725050000 -0300" stop="20260725060000 -0300" channel="Film &amp; Arts HD.br">
+    <title lang="pt">Philharmonia</title>
+    <category lang="pt">Temporada 1 Episódio 5</category>
+    <desc lang="pt">Hélène volta ao palco decidida a lutar contra aqueles que tentam destruir a orquestra - mas percebe que está perto do inimigo.</desc>
   </programme>
   <programme start="20260723060000 -0300" stop="20260723072700 -0300" channel="Canal Brasil.br">
     <title lang="pt">A Etnografia da Amizade</title>
@@ -27627,6 +28071,74 @@
     <category lang="pt">Romance / 2018</category>
     <desc lang="pt">Christian Grey e sua nova esposa, Anastasia, abraçam completamente sua inseparável ligação, mas eventos terríveis começam a comprometer seu final feliz antes mesmo de começar.</desc>
   </programme>
+  <programme start="20260723045000 -0300" stop="20260723062500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Os Aventureiros - A Origem</title>
+    <category lang="pt">Comedy / 2023</category>
+    <desc lang="pt">Luccas Neto, sua irmã Gi e seus amigos não faziam ideia do que estava por vir. Quando Luccas decide invadir o laboratório do cientista Honório Flacksman, o grupo é sugado para um portal que os leva para outra dimensão, a Cidade da Alegria.</desc>
+  </programme>
+  <programme start="20260723062500 -0300" stop="20260723080500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Tire 5 Cartas</title>
+    <category lang="pt">Comedy / 2023</category>
+    <desc lang="pt">Fátima saiu de São Luís do Maranhão para o Rio de Janeiro com o sonho de ser cantora. À medida que os anos passam, o seu sonho fica cada vez mais distante e ela se vê obrigada a trocar os palcos pelas cartas do tarô.</desc>
+  </programme>
+  <programme start="20260723080500 -0300" stop="20260723095000 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Chama a Bebel</title>
+    <category lang="pt">Adventure / 2024</category>
+    <desc lang="pt">Bebel é uma jovem cadeirante que mora com a mãe e o avô no interior. Para continuar seus estudos, ela acaba se mudando para a cidade grande, onde novas adversidades passam a fazer parte de sua vida, começando com sua tia Marieta. Na escola, seu engajamento nas questões ambientais faz com que rapidamente ela exerça uma certa liderança. No entanto, um poderoso magnata local não gosta nem um pouco desse ativismo a favor do meio ambiente na sua região.</desc>
+  </programme>
+  <programme start="20260723095000 -0300" stop="20260723114000 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Vestido pra Casar</title>
+    <category lang="pt">Comedy / 2014</category>
+    <desc lang="pt">No dia de seu casamento, Fernando rasga sem querer o vestido de alta costura de uma mulher. O problema é que ela está acompanhada pelo amante e precisa, de qualquer jeito, voltar para casa com o vestido impecável. A confusão envolve a noiva, o sogro, a ex-mulher, o primo, um estilista, uma socialite deslumbrada, policias, seguranças, além de um senador ciumento com sua mulher infiel.</desc>
+  </programme>
+  <programme start="20260723114000 -0300" stop="20260723133500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Ela É o Cara</title>
+    <category lang="pt">Romantic comedy / 2006</category>
+    <desc lang="pt">Quando o time feminino é extinto, a talentosa jogadora Viola se disfarça como seu irmão gêmeo para continuar jogando em outra escola. O plano funciona até que sentimentos inesperados surgem entre ela e os amigos do irmão, complicando seu disfarce.</desc>
+  </programme>
+  <programme start="20260723133500 -0300" stop="20260723151500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Pluft, o Fantasminha</title>
+    <category lang="pt">Children / 2022</category>
+    <desc lang="pt">Pluft é um fantasminha diferente: ele morre de medo de pessoas. No entanto, sua vida tem uma reviravolta com a chegada de Maribel, uma menina sequestrada pelo temido pirata Perna de Pau, e os dois fazem uma grande amizade na luta contra o vilão.</desc>
+  </programme>
+  <programme start="20260723151500 -0300" stop="20260723165000 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Corgi - Top Dog</title>
+    <category lang="pt">Children / 2019</category>
+    <desc lang="pt">Rex, o cão favorito da rainha da Inglaterra, se perde e precisa fazer novos amigos e viver altas aventuras para voltar ao palácio.</desc>
+  </programme>
+  <programme start="20260723165000 -0300" stop="20260723182500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">As Férias de Mr. Bean</title>
+    <category lang="pt">Comedy / 2007</category>
+    <desc lang="pt">Quando o clima úmido de Londres fica insuportável, Mr. Bean decide ir para a Riviera Francesa e divertir-se ao sol. Como sempre, seus planos não acontecem do jeito que queria. Ele é confundido duas vezes: com um sequestrador e com um renomado cineasta quando chega com o filho de um diretor e uma atriz principiante. Mr. Bean acaba no Festival de Cinema de Cannes.</desc>
+  </programme>
+  <programme start="20260723182500 -0300" stop="20260723200500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Pets em Ação!</title>
+    <category lang="pt">Children / 2024</category>
+    <desc lang="pt">A cadela de raça pura Gracie e o gato resgatado Pedro não têm nada em comum, mas devem contar um com o outro quando se separam da família durante uma grande mudança.</desc>
+  </programme>
+  <programme start="20260723200500 -0300" stop="20260723220000 -0300" channel="Telecine Fun.br">
+    <title lang="pt">De Volta para o Futuro II</title>
+    <category lang="pt">Comedy / 1989</category>
+    <desc lang="pt">Marty McFly e o cientista &quot;Doc&quot; Brown viajam de 1985 a 2015 para evitar que o filho de Marty estrague o futuro da família McFly. Porém, seu arqui-inimigo Biff Tannen rouba a máquina do tempo de Doc, o DeLorean, e a usa para alterar a história em seu benefício, forçando a dupla a retornar a 1955 para restaurar a linha do tempo.</desc>
+  </programme>
+  <programme start="20260723220000 -0300" stop="20260723235500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Nanny McPhee e as Lições Mágicas</title>
+    <category lang="pt">Children / 2010</category>
+    <desc lang="pt">A enigmática Nanny McPhee aparece na porta de uma mãe aflita, Isabel Green, que tenta criar os filhos e cuidar da fazenda enquanto o marido está na guerra. Isabel está atarefada não apenas com seus três filhos, mas também com os da irmã. Sem tempo a perder, Nanny usa mágica para ensinar cinco importantes lições às crianças.</desc>
+  </programme>
+  <programme start="20260723235500 -0300" stop="20260724013500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Loucas em Apuros</title>
+    <category lang="pt">Comedy / 2023</category>
+    <desc lang="pt">Quatro amigas embarcam em jornada épica cheia de libertinagem selvagem, que revela a verdade universal do que significa conhecer e amar quem você é.</desc>
+  </programme>
+  <programme start="20260724013500 -0300" stop="20260724031000 -0300" channel="Telecine Fun.br">
+    <title lang="pt">O Mentiroso</title>
+    <desc lang="pt">O inescrupuloso advogado de Los Angeles, Fletcher Reede, ama o filho Max. Porém, sua incapacidade de manter promessas e as mentiras compulsivas que conta causam problemas entre os dois e a ex-mulher, Audrey. Cansado das mentiras do pai, Max faz um desejo antes de soprar as velinhas do seu bolo de aniversário: ele quer que o pai só diga a verdade nas próximas 24 horas. O pedido de Max se torna realidade e o mundo de Fletcher começa a se transformar em um completo caos.</desc>
+  </programme>
+  <programme start="20260724031000 -0300" stop="20260724045500 -0300" channel="Telecine Fun.br">
+    <title lang="pt">Não se Preocupe, Nada Vai Dar Certo!</title>
+    <desc lang="pt">Ramon e Lalau, pai e filho, vivem de comédia e trambiques. Lalau aceita uma proposta milionária para se passar por um guru famoso em palestra motivacional. Quando algo dá errado, ele precisa da ajuda do pai, sempre acreditando que tudo terminará bem.</desc>
+  </programme>
   <programme start="20260724045500 -0300" stop="20260724064500 -0300" channel="Telecine Fun.br">
     <title lang="pt">De Pernas pro Ar 2</title>
     <category lang="pt">Comedy / 2012</category>
@@ -28700,6 +29212,74 @@
   <programme start="20260725040500 -0300" stop="20260725050500 -0300" channel="HBO Pop.br">
     <title lang="pt">A Agenda Secreta do Meu Namorado</title>
     <desc lang="pt">Stacey trabalha na produção de um programa diurno de TV apresentado por Kippie Kann. Stacey está chateada com seu namorado Derek porque ele não quer falar sobre seus relacionamentos passados. Com o encorajamento de sua colega de trabalho Barb, ela rouba o telefone de Derek e consegue entrevistar suas ex-namoradas com o pretexto de que elas irão aparecer no show. Porém, as coisas se complicam quando Stacey fica amiga de uma delas.</desc>
+  </programme>
+  <programme start="20260723060000 -0300" stop="20260723075000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">A Sombra do Comandante</title>
+    <category lang="pt">Documentary / 2024</category>
+    <desc lang="pt">Hans Jurgen Höss, filho de Rudolf Höss, de 87 anos, enfrenta o terrível legado de seu pai ao conhecer a sobrevivente de Auschwitz, Anita Lasker-Wallfisch. Hans teve uma infância feliz enquanto Anita tentava sobreviver no campo de concentração.</desc>
+  </programme>
+  <programme start="20260723075000 -0300" stop="20260723094000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">O Pranto do Mal</title>
+    <category lang="pt">Horror / 2024</category>
+    <desc lang="pt">Um grupo de jovens ressuscita sem querer um mal aparentemente invisível. Unidos pelo medo e pela curiosidade, eles precisam encontrar uma forma de detê-lo antes que seja tarde demais.</desc>
+  </programme>
+  <programme start="20260723094000 -0300" stop="20260723113000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">A Menina do Mar</title>
+    <category lang="pt">Drama / 2023</category>
+    <desc lang="pt">O prefeito de uma vila em uma pequena ilha descobre uma criança com poderes. A pacífica comunidade da ilha se vê dividida e atormentada pela ideia de que a criança pode ser o Salvador.</desc>
+  </programme>
+  <programme start="20260723113000 -0300" stop="20260723133000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Saneamento Básico, o Filme</title>
+    <category lang="pt">Comedy / 2007</category>
+    <desc lang="pt">Uma pequena comunidade de descendentes de imigrantes italianos do interior do estado do Rio Grande do Sul recorre a um vídeo caseiro para tentar resolver os problemas básicos de saneamento que afetam seu povo.</desc>
+  </programme>
+  <programme start="20260723133000 -0300" stop="20260723153000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Sangue pela Glória</title>
+    <category lang="pt">Biography / 2016</category>
+    <desc lang="pt">A inspiradora história do campeão mundial de boxe, Vinny Pazienza, que após um grave acidente automobilístico, não sabia se voltaria a andar e tenta realizar um dos retornos mais incríveis do mundo do esporte.</desc>
+  </programme>
+  <programme start="20260723153000 -0300" stop="20260723173000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Caminhos da Memória</title>
+    <category lang="pt">Science fiction / 2021</category>
+    <desc lang="pt">Em um mundo em crise, as pessoas se voltam para uma tecnologia capaz de reviver memórias antigas. Um dia, Nick Bannister, um investigador particular da mente, se depara com uma cliente que desperta lembranças que o fascinam e intrigam. Desesperado e em busca de respostas, Nick mergulha em uma trama de mistérios e segredos.</desc>
+  </programme>
+  <programme start="20260723173000 -0300" stop="20260723185200 -0300" channel="HBO Mundi.br">
+    <title lang="pt">1978</title>
+    <desc lang="pt">Torturadores da ditadura interrogam prisioneiros durante a final da Copa do Mundo de 1978, mas descobrem que suas vítimas são membros de um culto. O centro de tortura rapidamente se transforma em palco para horrores sobrenaturais incontroláveis.</desc>
+  </programme>
+  <programme start="20260723185200 -0300" stop="20260723192500 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Funk.doc</title>
+    <category lang="pt">Temporada 1 Episódio 5 - O Funk Paulista</category>
+    <desc lang="pt">Desde um MC que chegou a passar fome e tem uma carreira de sucesso até um menino que sonhava em dirigir clipes e criou um dos maiores canais do YouTube no mundo, saiba como o funk paulista muda realidades.</desc>
+  </programme>
+  <programme start="20260723192500 -0300" stop="20260723195700 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Funk.doc</title>
+    <category lang="pt">Temporada 1 Episódio 6 - O Funk Ganha o Mundo</category>
+    <desc lang="pt">O funk não pertence mais só à favela, ao Rio de Janeiro ou ao Brasil: ele é um patrimônio mundial. Assim como tantos gêneros que superaram o seu lugar de origem, o funk é celebrado em todo o mundo por grandes nomes da música internacional.</desc>
+  </programme>
+  <programme start="20260723195700 -0300" stop="20260723220000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Blade Runner: O Caçador de Androides - Versão Final do Diretor</title>
+    <category lang="pt">Science fiction / 1982</category>
+    <desc lang="pt">No século XXI, uma corporação desenvolve clones humanos para serem usados como escravos em colônias fora da Terra, identificados como replicantes. Em 2019, um ex-policial é acionado para caçar um grupo fugitivo vivendo disfarçado em Los Angeles.</desc>
+  </programme>
+  <programme start="20260723220000 -0300" stop="20260724000000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Extermínio</title>
+    <category lang="pt">Horror / 2002</category>
+    <desc lang="pt">Uma praga transforma a maioria da humanidade em zumbis sedentos de sangue. Um grupo ainda não afetado se prepara para a mais perigosa jornada de suas vidas: tentar chegar a uma fortaleza militar em Manchester.</desc>
+  </programme>
+  <programme start="20260724000000 -0300" stop="20260724021000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Lobo</title>
+    <desc lang="pt">Editor de livros é mordido por um lobo na zona rural de Vermont. Já um senhor, ele de repente se sente jovem e cheio de vida depois do estranho incidente e precisa se controlar para não ser dominado pelo novo instinto animal.</desc>
+  </programme>
+  <programme start="20260724021000 -0300" stop="20260724035000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Anátema</title>
+    <category lang="pt">Horror / 2024</category>
+    <desc lang="pt">Uma jovem freira, Juana Rabadán, recebe a missão de visitar as catacumbas de uma das igrejas mais antigas de Madri e encontrar o Selo de São Simeão. Juana desce ao subterrâneo para confrontar não apenas o sobrenatural, mas também o seu passado.</desc>
+  </programme>
+  <programme start="20260724035000 -0300" stop="20260724060000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Anônimo</title>
+    <category lang="pt">Historical drama / 2011</category>
+    <desc lang="pt">Cultuado como um dos maiores dramaturgos da Era Elisabetana, a vida de William Shakespeare tem sido objeto de estudos de acadêmicos há anos. Uma popular teoria especula que as peças teatrais atribuídas ao dramaturgo não foram escritas por ele.</desc>
   </programme>
   <programme start="20260724060000 -0300" stop="20260724075500 -0300" channel="HBO Mundi.br">
     <title lang="pt">Sempre em Frente</title>
@@ -32084,7 +32664,19 @@
     <category lang="pt">Campeonato Brasileiro</category>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
-  <programme start="20260723220000 -0300" stop="20260723230000 -0300" channel="Premiere 2.br">
+  <programme start="20260723220000 -0300" stop="20260724060000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260724060000 -0300" stop="20260724140000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260724140000 -0300" stop="20260724220000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260724220000 -0300" stop="20260724230000 -0300" channel="Premiere 2.br">
     <title lang="pt">Premiere 2</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
@@ -32134,6 +32726,18 @@
   </programme>
   <programme start="20260724220000 -0300" stop="20260724230000 -0300" channel="Premiere 4.br">
     <title lang="pt">Premiere 4</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260723060000 -0300" stop="20260723140000 -0300" channel="Premiere 5 Brazil.br">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260723140000 -0300" stop="20260723220000 -0300" channel="Premiere 5 Brazil.br">
+    <title lang="pt">Premiere 5</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260723220000 -0300" stop="20260724060000 -0300" channel="Premiere 5 Brazil.br">
+    <title lang="pt">Premiere 5</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
   <programme start="20260724060000 -0300" stop="20260724140000 -0300" channel="Premiere 5 Brazil.br">
@@ -34761,10 +35365,6 @@
   <programme start="20260723220000 -0300" stop="20260723230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260723143000 -0300" stop="20260723163000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - Gotham FC x Seattle Reign</title>
-    <category lang="pt">Esporte/Futebol Feminino</category>
-  </programme>
   <programme start="20260723163000 -0300" stop="20260723190000 -0300" channel="ESPN 3.br">
     <title lang="pt">VT - ESPN Knockout: Bryan Flores x Jonathan Navarro</title>
     <category lang="pt">Esporte/Boxe</category>
@@ -35828,10 +36428,6 @@
   <programme start="20260806230000 -0300" stop="20260807000000 -0300" channel="ESPN 3.br">
     <title lang="pt">Sportscenter Americano - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20260723140000 -0300" stop="20260723155000 -0300" channel="Combate.br">
-    <title lang="pt">Finais - Qingdao, China</title>
-    <category lang="pt">Esporte/Luta</category>
   </programme>
   <programme start="20260723155000 -0300" stop="20260723182500 -0300" channel="Combate.br">
     <title lang="pt">One Figth Night 45</title>
