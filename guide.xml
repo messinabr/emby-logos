@@ -77,7 +77,6 @@
   <channel id="Telecine Cult.br"><display-name>Telecine Cult</display-name></channel>
   <channel id="HBO.br"><display-name>HBO</display-name></channel>
   <channel id="HBO2.br"><display-name>HBO 2</display-name></channel>
-  <channel id="HBO Plus HD.br"><display-name>HBO Plus</display-name></channel>
   <channel id="HBO Family HD.br"><display-name>HBO Family</display-name></channel>
   <channel id="HBO Signature.br"><display-name>HBO Signature</display-name></channel>
   <channel id="HBO Pop.br"><display-name>HBO Pop</display-name></channel>
@@ -109,6 +108,7 @@
   <channel id="ESPN 5.br"><display-name>ESPN 5</display-name></channel>
   <channel id="FRANCE 24 HD.br"><display-name>France 24</display-name></channel>
   <channel id="LIKE.br"><display-name>LIKE</display-name></channel>
+  <channel id="HBO Plus HD.br"><display-name>HBO Plus</display-name></channel>
   <channel id="ESPN 3.br"><display-name>ESPN 3</display-name></channel>
   <channel id="Combate.br"><display-name>Combat</display-name></channel>
   <programme start="20260723060000 -0300" stop="20260723083000 -0300" channel="Globo São Paulo HD.br">
@@ -28719,151 +28719,6 @@
     <title lang="pt">Premonição 6 - Laços de Sangue</title>
     <category lang="pt">Horror / 2025</category>
     <desc lang="pt">Atormentada por um pesadelo violento e recorrente, uma estudante universitária volta para casa em busca da única pessoa que pode ser capaz de quebrar o ciclo de morte e salvar sua família do terrível destino que inevitavelmente os aguarda.</desc>
-  </programme>
-  <programme start="20260723054700 -0300" stop="20260723065500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Sepultado Vivo</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Cinco amigos de colégio são sequestrados por um estranho mascarado que os enterra em cinco lugares conectados. Quando um deles morre, os outros têm pouco tempo para descobrir as razões de seu fim e escapar do pesadelo.</desc>
-  </programme>
-  <programme start="20260723065500 -0300" stop="20260723083700 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723083700 -0300" stop="20260723100700 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723100700 -0300" stop="20260723115700 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723115700 -0300" stop="20260723132900 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723132900 -0300" stop="20260723145500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723145500 -0300" stop="20260723171500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723171500 -0300" stop="20260723184300 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723184300 -0300" stop="20260723203000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723203000 -0300" stop="20260723220000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723220000 -0300" stop="20260723235500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260723235500 -0300" stop="20260724012400 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724012400 -0300" stop="20260724024900 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724024900 -0300" stop="20260724050200 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724050200 -0300" stop="20260724060500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">T.J. Miller - Meticulosamente Ridículo</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">O comediante T.J. Miller, astro de Silicon Valley, mostra sua perspectiva de vida por meio de um estilo de comédia bastante particular.</desc>
-  </programme>
-  <programme start="20260724060500 -0300" stop="20260724080000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724080000 -0300" stop="20260724093000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724093000 -0300" stop="20260724110700 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724110700 -0300" stop="20260724125500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724125500 -0300" stop="20260724144200 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724144200 -0300" stop="20260724162500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724162500 -0300" stop="20260724175500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724175500 -0300" stop="20260724202500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724202500 -0300" stop="20260724220000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724220000 -0300" stop="20260724234700 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260724234700 -0300" stop="20260725013400 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260725013400 -0300" stop="20260725031600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260725031600 -0300" stop="20260725050300 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Filme</title>
-    <category lang="pt">Adults only</category>
-    <desc lang="pt">As melhores produções de conteúdo adulto.</desc>
-  </programme>
-  <programme start="20260725050300 -0300" stop="20260725060300 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">T.J. Miller - Meticulosamente Ridículo</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">O comediante T.J. Miller, astro de Silicon Valley, mostra sua perspectiva de vida por meio de um estilo de comédia bastante particular.</desc>
   </programme>
   <programme start="20260723060000 -0300" stop="20260723073100 -0300" channel="HBO Family HD.br">
     <title lang="pt">As Múmias e o Anel Perdido</title>
