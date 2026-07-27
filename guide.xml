@@ -2413,7 +2413,7 @@
   <programme start="20260727063000 -0300" stop="20260727070000 -0300" channel="Futura.br">
     <title lang="pt">Manual de Sobrevivência para o Século 21</title>
     <category lang="pt">Entertainment</category>
-    <desc lang="pt">Corais no mundo todo estão sendo devastados pelo aquecimento dos mares. Iniciativas científicas e comunitárias são dedicadas à proteção destes ambientes marinhos vulneráveis.</desc>
+    <desc lang="pt">O plástico está por toda parte, até mesmo nos corpos humanos. Marcos se une a projetos de limpeza e a catadores para enfrentarem a onda de plástico que ameaça o planeta.</desc>
   </programme>
   <programme start="20260727070000 -0300" stop="20260727070500 -0300" channel="Futura.br">
     <title lang="pt">O Dia em que me Tornei Mais Forte</title>
@@ -2513,7 +2513,7 @@
   <programme start="20260727100000 -0300" stop="20260727102000 -0300" channel="Futura.br">
     <title lang="pt">Tem Clima pra Isso?</title>
     <category lang="pt">Environment</category>
-    <desc lang="pt">Como o planejamento urbano pode conter a crise climática com transporte, saneamento e políticas para cidades mais justas.</desc>
+    <desc lang="pt">O intelectual e filósofo Nego Bispo mostra vasto legado de como reinterpretar o meio ambiente.</desc>
   </programme>
   <programme start="20260727102000 -0300" stop="20260727103500 -0300" channel="Futura.br">
     <title lang="pt">Planeta Menos 1 Lixo</title>
@@ -2683,7 +2683,7 @@
   <programme start="20260728020000 -0300" stop="20260728021500 -0300" channel="Futura.br">
     <title lang="pt">Entrevista - Infâncias</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">A socióloga Tatiana Amêndola conta como é apresentar um podcast ao lado de sua filha de sete anos. Seu programa visa desenvolver o senso crítico e ampliar a compreensão de mundo desde a infância.</desc>
+    <desc lang="pt">Flávia Tereza da Silva, pedagoga e educadora no MST, explica como é a infância nos acampamentos e assentamentos de um dos maiores movimentos sociais do Brasil.</desc>
   </programme>
   <programme start="20260728021500 -0300" stop="20260728024500 -0300" channel="Futura.br">
     <title lang="pt">A(u)tores</title>
@@ -2723,7 +2723,7 @@
   <programme start="20260728051500 -0300" stop="20260728053500 -0300" channel="Futura.br">
     <title lang="pt">Entrevista - Artes 22</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">A curadora e educadora indígena Sandra Benites conversa com José Bessa Freire, professor da Unirio e da UERJ, sobre a atualidade dos idiomas indígenas no Brasil.</desc>
+    <desc lang="pt">A curadora e educadora indígena Sandra Benites conversa com a psicanalista e professora da USP Suely Rolnik sobre os processos de colonização do inconsciente e a reprodução dos modos de opressão.</desc>
   </programme>
   <programme start="20260728053500 -0300" stop="20260728054000 -0300" channel="Futura.br">
     <title lang="pt">Bicos</title>
@@ -10394,7 +10394,177 @@
     <category lang="pt">Reality</category>
     <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
   </programme>
-  <programme start="20260728053500 -0300" stop="20260728063500 -0300" channel="National Geographic.br">
+  <programme start="20260728053500 -0300" stop="20260728060000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260728060000 -0300" stop="20260728062000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260728062000 -0300" stop="20260728064000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260728064000 -0300" stop="20260728070000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260728070000 -0300" stop="20260728072500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260728072500 -0300" stop="20260728075000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260728075000 -0300" stop="20260728081500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260728081500 -0300" stop="20260728084000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260728084000 -0300" stop="20260728091000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260728091000 -0300" stop="20260728093500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260728093500 -0300" stop="20260728100000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260728100000 -0300" stop="20260728110000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260728110000 -0300" stop="20260728115500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260728115500 -0300" stop="20260728124500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260728124500 -0300" stop="20260728134000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivendo no Alasca</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Pessoas que recentemente deixaram seu estilo de vida para trás encaram uma nova realidade no Alasca.</desc>
+  </programme>
+  <programme start="20260728134000 -0300" stop="20260728143500 -0300" channel="National Geographic.br">
+    <title lang="pt">Celebridades à Prova de Tudo - O Desafio</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Bear Grylls eleva o nível ao ensinar a seus convidados habilidades essenciais de sobrevivência que eles têm que dominar e depois provar que podem usar em uma situação de alto estresse.</desc>
+  </programme>
+  <programme start="20260728143500 -0300" stop="20260728153000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.</desc>
+  </programme>
+  <programme start="20260728153000 -0300" stop="20260728161500 -0300" channel="National Geographic.br">
+    <title lang="pt">Africa's Deadliest</title>
+    <category lang="pt">Animals</category>
+    <desc lang="pt">A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação.</desc>
+  </programme>
+  <programme start="20260728161500 -0300" stop="20260728172000 -0300" channel="National Geographic.br">
+    <title lang="pt">SOS Cobra</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas.</desc>
+  </programme>
+  <programme start="20260728172000 -0300" stop="20260728181500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260728181500 -0300" stop="20260728184500 -0300" channel="National Geographic.br">
+    <title lang="pt">Livres no Rio de Janeiro</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acompanhe os voluntários do Instituto Vida Livre enquanto trabalham no Livres no Rio de Janeiro. Desde 2015, eles reabilitam e liberam animais que foram vítimas do comércio brasileiro de animais silvestres.</desc>
+  </programme>
+  <programme start="20260728184500 -0300" stop="20260728191000 -0300" channel="National Geographic.br">
+    <title lang="pt">Livres no Rio de Janeiro</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acompanhe os voluntários do Instituto Vida Livre enquanto trabalham no Livres no Rio de Janeiro. Desde 2015, eles reabilitam e liberam animais que foram vítimas do comércio brasileiro de animais silvestres.</desc>
+  </programme>
+  <programme start="20260728191000 -0300" stop="20260728201500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Colômbia</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Acompanhe a polícia aeroportuária em sua luta contra o tráfico de drogas.</desc>
+  </programme>
+  <programme start="20260728201500 -0300" stop="20260728210000 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Colômbia</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Acompanhe a polícia aeroportuária em sua luta contra o tráfico de drogas.</desc>
+  </programme>
+  <programme start="20260728210000 -0300" stop="20260728220000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Anunciar</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Programação a ser anunciada.</desc>
+  </programme>
+  <programme start="20260728220000 -0300" stop="20260728225500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Anunciar</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Programação a ser anunciada.</desc>
+  </programme>
+  <programme start="20260728225500 -0300" stop="20260728235000 -0300" channel="National Geographic.br">
+    <title lang="pt">Tesouros Perdidos de Roma</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Uma equipe internacional de arqueólogos enfrenta o fascinante desafio de trazer à luz os segredos perdidos do Império Romano.</desc>
+  </programme>
+  <programme start="20260728235000 -0300" stop="20260729005000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260729005000 -0300" stop="20260729015000 -0300" channel="National Geographic.br">
+    <title lang="pt">Celebridades à Prova de Tudo - O Desafio</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Bear Grylls eleva o nível ao ensinar a seus convidados habilidades essenciais de sobrevivência que eles têm que dominar e depois provar que podem usar em uma situação de alto estresse.</desc>
+  </programme>
+  <programme start="20260729015000 -0300" stop="20260729024000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260729024000 -0300" stop="20260729032500 -0300" channel="National Geographic.br">
+    <title lang="pt">Cidades Desvendadas com Albert Lin</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.</desc>
+  </programme>
+  <programme start="20260729032500 -0300" stop="20260729041000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel - Rio Mekong</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Hazen Audel começa uma aventura de sobrevivência épica no alto das montanhas do Laos.</desc>
+  </programme>
+  <programme start="20260729041000 -0300" stop="20260729045500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Peru</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.</desc>
+  </programme>
+  <programme start="20260729045500 -0300" stop="20260729053500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Peru</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.</desc>
+  </programme>
+  <programme start="20260729053500 -0300" stop="20260729063500 -0300" channel="National Geographic.br">
     <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
     <category lang="pt">Documentary</category>
     <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
@@ -12737,32 +12907,32 @@
   <programme start="20260727072000 -0300" stop="20260727072300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727072300 -0300" stop="20260727072600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727072600 -0300" stop="20260727073000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727073000 -0300" stop="20260727073600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727073600 -0300" stop="20260727074200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727074200 -0300" stop="20260727075000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727075000 -0300" stop="20260727080000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -12777,7 +12947,7 @@
   <programme start="20260727081000 -0300" stop="20260727083000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Vera e o Reino do Arco-Íris</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">É o Festival das Segurárvores no reino, mas Gloomy Glooma não quer que o outono chegue.</desc>
+    <desc lang="pt">Vera e Bartleby viajam para o outro lado do Arco-Íris sem Fim para trazer de volta um corajoso explorador, que é o melhor amigo do Rei Arco-Íris.</desc>
   </programme>
   <programme start="20260727083000 -0300" stop="20260727084000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Pequeno Príncipe e Seus Amigos</title>
@@ -12862,17 +13032,17 @@
   <programme start="20260727103000 -0300" stop="20260727103300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727103300 -0300" stop="20260727103600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727103600 -0300" stop="20260727104000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727104000 -0300" stop="20260727104600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
@@ -12952,17 +13122,17 @@
   <programme start="20260727122000 -0300" stop="20260727122600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727122600 -0300" stop="20260727123200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727123200 -0300" stop="20260727124000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727124000 -0300" stop="20260727125000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -13017,7 +13187,7 @@
   <programme start="20260727140000 -0300" stop="20260727142000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Vera e o Reino do Arco-Íris</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">É o Festival das Segurárvores no reino, mas Gloomy Glooma não quer que o outono chegue.</desc>
+    <desc lang="pt">Vera e Bartleby viajam para o outro lado do Arco-Íris sem Fim para trazer de volta um corajoso explorador, que é o melhor amigo do Rei Arco-Íris.</desc>
   </programme>
   <programme start="20260727142000 -0300" stop="20260727143000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Vovó Tatá</title>
@@ -13137,17 +13307,17 @@
   <programme start="20260727173000 -0300" stop="20260727173300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727173300 -0300" stop="20260727173600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727173600 -0300" stop="20260727174000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260727174000 -0300" stop="20260727175000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Milo</title>
@@ -13372,17 +13542,17 @@
   <programme start="20260727230000 -0300" stop="20260727230600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727230600 -0300" stop="20260727231200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727231200 -0300" stop="20260727232000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A aventura da vez é cheia de ciência, uma vez que a turminha passa por um projeto de Hugo para chegar ao trevinho que Bob Zoom viu. Porém, quando Zig e Zag se empolgam com os experimentos, eles acabam atrapalhando toda a aventura.</desc>
+    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
   </programme>
   <programme start="20260727232000 -0300" stop="20260727232600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
@@ -13472,17 +13642,17 @@
   <programme start="20260728014000 -0300" stop="20260728014300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260728014300 -0300" stop="20260728014600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260728014600 -0300" stop="20260728015000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260728015000 -0300" stop="20260728020000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Senninha na Pista Maluca</title>
@@ -13527,7 +13697,7 @@
   <programme start="20260728025000 -0300" stop="20260728031000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Vera e o Reino do Arco-Íris</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">É o Festival das Segurárvores no reino, mas Gloomy Glooma não quer que o outono chegue.</desc>
+    <desc lang="pt">Vera e Bartleby viajam para o outro lado do Arco-Íris sem Fim para trazer de volta um corajoso explorador, que é o melhor amigo do Rei Arco-Íris.</desc>
   </programme>
   <programme start="20260728031000 -0300" stop="20260728032000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Milo</title>
@@ -13602,17 +13772,17 @@
   <programme start="20260728044000 -0300" stop="20260728044300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260728044300 -0300" stop="20260728044600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260728044600 -0300" stop="20260728045000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cante e brinque com o cachorro Bingo nesta clássica canção.</desc>
+    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
   </programme>
   <programme start="20260728045000 -0300" stop="20260728050000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Vovó Tatá</title>
@@ -15204,7 +15374,547 @@
     <category lang="pt">Children</category>
     <desc lang="pt">Ted cai em um cesto de roupa suja e a equipe acredita que uma mosca queira dar um banho nele. Os agentes tentam distrair a humana maior para salvar o ratinho de um destino ensaboado.</desc>
   </programme>
-  <programme start="20260728054800 -0300" stop="20260728064800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260728054800 -0300" stop="20260728060000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Ted cai em um cesto de roupa suja e a equipe acredita que uma mosca queira dar um banho nele. Os agentes tentam distrair a humana maior para salvar o ratinho de um destino ensaboado.</desc>
+  </programme>
+  <programme start="20260728060000 -0300" stop="20260728062600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Peppa, George, Mamãe, Papai e Suzy vão visitar uma terra bem pequenininha; o Avô mostra a Peppa e George sua grande coleção de selos; a família de Peppa está no Digger World; Mamãe Pig tenta fazer que o novo chapéu de George não fique cheio de lama; George é convidado para o aniversário de Richard Coelho.</desc>
+  </programme>
+  <programme start="20260728062600 -0300" stop="20260728064900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Pedro começa a tossir na escola, e as outras crianças logo pegam a tosse; Richard vem brincar com George e Suzy vem para brincar com Peppa; A Gazela leva Peppa e seus amigos para andar de trem.</desc>
+  </programme>
+  <programme start="20260728064900 -0300" stop="20260728070000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mundo do Barney</title>
+    <category lang="pt">Temporada 1 Episódio 39 - Dia das Mães É Todo Dia</category>
+    <desc lang="pt">David e Liam querem fazer algo especial para sua mãe no Dia das Mães. Barney os ajuda a descobrir como observar o que os outros precisam e como cuidar de sua irmãzinha para que sua mãe possa realmente relaxar é o melhor presente de todos.</desc>
+  </programme>
+  <programme start="20260728070000 -0300" stop="20260728071100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+    <category lang="pt">Temporada 1 Episódio 23 - Gor-don, o Fantasma</category>
+    <desc lang="pt">Um encrenqueiro invisível faz bagunça em Peak City. Hank acha que é um fantasma, mas Ben insiste numa explicação lógica.</desc>
+  </programme>
+  <programme start="20260728071100 -0300" stop="20260728072300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">44 Gatos</title>
+    <category lang="pt">Temporada 1 Episódio 16 - A Técnica Secreta do Almôndega</category>
+    <desc lang="pt">A Vovó Pina perde seu precioso medalhão da sorte perto do rio e os gatos correm para encontrá-lo.</desc>
+  </programme>
+  <programme start="20260728072300 -0300" stop="20260728074700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+    <category lang="pt">Temporada 1 Episódio 7 - 5 no Oceano</category>
+    <desc lang="pt">As Mermicornos tentam recuperar um artefato enquanto Kameko dúvida de si.</desc>
+  </programme>
+  <programme start="20260728074700 -0300" stop="20260728080900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+    <category lang="pt">Temporada 1 Episódio 8 - Falha Épica</category>
+    <desc lang="pt">O talismã de Astra falha e coloca Squishella e Gwen em apuros.</desc>
+  </programme>
+  <programme start="20260728080900 -0300" stop="20260728082000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 10 Episódio 1 - Confusão no Museu</category>
+    <desc lang="pt">Kitty cobre o turno de PI no museu para que ele possa curtir seu novo passatempo: levantamento de pesos. Sem querer, ela acaba acordando uma estátua poderosa.</desc>
+  </programme>
+  <programme start="20260728082000 -0300" stop="20260728083100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 11 Episódio 2 - Um Toque da Frido</category>
+    <desc lang="pt">Frida não consegue pintar um quadro que expresse quem ela é, e Kitty a ajuda a descobrir seu eu.</desc>
+  </programme>
+  <programme start="20260728083100 -0300" stop="20260728085400 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Lego Friends - O Próximo Capítulo</title>
+    <category lang="pt">Temporada 2 Episódio 9 - Paixão Secreta</category>
+    <desc lang="pt">Todo mundo dá conselhos para Zac conquistar Sky, pois ele não consegue agir normalmente perto dela; Ley-La é convidada para uma próxima competição, a Batalha das Estrelas; Olly tenta contar a Paisley, mas ela o evita.</desc>
+  </programme>
+  <programme start="20260728085400 -0300" stop="20260728091600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">A Magia das Sereias</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Canto dos Piratas</category>
+    <desc lang="pt">Nerissa e Sasha procuram Merlinda em terra firme. No entanto, sem poder usar seu bracelete comunicador, a princesa precisa confiar em seus novos amigos humanos.</desc>
+  </programme>
+  <programme start="20260728091600 -0300" stop="20260728093900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Barbie - Um Toque de Mágica</title>
+    <category lang="pt">Temporada 1 Episódio 12 - Cuidado com o que Você Deseja</category>
+    <desc lang="pt">Ainda presos na ilha, Will, Lagarto Mago enfeitiça Ken, &quot;Brooklyn&quot;, Skipper e Trey para ver os seus sonhos; Rocki e 'Malibu' procuram por Will.</desc>
+  </programme>
+  <programme start="20260728093900 -0300" stop="20260728095000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260728095000 -0300" stop="20260728100400 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260728100400 -0300" stop="20260728101600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Franjinha e Milena em Busca da Ciência</title>
+    <category lang="pt">Temporada 1 Episódio 1 - De Volta para o Escuro</category>
+    <desc lang="pt">Por meio de Bidu, Milena conhece Franjinha, e juntos confeccionam uma lanterna com a energia gerada ao pedalar uma bicicleta. Milena desafia Franjinha a provar que viajar no tempo é possível.</desc>
+  </programme>
+  <programme start="20260728101600 -0300" stop="20260728102600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Franjinha e Milena em Busca da Ciência</title>
+    <category lang="pt">Temporada 1 Episódio 2 - O Fim da Picada</category>
+    <desc lang="pt">Franjinha fica com medo por causa de umas abelhas que invadiram o laboratório. Milena descobre que, na verdade, elas são inofensivas e juntas criam um lindo jardim para transportá-las do laboratório para o quintal.</desc>
+  </programme>
+  <programme start="20260728102600 -0300" stop="20260728105000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Três Espiãs Demais</title>
+    <category lang="pt">Temporada 7 Episódio 19 - Felizes para Sempre</category>
+    <desc lang="pt">Zerlina convoca as Espiãs para uma missão romântica: impedir que casais sejam transformados em pedra. Então, Sam e Toby se disfarçam de noivos, mas arriscam-se a sofrer do mesmo destino.</desc>
+  </programme>
+  <programme start="20260728105000 -0300" stop="20260728111200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Três Espiãs Demais</title>
+    <category lang="pt">Temporada 7 Episódio 21 - O Mundo de Mandy</category>
+    <desc lang="pt">Sam e Estrela fazem uma aula extra e ficam surpresas ao serem sugadas para uma aula digital da Mandy. Clover e Alex devem resgatá-las antes que fiquem presas para sempre no mundo da Mandy.</desc>
+  </programme>
+  <programme start="20260728111200 -0300" stop="20260728113700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Três Espiãs Demais</title>
+    <category lang="pt">Temporada 7 Episódio 23 - Problema com Estrela</category>
+    <desc lang="pt">Um novo vilão aparece na cidade, mas ele não está atrás das Espiãs, e sim de Estrela, acreditando que ela esconde uma pérola gigante. Enquanto tentam proteger a amiga, elas ficam presas e são salvas por Toby e Estrela.</desc>
+  </programme>
+  <programme start="20260728113700 -0300" stop="20260728114800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 8 Episódio 2 - Aspira! Inspira!</category>
+    <desc lang="pt">Luna, Júpiter e Cláudio criam uma invenção durante uma brincadeira de pega-pega.</desc>
+  </programme>
+  <programme start="20260728114800 -0300" stop="20260728120100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 8 Episódio 3 - Visão Dupla</category>
+    <desc lang="pt">Luna descobre como a invenção do binóculo foi possível com a ajuda de uma princesa prismática.</desc>
+  </programme>
+  <programme start="20260728120100 -0300" stop="20260728122300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Academia Unicórnio</title>
+    <category lang="pt">Temporada 2 Episódio 5 - Heranças</category>
+    <desc lang="pt">Uma famosa amazona encantada visita o campus, causando tensão entre Sophia e Valentina; Nevasca reencontra um velho amigo e deixa Layla com ciúmes.</desc>
+  </programme>
+  <programme start="20260728122300 -0300" stop="20260728124500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Shasha &amp; Milo</title>
+    <category lang="pt">Temporada 1 Episódio 24 - Segredos Revelados</category>
+    <desc lang="pt">A vida secreta do tio Leo é exposta e Milo se sente traído. Milo precisa dar um salto no escuro para se reconciliar com Leo e impedir que Luca destrua os Guardiões, mas descobre um segredo ainda maior.</desc>
+  </programme>
+  <programme start="20260728124500 -0300" stop="20260728130700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Três Espiãs Demais</title>
+    <category lang="pt">Temporada 7 Episódio 23 - Problema com Estrela</category>
+    <desc lang="pt">Um novo vilão aparece na cidade, mas ele não está atrás das Espiãs, e sim de Estrela, acreditando que ela esconde uma pérola gigante. Enquanto tentam proteger a amiga, elas ficam presas e são salvas por Toby e Estrela.</desc>
+  </programme>
+  <programme start="20260728130700 -0300" stop="20260728132100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260728132100 -0300" stop="20260728133200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260728133200 -0300" stop="20260728134300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 10 Episódio 2 - O Bichinho do Vastus</category>
+    <desc lang="pt">Vastus perde seu adorado bichinho, o Molusco Musculoso. Ele pede ajuda à Kitty para encontrá-lo, mas não conta para ninguém o que está procurando.</desc>
+  </programme>
+  <programme start="20260728134300 -0300" stop="20260728135600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 8 Episódio 1 - A Estrela do Teatro</category>
+    <desc lang="pt">Zonty não pega o papel do príncipe na peça do PI e, frustrado, constrói um robô de si para atuar em seu lugar. Mas algo acaba dando errado e o artista Kitty precisa salvar a peça.</desc>
+  </programme>
+  <programme start="20260728135600 -0300" stop="20260728140700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 9 Episódio 4 - Batalha das Bandas</category>
+    <desc lang="pt">Kitty, Frido, Zonty, Pinky e Rio formam uma banda, mas as brigas os separam. Pop Star Kitty precisa reunir o grupo a tempo do primeiro show.</desc>
+  </programme>
+  <programme start="20260728140700 -0300" stop="20260728143100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">LEGO DreamZzz - As Provas dos Caçadores de Sonhos</title>
+    <category lang="pt">Temporada 1 Episódio 10 - A Fuga Sombria</category>
+    <desc lang="pt">Todos se unem para resgatar Logan das garras do Rei do Pesadelo. Mas Oz e as crianças rapidamente aprendem que existem criaturas mais perigosas à espreita no Reino das Trevas; Logan é arrancado de sua cela de prisão por seu aliado Macabro, Sneak.</desc>
+  </programme>
+  <programme start="20260728143100 -0300" stop="20260728144500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
+    <category lang="pt">Temporada 1 Episódio 26 - Ginger Quase Descobre</category>
+    <desc lang="pt">Os heróis tentam fazer um resgate sem revelar suas identidades para Ginger.</desc>
+  </programme>
+  <programme start="20260728144500 -0300" stop="20260728145000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 3 Episódio 20 - Dia de Rodeio</category>
+    <desc lang="pt">A Bebê Country aparece na creche Arco-Íris para ensinar os outros bebês a controlar suas botas de caubói. Isso não é nada fácil para Wat, já que suas botas parecem ser muito rebeldes.</desc>
+  </programme>
+  <programme start="20260728145000 -0300" stop="20260728145500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 3 Episódio 44 - A Bicicleta Robô</category>
+    <desc lang="pt">Enquanto os Power Rockers brincam em seus carrinhos, Dylan tenta dominar sua nova bicicleta com grande equilíbrio, mas isso parece impossível.</desc>
+  </programme>
+  <programme start="20260728145500 -0300" stop="20260728150000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 4 Episódio 11 - Origami Musical</category>
+    <desc lang="pt">Watt viaja no tempo e encontra Beethoven bebê compondo a Quinta Sinfonia. Ela, sem querer, fica com a partitura e precisa devolver ao gênio da música, mas Dolores a usou para fazer origami.</desc>
+  </programme>
+  <programme start="20260728150000 -0300" stop="20260728151200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Franjinha e Milena em Busca da Ciência</title>
+    <category lang="pt">Temporada 1 Episódio 1 - De Volta para o Escuro</category>
+    <desc lang="pt">Por meio de Bidu, Milena conhece Franjinha, e juntos confeccionam uma lanterna com a energia gerada ao pedalar uma bicicleta. Milena desafia Franjinha a provar que viajar no tempo é possível.</desc>
+  </programme>
+  <programme start="20260728151200 -0300" stop="20260728152200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Franjinha e Milena em Busca da Ciência</title>
+    <category lang="pt">Temporada 1 Episódio 2 - O Fim da Picada</category>
+    <desc lang="pt">Franjinha fica com medo por causa de umas abelhas que invadiram o laboratório. Milena descobre que, na verdade, elas são inofensivas e juntas criam um lindo jardim para transportá-las do laboratório para o quintal.</desc>
+  </programme>
+  <programme start="20260728152200 -0300" stop="20260728160900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers - O Filme</title>
+    <category lang="pt">Adventure / 2022</category>
+    <desc lang="pt">Depois de um dia particularmente agitado e com muitos bebês na creche Arco-Íris, Dolores avisa que é hora da soneca. No entanto, os Power Rockers não querem obedecer.</desc>
+  </programme>
+  <programme start="20260728160900 -0300" stop="20260728163300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">No primeiro dia de aula, uma briga faz Mini Beat sair atrás de outras bandas.</desc>
+  </programme>
+  <programme start="20260728163300 -0300" stop="20260728163800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 2 Episódio 7 - Splish Splash</category>
+    <desc lang="pt">É hora do banho e todo mundo está feliz, exceto Carlos, que odeia tomar banho. Com a ajuda de Dolores e músicas de praia, os Power Rockers tentam fazer Carlos se banhar.</desc>
+  </programme>
+  <programme start="20260728163800 -0300" stop="20260728164300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 2 Episódio 11 - Super Festa a Super Fantasias</category>
+    <desc lang="pt">Bebê Villano escapa do mundo dos Superbebês e termina no Berçário Arco-Íris. Agora, os Power Rockers precisam capturá-lo e devolvê-lo ao seu mundo.</desc>
+  </programme>
+  <programme start="20260728164300 -0300" stop="20260728164800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 2 Episódio 20 - Bebês em Bollywood</category>
+    <desc lang="pt">Os Mini Beat Power Rockers recebem a visita de uma nova amiga, a Bebê Lótus, e juntos vivem uma aventura internacional.</desc>
+  </programme>
+  <programme start="20260728164800 -0300" stop="20260728165900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Lupi &amp; Baduki</title>
+    <category lang="pt">Temporada 1 Episódio 13 - O Enigma do Tempo</category>
+    <desc lang="pt">Lupi mal pode esperar para comer figos, mas eles demoram para amadurecer. Quando ela descobre sobre um antigo artefato que pode acelerar o tempo, convence Baduki a se aventurarem por uma parte não-explorada da floresta para procurar pelo objeto.</desc>
+  </programme>
+  <programme start="20260728165900 -0300" stop="20260728171000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Zouk a Bruxinha</title>
+    <category lang="pt">Temporada 1 Episódio 19 - O Enigma da Esfinge</category>
+    <desc lang="pt">Zouk e os seus amigos estão indo para a montanha dos dragões para um piquenique, mas o Zoukadabra dela faz eles pararem no meio do deserto, em um oásis onde tem uma esfinge brincalhona que transforma qualquer pessoa em um hieroglifo.</desc>
+  </programme>
+  <programme start="20260728171000 -0300" stop="20260728173500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Temporada 6 Episódio 2 - O Ano Novo Chinês</category>
+    <desc lang="pt">Madame Gazela conversa com as crianças sobre o Ano Novo Chinês. Elas aprendem as tradições chinesas e fazem uma fantasia de dragão para desfilar durante a queima de fogos.</desc>
+  </programme>
+  <programme start="20260728173500 -0300" stop="20260728174000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Temporada 8 Episódio 32 - Dia de Mudança</category>
+    <desc lang="pt">Peppa vai brincar com Candy Gata no apartamento dela. Elas encontram Emily, Edmond e a Sra. Elefante que estão ajudando a Vovó Elefante a se mudar do seu apartamento.</desc>
+  </programme>
+  <programme start="20260728174000 -0300" stop="20260728180300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Temporada 6 Episódio 3</category>
+    <desc lang="pt">Durante um passeio, Peppa e sua família vão à floresta, à praia e ao parquinho. Enquanto Peppa se diverte nas poças de lama, seus pais a incentivam a dar nome a cada uma delas e analisar suas diferenças.</desc>
+  </programme>
+  <programme start="20260728180300 -0300" stop="20260728181400 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 1 Episódio 2 - O Dia do Amigo</category>
+    <desc lang="pt">Todos fazem um presente de Dia do Amigo para seu melhor amigo, menos Frido. Kitty Artista ajuda Frido a fazer um presente para Zonty.</desc>
+  </programme>
+  <programme start="20260728181400 -0300" stop="20260728183800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+    <category lang="pt">Temporada 1 Episódio 12 - Sob Pressão da Água</category>
+    <desc lang="pt">Os Mermicornos encontram uma criatura que mexe com suas ansiedades. Sawtooth tenta drenar a última estrela caída.</desc>
+  </programme>
+  <programme start="20260728183800 -0300" stop="20260728190000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+    <category lang="pt">Temporada 1 Episódio 11 - A Dança Especial</category>
+    <desc lang="pt">As Mermicornos conhecem uma comunidade de peixes que proibiu a dança, mas Nautique decide burlar a regra e ensiná-los.</desc>
+  </programme>
+  <programme start="20260728190000 -0300" stop="20260728190700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Turma da Mônica</title>
+    <category lang="pt">Temporada 2 Episódio 13 - Reunião do Clubinho</category>
+    <desc lang="pt">Os meninos estão reunidos no clubinho para mais uma assembleia extraordinária. Cebolinha, o presidente do clube, quer mostrar o seu mais novo plano infalível contra a Mônica, mas os meninos querem discutir outras prioridades, como a necessidade de um hino oficial para o clube, um novo nome e a construção de um banheiro para a sede, entre outras coisas. O tempo está passando e Cebolinha começa a ficar impaciente.</desc>
+  </programme>
+  <programme start="20260728190700 -0300" stop="20260728191400 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Turma da Mônica</title>
+    <category lang="pt">Temporada 2 Episódio 14 - Meu Bolo É de Bruxa?</category>
+    <desc lang="pt">Magali fica toda prosa devido a seu aniversário. Sua mãe prepara uma linda festa com muitos comes e bebes, e sua Tia Nena, a melhor boleira do bairro, é quem vai fazer o bolo. Tudo é motivo de alegria para a menina, até que o seu priminho Dudu faz uma revelação assustadora: Tia Nena é uma bruxa, e o bolo vai transformar a Magali em algo nojento.</desc>
+  </programme>
+  <programme start="20260728191400 -0300" stop="20260728192500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 8 Episódio 3 - Visão Dupla</category>
+    <desc lang="pt">Luna descobre como a invenção do binóculo foi possível com a ajuda de uma princesa prismática.</desc>
+  </programme>
+  <programme start="20260728192500 -0300" stop="20260728193800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 8 Episódio 5 - O Grande Segredo</category>
+    <desc lang="pt">Luna, Júpiter e Cláudio encontram uma caixa misteriosa cheia de surpresas no aniversário de Luna.</desc>
+  </programme>
+  <programme start="20260728193800 -0300" stop="20260728194900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260728194900 -0300" stop="20260728200000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260728200000 -0300" stop="20260728200500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Temporada 8 Episódio 33 - Festa do Pijama para Todos</category>
+    <desc lang="pt">Peppa e Pedro visitam o prédio de apartamentos para uma festa do pijama com Rohan Rinoceronte.</desc>
+  </programme>
+  <programme start="20260728200500 -0300" stop="20260728201000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Temporada 8 Episódio 34 - Ônibus de Caminhada</category>
+    <desc lang="pt">Chega o dia em que todas as crianças da creche devem caminhar até a escola em vez de serem levadas de carro. Madame Gazela e a Dona Coelha caminham até as diferentes casas das crianças e ensinam o conceito do ônibus de caminhada.</desc>
+  </programme>
+  <programme start="20260728201000 -0300" stop="20260728201500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Temporada 8 Episódio 35 - Felizes para Sempre</category>
+    <desc lang="pt">Madame Gazela lê uma história para as crianças, mas descobre que falta uma página no livro.</desc>
+  </programme>
+  <programme start="20260728201500 -0300" stop="20260728204000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Temporada 6 Episódio 4 - A Ratinha Mandy</category>
+    <desc lang="pt">Peppa e seus amigos recebem uma nova colega no grupo de brincadeiras: Mandy, uma ratinha que anda em uma cadeira de rodas. As crianças se divertem muito brincando com Mandy, que adora esportes e jogos.</desc>
+  </programme>
+  <programme start="20260728204000 -0300" stop="20260728204500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Temporada 8 Episódio 36 - Aula de Canto</category>
+    <desc lang="pt">A turma da creche tem uma aula de canto. Quando os pais chegam, as crianças apresentam sua música e, em seguida, Madame Gazela revela que amanhã haverá uma competição de canto.</desc>
+  </programme>
+  <programme start="20260728204500 -0300" stop="20260728205000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Temporada 8 Episódio 37 - A Competição de Canto</category>
+    <desc lang="pt">Começa a competição de canto dos adultos, e as crianças são os jurados. A competição termina com as crianças cantando com a nova canção do Vovô Coelho.</desc>
+  </programme>
+  <programme start="20260728205000 -0300" stop="20260728205500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 1 Episódio 47 - Batalha de Baterias</category>
+    <desc lang="pt">Os Baby Rockers descobrem que Dolores esconde uma paixão pela percussão. Carlos fica chateado e a desafia em uma batalha para ver quem é o melhor baterista.</desc>
+  </programme>
+  <programme start="20260728205500 -0300" stop="20260728210000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 5 Episódio 16 - O Videogame da Myo</category>
+    <desc lang="pt">Myo quer sair com os amigos, mas Carlos, Wat e Fuz estão jogando videogame. Para tirá-los da tela, Myo e Dolores reproduzem videogames na vida real.</desc>
+  </programme>
+  <programme start="20260728210000 -0300" stop="20260728210500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 2 Episódio 50 - O Quarto do Silêncio</category>
+    <desc lang="pt">Dolores precisa de silêncio e tira os instrumentos dos bebês; Wat começa a gritar, mas percebe que o som é abafado quando cobre a boca com um travesseiro; os bebês criam uma sala com isolamento acústico na creche.</desc>
+  </programme>
+  <programme start="20260728210500 -0300" stop="20260728211000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 2 Episódio 51 - Fugindo do Passado</category>
+    <desc lang="pt">Os bebês viajam ao passado e descobrem que a lendária Mestre Babá cuidou de Dolores quando ela era bebê. Eles também descobrem que Dolores estava longe de ser uma bebê comportada, como sempre insiste em dizer.</desc>
+  </programme>
+  <programme start="20260728211000 -0300" stop="20260728212100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 1 Episódio 2 - O Dia do Amigo</category>
+    <desc lang="pt">Todos fazem um presente de Dia do Amigo para seu melhor amigo, menos Frido. Kitty Artista ajuda Frido a fazer um presente para Zonty.</desc>
+  </programme>
+  <programme start="20260728212100 -0300" stop="20260728213200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Hello Kitty: Super Style!</title>
+    <category lang="pt">Temporada 5 Episódio 4 - O Chapéu de Pensar de PI</category>
+    <desc lang="pt">Kitty e Haroshee descobrem que o chapéu de PI desapareceu, mas a Detetive Kitty tenta encontrá-lo.</desc>
+  </programme>
+  <programme start="20260728213200 -0300" stop="20260728215600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mermicorno - A Queda das Estrelas</title>
+    <category lang="pt">Temporada 2 Episódio 10 - A Canção de Sawtooth</category>
+    <desc lang="pt">Ao descobrir seu lado criativo, Sawtooth precisa decidir se é um Tubarão Ajudante ou um Mermicorno.</desc>
+  </programme>
+  <programme start="20260728215600 -0300" stop="20260728221900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Temporada 6 Episódio 5 - Flautas</category>
+    <desc lang="pt">Os alunos de Madame Gazela aprendem a usar um gravador durante a aula de música. Após ensaiar bastante em casa, as crianças fazem uma apresentação emocionante para os pais.</desc>
+  </programme>
+  <programme start="20260728221900 -0300" stop="20260728224200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Temporada 6 Episódio 7</category>
+    <desc lang="pt">Quando o Papai leva uma multa por estacionar em local proibido, Peppa e George descobrem que os adultos também precisam obedecer a regras, assim como as crianças.</desc>
+  </programme>
+  <programme start="20260728224200 -0300" stop="20260728230700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Temporada 6 Episódio 8 - Dia dos Pais</category>
+    <desc lang="pt">Quando esquecem o Dia dos Pais, Peppa e George decidem preparar vários presentes para o Papai, como um cartão brilhante, um bolo especial e até uma festa do chá. Depois de tudo, o Papai fica cansado, mas muito feliz.</desc>
+  </programme>
+  <programme start="20260728230700 -0300" stop="20260728231900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Super Wish</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Jesse e a turma dão a maior festa de aniversário que a Terra do Feliz Aniversário já viu para fazer o desejo sair do esconderijo. Mas Balloonicus tem um grande plano para estragar a festa.</desc>
+  </programme>
+  <programme start="20260728231900 -0300" stop="20260728233100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Super Wish</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Jesse e a turma dão a maior festa de aniversário que a Terra do Feliz Aniversário já viu para fazer o desejo sair do esconderijo. Mas Balloonicus tem um grande plano para estragar a festa.</desc>
+  </programme>
+  <programme start="20260728233100 -0300" stop="20260728234300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">44 Gatos</title>
+    <category lang="pt">Temporada 1 Episódio 25 - O Grande Estilista</category>
+    <desc lang="pt">Todo mundo está emocionado porque Ambrogio, o gato estilista, vai passar na cidade. Mas ele chega e age de maneira tímida e ranzinza, pois perdeu totalmente sua inspiração.</desc>
+  </programme>
+  <programme start="20260728234300 -0300" stop="20260728235700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">44 Gatos</title>
+    <category lang="pt">Temporada 1 Episódio 27 - Gatos de Preto</category>
+    <desc lang="pt">Os Buffycats estão brincando de batalhas espaciais com Cosmo quando uma nave de verdade cai no jardim da Vovó Pina. É uma gata que vem do Planeta Miau. E os misteriosos Gatos de Preto a perseguem por motivos desconhecidos.</desc>
+  </programme>
+  <programme start="20260728235700 -0300" stop="20260729000200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 2 Episódio 35 - Todos por Um</category>
+    <desc lang="pt">Dolores quer homenagear uma babá importante durante uma visita à creche, mas o bolo que preparou para a ocasião é destruído. Quando ela deixa Carlos de castigo, os outros bebês criam uma canção sobre justiça.</desc>
+  </programme>
+  <programme start="20260729000200 -0300" stop="20260729000700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 1 Episódio 23 - Duelo de Tango</category>
+    <desc lang="pt">Bebê Tango chega à creche e encanta todos com seus passos de dança e sua sanfona - todos, menos Wat. O novo amiguinho embarca numa missão musical para conquistá-la.</desc>
+  </programme>
+  <programme start="20260729000700 -0300" stop="20260729001200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 1 Episódio 24 - O Gongo</category>
+    <desc lang="pt">O bebê Ninja chega à creche fazendo estrago. Para poder recuperar seus instrumentos do cofre de segurança máxima de Dolores, os bebês serão treinados em artes ninjas.</desc>
+  </programme>
+  <programme start="20260729001200 -0300" stop="20260729001700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 1 Episódio 25 - Myo 2.0</category>
+    <desc lang="pt">Devido a uma nova atualização no software de Myo, ela é desprogramada e perde sua musicalidade. Wat e Fuz precisam ensiná-la a voltar a ser um baby rocker.</desc>
+  </programme>
+  <programme start="20260729001700 -0300" stop="20260729002200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <category lang="pt">Temporada 1 Episódio 26 - A Mudança da Wat</category>
+    <desc lang="pt">Os bebês recebem uma notícia horrível: Wat vai se mudar para uma cidade diferente. Quando sua mãe chega para pegá-la, Fuz, Myo e Carlos fazem de tudo para evitar esta tragédia.</desc>
+  </programme>
+  <programme start="20260729002200 -0300" stop="20260729003300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Dog e Pony acompanham Chloe, Zoe e Jonas até o porto para tentar observar uma baleia. Uma reviravolta acontece quando eles acabam no estômago de uma.</desc>
+  </programme>
+  <programme start="20260729003300 -0300" stop="20260729004500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">The Dog &amp; Pony Show</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Dog e Pony acompanham Chloe, Zoe e Jonas até o porto para tentar observar uma baleia. Uma reviravolta acontece quando eles acabam no estômago de uma.</desc>
+  </programme>
+  <programme start="20260729004500 -0300" stop="20260729010700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">100% Lobo - O Livro de Hath</title>
+    <category lang="pt">Temporada 2 Episódio 14 - Gatobôs</category>
+    <desc lang="pt">Hotspur contrata o gênio da tecnologia AK e seu esquadrão de robôs para controlar os lobisomens; um antigo desentendimento com Aggie e um pouco da sabedoria de Zen fazem AK trabalhar por uma causa melhor.</desc>
+  </programme>
+  <programme start="20260729010700 -0300" stop="20260729011800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+    <category lang="pt">Temporada 1 Episódio 27 - Mo-Zart da Guitarra</category>
+    <desc lang="pt">O hino de Sam é recusado por um famoso site de bem-estar animal.</desc>
+  </programme>
+  <programme start="20260729011800 -0300" stop="20260729012900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+    <category lang="pt">Temporada 1 Episódio 28 - Meio Irmão</category>
+    <desc lang="pt">Sam está cansada e não dá para confiar em Mo. Eles precisavam fazer uma apresentação da escola em dupla, mas Mo não está nada preocupado.</desc>
+  </programme>
+  <programme start="20260729012900 -0300" stop="20260729014000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+    <category lang="pt">Temporada 1 Episódio 29 - Ráááááápido</category>
+    <desc lang="pt">Mo diz a Amber que concorda em ajudar no mercadinho dos pais dela, mas quer o chaveiro do Capitão Responsável que está em promoção.</desc>
+  </programme>
+  <programme start="20260729014000 -0300" stop="20260729015100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
+    <category lang="pt">Temporada 1 Episódio 30 - A Mente das Pessoas</category>
+    <desc lang="pt">Sam percebe que não tem um presente para o aniversário surpresa de 70 anos de Wanda. Ela decide que quer o presente perfeito para sua avó.</desc>
+  </programme>
+  <programme start="20260729015100 -0300" stop="20260729020300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">44 Gatos</title>
+    <category lang="pt">Temporada 2 Episódio 23 - Mara, a Hipopótamo</category>
+    <desc lang="pt">Um caixote de madeira cai de um caminhão. Dentro dele está Mara, uma pequena hipopótama que estava a caminho da África. Os Buffycats fazem de tudo para ajudar Mara a voltar para sua terra natal.</desc>
+  </programme>
+  <programme start="20260729020300 -0300" stop="20260729021500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">44 Gatos</title>
+    <category lang="pt">Temporada 2 Episódio 25 - O Aniversário da Vovó Pina</category>
+    <desc lang="pt">Os Buffycats acolhem vários pássaros que estavam tomando chuva, mas eles começam a causar uma série de desastres engraçados e viram a casa de pernas para o ar - e justo no aniversário da Vovó Pina.</desc>
+  </programme>
+  <programme start="20260729021500 -0300" stop="20260729022700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">44 Gatos</title>
+    <category lang="pt">Temporada 2 Episódio 27 - As Trocas</category>
+    <desc lang="pt">Cansados de brincar com um pneu, os Buffycats decidem fazer um jogo em que trocam o pneu por outros brinquedos. Mas após trocarem vários objetos, eles acabam com o pneu novamente.</desc>
+  </programme>
+  <programme start="20260729022700 -0300" stop="20260729023800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Ba Da Bean</title>
+    <category lang="pt">Temporada 1 Episódio 38 - Descoladas</category>
+    <desc lang="pt">Becky e Cléo percebem que têm gostos e interesses diferentes, e aceitam passar pelo procedimento do excêntrico Dr. Alfie, que promete encontrar uma forma de separá-las para sempre.</desc>
+  </programme>
+  <programme start="20260729023800 -0300" stop="20260729024900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Ba Da Bean</title>
+    <category lang="pt">Temporada 1 Episódio 40 - A Pedra do Destino</category>
+    <desc lang="pt">Bean é o novo assistente de York e quer aprender mais sobre a arte de esculpir. Na sua busca pelo material perfeito para lapidar, Bean acidentalmente encontra uma pedra lendária fincada em uma espada.</desc>
+  </programme>
+  <programme start="20260729024900 -0300" stop="20260729030000 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Topo Gigio</title>
+    <category lang="pt">Temporada 1 Episódio 8 - Super Atração</category>
+    <desc lang="pt">Zoe estuda ímãs e Gigio fica fascinado por eles, se perguntando como eles conseguem se atrair e o que os faz flutuar. Só há uma maneira de descobrir: cobrir as roupas de ímãs e começar a voar.</desc>
+  </programme>
+  <programme start="20260729030000 -0300" stop="20260729031100 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Topo Gigio</title>
+    <category lang="pt">Temporada 1 Episódio 10 - Dinheiro</category>
+    <desc lang="pt">Gigio quer comprar um super microfone, mas ele e Zoe não têm dinheiro. Gigio tem uma ideia: ganhar dinheiro com os preciosos rolos de papel que Gregory tem que usar para uma de suas sessões de fotos.</desc>
+  </programme>
+  <programme start="20260729031100 -0300" stop="20260729032200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Underdogs United</title>
+    <category lang="pt">Temporada 1 Episódio 41 - Um Cochilo para Todos</category>
+    <desc lang="pt">Capi decide entrar em forma dormindo, seguindo os conselhos de um treinador misterioso que viu na TV. O resto do time precisa descobrir a identidade desse treinador, que está fazendo a cidade dormir o dia inteiro.</desc>
+  </programme>
+  <programme start="20260729032200 -0300" stop="20260729033300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Underdogs United</title>
+    <category lang="pt">Temporada 1 Episódio 42 - Buscando um Novo Esporte</category>
+    <desc lang="pt">O Underdogs United destrói a arena de boxe de Sportsville e eles tentam encontrar uma nova carreira para João do Boxe.</desc>
+  </programme>
+  <programme start="20260729033300 -0300" stop="20260729034400 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Kung Fu Wa</title>
+    <category lang="pt">Temporada 1 Episódio 31 - Doce x Apimentado</category>
+    <desc lang="pt">Agora que Manípulo controla Hao, a gaivota não é mais seu fantoche favorito. Ele a expulsa da base e diz que ela só pode retornar se descobrir o paradeiro de Mestre Meia.</desc>
+  </programme>
+  <programme start="20260729034400 -0300" stop="20260729035500 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Kung Fu Wa</title>
+    <category lang="pt">Temporada 1 Episódio 33 - Um Dia Frio</category>
+    <desc lang="pt">Tee Zeng pega um forte resfriado à noite. Na manhã seguinte, ela espirra e acorda o Mestre Meia.</desc>
+  </programme>
+  <programme start="20260729035500 -0300" stop="20260729040600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260729040600 -0300" stop="20260729041700 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Polly Pocket</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Polly e seus amigos apoiam Lila durante uma competição de corrida de cinco quilômetros. Um de seus oponentes zomba dela porque ela gosta de moda e, portanto, não é uma verdadeira atleta para ele.</desc>
+  </programme>
+  <programme start="20260729041700 -0300" stop="20260729042800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 3 Episódio 4 - O Mundo dos Cães</category>
+    <desc lang="pt">Luna, Júpiter e Cláudio querem saber como o Capitão sabe a hora que o vovô está chegando antes de todo mundo. Eles fazem de conta que são cachorros e descobrem como o olfato e a audição dos cães são muito mais sensíveis do que os das pessoas.</desc>
+  </programme>
+  <programme start="20260729042800 -0300" stop="20260729043900 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 3 Episódio 5 - Brincando na Lama</category>
+    <desc lang="pt">Luna, Júpiter e Claudio dão um banho em Alfafa, o porco da Vovó.</desc>
+  </programme>
+  <programme start="20260729043900 -0300" stop="20260729050200 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Peppa</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Pedro começa a tossir na escola, e as outras crianças logo pegam a tosse; Richard vem brincar com George e Suzy vem para brincar com Peppa; A Gazela leva Peppa e seus amigos para andar de trem.</desc>
+  </programme>
+  <programme start="20260729050200 -0300" stop="20260729051300 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mundo do Barney</title>
+    <category lang="pt">Temporada 1 Episódio 21 - Fazendo Mágica</category>
+    <desc lang="pt">Barney fica frustrado quando sua mágica dá errado. As crianças mostram a ele que estão lá para apoiá-lo, aconteça o que acontecer. Brincando, Barney descobre que a alegria o ajuda a enxergar e resolver os problemas de uma maneira totalmente nova.</desc>
+  </programme>
+  <programme start="20260729051300 -0300" stop="20260729052400 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Mundo do Barney</title>
+    <category lang="pt">Temporada 1 Episódio 23 - Rodas Maiores</category>
+    <desc lang="pt">David não consegue se desfazer de sua bicicleta, mesmo tendo crescido. Barney leva as crianças em uma aventura, onde David ajuda um caranguejo eremita a encontrar uma concha que lhe sirva melhor, além de aceitar que é hora de uma nova bicicleta.</desc>
+  </programme>
+  <programme start="20260729052400 -0300" stop="20260729053600 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Ted cai em um cesto de roupa suja e a equipe acredita que uma mosca queira dar um banho nele. Os agentes tentam distrair a humana maior para salvar o ratinho de um destino ensaboado.</desc>
+  </programme>
+  <programme start="20260729053600 -0300" stop="20260729054800 -0300" channel="Discovery Kids HD.br">
+    <title lang="pt">Agente Binky ao Resgate!</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Ted cai em um cesto de roupa suja e a equipe acredita que uma mosca queira dar um banho nele. Os agentes tentam distrair a humana maior para salvar o ratinho de um destino ensaboado.</desc>
+  </programme>
+  <programme start="20260729054800 -0300" stop="20260729064800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Ted cai em um cesto de roupa suja e a equipe acredita que uma mosca queira dar um banho nele. Os agentes tentam distrair a humana maior para salvar o ratinho de um destino ensaboado.</desc>
@@ -27600,6 +28310,63 @@
     <category lang="pt">Dark comedy / 2019</category>
     <desc lang="pt">Toda a família de Ki-taek está desempregada, vivendo em um porão sujo e apertado. Por obra do acaso, ele começa a dar aulas de inglês para uma garota de família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe e filhos bolam um plano para se infiltrar também na abastada família, um a um. No entanto, os segredos e mentiras necessários à ascensão social cobram o seu preço.</desc>
   </programme>
+  <programme start="20260727060000 -0300" stop="20260727080000 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Charada</title>
+    <desc lang="pt">Em Paris, Regina Lambert está prestes a se divorciar de seu marido quando descobre que ele foi misteriosamente assassinado durante uma viagem de trem, logo após ter sacado todo o dinheiro do casal. O dinheiro agora está desaparecido e Regina é ajudada por Peter Joshua, que pode ou não também ter interesses financeiros em relação a ela.</desc>
+  </programme>
+  <programme start="20260727080000 -0300" stop="20260727094500 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Domicílio Conjugal</title>
+    <category lang="pt">Comedy drama / 1970</category>
+    <desc lang="pt">Antoine Doinel está casado com Christine, porém, logo depois do nascimento do primeiro filho, ele tem um caso com a bela japonesa Kyoko. O caso acaba arruinando a relação do casal e Doinel tentará reconquistar Christine.</desc>
+  </programme>
+  <programme start="20260727094500 -0300" stop="20260727121000 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Luzes da Ribalta</title>
+    <category lang="pt">Comedy drama / 1952</category>
+    <desc lang="pt">Deprimida com a sua carreira de dançarina, Terry tenta se suicidar, mas é salva por Calvero, um pobre, que era um famoso palhaço. Calvero ajuda Terry e, no processo, recupera sua autoestima também. Quando Terry propõe casamento, Calvero acha que a diferença de idade é grande demais e vai embora para se tornar um palhaço de rua. Terry então começa um relacionamento com um compositor jovem e promissor.</desc>
+  </programme>
+  <programme start="20260727121000 -0300" stop="20260727141000 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Júnior</title>
+    <category lang="pt">Comedy / 1994</category>
+    <desc lang="pt">Dois cientistas estão em busca de uma nova droga para evitar o aborto espontâneo de embriões implantados. Ao desenvolvê-la, decidem experimentá-la em um deles, e a consequência é a primeira gravidez masculina.</desc>
+  </programme>
+  <programme start="20260727141000 -0300" stop="20260727155500 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Nosferatu</title>
+    <category lang="pt">Horror / 1922</category>
+    <desc lang="pt">O corretor de imóveis Hutter precisa vender um castelo cujo proprietário é o excêntrico conde Graf Orlock. O conde, na verdade, é um vampiro milenar que espalha o terror na região de Bremen, na Alemanha e se interessa por Ellen, a mulher de Hutter.</desc>
+  </programme>
+  <programme start="20260727155500 -0300" stop="20260727175500 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Sir?t</title>
+    <category lang="pt">Drama / 2025</category>
+    <desc lang="pt">Luis está viajando pelo sul do Marrocos com seu filho, Esteban. Eles estão à procura de sua filha, que está desaparecida há cinco meses, vista pela última vez em um festival de dança no deserto.</desc>
+  </programme>
+  <programme start="20260727175500 -0300" stop="20260727195000 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Um Tira no Jardim de Infância</title>
+    <desc lang="pt">Os detetives John Kimble e Phoebe O'Hara perseguem Cullen Crisp, um conhecido traficante de drogas. John descobre que Cullen está atrás de sua ex-esposa e do filho deles, acreditando que ela tenha três milhões de dólares provenientes da venda de drogas. Então, John e Phoebe vão até Astoria, Oregon, onde acreditam que o filho de Cullen esteja estudando. O detetive passa a dar aulas no jardim de infância para crianças de seis anos, tentando descobrir qual das mães pode ser a ex-esposa de Cullen.</desc>
+  </programme>
+  <programme start="20260727195000 -0300" stop="20260727220000 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Rastros de Ódio</title>
+    <category lang="pt">Western / 1956</category>
+    <desc lang="pt">O veterano da Guerra Civil Ethan Edwards chega ao Texas em 1868 e encontra o seu irmão e a família dele. No dia seguinte, Comanches invadem o rancho, matam o seu irmão e Martha, a esposa dele, e raptam as duas filhas do casal. Ethan parte então em uma busca vingativa com o companheiro Martin, um mestiço que logo percebe que Ethan está obcecado por matar os índios. Ao encontrarem o corpo da mais velha, saem em busca da caçula, por quem procuram mais 5 anos no deserto.</desc>
+  </programme>
+  <programme start="20260727220000 -0300" stop="20260727235500 -0300" channel="Telecine Cult.br">
+    <title lang="pt">O Estranho sem Nome</title>
+    <category lang="pt">Western / 1973</category>
+    <desc lang="pt">Um homem estranho e misterioso chega ao pequeno povoado de Lago. Ao descobrir que três foras da lei estão a caminho da região para aterrorizá-la, tenta unir seus habitantes para preparar uma recepção não muito calorosa para eles.</desc>
+  </programme>
+  <programme start="20260727235500 -0300" stop="20260728014500 -0300" channel="Telecine Cult.br">
+    <title lang="pt">A Morte lhe Cai Bem</title>
+    <category lang="pt">Fantasy / 1992</category>
+    <desc lang="pt">Uma escritora acaba em um hospital psiquiátrico quando perde seu marido para uma estrela de cinema e ex-amiga. Anos depois, ela retorna, linda e maravilhosa, para confrontar a rival. A nova esposa do ex-marido descobre que o segredo da beleza é uma droga misteriosa que garante a imortalidade, mas que tem alguns efeitos colaterais.</desc>
+  </programme>
+  <programme start="20260728014500 -0300" stop="20260728031500 -0300" channel="Telecine Cult.br">
+    <title lang="pt">Atirem no Pianista</title>
+    <category lang="pt">Comedy drama / 1960</category>
+    <desc lang="pt">Charlie Kohler, o pianista do bistrô de Plyne, é triste, distraído, discreto. A garçonete, Léna, está apaixonada por Charlie. Ela sabe que ele se chama Edouard Saroyan, que é um grande pianista e foi casado.</desc>
+  </programme>
+  <programme start="20260728031500 -0300" stop="20260728060000 -0300" channel="Telecine Cult.br">
+    <title lang="pt">De Olhos Bem Fechados</title>
+    <desc lang="pt">Alice admite ter fantasias sexuais com homem que conheceu ao acaso, e seu marido, o médico Bill Hartford, fica obcecado com a ideia. Ele descobre um grupo sexual secreto e comparece a um dos encontros, percebendo que se envolveu mais do que deveria.</desc>
+  </programme>
   <programme start="20260728060000 -0300" stop="20260728082500 -0300" channel="Telecine Cult.br">
     <title lang="pt">Laranja Mecânica</title>
     <category lang="pt">Dark comedy / 1971</category>
@@ -28376,6 +29143,70 @@
     <title lang="pt">De Volta ao Mar</title>
     <category lang="pt">Drama / 2024</category>
     <desc lang="pt">Depois de uma década em Londres, Rona volta para sua terra natal nas Ilhas Órcades da Escócia. Sóbria, mas solitária, ela tenta suprimir a memória dos eventos que a levaram a essa jornada de recuperação.</desc>
+  </programme>
+  <programme start="20260727060000 -0300" stop="20260727080500 -0300" channel="HBO Mundi.br">
+    <title lang="pt">O Crime do Padre Amaro</title>
+    <category lang="pt">Drama / 2002</category>
+    <desc lang="pt">O recém-ordenado padre Amaro é enviado a uma pequena cidade para trabalhar na paróquia local. Ao se apaixonar pela bela devota Amélia, uma tragédia sem precedentes marcará sua vida.</desc>
+  </programme>
+  <programme start="20260727080500 -0300" stop="20260727094000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Uno - Entre o Ouro e a Morte</title>
+    <category lang="pt">Drama / 2024</category>
+    <desc lang="pt">Esmeralda está determinada a descobrir a verdade por trás da tragédia que destruiu sua família. Com a ajuda de Joaquim, ela segue os últimos rastros de seu falecido marido, um executivo de alto escalão em uma multinacional de mineração.</desc>
+  </programme>
+  <programme start="20260727094000 -0300" stop="20260727114000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Segredos do Passado</title>
+    <category lang="pt">Crime drama / 2020</category>
+    <desc lang="pt">Aaron retorna à sua cidade natal para o funeral de seu amigo de infância, que assassinou esposa e filho antes de tirar a própria vida. Ele logo começa a suspeitar que a morte de seu amigo e a de uma jovem podem estar conectadas.</desc>
+  </programme>
+  <programme start="20260727114000 -0300" stop="20260727134000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">A Casa Torta</title>
+    <category lang="pt">Mystery / 2017</category>
+    <desc lang="pt">As circunstâncias suspeitas em torno da morte de um patriarca idoso são investigadas pelo detetive particular Charles Hayward, que deve encontrar o assassino antes de Scotland Yard intervir e expor segredos obscuros de família.</desc>
+  </programme>
+  <programme start="20260727134000 -0300" stop="20260727160500 -0300" channel="HBO Mundi.br">
+    <title lang="pt">O Juiz</title>
+    <category lang="pt">Drama / 2014</category>
+    <desc lang="pt">Hank Palmer, um advogado bem-sucedido e arrogante, retorna à sua pequena cidade natal para o velório da mãe. Ele descobre que seu pai, o respeitado juiz local Joseph Palmer, está sendo acusado de ter assassinado um antigo réu, que acabou de sair da prisão após cumprir 20 anos na cadeia. Apesar de toda a frieza que há entre eles, Hank assume o caso e passa a defender o pai. Os dois precisam curar certas feridas e aceitar a dependência que Joseph, portador de Alzheimer, tem do filho.</desc>
+  </programme>
+  <programme start="20260727160500 -0300" stop="20260727180000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Mountainhead</title>
+    <category lang="pt">Comedy drama / 2025</category>
+    <desc lang="pt">Um grupo de amigos bilionários se reúne em meio a uma crise internacional.</desc>
+  </programme>
+  <programme start="20260727180000 -0300" stop="20260727190000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Viva o Cinema! Uma História da Mostra de São Paulo</title>
+    <category lang="pt">Temporada 1 Episódio 1 - Uma Arte Subversiva</category>
+    <desc lang="pt">Para promover a distribuição de filmes estrangeiros no Brasil e lutar contra a censura imposta por um regime militar que renega filmes, o jornalista e crítico de cinema Leon Cakoff cria, em 1977, a Mostra Internacional de Cinema em São Paulo.</desc>
+  </programme>
+  <programme start="20260727190000 -0300" stop="20260727200000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Viva o Cinema! Uma História da Mostra de São Paulo</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Que Deus nos Ajude</category>
+    <desc lang="pt">Separado do MASP, Leon encontra dificuldades para lutar contra a censura e arrecadar dinheiro, mas ganha uma companheira de batalha: Renata de Almeida, produtora da Mostra e sua futura esposa.</desc>
+  </programme>
+  <programme start="20260727200000 -0300" stop="20260727220000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Sangue pela Glória</title>
+    <category lang="pt">Biography / 2016</category>
+    <desc lang="pt">A inspiradora história do campeão mundial de boxe, Vinny Pazienza, que após um grave acidente automobilístico, não sabia se voltaria a andar e tenta realizar um dos retornos mais incríveis do mundo do esporte.</desc>
+  </programme>
+  <programme start="20260727220000 -0300" stop="20260728002000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Invictus</title>
+    <desc lang="pt">No fim do apartheid, o recém-eleito presidente Nelson Mandela lidera uma África do Sul que continua racial e economicamente dividida. Ele acredita que pode unificar a nação por meio da linguagem universal do esporte. Para isso, Mandela junta forças com Francois Pienaar, capitão do time de rúgbi, promovendo a união dos sul-africanos em favor do time local na Copa Mundial de Rúgbi de 1995.</desc>
+  </programme>
+  <programme start="20260728002000 -0300" stop="20260728030600 -0300" channel="HBO Mundi.br">
+    <title lang="pt">O Patriota</title>
+    <category lang="pt">War / 2000</category>
+    <desc lang="pt">Benjamin Martin é um veterano de guerra que renunciou às armas e decidiu viver em paz com sua família. Ele, porém, não vê outra saída a não ser pegar em armas novamente quando os ingleses trazem a Guerra da Independência ao seu quintal. Desta vez, Benjamin é acompanhado de seu filho idealista e lidera uma rebelião contra o implacável e equipado exército britânico. No processo, ele descobre que só pode proteger sua família lutando pela liberdade da jovem nação.</desc>
+  </programme>
+  <programme start="20260728030600 -0300" stop="20260728051700 -0300" channel="HBO Mundi.br">
+    <title lang="pt">A Lenda do Cavaleiro Verde</title>
+    <category lang="pt">Fantasy / 2021</category>
+    <desc lang="pt">Gawain embarca em uma missão ousada para enfrentar o Cavaleiro Verde, um ser misterioso que apareceu em Camelot com um desafio enigmático. Arriscando sua cabeça, ele encontra fantasmas, gigantes, ladrões e enganadores em uma aventura épica.</desc>
+  </programme>
+  <programme start="20260728051700 -0300" stop="20260728060000 -0300" channel="HBO Mundi.br">
+    <title lang="pt">7 Dias no Inferno</title>
+    <category lang="pt">Comedy / 2015</category>
+    <desc lang="pt">Dois campeões de tênis, Aaron Williams e Charles Poole, se enfrentam em uma partida épica que tem sete dias de duração.</desc>
   </programme>
   <programme start="20260728060000 -0300" stop="20260728073500 -0300" channel="HBO Mundi.br">
     <title lang="pt">Anátema</title>
@@ -31852,6 +32683,18 @@
     <title lang="pt">Premiere 5</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
+  <programme start="20260727060000 -0300" stop="20260727140000 -0300" channel="Premiere 6 HD.br">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260727140000 -0300" stop="20260727220000 -0300" channel="Premiere 6 HD.br">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260727220000 -0300" stop="20260728060000 -0300" channel="Premiere 6 HD.br">
+    <title lang="pt">Premiere 6</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
   <programme start="20260728060000 -0300" stop="20260728140000 -0300" channel="Premiere 6 HD.br">
     <title lang="pt">Premiere 6</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
@@ -34484,22 +35327,6 @@
   <programme start="20260727220000 -0300" stop="20260727230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260727120000 -0300" stop="20260727143000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - MLB: New York Yankees x Philadelphia Phillies</title>
-    <category lang="pt">Esporte/Beisebol</category>
-  </programme>
-  <programme start="20260727143000 -0300" stop="20260727163000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - Londrina x Novorizontino</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20260727163000 -0300" stop="20260727190000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - Nascar Cup Series: GP de Indianápolis</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-  </programme>
-  <programme start="20260727190000 -0300" stop="20260727193000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Ciclismo: Destaques do Tour de France 2026</title>
-    <category lang="pt">Esporte/Ciclismo</category>
-  </programme>
   <programme start="20260727193000 -0300" stop="20260727200000 -0300" channel="ESPN 3.br">
     <title lang="pt">Encontro Sem Fronteiras - Loco Abreu</title>
     <category lang="pt">Documentário/Esportivo</category>
@@ -35584,18 +36411,6 @@
     <title lang="pt">World Series of Poker Mesa Final: Dia 1 - Ao Vivo</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20260727134000 -0300" stop="20260727160500 -0300" channel="Combate.br">
-    <title lang="pt">Oktagon 91</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260727160500 -0300" stop="20260727190500 -0300" channel="Combate.br">
-    <title lang="pt">Jungle Fight - 153</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260727190500 -0300" stop="20260727193500 -0300" channel="Combate.br">
-    <title lang="pt">Jungle Fight: Finalizações Jungle Ep. 44</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260727193500 -0300" stop="20260727200000 -0300" channel="Combate.br">
     <title lang="pt">Jungle Fight: Nocautes Jungle Ep.57</title>
     <category lang="pt">Esporte/Luta</category>
@@ -35995,22 +36810,6 @@
   <programme start="20260810201000 -0300" stop="20260810211000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260727115700 -0300" stop="20260727141000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">No Olho do Tornado</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260727141000 -0300" stop="20260727160100 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">MIB - Homens de Preto 3</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20260727160100 -0300" stop="20260727173500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">No Olho do Tornado</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260727173500 -0300" stop="20260727191200 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">O Nascimento do Mal</title>
-    <category lang="pt">Filme/Terror</category>
   </programme>
   <programme start="20260727191200 -0300" stop="20260727201500 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Coisa de Menino</title>
