@@ -1190,15 +1190,10 @@
     <category lang="pt">Educational</category>
     <desc lang="pt">Programa incentiva o aprendizado da língua inglesa de uma forma descontraída, por meio de letras de músicas e jogos entre equipes formadas por estudantes.</desc>
   </programme>
-  <programme start="20260729050000 -0300" stop="20260729060000 -0300" channel="TV Cultura.br">
+  <programme start="20260729050000 -0300" stop="20260729063000 -0300" channel="TV Cultura.br">
     <title lang="pt">Jornal da Cultura</title>
     <category lang="pt">News</category>
     <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
-  </programme>
-  <programme start="20260729060000 -0300" stop="20260729063000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Energia</title>
-    <category lang="pt">Exercise</category>
-    <desc lang="pt">Atualmente, a vida corrida e agitada, fruto do excesso de trabalho, tem feito com que a maioria das pessoas subestime sua qualidade de vida. Acompanhe aulas com meia hora de duração cada e dicas de como cuidar melhor do corpo.</desc>
   </programme>
   <programme start="20260729063000 -0300" stop="20260729070000 -0300" channel="TV Cultura.br">
     <title lang="pt">Matéria de Capa</title>
@@ -1233,7 +1228,7 @@
   <programme start="20260729074500 -0300" stop="20260729080000 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Os Palaloos fazem uma nova descoberta divertida na Palalândia: um chão elástico! Quem pisa nele pula bem alto, o que é perfeito para brincar de pula-pula e inventar acrobacias incríveis.</desc>
+    <desc lang="pt">Kazu, Pico e Bao Bao encontram gelatinas coloridas que quicam pelo chão, misturando suas cores transparentes e criando tonalidades incríveis. Enquanto exploram essa dança de cores, eles aprendem sobre as diferentes cores que as gelatinas formam.</desc>
   </programme>
   <programme start="20260729080000 -0300" stop="20260729081500 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó na Cidade</title>
@@ -1361,7 +1356,7 @@
   <programme start="20260729131500 -0300" stop="20260729132500 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Os Palaloos fazem uma nova descoberta divertida na Palalândia: um chão elástico! Quem pisa nele pula bem alto, o que é perfeito para brincar de pula-pula e inventar acrobacias incríveis.</desc>
+    <desc lang="pt">Kazu, Pico e Bao Bao encontram gelatinas coloridas que quicam pelo chão, misturando suas cores transparentes e criando tonalidades incríveis. Enquanto exploram essa dança de cores, eles aprendem sobre as diferentes cores que as gelatinas formam.</desc>
   </programme>
   <programme start="20260729132500 -0300" stop="20260729133000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
@@ -1459,7 +1454,7 @@
   <programme start="20260729173000 -0300" stop="20260729180000 -0300" channel="TV Cultura.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Lucas Silva e Silva faz dez anos e ganha um gravador de seu avô, Orlando. Em meio aos problemas da passagem da infância para a adolescência, ele registra no aparelho histórias cheias de imaginação de como ele gostaria que as coisas acontecessem.</desc>
+    <desc lang="pt">LLucas cria artimanhas para fugir do banho e fica três dias sem chuveiro. A família desconfia, e o avô Orlando decide reunir todos no &quot;esquadrão do sabonete&quot; para caçar o garoto e forçá-lo a se lavar, assim como fazia com Rogério na infância.</desc>
   </programme>
   <programme start="20260729180000 -0300" stop="20260729183000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Mundo de Beakman</title>
@@ -14003,32 +13998,32 @@
   <programme start="20260729072000 -0300" stop="20260729072300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729072300 -0300" stop="20260729072600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729072600 -0300" stop="20260729073000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729073000 -0300" stop="20260729073600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729073600 -0300" stop="20260729074200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729074200 -0300" stop="20260729075000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729075000 -0300" stop="20260729080000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -14128,17 +14123,17 @@
   <programme start="20260729103000 -0300" stop="20260729103300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729103300 -0300" stop="20260729103600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729103600 -0300" stop="20260729104000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729104000 -0300" stop="20260729104600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
@@ -14218,17 +14213,17 @@
   <programme start="20260729122000 -0300" stop="20260729122600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729122600 -0300" stop="20260729123200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729123200 -0300" stop="20260729124000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729124000 -0300" stop="20260729125000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -14325,15 +14320,10 @@
     <category lang="pt">Temporada 17 Episódio 11 - O Seu MacDonald</category>
     <desc lang="pt">Joãozinho e Jacob visitam os animais na fazenda do Velho McDonald. Eles andam pela fazenda em um trator, cantando a clássica canção &quot;O Seu McDonald Tinha uma Fazenda&quot;.</desc>
   </programme>
-  <programme start="20260729152000 -0300" stop="20260729153000 -0300" channel="Gloobinho HD.br">
+  <programme start="20260729152000 -0300" stop="20260729154000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Pequeno Príncipe e Seus Amigos</title>
     <category lang="pt">Temporada 1 Episódio 17 - Robôs à Solta</category>
     <desc lang="pt">Os mini robôs do Empresário quebraram os motores de sua nave e, com medo de serem demitidos, fogem nas asas da Aviadora. Mas agora, por culpa deles, o Empresário acaba em perigo.</desc>
-  </programme>
-  <programme start="20260729153000 -0300" stop="20260729154000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Pequeno Príncipe e Seus Amigos</title>
-    <category lang="pt">Temporada 1 Episódio 18 - À Luz dos Lumilux</category>
-    <desc lang="pt">O cajado do Acendedor de Lampiões está quase sem energia. Pequeno Príncipe e Charlotte partem atrás de Lumiluxes para ajudá-lo, mas acabam em uma caverna mais escura do que pensavam.</desc>
   </programme>
   <programme start="20260729154000 -0300" stop="20260729155000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -14408,17 +14398,17 @@
   <programme start="20260729173000 -0300" stop="20260729173300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729173300 -0300" stop="20260729173600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729173600 -0300" stop="20260729174000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260729174000 -0300" stop="20260729175000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Milo</title>
@@ -14643,17 +14633,17 @@
   <programme start="20260729230000 -0300" stop="20260729230600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729230600 -0300" stop="20260729231200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729231200 -0300" stop="20260729232000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">No aniversário de Hugo, a turminha sai em busca de mais um frevinho. No entanto, Bob Zoom dá uma escapadinha para experimentar o bolo. Ele come tanto que acaba passando mal, e cabe aos seus amigos salvar o dia.</desc>
+    <desc lang="pt">Bob Zoom decide usar Bingo, o cão do seu vizinho, para procurar trevinhos, mas o cachorro cria uma confusão e a turminha precisa arrumar tudo antes que alguém perceba a bagunça que eles fizeram.</desc>
   </programme>
   <programme start="20260729232000 -0300" stop="20260729232600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
@@ -14748,17 +14738,17 @@
   <programme start="20260730014000 -0300" stop="20260730014300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260730014300 -0300" stop="20260730014600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260730014600 -0300" stop="20260730015000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260730015000 -0300" stop="20260730020000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Senninha na Pista Maluca</title>
@@ -14865,30 +14855,25 @@
     <category lang="pt">Temporada 2 Episódio 11 - De Cabeça para Baixo</category>
     <desc lang="pt">Pato está pendurado de cabeça para baixo; Pocoyo e os amigos tentam ajudá-lo, mas não conseguem.</desc>
   </programme>
-  <programme start="20260730042000 -0300" stop="20260730043000 -0300" channel="Gloobinho HD.br">
+  <programme start="20260730042000 -0300" stop="20260730044000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Pequeno Príncipe e Seus Amigos</title>
     <category lang="pt">Temporada 1 Episódio 17 - Robôs à Solta</category>
     <desc lang="pt">Os mini robôs do Empresário quebraram os motores de sua nave e, com medo de serem demitidos, fogem nas asas da Aviadora. Mas agora, por culpa deles, o Empresário acaba em perigo.</desc>
   </programme>
-  <programme start="20260730043000 -0300" stop="20260730044000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Pequeno Príncipe e Seus Amigos</title>
-    <category lang="pt">Temporada 1 Episódio 18 - À Luz dos Lumilux</category>
-    <desc lang="pt">O cajado do Acendedor de Lampiões está quase sem energia. Pequeno Príncipe e Charlotte partem atrás de Lumiluxes para ajudá-lo, mas acabam em uma caverna mais escura do que pensavam.</desc>
-  </programme>
   <programme start="20260730044000 -0300" stop="20260730044300 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260730044300 -0300" stop="20260730044600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260730044600 -0300" stop="20260730045000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo está enchendo seus balões e se preparando para a corrida de barco.</desc>
+    <desc lang="pt">Já nos divertimos muito hoje, mas agora é hora de limpar a bagunça que fizemos.</desc>
   </programme>
   <programme start="20260730045000 -0300" stop="20260730050000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Vovó Tatá</title>
@@ -25490,6 +25475,8 @@
   </programme>
   <programme start="20260728065600 -0300" stop="20260728070000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260728070000 -0300" stop="20260728083000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Romance da Empregada</title>
@@ -25503,6 +25490,8 @@
   </programme>
   <programme start="20260728101700 -0300" stop="20260728102000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260728102000 -0300" stop="20260728114600 -0300" channel="Canal Brasil.br">
     <title lang="pt">Índia, a Filha do Sol</title>
@@ -25511,6 +25500,8 @@
   </programme>
   <programme start="20260728114600 -0300" stop="20260728115000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260728115000 -0300" stop="20260728133500 -0300" channel="Canal Brasil.br">
     <title lang="pt">A Paixão de Jacobina</title>
@@ -25522,6 +25513,8 @@
   </programme>
   <programme start="20260728150700 -0300" stop="20260728151000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260728151000 -0300" stop="20260728170000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Bela Donna</title>
@@ -25539,6 +25532,8 @@
   </programme>
   <programme start="20260728205000 -0300" stop="20260728205500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260728205500 -0300" stop="20260728225500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Dona Flor e Seus Dois Maridos</title>
@@ -25557,12 +25552,18 @@
   </programme>
   <programme start="20260729002500 -0300" stop="20260729003000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260729003000 -0300" stop="20260729011500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Lucy &amp; Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">A história do casal Lucy e Luiz Carlos Barreto conhecidos por contribuição ao cinema brasileiro.</desc>
   </programme>
   <programme start="20260729011500 -0300" stop="20260729020500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Lucy &amp; Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">A história do casal Lucy e Luiz Carlos Barreto conhecidos por contribuição ao cinema brasileiro.</desc>
   </programme>
   <programme start="20260729020500 -0300" stop="20260729033800 -0300" channel="Canal Brasil.br">
     <title lang="pt">Sonhos e Desejos</title>
@@ -25570,6 +25571,8 @@
   </programme>
   <programme start="20260729033800 -0300" stop="20260729034000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260729034000 -0300" stop="20260729054000 -0300" channel="Canal Brasil.br">
     <title lang="pt">João - O Maestro</title>
@@ -31808,17 +31811,54 @@
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
   </programme>
-  <programme start="20260729033000 -0300" stop="20260729113000 -0300" channel="SporTV 3.br">
+  <programme start="20260729033000 -0300" stop="20260729055000 -0300" channel="SporTV 3.br">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
   </programme>
-  <programme start="20260729113000 -0300" stop="20260729193000 -0300" channel="SporTV 3.br">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260729055000 -0300" stop="20260729075000 -0300" channel="SporTV 3.br">
+    <title lang="pt">GP da Hungria</title>
+    <category lang="pt">Fórmula 1</category>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
   </programme>
-  <programme start="20260729193000 -0300" stop="20260729212500 -0300" channel="SporTV 3.br">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260729075000 -0300" stop="20260729095000 -0300" channel="SporTV 3.br">
+    <title lang="pt">GP da Bélgica</title>
+    <category lang="pt">Fórmula 1</category>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+  </programme>
+  <programme start="20260729095000 -0300" stop="20260729114500 -0300" channel="SporTV 3.br">
+    <title lang="pt">GP da Grã-Bretanha</title>
+    <category lang="pt">Fórmula 1</category>
+    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+  </programme>
+  <programme start="20260729114500 -0300" stop="20260729134500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Décima Primeira Etapa - Londres, Inglaterra</title>
+    <category lang="pt">Diamond League</category>
+    <desc lang="pt">Décimo primeiro encontro da temporada 2025, realizado no London Stadium, em Londres, Inglaterra.</desc>
+  </programme>
+  <programme start="20260729134500 -0300" stop="20260729155000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Décima Etapa - Mônaco</title>
+    <category lang="pt">Diamond League</category>
+    <desc lang="pt">Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em diversas etapas pelo planeta.</desc>
+  </programme>
+  <programme start="20260729155000 -0300" stop="20260729175000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Nona Etapa - Eugene, EUA</title>
+    <category lang="pt">Diamond League</category>
+    <desc lang="pt">Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em diversas etapas pelo planeta.</desc>
+  </programme>
+  <programme start="20260729175000 -0300" stop="20260729182500 -0300" channel="SporTV 3.br">
+    <title lang="pt">De Corpo e Alma</title>
+    <category lang="pt">Temporada 1 Episódio 1 - Equilíbrio Mental</category>
+    <desc lang="pt">As artes marciais vão além da luta: promovem disciplina, foco e controle emocional. Mestres e atletas mostram como o treino fortalece a mente e ajuda a lidar com pressões dentro e fora do tatame.</desc>
+  </programme>
+  <programme start="20260729182500 -0300" stop="20260729190000 -0300" channel="SporTV 3.br">
+    <title lang="pt">De Corpo e Alma</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Equilíbrio Físico</category>
+    <desc lang="pt">A série acompanha histórias de superação e reabilitação, destacando o impacto do treino na saúde e na consciência corporal.</desc>
+  </programme>
+  <programme start="20260729190000 -0300" stop="20260729212500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Oktagon 91</title>
+    <category lang="pt">Oktagon 91</category>
+    <desc lang="pt">Edição número 91 do evento de MMA, realizado na Lanxess Arena, em Colônia, na Alemanha. Kerim Engizek e Krzysztof Jotko colidem no combate principal da noite, pelo cinturão da categoria peso-médio do Oktagon.</desc>
   </programme>
   <programme start="20260729212500 -0300" stop="20260729234500 -0300" channel="SporTV 3.br">
     <title lang="pt">Power Slap 21</title>
@@ -34947,22 +34987,6 @@
   <programme start="20260728220000 -0300" stop="20260728230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260728130000 -0300" stop="20260728150000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - LBF: Sampaio x Campinas</title>
-    <category lang="pt">Esporte/Basquete Feminino</category>
-  </programme>
-  <programme start="20260728150000 -0300" stop="20260728160000 -0300" channel="ESPN 3.br">
-    <title lang="pt">2026 NFL FLAG Championships</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20260728160000 -0300" stop="20260728170000 -0300" channel="ESPN 3.br">
-    <title lang="pt">2026 NFL FLAG Championships</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20260728170000 -0300" stop="20260728184500 -0300" channel="ESPN 3.br">
-    <title lang="pt">DTM: Etapa de Oschersleben-ALE: Corrida 1</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-  </programme>
   <programme start="20260728184500 -0300" stop="20260728210000 -0300" channel="ESPN 3.br">
     <title lang="pt">Tigre x Nacional (URU) - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
@@ -36047,14 +36071,6 @@
     <title lang="pt">World Series of Poker Mesa Final: Dia 2 - Ao Vivo</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20260728130000 -0300" stop="20260728153500 -0300" channel="Combate.br">
-    <title lang="pt">One Fight Night 45</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260728153500 -0300" stop="20260728192000 -0300" channel="Combate.br">
-    <title lang="pt">FMS Fight Night 11</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260728192000 -0300" stop="20260728214500 -0300" channel="Combate.br">
     <title lang="pt">Oktagon 91</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36370,22 +36386,6 @@
   <programme start="20260811200000 -0300" stop="20260811210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260728125600 -0300" stop="20260728144600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Criatura Voraz</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260728144600 -0300" stop="20260728163600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Annabelle 3: de Volta para Casa</title>
-    <category lang="pt">Filme/Terror</category>
-  </programme>
-  <programme start="20260728163600 -0300" stop="20260728182600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Annabelle 3: de Volta para Casa</title>
-    <category lang="pt">Filme/Terror</category>
-  </programme>
-  <programme start="20260728182600 -0300" stop="20260728192600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Coisa de Menino</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20260728192600 -0300" stop="20260728220000 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Furiosa: Uma Saga Mad Max</title>
