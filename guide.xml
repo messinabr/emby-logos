@@ -849,10 +849,10 @@
     <category lang="pt">News</category>
     <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
   </programme>
-  <programme start="20260729050000 -0300" stop="20260729063000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Jornal da Cultura</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  <programme start="20260729060000 -0300" stop="20260729063000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Energia</title>
+    <category lang="pt">Exercise</category>
+    <desc lang="pt">Atualmente, a vida corrida e agitada, fruto do excesso de trabalho, tem feito com que a maioria das pessoas subestime sua qualidade de vida. Acompanhe aulas com meia hora de duração cada e dicas de como cuidar melhor do corpo.</desc>
   </programme>
   <programme start="20260729063000 -0300" stop="20260729070000 -0300" channel="TV Cultura.br">
     <title lang="pt">Matéria de Capa</title>
@@ -860,19 +860,19 @@
     <desc lang="pt">De curiosidades a segredos do espaço, uma síntese dos temas mais importantes da atualidade.</desc>
   </programme>
   <programme start="20260729070000 -0300" stop="20260729071500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Peppa</title>
+    <title lang="pt">Peppa Pig</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Pedro começa a tossir na escola, e as outras crianças logo pegam a tosse; Richard vem brincar com George e Suzy vem para brincar com Peppa; A Gazela leva Peppa e seus amigos para andar de trem.</desc>
+    <desc lang="pt">Peppa, George, Mamãe, Papai e Suzy vão visitar uma terra bem pequenininha; o Avô mostra a Peppa e George sua grande coleção de selos; a família de Peppa está no Digger World; Mamãe Pig tenta fazer que o novo chapéu de George não fique cheio de lama; George é convidado para o aniversário de Richard Coelho.</desc>
   </programme>
   <programme start="20260729071500 -0300" stop="20260729072000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a empilhadeira e Scoop a escavadeira, constroem juntos novos modelos.</desc>
+    <category lang="pt">Temporada 4 Episódio 13 - Geladeira</category>
+    <desc lang="pt">Os robôs trazem sorvetes para todos, mas enquanto jogavam futebol, ele derrete; Léo tem uma ideia e constrói uma geladeira. Agora, o sorvete não derrete tão rápido e vai ficar gelado.</desc>
   </programme>
   <programme start="20260729072000 -0300" stop="20260729073000 -0300" channel="TV Cultura.br">
     <title lang="pt">Planeta Palavra</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.</desc>
+    <category lang="pt">Temporada 1 Episódio 1 - Os Super Bombeiros</category>
+    <desc lang="pt">Vaca e Jacaré brincam de super bombeiros e saem com um balde de água à procura de Fogo. Depois de muita trapalhada com a Onça e de acabar com o churrasco da Galinha, cantam e dançam enquanto comem milho assado.</desc>
   </programme>
   <programme start="20260729073000 -0300" stop="20260729074000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bino e Fino</title>
@@ -881,8 +881,8 @@
   </programme>
   <programme start="20260729074000 -0300" stop="20260729074500 -0300" channel="TV Cultura.br">
     <title lang="pt">Parquinho Jurássico</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Ágata, Enzo, Helena e Kauê são dinossauros que viveram no Brasil há mais de 70 milhões de anos. Juntos, os quatro vivem aventuras conduzidas com muita música e descobertas sobre a cultura brasileira e os dinossauros que aqui viveram.</desc>
+    <category lang="pt">Temporada 1 Episódio 14 - Dino do Interior</category>
+    <desc lang="pt">Os dinossauros brasileiros foram majoritariamente encontrados no interior do país. Neste episódio que mistura a estética de Anita Malfatti e faz referência o cinema brasileiro, o escritor Dino de Andrade conta uma longa história, que evoca o passado.</desc>
   </programme>
   <programme start="20260729074500 -0300" stop="20260729080000 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
@@ -891,33 +891,33 @@
   </programme>
   <programme start="20260729080000 -0300" stop="20260729081500 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó na Cidade</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">A turma da fazenda vive muitas aventuras na cidade de São Paulo com João, primo de Júlio, e sua família. Eles passeiam por diferentes lugares, jogam bola no Beco do Roto e também fazem novos amigos.</desc>
+    <category lang="pt">Temporada 2 Episódio 6 - Mauro Bom de Bola</category>
+    <desc lang="pt">Mauro, um amigo do Júlio de Cocoricolândia, vem para a cidade. Todos ficam animados com sua chegada e se divertem muito juntos.</desc>
   </programme>
   <programme start="20260729081500 -0300" stop="20260729083000 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Fazenda Cocoricó, localizada na cidade de Cocoricolândia.</desc>
+    <category lang="pt">Temporada 3 Episódio 21 - O Barquinho Vai...</category>
+    <desc lang="pt">Chove muito e Lola ensina origami para as crianças. Eles se juntam e usam as dobraduras em uma peça de teatro sobre o Soldadinho de Chumbo.</desc>
   </programme>
   <programme start="20260729083000 -0300" stop="20260729084000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Mundo Bita</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <title lang="pt">Mundo Bita - Imagine-se</title>
+    <category lang="pt">Temporada 1 Episódio 5 - Todos Juntos, Vamos Lá</category>
+    <desc lang="pt">No Mundo Bita, Pepe não aceita ajuda de Pipa para resolver um problema; no planeta Terra, Tito enfrenta uma dificuldade e tenta resolver o problema sozinho; no Mundo da Imaginação, Bita, Lila, Dan, Tito e Flora fazem um plantio mágico.</desc>
   </programme>
   <programme start="20260729084000 -0300" stop="20260729084500 -0300" channel="TV Cultura.br">
     <title lang="pt">Paramigos Imparáveis</title>
-    <category lang="pt">Educational</category>
-    <desc lang="pt">Uma equipe de heróis com deficiência têm a missão de impedir o fim dos recursos minerais do planeta.</desc>
+    <category lang="pt">Temporada 1 Episódio 15 - Calor de Janeiro</category>
+    <desc lang="pt">Para conseguir um bronzeado especial para o verão, Dona Tella está derretendo as calotas polares e confundindo os pinguins. Turi e Zoom se unem contra a maior lupa do mundo.</desc>
   </programme>
   <programme start="20260729084500 -0300" stop="20260729090000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bing</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Bing ama brincar com seus amigos. Ele adora experimentar coisas novas e descobrir tudo sobre a vida. Bing é curioso, positivo e sincero e como ele é muito novinho, está vivendo várias coisas pela primeira vez.</desc>
+    <category lang="pt">Temporada 1 Episódio 41 - Festa do Pijama</category>
+    <desc lang="pt">Coco está na casa de Bing para a sua primeira festa do pijama, e não demora muito para que as diferenças nas suas rotinas de dormir surjam. Coco trouxe a sua coleção de ratinhos de fada arco-íris, um dos quais tem um truque especial.</desc>
   </programme>
   <programme start="20260729090000 -0300" stop="20260729091000 -0300" channel="TV Cultura.br">
     <title lang="pt">Milo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, cantar e dançar. Cada dia guarda uma surpresa diferente.</desc>
+    <category lang="pt">Temporada 2 Episódio 20 - Milo, o Dono de Restaurante</category>
+    <desc lang="pt">Milo e seus amigos tomam conta do restaurante de Vincent. Quando sobrecarregam o gerador temporário e causam uma queda de energia, parece que não haverá comida para ninguém.</desc>
   </programme>
   <programme start="20260729091000 -0300" stop="20260729092500 -0300" channel="TV Cultura.br">
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
@@ -936,7 +936,7 @@
   </programme>
   <programme start="20260729095500 -0300" stop="20260729100500 -0300" channel="TV Cultura.br">
     <title lang="pt">Os Óculos Mágicos de Charlotte</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 8 - Água</category>
     <desc lang="pt">A pequena Charlotte, uma menina de sete anos, ganha óculos mágicos de presente da fada do dente que permite que ela veja o mundo como ele deveria ser.</desc>
   </programme>
   <programme start="20260729100500 -0300" stop="20260729101000 -0300" channel="TV Cultura.br">
@@ -946,6 +946,7 @@
   </programme>
   <programme start="20260729101000 -0300" stop="20260729101500 -0300" channel="TV Cultura.br">
     <title lang="pt">Meu Campinho</title>
+    <category lang="pt">Temporada 1 Episódio 7 - Uma Fantasia de Principezinho</category>
     <desc lang="pt">Crianças compartilham experiências inesquecíveis que viveram no campo de futebol: um pênalti decisivo, uma lembrança familiar, uma derrota marcante ou um sonho aparentemente impossível.</desc>
   </programme>
   <programme start="20260729101500 -0300" stop="20260729102000 -0300" channel="TV Cultura.br">
@@ -954,13 +955,13 @@
   </programme>
   <programme start="20260729102000 -0300" stop="20260729103000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Show da Luna!</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Luna, uma garota de seis anos que ama ciências, acredita que a Terra é um enorme laboratório. Luna, seu irmão e seu furão de estimação praticam ciência diariamente, formulando hipóteses e fazendo experimentos.</desc>
+    <category lang="pt">Temporada 6 Episódio 14 - Antares Chamando Planeta Terra</category>
+    <desc lang="pt">Luna, Júpiter e Claudio estão observando o espaço com lunetas. Luna começa a perceber que algumas estrelas são mais azuis e outras são mais avermelhadas.</desc>
   </programme>
   <programme start="20260729103000 -0300" stop="20260729104000 -0300" channel="TV Cultura.br">
     <title lang="pt">Turbossauros</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Dinossauros capazes de se transformar em máquinas potentes ajudam seus amigos Katie e Peter a resolver problemas grandes e pequenos.</desc>
+    <category lang="pt">Temporada 1 Episódio 22 - A Grande Escavação</category>
+    <desc lang="pt">Peter e Katie encontram na floresta uma moeda que parece muito antiga. A avó conta a eles que existia uma aldeia há muito tempo na floresta e que podem encontrar antiguidades e até tesouro por lá. Os Turbossauros vão para a floresta fazer escavações.</desc>
   </programme>
   <programme start="20260729104000 -0300" stop="20260729104500 -0300" channel="TV Cultura.br">
     <title lang="pt">Godofredo</title>
@@ -969,7 +970,7 @@
   </programme>
   <programme start="20260729104500 -0300" stop="20260729110000 -0300" channel="TV Cultura.br">
     <title lang="pt">Iuri &amp; Udi</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 17 - Era Sal que me Faltava...</category>
     <desc lang="pt">Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inventos, se transformando em grandes e poderosas máquinas.</desc>
   </programme>
   <programme start="20260729110000 -0300" stop="20260729111000 -0300" channel="TV Cultura.br">
@@ -979,18 +980,18 @@
   </programme>
   <programme start="20260729111000 -0300" stop="20260729111500 -0300" channel="TV Cultura.br">
     <title lang="pt">Morgana &amp; Celeste</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">A poderosa bruxa Morgana, de &quot;Castelo Rá-Tim-Bum&quot;, relembra grandes momentos da história da humanidade testemunhados por ela. Ao lado, com os ouvidos sempre atentos, está a cobra mais curiosa e desbocada de todos os tempos, Celeste.</desc>
+    <category lang="pt">Temporada 1 Episódio 58 - D'Artagnan e os Três Mosqueteiros</category>
+    <desc lang="pt">Morgana separa algumas roupas antigas e, sem querer, coloca um chapéu em Celeste.</desc>
   </programme>
   <programme start="20260729111500 -0300" stop="20260729113500 -0300" channel="TV Cultura.br">
     <title lang="pt">Weme e a Natureza</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Crianças ao redor do mundo falam sobre meio ambiente destacando diferentes elementos da natureza.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - Ar</category>
+    <desc lang="pt">Uma explicação sobre como é o ar em diferentes países. Alma, da Finlândia, está tornando o ar visível. Achitmaa mostra o que eles estão fazendo contra a má qualidade do ar na Mongólia. Natee, da Tailândia, e seus amigos estão soltando uma pipa.</desc>
   </programme>
   <programme start="20260729113500 -0300" stop="20260729114500 -0300" channel="TV Cultura.br">
     <title lang="pt">Turma da Mônica</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da turminha participam de várias aventuras.</desc>
+    <category lang="pt">Temporada 3 Episódio 17 - O Mistério do Cascão</category>
+    <desc lang="pt">Como o maior fã de Itaquera, Cascão decide fazer uma tatuagem em homenagem a seu herói. Porém, descobre que, na verdade, ele é um traidor, e agora precisa esconder de seus amigos que foi o último a saber disso.</desc>
   </programme>
   <programme start="20260729114500 -0300" stop="20260729120000 -0300" channel="TV Cultura.br">
     <title lang="pt">Quintal da Cultura</title>
@@ -1004,13 +1005,13 @@
   </programme>
   <programme start="20260729124500 -0300" stop="20260729130000 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó na Cidade</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">A turma da fazenda vive muitas aventuras na cidade de São Paulo com João, primo de Júlio, e sua família. Eles passeiam por diferentes lugares, jogam bola no Beco do Roto e também fazem novos amigos.</desc>
+    <category lang="pt">Temporada 2 Episódio 6 - Mauro Bom de Bola</category>
+    <desc lang="pt">Mauro, um amigo do Júlio de Cocoricolândia, vem para a cidade. Todos ficam animados com sua chegada e se divertem muito juntos.</desc>
   </programme>
   <programme start="20260729130000 -0300" stop="20260729131500 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Fazenda Cocoricó, localizada na cidade de Cocoricolândia.</desc>
+    <category lang="pt">Temporada 3 Episódio 21 - O Barquinho Vai...</category>
+    <desc lang="pt">Chove muito e Lola ensina origami para as crianças. Eles se juntam e usam as dobraduras em uma peça de teatro sobre o Soldadinho de Chumbo.</desc>
   </programme>
   <programme start="20260729131500 -0300" stop="20260729132500 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
@@ -1019,13 +1020,13 @@
   </programme>
   <programme start="20260729132500 -0300" stop="20260729133000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a empilhadeira e Scoop a escavadeira, constroem juntos novos modelos.</desc>
+    <category lang="pt">Temporada 4 Episódio 13 - Geladeira</category>
+    <desc lang="pt">Os robôs trazem sorvetes para todos, mas enquanto jogavam futebol, ele derrete; Léo tem uma ideia e constrói uma geladeira. Agora, o sorvete não derrete tão rápido e vai ficar gelado.</desc>
   </programme>
   <programme start="20260729133000 -0300" stop="20260729134000 -0300" channel="TV Cultura.br">
     <title lang="pt">Planeta Palavra</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.</desc>
+    <category lang="pt">Temporada 1 Episódio 1 - Os Super Bombeiros</category>
+    <desc lang="pt">Vaca e Jacaré brincam de super bombeiros e saem com um balde de água à procura de Fogo. Depois de muita trapalhada com a Onça e de acabar com o churrasco da Galinha, cantam e dançam enquanto comem milho assado.</desc>
   </programme>
   <programme start="20260729134000 -0300" stop="20260729135000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bino e Fino</title>
@@ -1034,18 +1035,23 @@
   </programme>
   <programme start="20260729135000 -0300" stop="20260729140000 -0300" channel="TV Cultura.br">
     <title lang="pt">Milo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, cantar e dançar. Cada dia guarda uma surpresa diferente.</desc>
+    <category lang="pt">Temporada 2 Episódio 20 - Milo, o Dono de Restaurante</category>
+    <desc lang="pt">Milo e seus amigos tomam conta do restaurante de Vincent. Quando sobrecarregam o gerador temporário e causam uma queda de energia, parece que não haverá comida para ninguém.</desc>
   </programme>
   <programme start="20260729140000 -0300" stop="20260729141500 -0300" channel="TV Cultura.br">
     <title lang="pt">Meu AmigãoZão</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Presas em uma sala de reuniões enquanto esperam o pai de Matt levá-las à praia, as crianças encontram uma forma de se divertir; Yuri não consegue decidir que sabor de sorvete quer tomar.</desc>
   </programme>
-  <programme start="20260729141500 -0300" stop="20260729143000 -0300" channel="TV Cultura.br">
+  <programme start="20260729141500 -0300" stop="20260729142000 -0300" channel="TV Cultura.br">
     <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Masha canta canções de ninar que sempre ensinam algo novo, interessante e divertido.</desc>
+    <category lang="pt">Temporada 6 Episódio 3 - Peguem Aquela Sopa</category>
+    <desc lang="pt">Os lobos vão cozinhar a sopa borscht sob a orientação de Masha. Eles têm um livro de receitas, uma panela grande e um apetite voraz, mas ainda precisam conseguir os ingredientes.</desc>
+  </programme>
+  <programme start="20260729142000 -0300" stop="20260729143000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Temporada 6 Episódio 4 - Truque de Mágica</category>
+    <desc lang="pt">O Urso recebe a visita de seu antigo companheiro de circo. No entanto, Masha entra em cena com seus planos caóticos e começa a pregar peças e causar confusão.</desc>
   </programme>
   <programme start="20260729143000 -0300" stop="20260729144500 -0300" channel="TV Cultura.br">
     <title lang="pt">Ninhos em Movimento</title>
@@ -1054,7 +1060,7 @@
   </programme>
   <programme start="20260729144500 -0300" stop="20260729150000 -0300" channel="TV Cultura.br">
     <title lang="pt">Sol em Dó Ré Mi</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 1 - Dentista; Enfrentar Situações Difíceis</category>
     <desc lang="pt">A menina Sol, de seis anos, tem um segredo: ela conhece uma melodia secreta que abre um portal que a leva até o mundo Dó Ré Mi. Lá, ela aprende lições importantes com seus amigos instrumentos para enfrentar desafios no seu próprio mundo.</desc>
   </programme>
   <programme start="20260729150000 -0300" stop="20260729151500 -0300" channel="TV Cultura.br">
@@ -1069,11 +1075,12 @@
   </programme>
   <programme start="20260729153000 -0300" stop="20260729154500 -0300" channel="TV Cultura.br">
     <title lang="pt">Iuri &amp; Udi</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 17 - Era Sal que me Faltava...</category>
     <desc lang="pt">Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inventos, se transformando em grandes e poderosas máquinas.</desc>
   </programme>
   <programme start="20260729154500 -0300" stop="20260729155000 -0300" channel="TV Cultura.br">
     <title lang="pt">Meu Campinho</title>
+    <category lang="pt">Temporada 1 Episódio 7 - Uma Fantasia de Principezinho</category>
     <desc lang="pt">Crianças compartilham experiências inesquecíveis que viveram no campo de futebol: um pênalti decisivo, uma lembrança familiar, uma derrota marcante ou um sonho aparentemente impossível.</desc>
   </programme>
   <programme start="20260729155000 -0300" stop="20260729155500 -0300" channel="TV Cultura.br">
@@ -1082,18 +1089,18 @@
   </programme>
   <programme start="20260729155500 -0300" stop="20260729160000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Show da Luna!</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Luna, uma garota de seis anos que ama ciências, acredita que a Terra é um enorme laboratório. Luna, seu irmão e seu furão de estimação praticam ciência diariamente, formulando hipóteses e fazendo experimentos.</desc>
+    <category lang="pt">Temporada 6 Episódio 14 - Antares Chamando Planeta Terra</category>
+    <desc lang="pt">Luna, Júpiter e Claudio estão observando o espaço com lunetas. Luna começa a perceber que algumas estrelas são mais azuis e outras são mais avermelhadas.</desc>
   </programme>
   <programme start="20260729160000 -0300" stop="20260729162000 -0300" channel="TV Cultura.br">
     <title lang="pt">Weme e a Natureza</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Crianças ao redor do mundo falam sobre meio ambiente destacando diferentes elementos da natureza.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - Ar</category>
+    <desc lang="pt">Uma explicação sobre como é o ar em diferentes países. Alma, da Finlândia, está tornando o ar visível. Achitmaa mostra o que eles estão fazendo contra a má qualidade do ar na Mongólia. Natee, da Tailândia, e seus amigos estão soltando uma pipa.</desc>
   </programme>
   <programme start="20260729162000 -0300" stop="20260729163000 -0300" channel="TV Cultura.br">
     <title lang="pt">Turma da Mônica</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da turminha participam de várias aventuras.</desc>
+    <category lang="pt">Temporada 3 Episódio 17 - O Mistério do Cascão</category>
+    <desc lang="pt">Como o maior fã de Itaquera, Cascão decide fazer uma tatuagem em homenagem a seu herói. Porém, descobre que, na verdade, ele é um traidor, e agora precisa esconder de seus amigos que foi o último a saber disso.</desc>
   </programme>
   <programme start="20260729163000 -0300" stop="20260729164500 -0300" channel="TV Cultura.br">
     <title lang="pt">Quintal da Cultura</title>
@@ -1102,13 +1109,13 @@
   </programme>
   <programme start="20260729164500 -0300" stop="20260729171500 -0300" channel="TV Cultura.br">
     <title lang="pt">O Cerrado e Outros Bichos</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Seres mitológicos como Curupira e Mãe do Morro se unem a adolescentes modernos para salvar o meio ambiente. Enfrentam o vilão Mall Corp, que trama sequestrar o Curupira e destruir o Cerrado.</desc>
+    <category lang="pt">Temporada 2 Episódio 3</category>
+    <desc lang="pt">Niah revela que Nonda, o bisavô dela, é um pajé; Mal Corp planeja destruir a natureza; Ísis sonha com o Curupira e decide encontrar Nonda; no Cerrado, a busca pelo Curupira continua.</desc>
   </programme>
   <programme start="20260729171500 -0300" stop="20260729173000 -0300" channel="TV Cultura.br">
     <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um garoto tímido e sem nome é sempre chamado de irmão do Jorel. Sendo quase sempre ofuscado pela fama e popularidade de seu irmão mais velho, ele tenta ganhar sua própria identidade e ser alguém importante na família.</desc>
+    <category lang="pt">Temporada 3 Episódio 26 - Rock 'n' Sprok</category>
+    <desc lang="pt">Seu Edson decide ir ao festival de rock da marca Sprok porque sua banda favorita vai ser a atração principal. Ele leva toda a família sem pagar ingresso, entrando pela saída andando de costas; Irmão do Jorel finalmente toma coragem de dizer a Lara o que tanto queria, mas nunca conseguiu. O difícil vai ser encontrá-la no meio da multidão; uma aparição surpresa do Cuecas em Chamas no palco está para acontecer e Yuki aproveita a oportunidade para lançar sua carreira musical.</desc>
   </programme>
   <programme start="20260729173000 -0300" stop="20260729180000 -0300" channel="TV Cultura.br">
     <title lang="pt">Mundo da Lua</title>
@@ -1117,22 +1124,32 @@
   </programme>
   <programme start="20260729180000 -0300" stop="20260729183000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Mundo de Beakman</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">O excêntrico cientista Beakman, por meio de experimentos químicos bizarros e divertidos, ilustra conceitos básicos da ciência e da natureza.</desc>
+    <category lang="pt">Temporada 3 Episódio 12 - Aço, Beakmania e Fotografia</category>
+    <desc lang="pt">Beakman e sua equipe falam sobre a produção de aço e explicam a evolução da fotografia.</desc>
   </programme>
-  <programme start="20260729183000 -0300" stop="20260729190000 -0300" channel="TV Cultura.br">
+  <programme start="20260729183000 -0300" stop="20260729184000 -0300" channel="TV Cultura.br">
     <title lang="pt">Shaun, o Carneiro</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Shaun é um carneiro extremamente inteligente e bastante criativo que vive em uma pequena fazenda. Ele é o líder do rebanho e sempre se envolve em muitas confusões com seus amigos.</desc>
+    <category lang="pt">Temporada 1 Episódio 15 - Shaun Fotógrafo</category>
+    <desc lang="pt">Shaun encontra uma câmera perdida e começa a tirar algumas fotografias dos outros carneiros.</desc>
+  </programme>
+  <programme start="20260729184000 -0300" stop="20260729185000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Temporada 1 Episódio 14 - A Tosquia</category>
+    <desc lang="pt">O fazendeiro decide que é hora de cortar a lã do rebanho, mas quando as ovelhas veem sua primeira tentativa, Shaun e companhia decidem fugir antes que seja tarde demais.</desc>
+  </programme>
+  <programme start="20260729185000 -0300" stop="20260729190000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Temporada 1 Episódio 21 - O Cordeiro Perdido</category>
+    <desc lang="pt">Quando alguns membros do rebanho tomam o ônibus para ir até a feira local, Shaun tem que convencer o fazendeiro de que está tudo bem até que o cachorro pastor Bitzer possa reunir as ovelhas perdidas.</desc>
   </programme>
   <programme start="20260729190000 -0300" stop="20260729200000 -0300" channel="TV Cultura.br">
     <title lang="pt">Antimatéria - Energia Geek</title>
-    <category lang="pt">Gaming</category>
+    <category lang="pt">Temporada 1 Episódio 267</category>
     <desc lang="pt">Cultura pop, animes, games, filmes e séries tokusatsu.</desc>
   </programme>
   <programme start="20260729200000 -0300" stop="20260729210000 -0300" channel="TV Cultura.br">
     <title lang="pt">Boas Práticas Escolares</title>
-    <category lang="pt">Educational</category>
+    <category lang="pt">Temporada 4 Episódio 24</category>
     <desc lang="pt">Histórias de cidadania, inclusão e educação a partir de iniciativas transformadoras, dentro e fora do ambiente escolar, que geram impacto positivo na vida dos alunos por meio do esporte, sustentabilidade, dança, literatura e muito mais.</desc>
   </programme>
   <programme start="20260729210000 -0300" stop="20260729220000 -0300" channel="TV Cultura.br">
@@ -1151,9 +1168,9 @@
     <desc lang="pt">A importância da conservação e do uso sustentável dos oceanos, mares e de todo recurso marinho que o país tem à disposição e que é tão importante para a economia.</desc>
   </programme>
   <programme start="20260729233000 -0300" stop="20260730003000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Clássicos</title>
+    <title lang="pt">Quarteto de Cordas da Cidade de São Paulo</title>
     <category lang="pt">Music</category>
-    <desc lang="pt">Grandes concertos ou produções documentais sobre algum aspecto da música. Entre em contato com as mais importantes orquestras do mundo, sempre dirigidas por maestros famosos e solistas renomados.</desc>
+    <desc lang="pt">O Quarteto de Cordas, no ciclo integral de Beethoven, apresenta &quot;A Harpa e a Cobrança&quot;.</desc>
   </programme>
   <programme start="20260730003000 -0300" stop="20260730010000 -0300" channel="TV Cultura.br">
     <title lang="pt">Metrópolis</title>
@@ -22173,132 +22190,142 @@
     <category lang="pt">Temporada 21 Episódio 10 - Precisa Ser Responsabilizado</category>
     <desc lang="pt">Um pai toma uma medida desesperada para resolver por si só o caso do estuprador da sua filha.</desc>
   </programme>
-  <programme start="20260729060000 -0300" stop="20260729064800 -0300" channel="Warner Channel.br">
+  <programme start="20260729060000 -0300" stop="20260729061500 -0300" channel="Warner Channel.br">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+  </programme>
+  <programme start="20260729061500 -0300" stop="20260729063900 -0300" channel="Warner Channel.br">
+    <title lang="pt">Miracle Workers</title>
+    <category lang="pt">Temporada 4 Episódio 10 - The End</category>
+    <desc lang="pt">A batalha final por Boomtown está pronta para ser travada e Sid e Morris se preparam.</desc>
+  </programme>
+  <programme start="20260729063900 -0300" stop="20260729072200 -0300" channel="Warner Channel.br">
     <title lang="pt">Encontrados</title>
     <category lang="pt">Temporada 2 Episódio 1 - Desaparecida e Chamariz</category>
     <desc lang="pt">Gabi e sua equipe na Mosely &amp; Associados começam a desmoronar em meio à chocante revelação dela; os flashbacks da infância de Lacey começam a ressurgir, fornecendo pistas vitais enquanto Sir continua foragido.</desc>
   </programme>
-  <programme start="20260729064800 -0300" stop="20260729085100 -0300" channel="Warner Channel.br">
+  <programme start="20260729072200 -0300" stop="20260729092000 -0300" channel="Warner Channel.br">
     <title lang="pt">Caminhos da Memória</title>
     <category lang="pt">Science fiction / 2021</category>
     <desc lang="pt">Em um mundo em crise, as pessoas se voltam para uma tecnologia capaz de reviver memórias antigas. Um dia, Nick Bannister, um investigador particular da mente, se depara com uma cliente que desperta lembranças que o fascinam e intrigam. Desesperado e em busca de respostas, Nick mergulha em uma trama de mistérios e segredos.</desc>
   </programme>
-  <programme start="20260729085100 -0300" stop="20260729091400 -0300" channel="Warner Channel.br">
+  <programme start="20260729092000 -0300" stop="20260729094300 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 8 - Frankenstein and the Horny Villagers</category>
     <desc lang="pt">Alan sente o gostinho da vida sexual de Charlie ao conhecer uma moça que realiza todas as suas fantasias.</desc>
   </programme>
-  <programme start="20260729091400 -0300" stop="20260729093800 -0300" channel="Warner Channel.br">
+  <programme start="20260729094300 -0300" stop="20260729100700 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 9 - Yes, Monsignor</category>
     <desc lang="pt">Charlie encontra-se com uma ex-namorada (Denise Richards) e fica feliz ao descobrir que seu casamento acabou.</desc>
   </programme>
-  <programme start="20260729093800 -0300" stop="20260729100300 -0300" channel="Warner Channel.br">
+  <programme start="20260729100700 -0300" stop="20260729103000 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 10 - The Salmon Under My Sweater</category>
     <desc lang="pt">Charlie precisa escrever uma música sobre a história em quadrinhos favorita de Jake. Enquanto isso, Alan discute com Rose.</desc>
   </programme>
-  <programme start="20260729100300 -0300" stop="20260729102700 -0300" channel="Warner Channel.br">
+  <programme start="20260729103000 -0300" stop="20260729105300 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 11 - Last Chance to See Those Tattoos</category>
     <desc lang="pt">Charlie se surpreende quando Jake encontra um site na internet dedicado a suas habilidades com as mulheres.</desc>
   </programme>
-  <programme start="20260729102700 -0300" stop="20260729105300 -0300" channel="Warner Channel.br">
+  <programme start="20260729105300 -0300" stop="20260729111800 -0300" channel="Warner Channel.br">
     <title lang="pt">2 Broke Girls</title>
     <category lang="pt">Temporada 2 Episódio 17 - And the Broken Hip</category>
     <desc lang="pt">Max e Caroline tentam tirar um músico de rua da porta de sua loja e acabam com problemas na justiça.</desc>
   </programme>
-  <programme start="20260729105300 -0300" stop="20260729111700 -0300" channel="Warner Channel.br">
+  <programme start="20260729111800 -0300" stop="20260729114100 -0300" channel="Warner Channel.br">
     <title lang="pt">2 Broke Girls</title>
     <category lang="pt">Temporada 2 Episódio 18 - And Not-So-Sweet Charity</category>
     <desc lang="pt">Para não perder a loja de cupcakes, Caroline pede ajuda para sua tia rica, a insensível Charity.</desc>
   </programme>
-  <programme start="20260729111700 -0300" stop="20260729113500 -0300" channel="Warner Channel.br">
+  <programme start="20260729114100 -0300" stop="20260729120100 -0300" channel="Warner Channel.br">
     <title lang="pt">Young Sheldon</title>
     <category lang="pt">Temporada 4 Episódio 16 - A Second Prodigy and the Hottest Tips for Pouty Lips</category>
     <desc lang="pt">Sheldon se encontra em desacordo com Paige mais uma vez quando ela considera se inscrever na East Texas Tech; Mary procura o conselho de Junho, quando busca uma mudança.</desc>
   </programme>
-  <programme start="20260729113500 -0300" stop="20260729115700 -0300" channel="Warner Channel.br">
+  <programme start="20260729120100 -0300" stop="20260729122000 -0300" channel="Warner Channel.br">
     <title lang="pt">Young Sheldon</title>
     <category lang="pt">Temporada 4 Episódio 17 - A Black Hole</category>
     <desc lang="pt">A família Cooper discute as possibilidades de buracos negros e universos alternativos quando o Dr. Sturgis chega para jantar.</desc>
   </programme>
-  <programme start="20260729115700 -0300" stop="20260729122200 -0300" channel="Warner Channel.br">
+  <programme start="20260729122000 -0300" stop="20260729124300 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 10 - The Flaming Spittoon Acquisition</category>
     <desc lang="pt">Sheldon fica com ciúme quando Stuart (Kevin Sussman), da loja de revistas em quadrinhos, convida Amy para sair.</desc>
   </programme>
-  <programme start="20260729122200 -0300" stop="20260729124400 -0300" channel="Warner Channel.br">
+  <programme start="20260729124300 -0300" stop="20260729130400 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 11 - The Speckerman Recurrence</category>
     <desc lang="pt">Leonard confronta o valentão que atormentou sua vida no colégio e Penny percebe que já atormentou pessoas o suficiente no passado.</desc>
   </programme>
-  <programme start="20260729124400 -0300" stop="20260729130600 -0300" channel="Warner Channel.br">
+  <programme start="20260729130400 -0300" stop="20260729132800 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 12 - The Shiny Trinket Maneuver</category>
     <desc lang="pt">Amy irrita-se com Sheldon quando ele não se importa com sua mais recente conquista profissional; Howard enfrenta a aversão de Bernadette às crianças.</desc>
   </programme>
-  <programme start="20260729130600 -0300" stop="20260729133100 -0300" channel="Warner Channel.br">
+  <programme start="20260729132800 -0300" stop="20260729135100 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 13 - The Recombination Hypothesis</category>
     <desc lang="pt">Neste episódio de número 100, Leonard decide convidar Penny para sair e os dois decidem dar outra chance ao relacionamento. O casal discute durante o jantar, mas acaba dormindo junto.</desc>
   </programme>
-  <programme start="20260729133100 -0300" stop="20260729135500 -0300" channel="Warner Channel.br">
+  <programme start="20260729135100 -0300" stop="20260729141300 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 14 - The Beta Test Initiation</category>
     <desc lang="pt">Para fazer um teste, Penny e Leonard começam a sair de novo; Raj tem um relacionamento estranho com sua nova assistente telefônica virtual.</desc>
   </programme>
-  <programme start="20260729135500 -0300" stop="20260729142000 -0300" channel="Warner Channel.br">
+  <programme start="20260729141300 -0300" stop="20260729143600 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 15 - The Friendship Contraction</category>
     <desc lang="pt">Leonard começa a reconsiderar sua amizade com Sheldon. Wolowitz tenta escolher seu apelido de astronauta.</desc>
   </programme>
-  <programme start="20260729142000 -0300" stop="20260729144200 -0300" channel="Warner Channel.br">
+  <programme start="20260729143600 -0300" stop="20260729145900 -0300" channel="Warner Channel.br">
     <title lang="pt">2 Broke Girls</title>
     <category lang="pt">Temporada 2 Episódio 17 - And the Broken Hip</category>
     <desc lang="pt">Max e Caroline tentam tirar um músico de rua da porta de sua loja e acabam com problemas na justiça.</desc>
   </programme>
-  <programme start="20260729144200 -0300" stop="20260729150700 -0300" channel="Warner Channel.br">
+  <programme start="20260729145900 -0300" stop="20260729152300 -0300" channel="Warner Channel.br">
     <title lang="pt">2 Broke Girls</title>
     <category lang="pt">Temporada 2 Episódio 18 - And Not-So-Sweet Charity</category>
     <desc lang="pt">Para não perder a loja de cupcakes, Caroline pede ajuda para sua tia rica, a insensível Charity.</desc>
   </programme>
-  <programme start="20260729150700 -0300" stop="20260729153200 -0300" channel="Warner Channel.br">
+  <programme start="20260729152300 -0300" stop="20260729154600 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 8 - Frankenstein and the Horny Villagers</category>
     <desc lang="pt">Alan sente o gostinho da vida sexual de Charlie ao conhecer uma moça que realiza todas as suas fantasias.</desc>
   </programme>
-  <programme start="20260729153200 -0300" stop="20260729155800 -0300" channel="Warner Channel.br">
+  <programme start="20260729154600 -0300" stop="20260729161000 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 9 - Yes, Monsignor</category>
     <desc lang="pt">Charlie encontra-se com uma ex-namorada (Denise Richards) e fica feliz ao descobrir que seu casamento acabou.</desc>
   </programme>
-  <programme start="20260729155800 -0300" stop="20260729175900 -0300" channel="Warner Channel.br">
+  <programme start="20260729161000 -0300" stop="20260729180300 -0300" channel="Warner Channel.br">
     <title lang="pt">Caçadores de Emoção - Além do Limite</title>
     <category lang="pt">Action / 2015</category>
     <desc lang="pt">Johnny Utah, um jovem agente especial do FBI, se infiltra em um grupo de atletas de elite que amam a adrenalina. Liderado pelo carismático Bodhi, a gangue é suspeita de cometer crimes de maneiras incomuns.</desc>
   </programme>
-  <programme start="20260729175900 -0300" stop="20260729200600 -0300" channel="Warner Channel.br">
+  <programme start="20260729180300 -0300" stop="20260729200900 -0300" channel="Warner Channel.br">
     <title lang="pt">Deus É Brasileiro</title>
     <category lang="pt">Comedy drama / 2003</category>
     <desc lang="pt">Cansado de tantos erros cometidos pela humanidade, Deus resolve tirar férias dela. Ele decide ir descansar em alguma estrela distante. Para isso, precisa encontrar um substituto para ficar em seu lugar enquanto estiver fora. Resolve, então, procurá-lo no Brasil, já que é um país tão religioso. Seu guia nessa busca é Taoca, um esperto pescador que vê em seu encontro com Deus uma grande chance de se livrar dos problemas pessoais. Juntos, eles rodam o Brasil em busca de um substituto ideal.</desc>
   </programme>
-  <programme start="20260729200600 -0300" stop="20260729203100 -0300" channel="Warner Channel.br">
+  <programme start="20260729200900 -0300" stop="20260729203200 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 10 - The Flaming Spittoon Acquisition</category>
     <desc lang="pt">Sheldon fica com ciúme quando Stuart (Kevin Sussman), da loja de revistas em quadrinhos, convida Amy para sair.</desc>
   </programme>
-  <programme start="20260729203100 -0300" stop="20260729205600 -0300" channel="Warner Channel.br">
+  <programme start="20260729203200 -0300" stop="20260729205400 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 11 - The Speckerman Recurrence</category>
     <desc lang="pt">Leonard confronta o valentão que atormentou sua vida no colégio e Penny percebe que já atormentou pessoas o suficiente no passado.</desc>
   </programme>
-  <programme start="20260729205600 -0300" stop="20260729212000 -0300" channel="Warner Channel.br">
+  <programme start="20260729205400 -0300" stop="20260729211800 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 12 - The Shiny Trinket Maneuver</category>
     <desc lang="pt">Amy irrita-se com Sheldon quando ele não se importa com sua mais recente conquista profissional; Howard enfrenta a aversão de Bernadette às crianças.</desc>
   </programme>
-  <programme start="20260729212000 -0300" stop="20260729214300 -0300" channel="Warner Channel.br">
+  <programme start="20260729211800 -0300" stop="20260729214300 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 13 - The Recombination Hypothesis</category>
     <desc lang="pt">Neste episódio de número 100, Leonard decide convidar Penny para sair e os dois decidem dar outra chance ao relacionamento. O casal discute durante o jantar, mas acaba dormindo junto.</desc>
@@ -22313,70 +22340,75 @@
     <category lang="pt">Temporada 5 Episódio 15 - The Friendship Contraction</category>
     <desc lang="pt">Leonard começa a reconsiderar sua amizade com Sheldon. Wolowitz tenta escolher seu apelido de astronauta.</desc>
   </programme>
-  <programme start="20260729223000 -0300" stop="20260730011600 -0300" channel="Warner Channel.br">
+  <programme start="20260729223000 -0300" stop="20260730012100 -0300" channel="Warner Channel.br">
     <title lang="pt">Duna</title>
     <category lang="pt">Science fiction / 2021</category>
     <desc lang="pt">Paul Atreides é um jovem brilhante, dono de um destino além de sua compreensão. Ele deve viajar para o planeta mais perigoso do universo para garantir o futuro de seu povo.</desc>
   </programme>
-  <programme start="20260730011600 -0300" stop="20260730013800 -0300" channel="Warner Channel.br">
+  <programme start="20260730012100 -0300" stop="20260730014500 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 8 - Frankenstein and the Horny Villagers</category>
     <desc lang="pt">Alan sente o gostinho da vida sexual de Charlie ao conhecer uma moça que realiza todas as suas fantasias.</desc>
   </programme>
-  <programme start="20260730013800 -0300" stop="20260730020200 -0300" channel="Warner Channel.br">
+  <programme start="20260730014500 -0300" stop="20260730021000 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 9 - Yes, Monsignor</category>
     <desc lang="pt">Charlie encontra-se com uma ex-namorada (Denise Richards) e fica feliz ao descobrir que seu casamento acabou.</desc>
   </programme>
-  <programme start="20260730020200 -0300" stop="20260730022500 -0300" channel="Warner Channel.br">
+  <programme start="20260730021000 -0300" stop="20260730023200 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 10 - The Salmon Under My Sweater</category>
     <desc lang="pt">Charlie precisa escrever uma música sobre a história em quadrinhos favorita de Jake. Enquanto isso, Alan discute com Rose.</desc>
   </programme>
-  <programme start="20260730022500 -0300" stop="20260730024700 -0300" channel="Warner Channel.br">
+  <programme start="20260730023200 -0300" stop="20260730025500 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 11 - Last Chance to See Those Tattoos</category>
     <desc lang="pt">Charlie se surpreende quando Jake encontra um site na internet dedicado a suas habilidades com as mulheres.</desc>
   </programme>
-  <programme start="20260730024700 -0300" stop="20260730030800 -0300" channel="Warner Channel.br">
+  <programme start="20260730025500 -0300" stop="20260730031600 -0300" channel="Warner Channel.br">
     <title lang="pt">Two and a Half Men</title>
     <category lang="pt">Temporada 2 Episódio 12 - A Lungful of Alan</category>
     <desc lang="pt">Uma ex-colega (Paget Brewster) de escola de Alan retorna muito mais atraente e os dois irmãos competem por sua atenção.</desc>
   </programme>
-  <programme start="20260730030800 -0300" stop="20260730033000 -0300" channel="Warner Channel.br">
+  <programme start="20260730031600 -0300" stop="20260730033800 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 10 - The Flaming Spittoon Acquisition</category>
     <desc lang="pt">Sheldon fica com ciúme quando Stuart (Kevin Sussman), da loja de revistas em quadrinhos, convida Amy para sair.</desc>
   </programme>
-  <programme start="20260730033000 -0300" stop="20260730035100 -0300" channel="Warner Channel.br">
+  <programme start="20260730033800 -0300" stop="20260730035800 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 11 - The Speckerman Recurrence</category>
     <desc lang="pt">Leonard confronta o valentão que atormentou sua vida no colégio e Penny percebe que já atormentou pessoas o suficiente no passado.</desc>
   </programme>
-  <programme start="20260730035100 -0300" stop="20260730041100 -0300" channel="Warner Channel.br">
+  <programme start="20260730035800 -0300" stop="20260730042000 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 12 - The Shiny Trinket Maneuver</category>
     <desc lang="pt">Amy irrita-se com Sheldon quando ele não se importa com sua mais recente conquista profissional; Howard enfrenta a aversão de Bernadette às crianças.</desc>
   </programme>
-  <programme start="20260730041100 -0300" stop="20260730043400 -0300" channel="Warner Channel.br">
+  <programme start="20260730042000 -0300" stop="20260730044300 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 13 - The Recombination Hypothesis</category>
     <desc lang="pt">Neste episódio de número 100, Leonard decide convidar Penny para sair e os dois decidem dar outra chance ao relacionamento. O casal discute durante o jantar, mas acaba dormindo junto.</desc>
   </programme>
-  <programme start="20260730043400 -0300" stop="20260730045600 -0300" channel="Warner Channel.br">
+  <programme start="20260730044300 -0300" stop="20260730050300 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 14 - The Beta Test Initiation</category>
     <desc lang="pt">Para fazer um teste, Penny e Leonard começam a sair de novo; Raj tem um relacionamento estranho com sua nova assistente telefônica virtual.</desc>
   </programme>
-  <programme start="20260730045600 -0300" stop="20260730051700 -0300" channel="Warner Channel.br">
+  <programme start="20260730050300 -0300" stop="20260730052400 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory</title>
     <category lang="pt">Temporada 5 Episódio 15 - The Friendship Contraction</category>
     <desc lang="pt">Leonard começa a reconsiderar sua amizade com Sheldon. Wolowitz tenta escolher seu apelido de astronauta.</desc>
   </programme>
-  <programme start="20260730051700 -0300" stop="20260730060000 -0300" channel="Warner Channel.br">
-    <title lang="pt">Encontrados</title>
-    <category lang="pt">Temporada 2 Episódio 1 - Desaparecida e Chamariz</category>
-    <desc lang="pt">Gabi e sua equipe na Mosely &amp; Associados começam a desmoronar em meio à chocante revelação dela; os flashbacks da infância de Lacey começam a ressurgir, fornecendo pistas vitais enquanto Sir continua foragido.</desc>
+  <programme start="20260730052400 -0300" stop="20260730055000 -0300" channel="Warner Channel.br">
+    <title lang="pt">Search Party</title>
+    <category lang="pt">Temporada 1 Episódio 1 - O Misterioso Desaparecimento da Garota que Ninguém Conhecia</category>
+    <desc lang="pt">Dory descobre que sua amiga Chantal desapareceu e fica obcecada em descobrir o que realmente aconteceu. No entanto, seu namorado Drew e seus amigos Elliott e Portia não se mostram nem um pouco preocupados com o fato.</desc>
+  </programme>
+  <programme start="20260730055000 -0300" stop="20260730060000 -0300" channel="Warner Channel.br">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
   <programme start="20260730060000 -0300" stop="20260730063700 -0300" channel="Warner Channel.br">
     <title lang="pt">Encontrados</title>
@@ -29199,41 +29231,41 @@
     <title lang="pt">Eclipse Total</title>
     <desc lang="pt">Após ter sido absolvida do assassinato do marido, uma mulher é acusada de matar seu chefe. Uma jornalista volta à cidade com sua filha para cobrir o caso e se vê obrigada a enfrentar seu passado e confrontar sua mãe.</desc>
   </programme>
-  <programme start="20260730060000 -0300" stop="20260730063000 -0300" channel="HBO Mundi.br">
-    <title lang="pt">State of Play</title>
-    <category lang="pt">Temporada 2 Episódio 1 - Violência Inerente</category>
-    <desc lang="pt">Conheça dois relacionamentos de pai e filho: um lutador de MMA treinando seu filho de 10 anos para o combate, e um ex-jogador de Calcio Storico que prepara seu filho para participar nesta categoria antiga e violenta do esporte.</desc>
-  </programme>
-  <programme start="20260730063000 -0300" stop="20260730080000 -0300" channel="HBO Mundi.br">
+  <programme start="20260730060000 -0300" stop="20260730073000 -0300" channel="HBO Mundi.br">
     <title lang="pt">Isto É Spinal Tap 2</title>
     <category lang="pt">Music / 2025</category>
     <desc lang="pt">Marty DiBergi acompanha os colegas afastados da banda Spinal Tap, David St. Hubbins, Nigel Tufnel e Derek Smalls, reunidos para um último show. Com Paul McCartney e Elton John, Spinal Tap enfrenta seu passado tumultuado para um espetáculo que almejam firmar no panteão do rock 'n' roll.</desc>
   </programme>
-  <programme start="20260730080000 -0300" stop="20260730102500 -0300" channel="HBO Mundi.br">
+  <programme start="20260730073000 -0300" stop="20260730095500 -0300" channel="HBO Mundi.br">
     <title lang="pt">Jerry Maguire - A Grande Virada</title>
     <category lang="pt">Romantic comedy / 1996</category>
     <desc lang="pt">Um empresário de atletas que comete o erro de dizer o que pensa se vê abandonado por todos os seus clientes, exceto o jogador de futebol americano Rod Tidwell. A vida pessoal de Maguire também começa a se desintegrar quando ele fica dividido entre amor e dinheiro nesta metáfora sobre a necessidade de dinheiro e poder dos americanos.</desc>
   </programme>
-  <programme start="20260730102500 -0300" stop="20260730125000 -0300" channel="HBO Mundi.br">
+  <programme start="20260730095500 -0300" stop="20260730122000 -0300" channel="HBO Mundi.br">
     <title lang="pt">Manchester à Beira-Mar</title>
     <category lang="pt">Drama / 2016</category>
     <desc lang="pt">Lee Chandler é forçado a retornar para sua cidade natal para tomar conta de seu sobrinho adolescente após o pai do rapaz, seu irmão, falecer precocemente. Este retorno ficará ainda mais complicado quando Lee precisar enfrentar as razões que o fizeram deixar sua família para trás, anos antes.</desc>
   </programme>
-  <programme start="20260730125000 -0300" stop="20260730150000 -0300" channel="HBO Mundi.br">
+  <programme start="20260730122000 -0300" stop="20260730143000 -0300" channel="HBO Mundi.br">
     <title lang="pt">Roman J. Israel, Esq.</title>
     <desc lang="pt">Roman Israel é um advogado de defesa idealista que decide mudar de firma após a morte do seu mentor e chefe. Ele passa por uma crise moral ao precisar defender Langston Bailey, um homem acusado de homicídio.</desc>
   </programme>
-  <programme start="20260730150000 -0300" stop="20260730170000 -0300" channel="HBO Mundi.br">
+  <programme start="20260730143000 -0300" stop="20260730163000 -0300" channel="HBO Mundi.br">
     <title lang="pt">O Corpo</title>
     <category lang="pt">Thriller / 2024</category>
     <desc lang="pt">Um vigia noturno foge do necrotério onde trabalha e é atropelado. O inspetor chamado para investigar descobre que o corpo de uma mulher falecida recentemente desapareceu e o viúvo se torna suspeito.</desc>
   </programme>
-  <programme start="20260730170000 -0300" stop="20260730194500 -0300" channel="HBO Mundi.br">
+  <programme start="20260730163000 -0300" stop="20260730191200 -0300" channel="HBO Mundi.br">
     <title lang="pt">Millennium - Os Homens que Não Amavam as Mulheres</title>
     <category lang="pt">Thriller / 2011</category>
     <desc lang="pt">Um jornalista investigativo e uma hacker de computador são contratados para desvendar o desaparecimento de uma jovem há 36 anos. À medida que avançam na investigação, crescem os riscos, pois a família da jovem não quer ter seus segredos revelados.</desc>
   </programme>
-  <programme start="20260730194500 -0300" stop="20260730220000 -0300" channel="HBO Mundi.br">
+  <programme start="20260730191200 -0300" stop="20260730194700 -0300" channel="HBO Mundi.br">
+    <title lang="pt">Funk.doc</title>
+    <category lang="pt">Temporada 1 Episódio 1 - O Berço do Funk</category>
+    <desc lang="pt">O Rio de Janeiro é embalado por um novo ritmo com a chegada do funk norte-americano na década de 1960. O funk encontra sua identidade carioca e se desenvolve até chegar na grande mídia na virada do século XXI, criando vários opositores no processo.</desc>
+  </programme>
+  <programme start="20260730194700 -0300" stop="20260730220000 -0300" channel="HBO Mundi.br">
     <title lang="pt">O Caso Richard Jewell</title>
     <category lang="pt">Drama / 2019</category>
     <desc lang="pt">A história real de Richard Jewell, segurança que se tornou um dos principais suspeitos de bombardear as Olimpíadas de Atlanta, em 1996, após ajudar inocentes a fugirem do local e avisar da existência de um dos explosivos.</desc>
@@ -29243,17 +29275,17 @@
     <category lang="pt">Drama / 1998</category>
     <desc lang="pt">O neonazista Derek Vinyard é preso após assassinar dois jovens negros que tentaram roubar seu carro. Após ser liberto, Derek promete mudar de vida e tenta evitar que seu irmão mais novo, Danny, siga os seus passos.</desc>
   </programme>
-  <programme start="20260731000500 -0300" stop="20260731015000 -0300" channel="HBO Mundi.br">
+  <programme start="20260731000500 -0300" stop="20260731014700 -0300" channel="HBO Mundi.br">
     <title lang="pt">A Incrível Eleanor</title>
     <category lang="pt">Drama / 2025</category>
     <desc lang="pt">Eleanor Morgenstein, de 94 anos, muda-se da Flórida para Nova York em busca de um novo recomeço. Ao entrar por acaso em um grupo de apoio para sobreviventes do Holocausto, ela conta uma história que assume uma vida própria e perigosa.</desc>
   </programme>
-  <programme start="20260731015000 -0300" stop="20260731040500 -0300" channel="HBO Mundi.br">
+  <programme start="20260731014700 -0300" stop="20260731040600 -0300" channel="HBO Mundi.br">
     <title lang="pt">Sobre Meninos e Lobos</title>
     <category lang="pt">Crime drama / 2003</category>
     <desc lang="pt">Três amigos de infância, Dave, Sean e Jimmy acabam se separando quando um deles, Dave, é sequestrado e sofre terríveis abusos sexuais. Agora adultos, o passado volta a assombrá-los quando a filha de Jimmy é assassinada. Sean é o policial que investiga o caso, Jimmy quer revanche e Dave é o principal suspeito.</desc>
   </programme>
-  <programme start="20260731040500 -0300" stop="20260731050500 -0300" channel="HBO Mundi.br">
+  <programme start="20260731040600 -0300" stop="20260731050600 -0300" channel="HBO Mundi.br">
     <title lang="pt">Priscilla</title>
     <desc lang="pt">A adolescente Priscilla Beaulieu conhece Elvis Presley em uma festa e o astro se torna alguém completamente inesperado em momentos íntimos. Priscilla vive uma paixão arrebatadora com o rei do Rock, ganhando um aliado na solidão e um melhor amigo.</desc>
   </programme>
@@ -35246,26 +35278,6 @@
   <programme start="20260729220000 -0300" stop="20260729230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260729140000 -0300" stop="20260729160000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - América-MG x Goiás</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20260729160000 -0300" stop="20260729180000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - WNBA: Indiana Fever x Seattle Storm</title>
-    <category lang="pt">Esporte/Basquete Feminino</category>
-  </programme>
-  <programme start="20260729180000 -0300" stop="20260729190000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Pelas Quadras</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20260729190000 -0300" stop="20260729200000 -0300" channel="ESPN 3.br">
-    <title lang="pt">2026 NFL FLAG Championships</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20260729200000 -0300" stop="20260729210000 -0300" channel="ESPN 3.br">
-    <title lang="pt">2026 NFL FLAG Championships</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
   <programme start="20260729210000 -0300" stop="20260729220000 -0300" channel="ESPN 3.br">
     <title lang="pt">2026 NFL FLAG Championships</title>
     <category lang="pt">Esporte/Diversos</category>
@@ -36330,14 +36342,6 @@
     <title lang="pt">World Series of Poker Mesa Final: Dia 3 - Ao Vivo</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20260729154000 -0300" stop="20260729173000 -0300" channel="Combate.br">
-    <title lang="pt">Finais - Qingdao, China</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260729173000 -0300" stop="20260729200500 -0300" channel="Combate.br">
-    <title lang="pt">One Fight Night 45</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260729200500 -0300" stop="20260729223000 -0300" channel="Combate.br">
     <title lang="pt">Oktagon 91</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36685,22 +36689,6 @@
   <programme start="20260812200000 -0300" stop="20260812210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260729150000 -0300" stop="20260729170000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">O Livro de Eli</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20260729170000 -0300" stop="20260729182500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Extermínio: A Evolução</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260729182500 -0300" stop="20260729190000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260729190000 -0300" stop="20260729193500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20260729193500 -0300" stop="20260729220000 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Homem-Aranha 3</title>
