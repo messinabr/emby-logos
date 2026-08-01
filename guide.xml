@@ -827,44 +827,45 @@
     <category lang="pt">News</category>
     <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
   </programme>
-  <programme start="20260801050000 -0300" stop="20260801063000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Jornal da Cultura</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  <programme start="20260801060000 -0300" stop="20260801063000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Energia</title>
+    <category lang="pt">Exercise</category>
+    <desc lang="pt">Atualmente, a vida corrida e agitada, fruto do excesso de trabalho, tem feito com que a maioria das pessoas subestime sua qualidade de vida. Acompanhe aulas com meia hora de duração cada e dicas de como cuidar melhor do corpo.</desc>
   </programme>
   <programme start="20260801063000 -0300" stop="20260801070000 -0300" channel="TV Cultura.br">
     <title lang="pt">Vamos Pedalar</title>
+    <category lang="pt">Temporada 6 Episódio 9</category>
     <desc lang="pt">Eduardo Gasperini mostra, com interpretação em libras, o cotidiano de quem usa bicicletas, incentivando a mobilidade urbana e a conscientização de ciclistas.</desc>
   </programme>
   <programme start="20260801070000 -0300" stop="20260801071500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Peppa</title>
+    <title lang="pt">Peppa Pig</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todos levam seus bichinhos para uma competição de animais de estimação na escola; Mamãe Pig encontra uma aranha na casa e pede para Papai se livrar dela; a família se hospeda na casa da Prima Chloe; Vovó Pig coloca gnomos no jardim; chega o Natal.</desc>
+    <desc lang="pt">Peppa, George, Mamãe, Papai e Suzy vão visitar uma terra bem pequenininha; o Avô mostra a Peppa e George sua grande coleção de selos; a família de Peppa está no Digger World; Mamãe Pig tenta fazer que o novo chapéu de George não fique cheio de lama; George é convidado para o aniversário de Richard Coelho.</desc>
   </programme>
   <programme start="20260801071500 -0300" stop="20260801072000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a empilhadeira e Scoop a escavadeira, constroem juntos novos modelos.</desc>
+    <category lang="pt">Temporada 4 Episódio 16 - Reboque de Cavalos</category>
+    <desc lang="pt">Olha, o trem está partindo. Ah, não, um cavalo perdeu o trem. Não se preocupe. Léo, o caminhão, ajuda e constrói um pequeno trailer para transporte. O veículo ficou tão bom que tem até feno para o cavalo se alimentar durante o trajeto.</desc>
   </programme>
   <programme start="20260801072000 -0300" stop="20260801073000 -0300" channel="TV Cultura.br">
     <title lang="pt">Planeta Palavra</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - Mais Perto do Céu</category>
+    <desc lang="pt">Jacaré tem uma encomenda para entregar para a Coruja, que mora no alto de uma Jaqueira. Ele e a Onça, que tenta ajudá-lo, se enrolam para fazer a caixa chegar até lá. Até que finalizam a missão e observam a Lua com o telescópio que estava na caixa.</desc>
   </programme>
   <programme start="20260801073000 -0300" stop="20260801074000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bino e Fino</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Os irmãos Bino e Fino vivem na África com sua família. Com a ajuda de sua amiga Zeena, a borboleta mágica, os dois aprendem sobre a cultura e beleza do lugar.</desc>
+    <category lang="pt">Temporada 2 Episódio 7 - Hora de Dormir</category>
+    <desc lang="pt">Fino não foi dormir à noite na hora certa. No dia seguinte, ela lamenta não ter feito isso.</desc>
   </programme>
   <programme start="20260801074000 -0300" stop="20260801074500 -0300" channel="TV Cultura.br">
     <title lang="pt">Parquinho Jurássico</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Ágata, Enzo, Helena e Kauê são dinossauros que viveram no Brasil há mais de 70 milhões de anos. Juntos, os quatro vivem aventuras conduzidas com muita música e descobertas sobre a cultura brasileira e os dinossauros que aqui viveram.</desc>
+    <category lang="pt">Temporada 1 Episódio 2 - Dança do Catira e Cateretê</category>
+    <desc lang="pt">Ágata, Kauê e Enzo chegam ao interior de São Paulo para conhecer um novo ritmo musical, a Catira e o Cateretê. Também conhecem o violeiro que inspirou Almeida Júnior, um dos pintores paulistas mais importantes da nossa história.</desc>
   </programme>
   <programme start="20260801074500 -0300" stop="20260801080000 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Kazu não consegue acordar porque seu despertador quebrou; Pico e Bao Bao buscam uma nova engrenagem com ajuda de Blu no jardim secreto.</desc>
+    <desc lang="pt">Os Palaloos estão brincando de rolar pelos morros da Palalândia, mas Pico descobre que não consegue; os Palaloos descobrem uma linha azul no chão e começam a segui-la. Eles encontram Blu, que estava pintando tudo com um balde de tinta.</desc>
   </programme>
   <programme start="20260801080000 -0300" stop="20260801081500 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó Conta Clássicos</title>
@@ -873,28 +874,28 @@
   </programme>
   <programme start="20260801081500 -0300" stop="20260801083000 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Fazenda Cocoricó, localizada na cidade de Cocoricolândia.</desc>
+    <category lang="pt">Temporada 4 Episódio 1 - A Primeira Vez de Júlio na Fazenda Cocoricó</category>
+    <desc lang="pt">A Fazenda Cocoricó vai receber visita de grupos de crianças da cidade. Júlio fica chateado porque só se fala nisso e ninguém mais presta atenção nele.</desc>
   </programme>
   <programme start="20260801083000 -0300" stop="20260801084000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Mundo Bita</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <title lang="pt">Mundo Bita - Imagine-se</title>
+    <category lang="pt">Temporada 1 Episódio 4 - Que nem Gigante</category>
+    <desc lang="pt">No Mundo Bita, Pipa traz um ingrediente diferente para a macarronada do Bita, fazendo Pepe comer cenoura; no planeta Terra, Flora recebe a turminha; no Mundo da Imaginação, Lila é guiada pelo Bita em uma aventura gastronômica.</desc>
   </programme>
   <programme start="20260801084000 -0300" stop="20260801084500 -0300" channel="TV Cultura.br">
     <title lang="pt">Paramigos Imparáveis</title>
-    <category lang="pt">Educational</category>
-    <desc lang="pt">Uma equipe de heróis com deficiência têm a missão de impedir o fim dos recursos minerais do planeta.</desc>
+    <category lang="pt">Temporada 1 Episódio 18 - A Dona da Tella</category>
+    <desc lang="pt">O letreiro de Hollywood não será o mesmo depois que Dona Tella estreou seu programa de TV em Los Angeles. Mas ela não contava com o talento de Narciso e a velocidade de Guará.</desc>
   </programme>
   <programme start="20260801084500 -0300" stop="20260801090000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bing</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Bing ama brincar com seus amigos. Ele adora experimentar coisas novas e descobrir tudo sobre a vida. Bing é curioso, positivo e sincero e como ele é muito novinho, está vivendo várias coisas pela primeira vez.</desc>
+    <category lang="pt">Temporada 1 Episódio 44 - Casa</category>
+    <desc lang="pt">Bing constrói uma casa com as almofadas do sofá, e Coco decide que é o ponto de partida perfeito para uma brincadeira de Lobo Mau com Sula e Charlie. Bing gosta de ser o Lobo Mau até que não o deixam entrar na casa que ele construiu.</desc>
   </programme>
   <programme start="20260801090000 -0300" stop="20260801091000 -0300" channel="TV Cultura.br">
     <title lang="pt">Milo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, cantar e dançar. Cada dia guarda uma surpresa diferente.</desc>
+    <category lang="pt">Temporada 2 Episódio 21 - Milo, o Encanador</category>
+    <desc lang="pt">Milo, Lofty e Lark se tornam encanadores com a missão de consertar um cano quebrado no museu para que todas as torneiras funcionem corretamente. Acidentalmente, deixam todas as torneiras abertas e provocam uma grande inundação no museu.</desc>
   </programme>
   <programme start="20260801091000 -0300" stop="20260801092500 -0300" channel="TV Cultura.br">
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
@@ -904,7 +905,7 @@
   <programme start="20260801092500 -0300" stop="20260801094000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bluey</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Parte 1: Na praia, Bluey e Bingo jogam varetas com Chilli. Bandit cria escultura de areia com Bingo, mas crianças a destroem. Bluey ensina a irmã a lidar com frustrações. Parte 2: Bluey questiona as ordens de Bandit.</desc>
+    <desc lang="pt">Durante uma visita à farmácia, Bluey, Bingo e seus amigos se divertem brincando com as telas das câmeras de segurança; Bluey e Bingo criam um universo fantástico onde encontram um ovo de dragão.</desc>
   </programme>
   <programme start="20260801094000 -0300" stop="20260801095500 -0300" channel="TV Cultura.br">
     <title lang="pt">Ninhos em Movimento</title>
@@ -913,7 +914,7 @@
   </programme>
   <programme start="20260801095500 -0300" stop="20260801100500 -0300" channel="TV Cultura.br">
     <title lang="pt">Os Óculos Mágicos de Charlotte</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 11 - Natal da Charlotte</category>
     <desc lang="pt">A pequena Charlotte, uma menina de sete anos, ganha óculos mágicos de presente da fada do dente que permite que ela veja o mundo como ele deveria ser.</desc>
   </programme>
   <programme start="20260801100500 -0300" stop="20260801101000 -0300" channel="TV Cultura.br">
@@ -923,21 +924,22 @@
   </programme>
   <programme start="20260801101000 -0300" stop="20260801101500 -0300" channel="TV Cultura.br">
     <title lang="pt">Meu Campinho</title>
+    <category lang="pt">Temporada 1 Episódio 10</category>
     <desc lang="pt">Crianças compartilham experiências inesquecíveis que viveram no campo de futebol: um pênalti decisivo, uma lembrança familiar, uma derrota marcante ou um sonho aparentemente impossível.</desc>
   </programme>
   <programme start="20260801101500 -0300" stop="20260801102000 -0300" channel="TV Cultura.br">
-    <title lang="pt">O Mundial e Eu</title>
-    <desc lang="pt">A paixão pelo futebol e o impacto da Copa do Mundo sob a perspectiva de crianças de vários países da América Latina.</desc>
+    <title lang="pt">A Minha Copa do Mundo</title>
+    <category lang="pt">Entertainment</category>
   </programme>
   <programme start="20260801102000 -0300" stop="20260801103000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Show da Luna!</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Luna, uma garota de seis anos que ama ciências, acredita que a Terra é um enorme laboratório. Luna, seu irmão e seu furão de estimação praticam ciência diariamente, formulando hipóteses e fazendo experimentos.</desc>
+    <category lang="pt">Temporada 7 Episódio 12 - Brilhando</category>
+    <desc lang="pt">Acaba a luz na estação especial por conta de um problema com os painéis solares e o trio começa a se perguntar como Antares consegue captar a energia do Sol. Eles vão para o faz de conta, correndo em busca da resposta.</desc>
   </programme>
   <programme start="20260801103000 -0300" stop="20260801104000 -0300" channel="TV Cultura.br">
     <title lang="pt">Turbossauros</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Dinossauros capazes de se transformar em máquinas potentes ajudam seus amigos Katie e Peter a resolver problemas grandes e pequenos.</desc>
+    <category lang="pt">Temporada 1 Episódio 25 - Problemas no Trem</category>
+    <desc lang="pt">Jerry fica ofendido e vai embora devido a Chuck, que acidentalmente quebra seu trem de brinquedo. Enquanto isso, um trem real aproxima-se da ponte e os Turbossauros precisam consertá-lo o mais rápido possível.</desc>
   </programme>
   <programme start="20260801104000 -0300" stop="20260801104500 -0300" channel="TV Cultura.br">
     <title lang="pt">Godofredo</title>
@@ -946,7 +948,7 @@
   </programme>
   <programme start="20260801104500 -0300" stop="20260801110000 -0300" channel="TV Cultura.br">
     <title lang="pt">Iuri &amp; Udi</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 20 - E Tem Início - Os Jogos Furiosos!</category>
     <desc lang="pt">Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inventos, se transformando em grandes e poderosas máquinas.</desc>
   </programme>
   <programme start="20260801110000 -0300" stop="20260801111000 -0300" channel="TV Cultura.br">
@@ -956,18 +958,18 @@
   </programme>
   <programme start="20260801111000 -0300" stop="20260801111500 -0300" channel="TV Cultura.br">
     <title lang="pt">Morgana &amp; Celeste</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">A poderosa bruxa Morgana, de &quot;Castelo Rá-Tim-Bum&quot;, relembra grandes momentos da história da humanidade testemunhados por ela. Ao lado, com os ouvidos sempre atentos, está a cobra mais curiosa e desbocada de todos os tempos, Celeste.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - A Viagem do Homem à Lua</category>
+    <desc lang="pt">Morgana encontra foguete que ganhou de Neil Armstrong e lembra história sobre ida do homem para lua.</desc>
   </programme>
   <programme start="20260801111500 -0300" stop="20260801113500 -0300" channel="TV Cultura.br">
     <title lang="pt">Weme e a Natureza</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 7 - Sementes</category>
     <desc lang="pt">Crianças ao redor do mundo falam sobre meio ambiente destacando diferentes elementos da natureza.</desc>
   </programme>
   <programme start="20260801113500 -0300" stop="20260801114500 -0300" channel="TV Cultura.br">
     <title lang="pt">Turma da Mônica</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da turminha participam de várias aventuras.</desc>
+    <category lang="pt">Temporada 3 Episódio 20 - Gibis pra que Te Quero</category>
+    <desc lang="pt">Magali quer comprar um doce caro e, seguindo o conselho de Cascão, decide vender seus gibis para conseguir dinheiro. A dúvida é se a paixão da garotinha por comida consegue ser maior do que seu amor por gibis.</desc>
   </programme>
   <programme start="20260801114500 -0300" stop="20260801120000 -0300" channel="TV Cultura.br">
     <title lang="pt">Quintal da Cultura</title>
@@ -980,9 +982,9 @@
     <desc lang="pt">Os principais fatos da política e do cotidiano da região de Cuiabá, em debates onde se discute temas polêmicos com a participação do público.</desc>
   </programme>
   <programme start="20260801123000 -0300" stop="20260801124500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Peppa</title>
+    <title lang="pt">Peppa Pig</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Todos levam seus bichinhos para uma competição de animais de estimação na escola; Mamãe Pig encontra uma aranha na casa e pede para Papai se livrar dela; a família se hospeda na casa da Prima Chloe; Vovó Pig coloca gnomos no jardim; chega o Natal.</desc>
+    <desc lang="pt">Peppa, George, Mamãe, Papai e Suzy vão visitar uma terra bem pequenininha; o Avô mostra a Peppa e George sua grande coleção de selos; a família de Peppa está no Digger World; Mamãe Pig tenta fazer que o novo chapéu de George não fique cheio de lama; George é convidado para o aniversário de Richard Coelho.</desc>
   </programme>
   <programme start="20260801124500 -0300" stop="20260801130000 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó Conta Clássicos</title>
@@ -991,43 +993,48 @@
   </programme>
   <programme start="20260801130000 -0300" stop="20260801131500 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Fazenda Cocoricó, localizada na cidade de Cocoricolândia.</desc>
+    <category lang="pt">Temporada 4 Episódio 1 - A Primeira Vez de Júlio na Fazenda Cocoricó</category>
+    <desc lang="pt">A Fazenda Cocoricó vai receber visita de grupos de crianças da cidade. Júlio fica chateado porque só se fala nisso e ninguém mais presta atenção nele.</desc>
   </programme>
   <programme start="20260801131500 -0300" stop="20260801132500 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Kazu não consegue acordar porque seu despertador quebrou; Pico e Bao Bao buscam uma nova engrenagem com ajuda de Blu no jardim secreto.</desc>
+    <desc lang="pt">Os Palaloos estão brincando de rolar pelos morros da Palalândia, mas Pico descobre que não consegue; os Palaloos descobrem uma linha azul no chão e começam a segui-la. Eles encontram Blu, que estava pintando tudo com um balde de tinta.</desc>
   </programme>
   <programme start="20260801132500 -0300" stop="20260801133000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a empilhadeira e Scoop a escavadeira, constroem juntos novos modelos.</desc>
+    <category lang="pt">Temporada 4 Episódio 16 - Reboque de Cavalos</category>
+    <desc lang="pt">Olha, o trem está partindo. Ah, não, um cavalo perdeu o trem. Não se preocupe. Léo, o caminhão, ajuda e constrói um pequeno trailer para transporte. O veículo ficou tão bom que tem até feno para o cavalo se alimentar durante o trajeto.</desc>
   </programme>
   <programme start="20260801133000 -0300" stop="20260801134000 -0300" channel="TV Cultura.br">
     <title lang="pt">Planeta Palavra</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - Mais Perto do Céu</category>
+    <desc lang="pt">Jacaré tem uma encomenda para entregar para a Coruja, que mora no alto de uma Jaqueira. Ele e a Onça, que tenta ajudá-lo, se enrolam para fazer a caixa chegar até lá. Até que finalizam a missão e observam a Lua com o telescópio que estava na caixa.</desc>
   </programme>
   <programme start="20260801134000 -0300" stop="20260801135000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bino e Fino</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Os irmãos Bino e Fino vivem na África com sua família. Com a ajuda de sua amiga Zeena, a borboleta mágica, os dois aprendem sobre a cultura e beleza do lugar.</desc>
+    <category lang="pt">Temporada 2 Episódio 7 - Hora de Dormir</category>
+    <desc lang="pt">Fino não foi dormir à noite na hora certa. No dia seguinte, ela lamenta não ter feito isso.</desc>
   </programme>
   <programme start="20260801135000 -0300" stop="20260801140000 -0300" channel="TV Cultura.br">
     <title lang="pt">Milo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, cantar e dançar. Cada dia guarda uma surpresa diferente.</desc>
+    <category lang="pt">Temporada 2 Episódio 21 - Milo, o Encanador</category>
+    <desc lang="pt">Milo, Lofty e Lark se tornam encanadores com a missão de consertar um cano quebrado no museu para que todas as torneiras funcionem corretamente. Acidentalmente, deixam todas as torneiras abertas e provocam uma grande inundação no museu.</desc>
   </programme>
   <programme start="20260801140000 -0300" stop="20260801141500 -0300" channel="TV Cultura.br">
     <title lang="pt">Meu AmigãoZão</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Todos preparam um bolo, mas a diversão termina quando Lili se recusa a ser a decoradora; Yuri e Golias se escondem em uma árvore, mas percebem que não estão sozinhos.</desc>
   </programme>
-  <programme start="20260801141500 -0300" stop="20260801143000 -0300" channel="TV Cultura.br">
+  <programme start="20260801141500 -0300" stop="20260801142000 -0300" channel="TV Cultura.br">
     <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Masha canta canções de ninar que sempre ensinam algo novo, interessante e divertido.</desc>
+    <category lang="pt">Temporada 6 Episódio 9 - O Poder do Banho</category>
+    <desc lang="pt">Os habitantes da floresta começam a se coçar freneticamente. Masha e o Urso entram em ação para ajudar, revelando o poder do xampu e da água.</desc>
+  </programme>
+  <programme start="20260801142000 -0300" stop="20260801143000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Masha e o Urso</title>
+    <category lang="pt">Temporada 6 Episódio 10 - Sorte de Pescador</category>
+    <desc lang="pt">O Urso tem um rival na pesca de inverno: um gato com equipamentos de última geração. Começa uma competição silenciosa entre os pescadores.</desc>
   </programme>
   <programme start="20260801143000 -0300" stop="20260801144500 -0300" channel="TV Cultura.br">
     <title lang="pt">Ninhos em Movimento</title>
@@ -1036,7 +1043,7 @@
   </programme>
   <programme start="20260801144500 -0300" stop="20260801150000 -0300" channel="TV Cultura.br">
     <title lang="pt">Sol em Dó Ré Mi</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 4 - Presente do Papai; Relacionamento Familiar</category>
     <desc lang="pt">A menina Sol, de seis anos, tem um segredo: ela conhece uma melodia secreta que abre um portal que a leva até o mundo Dó Ré Mi. Lá, ela aprende lições importantes com seus amigos instrumentos para enfrentar desafios no seu próprio mundo.</desc>
   </programme>
   <programme start="20260801150000 -0300" stop="20260801151500 -0300" channel="TV Cultura.br">
@@ -1047,32 +1054,37 @@
   <programme start="20260801151500 -0300" stop="20260801153000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bluey</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Parte 1: Na praia, Bluey e Bingo jogam varetas com Chilli. Bandit cria escultura de areia com Bingo, mas crianças a destroem. Bluey ensina a irmã a lidar com frustrações. Parte 2: Bluey questiona as ordens de Bandit.</desc>
+    <desc lang="pt">Durante uma visita à farmácia, Bluey, Bingo e seus amigos se divertem brincando com as telas das câmeras de segurança; Bluey e Bingo criam um universo fantástico onde encontram um ovo de dragão.</desc>
   </programme>
-  <programme start="20260801153000 -0300" stop="20260801170000 -0300" channel="TV Cultura.br">
+  <programme start="20260801153000 -0300" stop="20260801164500 -0300" channel="TV Cultura.br">
     <title lang="pt">A Ilha dos Ilús</title>
     <category lang="pt">Adventure / 2023</category>
     <desc lang="pt">Um cachorro fiel é trocado em seu nascimento e, para conhecer sua verdadeira família, precisa encontrar uma passagem secreta. Em sua busca, ele se junta a uma gata ardilosa, espiã de uma réptil perigosa.</desc>
   </programme>
-  <programme start="20260801170000 -0300" stop="20260801171500 -0300" channel="TV Cultura.br">
+  <programme start="20260801164500 -0300" stop="20260801165500 -0300" channel="TV Cultura.br">
     <title lang="pt">Turma da Mônica</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da turminha participam de várias aventuras.</desc>
+    <category lang="pt">Temporada 3 Episódio 5 - O Segredo da Múmia</category>
+    <desc lang="pt">Cascão faz amizade com uma múmia que se perdeu do museu. Mas nem todos no Limoeiro parecem entender essa relação tão curiosa com uma assustadora criatura de mais de dois mil anos.</desc>
+  </programme>
+  <programme start="20260801165500 -0300" stop="20260801171500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Turma da Mônica</title>
+    <category lang="pt">Temporada 3 Episódio 14 - A Grande Gincana</category>
+    <desc lang="pt">A turma vai a um acampamento onde será realizada uma gincana em duplas. Após uma discussão, a dupla Cebolinha e Cascão se separa e ambos vão atrás de novas parcerias.</desc>
   </programme>
   <programme start="20260801171500 -0300" stop="20260801173000 -0300" channel="TV Cultura.br">
     <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um garoto tímido e sem nome é sempre chamado de irmão do Jorel. Sendo quase sempre ofuscado pela fama e popularidade de seu irmão mais velho, ele tenta ganhar sua própria identidade e ser alguém importante na família.</desc>
+    <category lang="pt">Temporada 3 Episódio 2 - Irmãozinho do Jorel</category>
+    <desc lang="pt">Irmão do Jorel encontra um álbum de fotos perdido da família e abre em uma página com fotos dele bebezinho ao lado da Lara. Ele nem sabia que a tinha conhecido antes de entrar na escola. Mergulhe em suas lembranças mais longínquas.</desc>
   </programme>
   <programme start="20260801173000 -0300" stop="20260801180000 -0300" channel="TV Cultura.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A professora de Lucas pede que ele faça um trabalho sobre as regiões do Brasil. Ao chegar em casa, ele pede a ajuda de Rogério que, na maior boa vontade, pega seu vasto material de geografia, mas, enquanto ele fala, Lucas entra no mundo da Lua.</desc>
+    <desc lang="pt">Numa bela tarde de sábado a euforia é grande. Juliana e sua amiga Daniela vão ao show de seus maiores ídolos, os Big Bad Boys. Lucas não foi convidado e está se sentindo rejeitado, mas não admite e fica fazendo intrigas.</desc>
   </programme>
   <programme start="20260801180000 -0300" stop="20260801183000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Mundo de Beakman</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">O excêntrico cientista Beakman, por meio de experimentos químicos bizarros e divertidos, ilustra conceitos básicos da ciência e da natureza.</desc>
+    <category lang="pt">Temporada 3 Episódio 13 - Neve, Beakmania e Sobrevivência</category>
+    <desc lang="pt">Beakman e sua equipe investigam fatos sobre a neve e explicam o que é a seleção natural.</desc>
   </programme>
   <programme start="20260801183000 -0300" stop="20260801190000 -0300" channel="TV Cultura.br">
     <title lang="pt">Game Dev Brasil</title>
@@ -1081,12 +1093,12 @@
   </programme>
   <programme start="20260801190000 -0300" stop="20260801193000 -0300" channel="TV Cultura.br">
     <title lang="pt">Antimatéria - Energia Geek</title>
-    <category lang="pt">Gaming</category>
+    <category lang="pt">Temporada 1 Episódio 270</category>
     <desc lang="pt">Cultura pop, animes, games, filmes e séries tokusatsu.</desc>
   </programme>
   <programme start="20260801193000 -0300" stop="20260801200000 -0300" channel="TV Cultura.br">
     <title lang="pt">Cultura Livre</title>
-    <category lang="pt">Music</category>
+    <category lang="pt">Temporada 2026 Episódio 639 - Jonas Sá</category>
     <desc lang="pt">Com foco na nova música brasileira, o programa recebe cantores e bandas em seu estúdio. Além das apresentações, os artistas falam sobre suas carreiras e respondem perguntas da audiência.</desc>
   </programme>
   <programme start="20260801200000 -0300" stop="20260801210000 -0300" channel="TV Cultura.br">
@@ -1101,13 +1113,13 @@
   </programme>
   <programme start="20260801220000 -0300" stop="20260801223000 -0300" channel="TV Cultura.br">
     <title lang="pt">Vitrine</title>
-    <category lang="pt">Public affairs</category>
+    <category lang="pt">Temporada 2 Episódio 5</category>
     <desc lang="pt">O programa analisa as redefinições na comunicação impulsionadas pela tecnologia, além de visitar os bastidores das produções atuais e do acervo do canal.</desc>
   </programme>
   <programme start="20260801223000 -0300" stop="20260801233000 -0300" channel="TV Cultura.br">
     <title lang="pt">Arena dos Saberes</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">O educador Gabriel Chalita conversa com grandes nomes da cultura nacional e personalidades de diversas áreas que compartilham com o público suas ideias e impressões sobre temas contemporâneos.</desc>
+    <desc lang="pt">Homenagem aos 90 anos do nascimento da escritora Nélida Piñon no Teatro Municipal do Rio de Janeiro.</desc>
   </programme>
   <programme start="20260801233000 -0300" stop="20260802010000 -0300" channel="TV Cultura.br">
     <title lang="pt">A Luta do Século</title>
@@ -8588,10 +8600,374 @@
     <title lang="pt">Resenha Woohoo</title>
     <desc lang="pt">Tudo sobre o mundo do surfe com análises, entrevistas e as polêmicas do esporte radical.</desc>
   </programme>
-  <programme start="20260802053000 -0300" stop="20260802063000 -0300" channel="Woohoo.br">
+  <programme start="20260802053000 -0300" stop="20260802060000 -0300" channel="Woohoo.br">
     <title lang="pt">Viajando pelo Brasil</title>
     <category lang="pt">Travel</category>
     <desc lang="pt">Para os viajantes que buscam uma vivência transformadora, as belezas naturais e a história do Brasil, acompanhe um programa repleto de dicas para experiências completas em cada destino.</desc>
+  </programme>
+  <programme start="20260802060000 -0300" stop="20260802061500 -0300" channel="Woohoo.br">
+    <title lang="pt">Snow</title>
+    <desc lang="pt">O programa tem a premissa de mostrar que o snowboard também tem lugar para brasileiros.</desc>
+  </programme>
+  <programme start="20260802061500 -0300" stop="20260802063000 -0300" channel="Woohoo.br">
+    <title lang="pt">Pura Connection</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">O mundo é movido por energia e conexões. Confira personalidades e suas histórias de desenvolvimento humano por meio de uma atmosfera diversificada de autoconhecimento e busca pelo equilíbrio físico e emocional, por meio dos esportes.</desc>
+  </programme>
+  <programme start="20260802063000 -0300" stop="20260802070000 -0300" channel="Woohoo.br">
+    <title lang="pt">Filhos da Terra</title>
+    <desc lang="pt">As famílias de nativos Veras e Cabrinha dominam o kitesurf no litoral do Piauí, ensinando turistas e dando verdadeiros espetáculos nos finais de tarde.</desc>
+  </programme>
+  <programme start="20260802070000 -0300" stop="20260802071500 -0300" channel="Woohoo.br">
+    <title lang="pt">Pipoca no Set</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">As melhores dicas quando o assunto é entretenimento, reunindo curiosidades e histórias das produções mais aclamadas, além da trajetória de grandes atores e atrizes. Feito para quem adora maratonar em frente à TV.</desc>
+  </programme>
+  <programme start="20260802071500 -0300" stop="20260802074500 -0300" channel="Woohoo.br">
+    <title lang="pt">Papo Reto</title>
+    <category lang="pt">Temporada 11 Episódio 3</category>
+    <desc lang="pt">Estrelas da música, dos esportes de ação e das artes jovens abrem a cabeça e soltam o verbo.</desc>
+  </programme>
+  <programme start="20260802074500 -0300" stop="20260802080000 -0300" channel="Woohoo.br">
+    <title lang="pt">Custom</title>
+    <category lang="pt">Action sports</category>
+    <desc lang="pt">Os principais destaques de todos os eventos esportivos de ação.</desc>
+  </programme>
+  <programme start="20260802080000 -0300" stop="20260802081500 -0300" channel="Woohoo.br">
+    <title lang="pt">Woohoo Music</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Produções independentes, resultados excelentes. Adeptos do faça você mesmo com acabamento de superprodução, a cena alternativa brasileira tem um lugar cativo no Woohoo Music.</desc>
+  </programme>
+  <programme start="20260802081500 -0300" stop="20260802083000 -0300" channel="Woohoo.br">
+    <title lang="pt">Onboarding Tribos</title>
+    <category lang="pt">Temporada 4 Episódio 11</category>
+    <desc lang="pt">Com o skate longboard servindo como a conexão para outros esportes de prancha, conheça lugares importantes no Rio de Janeiro e receba dicas para melhorar cada dia mais neste esporte, com a condução de Sara Watanabe.</desc>
+  </programme>
+  <programme start="20260802083000 -0300" stop="20260802084500 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+  </programme>
+  <programme start="20260802084500 -0300" stop="20260802090000 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue Games</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+  </programme>
+  <programme start="20260802090000 -0300" stop="20260802091500 -0300" channel="Woohoo.br">
+    <title lang="pt">Caminhos da Sol</title>
+    <category lang="pt">Temporada 1 Episódio 2</category>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, conhece paisagens incríveis em suas viagens. Uma experiência enriquecedora e de muitas descobertas, explorando novas culturas e paisagens, recheada de muito surfe e natureza.</desc>
+  </programme>
+  <programme start="20260802091500 -0300" stop="20260802091900 -0300" channel="Woohoo.br">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+  </programme>
+  <programme start="20260802091900 -0300" stop="20260802092100 -0300" channel="Woohoo.br">
+    <title lang="pt">Reloaded</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Análise de jogos revolucionários que transformaram a indústria de videogames. Cada episódio explora títulos inovadores que estabeleceram novos padrões tecnológicos e criativos, contextualizando impacto histórico de clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260802092100 -0300" stop="20260802092400 -0300" channel="Woohoo.br">
+    <title lang="pt">Moovies</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+  </programme>
+  <programme start="20260802092400 -0300" stop="20260802092600 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+  </programme>
+  <programme start="20260802092600 -0300" stop="20260802092800 -0300" channel="Woohoo.br">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+  </programme>
+  <programme start="20260802092800 -0300" stop="20260802093000 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+  </programme>
+  <programme start="20260802093000 -0300" stop="20260802094500 -0300" channel="Woohoo.br">
+    <title lang="pt">Moovies</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+  </programme>
+  <programme start="20260802094500 -0300" stop="20260802100000 -0300" channel="Woohoo.br">
+    <title lang="pt">Pop Up</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">As pílulas de programação abordam temas variados, como curiosidades do mundo do entretenimento, moda, gastronomia, estilo de vida e bem-estar.</desc>
+  </programme>
+  <programme start="20260802100000 -0300" stop="20260802101500 -0300" channel="Woohoo.br">
+    <title lang="pt">Check Point</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">O programa apresenta as novidades do mundo dos games e e-sports, como lançamentos e campeonatos.</desc>
+  </programme>
+  <programme start="20260802101500 -0300" stop="20260802103000 -0300" channel="Woohoo.br">
+    <title lang="pt">Olho de Peixe</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">O programa viaja pelos quatro cantos do mundo sob o olhar do skatista Marco Savino e percebe que o skate é muito mais do que um esporte, mas um estilo de vida.</desc>
+  </programme>
+  <programme start="20260802103000 -0300" stop="20260802110000 -0300" channel="Woohoo.br">
+    <title lang="pt">Som na Lata</title>
+    <category lang="pt">Music</category>
+    <desc lang="pt">Acústicos com novos talentos da cena musical nacional. Um ponto de encontro essencial para artistas que buscam visibilidade e para aqueles ávidos não apenas para a música, mas para a diversidade e inovação no cenário artístico contemporâneo.</desc>
+  </programme>
+  <programme start="20260802110000 -0300" stop="20260802113000 -0300" channel="Woohoo.br">
+    <title lang="pt">Hootalks</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Entrevistas com as mais variadas personalidades do mundo dos games e e-esportes. Pro-players, criadores de conteúdo, CEOs de ligas esportivas e organizações de esportes eletrônicos.</desc>
+  </programme>
+  <programme start="20260802113000 -0300" stop="20260802114500 -0300" channel="Woohoo.br">
+    <title lang="pt">Onboarding Tribos</title>
+    <category lang="pt">Temporada 4 Episódio 11</category>
+    <desc lang="pt">Com o skate longboard servindo como a conexão para outros esportes de prancha, conheça lugares importantes no Rio de Janeiro e receba dicas para melhorar cada dia mais neste esporte, com a condução de Sara Watanabe.</desc>
+  </programme>
+  <programme start="20260802114500 -0300" stop="20260802120000 -0300" channel="Woohoo.br">
+    <title lang="pt">Vanlife</title>
+    <category lang="pt">Action sports</category>
+    <desc lang="pt">Vander Amaral sai com sua van motorhome pelo Candá e Estados Unidos, em busca de esportes radicais.</desc>
+  </programme>
+  <programme start="20260802120000 -0300" stop="20260802123000 -0300" channel="Woohoo.br">
+    <title lang="pt">Free Surf</title>
+    <category lang="pt">Temporada 10 Episódio 5</category>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+  </programme>
+  <programme start="20260802123000 -0300" stop="20260802123800 -0300" channel="Woohoo.br">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+  </programme>
+  <programme start="20260802123800 -0300" stop="20260802124200 -0300" channel="Woohoo.br">
+    <title lang="pt">Reloaded</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Análise de jogos revolucionários que transformaram a indústria de videogames. Cada episódio explora títulos inovadores que estabeleceram novos padrões tecnológicos e criativos, contextualizando impacto histórico de clássicos que definiram gerações.</desc>
+  </programme>
+  <programme start="20260802124200 -0300" stop="20260802124800 -0300" channel="Woohoo.br">
+    <title lang="pt">Moovies</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+  </programme>
+  <programme start="20260802124800 -0300" stop="20260802125200 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+  </programme>
+  <programme start="20260802125200 -0300" stop="20260802125600 -0300" channel="Woohoo.br">
+    <title lang="pt">Free Surf</title>
+    <desc lang="pt">Os melhores surfistas do mundo em sessões livres nos palcos do Circuito Mundial de Surfe.</desc>
+  </programme>
+  <programme start="20260802125600 -0300" stop="20260802130000 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue Staff Picks</title>
+    <desc lang="pt">Acompanhe alguns acontecimentos selecionados especialmente para o público do canal.</desc>
+  </programme>
+  <programme start="20260802130000 -0300" stop="20260802133000 -0300" channel="Woohoo.br">
+    <title lang="pt">Resenha Woohoo</title>
+    <desc lang="pt">Tudo sobre o mundo do surfe com análises, entrevistas e as polêmicas do esporte radical.</desc>
+  </programme>
+  <programme start="20260802133000 -0300" stop="20260802134500 -0300" channel="Woohoo.br">
+    <title lang="pt">Olho de Peixe</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">O programa viaja pelos quatro cantos do mundo sob o olhar do skatista Marco Savino e percebe que o skate é muito mais do que um esporte, mas um estilo de vida.</desc>
+  </programme>
+  <programme start="20260802134500 -0300" stop="20260802140000 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+  </programme>
+  <programme start="20260802140000 -0300" stop="20260802141500 -0300" channel="Woohoo.br">
+    <title lang="pt">Pop Up</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">As pílulas de programação abordam temas variados, como curiosidades do mundo do entretenimento, moda, gastronomia, estilo de vida e bem-estar.</desc>
+  </programme>
+  <programme start="20260802141500 -0300" stop="20260802143000 -0300" channel="Woohoo.br">
+    <title lang="pt">Woohoo Music</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Produções independentes, resultados excelentes. Adeptos do faça você mesmo com acabamento de superprodução, a cena alternativa brasileira tem um lugar cativo no Woohoo Music.</desc>
+  </programme>
+  <programme start="20260802143000 -0300" stop="20260802144500 -0300" channel="Woohoo.br">
+    <title lang="pt">Top Ranking</title>
+    <category lang="pt">Temporada 17 Episódio 4</category>
+    <desc lang="pt">Ranking dos dez maiores destaques em diversas categorias envolvendo esportes de ação e outros assuntos como música, moda e artes em geral.</desc>
+  </programme>
+  <programme start="20260802144500 -0300" stop="20260802150000 -0300" channel="Woohoo.br">
+    <title lang="pt">Pipoca no Set</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">As melhores dicas quando o assunto é entretenimento, reunindo curiosidades e histórias das produções mais aclamadas, além da trajetória de grandes atores e atrizes. Feito para quem adora maratonar em frente à TV.</desc>
+  </programme>
+  <programme start="20260802150000 -0300" stop="20260802151500 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue Games</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+  </programme>
+  <programme start="20260802151500 -0300" stop="20260802153000 -0300" channel="Woohoo.br">
+    <title lang="pt">Luara e o Mar</title>
+    <desc lang="pt">A rotina, as viagens e competições da surfista da nova geração Luara Mandelli. Nascida em Matinhos, no Paraná, ela é uma das promessas do surfe brasileiro.</desc>
+  </programme>
+  <programme start="20260802153000 -0300" stop="20260802160000 -0300" channel="Woohoo.br">
+    <title lang="pt">Free'das</title>
+    <category lang="pt">Temporada 5 Episódio 8</category>
+    <desc lang="pt">O programa de comportamento que, sob a ótica feminina, debate diversos assuntos pertinentes ao mundo contemporâneo.</desc>
+  </programme>
+  <programme start="20260802160000 -0300" stop="20260802163000 -0300" channel="Woohoo.br">
+    <title lang="pt">Papo Reto</title>
+    <category lang="pt">Temporada 11 Episódio 3</category>
+    <desc lang="pt">Estrelas da música, dos esportes de ação e das artes jovens abrem a cabeça e soltam o verbo.</desc>
+  </programme>
+  <programme start="20260802163000 -0300" stop="20260802164500 -0300" channel="Woohoo.br">
+    <title lang="pt">Caminhos da Sol</title>
+    <category lang="pt">Temporada 1 Episódio 2</category>
+    <desc lang="pt">A atleta cearense Sol Tostes, campeã brasileira sub-18 de longboard, conhece paisagens incríveis em suas viagens. Uma experiência enriquecedora e de muitas descobertas, explorando novas culturas e paisagens, recheada de muito surfe e natureza.</desc>
+  </programme>
+  <programme start="20260802164500 -0300" stop="20260802170000 -0300" channel="Woohoo.br">
+    <title lang="pt">Custom</title>
+    <category lang="pt">Action sports</category>
+    <desc lang="pt">Os principais destaques de todos os eventos esportivos de ação.</desc>
+  </programme>
+  <programme start="20260802170000 -0300" stop="20260802173000 -0300" channel="Woohoo.br">
+    <title lang="pt">Histórias do Bodyboard</title>
+    <desc lang="pt">Os maiores momentos do bodyboard, derivação do surfe competido deitado na prancha. A criação, evolução e propagação do esporte, que atingiu seu ápicen os últimos anos.</desc>
+  </programme>
+  <programme start="20260802173000 -0300" stop="20260802174500 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Primeiro foi a Internet que se apropriou do conteúdo da TV em benefício próprio. Agora, seguindo uma tendência mundial, a TV dá o troco, exibindo o melhor do conteúdo ultra globalizado da web, com foco no humor, arte, cultura e estilo de vida.</desc>
+  </programme>
+  <programme start="20260802174500 -0300" stop="20260802180000 -0300" channel="Woohoo.br">
+    <title lang="pt">Moovies</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Voltado ao mercado cinematográfico, o programa apresenta os lançamentos do grande circuito comercial, além das novidades e dicas de DVDs e até dos clássicos em VHS, acompanhados de entrevistas, notícias de bastidores e trechos dos filmes.</desc>
+  </programme>
+  <programme start="20260802180000 -0300" stop="20260802183000 -0300" channel="Woohoo.br">
+    <title lang="pt">Som na Lata</title>
+    <category lang="pt">Music</category>
+    <desc lang="pt">Acústicos com novos talentos da cena musical nacional. Um ponto de encontro essencial para artistas que buscam visibilidade e para aqueles ávidos não apenas para a música, mas para a diversidade e inovação no cenário artístico contemporâneo.</desc>
+  </programme>
+  <programme start="20260802183000 -0300" stop="20260802184500 -0300" channel="Woohoo.br">
+    <title lang="pt">Queue Games</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Um giro pela internet sobre o mundo dos games e e-esportes.</desc>
+  </programme>
+  <programme start="20260802184500 -0300" stop="20260802191500 -0300" channel="Woohoo.br">
+    <title lang="pt">Esse Jogo Não Tem Pause</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Série aborda a relação entre gamers e suas famílias, mostrando como os jogos eletrônicos transformaram a forma de diferentes gerações se conectarem. Um mergulho nas histórias de quem vive nesse universo, com entrevistas, análises e dados do setor.</desc>
+  </programme>
+  <programme start="20260802191500 -0300" stop="20260802193000 -0300" channel="Woohoo.br">
+    <title lang="pt">Bit a Bit</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">O programa apresenta de forma dinâmica e acessível as histórias, personagens e fenômenos que transformaram os games e os e-esportes em uma das indústrias mais influentes do planeta.</desc>
+  </programme>
+  <programme start="20260802193000 -0300" stop="20260802200000 -0300" channel="Woohoo.br">
+    <title lang="pt">Tio Clinas Joga!</title>
+    <category lang="pt">Temporada 1 Episódio 3</category>
+    <desc lang="pt">Tio Clinas mergulha na história dos videogames, atualmente a segunda indústria mais lucrativa do mundo. Uma jornada emocionante pelos jogos que fizeram história e também suas influências.</desc>
+  </programme>
+  <programme start="20260802200000 -0300" stop="20260802203000 -0300" channel="Woohoo.br">
+    <title lang="pt">Eu Mega Recomendo</title>
+    <category lang="pt">Temporada 2 Episódio 2</category>
+    <desc lang="pt">Rick e Laila Werneck exploram o Brasil e o mundo mostrando o que há de melhor em termos de cultura, hospedagem, alimentação e diversão.</desc>
+  </programme>
+  <programme start="20260802203000 -0300" stop="20260802204500 -0300" channel="Woohoo.br">
+    <title lang="pt">Locals</title>
+    <category lang="pt">Temporada 2025 Episódio 6</category>
+    <desc lang="pt">Atletas de esportes de ação abrem as portas de sua casa para falarem mais sobre suas vidas. Desde a rotina que levam, lugares favoritos que gostam de visitar, além das mais diversas culinárias e paladares preferidos.</desc>
+  </programme>
+  <programme start="20260802204500 -0300" stop="20260802211500 -0300" channel="Woohoo.br">
+    <title lang="pt">Woo Tech</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">De forma bem humorada, as novidades e curiosidades do mundo da tecnologia, games e inovação.</desc>
+  </programme>
+  <programme start="20260802211500 -0300" stop="20260802213000 -0300" channel="Woohoo.br">
+    <title lang="pt">Dose Dupla</title>
+    <category lang="pt">Temporada 1 Episódio 1</category>
+    <desc lang="pt">Tudo sobre o mercado dos games, com resenhas detalhadas, gameplays eletrizantes e análises descontraídas de lançamentos, clássicos e tendências.</desc>
+  </programme>
+  <programme start="20260802213000 -0300" stop="20260802214500 -0300" channel="Woohoo.br">
+    <title lang="pt">Check Point</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">O programa apresenta as novidades do mundo dos games e e-sports, como lançamentos e campeonatos.</desc>
+  </programme>
+  <programme start="20260802214500 -0300" stop="20260802220000 -0300" channel="Woohoo.br">
+    <title lang="pt">Top Ranking</title>
+    <category lang="pt">Temporada 17 Episódio 4</category>
+    <desc lang="pt">Ranking dos dez maiores destaques em diversas categorias envolvendo esportes de ação e outros assuntos como música, moda e artes em geral.</desc>
+  </programme>
+  <programme start="20260802220000 -0300" stop="20260802224500 -0300" channel="Woohoo.br">
+    <title lang="pt">Mixtape</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Baby Kadi bate um papo totalmente sem filtro com jogadores famosos, pessoas da comunidade e até celebridades, buscando desconstruir a personificação do criador de conteúdo, humanizando-o e aproximando-o da comunidade.</desc>
+  </programme>
+  <programme start="20260802224500 -0300" stop="20260802230000 -0300" channel="Woohoo.br">
+    <title lang="pt">Tattoodo no Game</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Influenciadores, gamers e seus convidados escolhem às cegas a tatuagem um do outro.</desc>
+  </programme>
+  <programme start="20260802230000 -0300" stop="20260803030000 -0300" channel="Woohoo.br">
+    <title lang="pt">1001 Noites</title>
+    <category lang="pt">Shopping</category>
+    <desc lang="pt">Programa voltado para a venda de joias, obras de arte, tapetes e objetos de decoração.</desc>
+  </programme>
+  <programme start="20260803030000 -0300" stop="20260803031000 -0300" channel="Woohoo.br">
+    <title lang="pt">Do Alto</title>
+    <category lang="pt">Travel</category>
+    <desc lang="pt">As mais belas paisagens do Brasil e do mundo são exibidas por outro ângulo.</desc>
+  </programme>
+  <programme start="20260803031000 -0300" stop="20260803032000 -0300" channel="Woohoo.br">
+    <title lang="pt">Giro GG</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Os melhores momentos das jogadas da semana competitiva da Liga GG.</desc>
+  </programme>
+  <programme start="20260803032000 -0300" stop="20260803033000 -0300" channel="Woohoo.br">
+    <title lang="pt">Short Facts</title>
+    <desc lang="pt">O programa apresenta de maneira rápida os fatos mais curiosos sobre temas variados.</desc>
+  </programme>
+  <programme start="20260803033000 -0300" stop="20260803034000 -0300" channel="Woohoo.br">
+    <title lang="pt">Games Trailer</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Divulgação dos lançamentos de games por meio de trailers.</desc>
+  </programme>
+  <programme start="20260803034000 -0300" stop="20260803035000 -0300" channel="Woohoo.br">
+    <title lang="pt">Modo História</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Uma aventura pelos fascinantes segredos e curiosidades do icônico jogo Minecraft. A história por trás do mundo pixelado de cubos, lendas como a do aterrorizante Herobrine e os mistérios do Nether e The End.</desc>
+  </programme>
+  <programme start="20260803035000 -0300" stop="20260803040000 -0300" channel="Woohoo.br">
+    <title lang="pt">Game de A a Z</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Todas as informações e novidades do mundo dos games e e-esportes.</desc>
+  </programme>
+  <programme start="20260803040000 -0300" stop="20260803041000 -0300" channel="Woohoo.br">
+    <title lang="pt">Correndo com Woohoo</title>
+    <category lang="pt">Running</category>
+    <desc lang="pt">Programa mostra a força da comunidade de corrida do Woohoo. Com cortes de vídeos pessoais de seguidoras, é retratado como a corrida muda para melhor a vida das pessoas.</desc>
+  </programme>
+  <programme start="20260803041000 -0300" stop="20260803042000 -0300" channel="Woohoo.br">
+    <title lang="pt">X1 Improváveis</title>
+    <category lang="pt">Action</category>
+    <desc lang="pt">Programa debate duelos hipotéticos entre ícones da cultura pop, como Mario vs. Pikachu e Pernalonga vs. Pica-Pau.</desc>
+  </programme>
+  <programme start="20260803042000 -0300" stop="20260803043000 -0300" channel="Woohoo.br">
+    <title lang="pt">Shorts do Tio Clinas</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Tio Clinas comenta os games do momento.</desc>
+  </programme>
+  <programme start="20260803043000 -0300" stop="20260803044000 -0300" channel="Woohoo.br">
+    <title lang="pt">Snap</title>
+    <desc lang="pt">Perfil da nova geração do surfe brasileiro.</desc>
+  </programme>
+  <programme start="20260803044000 -0300" stop="20260803045000 -0300" channel="Woohoo.br">
+    <title lang="pt">TBT</title>
+    <desc lang="pt">Relembre momentos memoráveis de eventos esportivos por meio de vídeos e fotos.</desc>
+  </programme>
+  <programme start="20260803045000 -0300" stop="20260803050000 -0300" channel="Woohoo.br">
+    <title lang="pt">Projeto Califa</title>
+    <category lang="pt">Surfing</category>
+    <desc lang="pt">Boletim sobre os melhores picos de surfe da Califórnia.</desc>
+  </programme>
+  <programme start="20260803050000 -0300" stop="20260803053000 -0300" channel="Woohoo.br">
+    <title lang="pt">Free'das</title>
+    <category lang="pt">Temporada 5 Episódio 8</category>
+    <desc lang="pt">O programa de comportamento que, sob a ótica feminina, debate diversos assuntos pertinentes ao mundo contemporâneo.</desc>
+  </programme>
+  <programme start="20260803053000 -0300" stop="20260803063000 -0300" channel="Woohoo.br">
+    <title lang="pt">Hootalks</title>
+    <category lang="pt">Gaming</category>
+    <desc lang="pt">Entrevistas com as mais variadas personalidades do mundo dos games e e-esportes. Pro-players, criadores de conteúdo, CEOs de ligas esportivas e organizações de esportes eletrônicos.</desc>
   </programme>
   <programme start="20260801060000 -0300" stop="20260801080000 -0300" channel="ESPN Brasil.br">
     <title lang="pt">Rosario Central x Racing</title>
@@ -8939,7 +9315,7 @@
     <desc lang="pt">Acompanhe as emoções da elite do futebol masculino da Rússia.</desc>
   </programme>
   <programme start="20260801143000 -0300" stop="20260801164500 -0300" channel="Band Sports.br">
-    <title lang="pt">Anzhi x Lokomotiv Moscou</title>
+    <title lang="pt">Baltika x Dínamo Moscou</title>
     <category lang="pt">Campeonato Russo</category>
     <desc lang="pt">Acompanhe as emoções da elite do futebol masculino da Rússia.</desc>
   </programme>
@@ -8952,10 +9328,14 @@
     <category lang="pt">Eurocup-3</category>
     <desc lang="pt">Todas as emoções da competição de velocidade com monopostos disputada em etapas pela Europa.</desc>
   </programme>
-  <programme start="20260801180000 -0300" stop="20260801190000 -0300" channel="Band Sports.br">
-    <title lang="pt">Etapa de Cuiabá - Corrida 2</title>
-    <category lang="pt">Campeonato Brasileiro de Turismo 1.4</category>
-    <desc lang="pt">Competição de velocidade que abrange carros de turismo com motores de 1.400 cilindradas.</desc>
+  <programme start="20260801180000 -0300" stop="20260801184500 -0300" channel="Band Sports.br">
+    <title lang="pt">MX2: Flandres - Corrida 1</title>
+    <category lang="pt">Mundial de Motocross</category>
+    <desc lang="pt">Toda a disputa da principal competição de motocross do mundo, organizada pela Federação Internacional de Motociclismo, a FIM, com etapas por todo o planeta.</desc>
+  </programme>
+  <programme start="20260801184500 -0300" stop="20260801190000 -0300" channel="Band Sports.br">
+    <title lang="pt">Africa Eco Race</title>
+    <desc lang="pt">Aventureiros atravessam desertos e regiões selvagens da África em um rali extenuante de Marrocos a Dakar. A prova testa a resistência e a navegação dos participantes em um percurso desafiador pelo continente.</desc>
   </programme>
   <programme start="20260801190000 -0300" stop="20260801191500 -0300" channel="Band Sports.br">
     <title lang="pt">Momento Olímpico</title>
@@ -9043,24 +9423,20 @@
     <category lang="pt">Moto 1000 GP</category>
     <desc lang="pt">Competição histórica para a motovelocidade brasileira integra o Campeonato Brasileiro da modalidade.</desc>
   </programme>
-  <programme start="20260802143000 -0300" stop="20260802160000 -0300" channel="Band Sports.br">
-    <title lang="pt">AMG Cup Brasil</title>
-    <category lang="pt">AMG Cup Brasil</category>
-    <desc lang="pt">Competição de velocidade com carros da montadora Mercedes-Benz e corridas por todo o Brasil.</desc>
-  </programme>
-  <programme start="20260802160000 -0300" stop="20260802164500 -0300" channel="Band Sports.br">
+  <programme start="20260802143000 -0300" stop="20260802151500 -0300" channel="Band Sports.br">
     <title lang="pt">Quarta Etapa: Monza - Corrida 2</title>
     <category lang="pt">Eurocup-3</category>
     <desc lang="pt">Todas as emoções da competição de velocidade com monopostos disputada em etapas pela Europa.</desc>
   </programme>
-  <programme start="20260802164500 -0300" stop="20260802174500 -0300" channel="Band Sports.br">
-    <title lang="pt">MX2: Flandres - Corrida 2</title>
-    <category lang="pt">Mundial de Motocross</category>
-    <desc lang="pt">Toda a disputa da principal competição de motocross do mundo, organizada pela Federação Internacional de Motociclismo, a FIM, com etapas por todo o planeta.</desc>
+  <programme start="20260802151500 -0300" stop="20260802161500 -0300" channel="Band Sports.br">
+    <title lang="pt">Papo de Paddock</title>
+    <category lang="pt">Sports talk</category>
+    <desc lang="pt">O jornalista Ale Speitzzer traz uma visão única e privilegiada do mundo do automobilismo, combinando análise aprofundada e curiosidades fascinantes por meio de entrevistas exclusivas com pilotos, especialistas e personalidades de diversas categorias.</desc>
   </programme>
-  <programme start="20260802174500 -0300" stop="20260802180000 -0300" channel="Band Sports.br">
-    <title lang="pt">Vila Bandsports</title>
-    <desc lang="pt">O programa acompanha a preparação de atletas olímpicos do Brasil para os Jogos de Los Angeles 2028, com um olhar aprofundado e exclusivo sobre a jornada de cada esportista.</desc>
+  <programme start="20260802161500 -0300" stop="20260802180000 -0300" channel="Band Sports.br">
+    <title lang="pt">AMG Cup Brasil</title>
+    <category lang="pt">AMG Cup Brasil</category>
+    <desc lang="pt">Competição de velocidade com carros da montadora Mercedes-Benz e corridas por todo o Brasil.</desc>
   </programme>
   <programme start="20260802180000 -0300" stop="20260802190000 -0300" channel="Band Sports.br">
     <title lang="pt">Esporte Agora</title>
@@ -9071,29 +9447,33 @@
     <category lang="pt">Fórmula Truck</category>
     <desc lang="pt">Caminhões adaptados disputam provas de velocidade em circuitos pelo Brasil e América do Sul.</desc>
   </programme>
-  <programme start="20260802200000 -0300" stop="20260802213000 -0300" channel="Band Sports.br">
+  <programme start="20260802200000 -0300" stop="20260802210000 -0300" channel="Band Sports.br">
     <title lang="pt">Encontro de Craques</title>
     <desc lang="pt">O programa recebe convidados do mundo esportivo e celebridades para uma conversa bem-humorada cheia de conteúdo, histórias e temas relevantes.</desc>
   </programme>
-  <programme start="20260802213000 -0300" stop="20260802230000 -0300" channel="Band Sports.br">
+  <programme start="20260802210000 -0300" stop="20260802223000 -0300" channel="Band Sports.br">
+    <title lang="pt">AMG Cup Brasil</title>
+    <category lang="pt">AMG Cup Brasil</category>
+    <desc lang="pt">Competição de velocidade com carros da montadora Mercedes-Benz e corridas por todo o Brasil.</desc>
+  </programme>
+  <programme start="20260802223000 -0300" stop="20260803000000 -0300" channel="Band Sports.br">
     <title lang="pt">Terceira Etapa - Cascavel</title>
     <category lang="pt">Yamalube R3 Cup</category>
     <desc lang="pt">Campeonato de motovelocidade monomarca disputado por pilotos de diversas idades e partes do mundo.</desc>
   </programme>
-  <programme start="20260802230000 -0300" stop="20260803003000 -0300" channel="Band Sports.br">
+  <programme start="20260803000000 -0300" stop="20260803013000 -0300" channel="Band Sports.br">
     <title lang="pt">Quarta Etapa - Cascavel, PR</title>
     <category lang="pt">Moto 1000 GP</category>
     <desc lang="pt">Competição histórica para a motovelocidade brasileira integra o Campeonato Brasileiro da modalidade.</desc>
   </programme>
-  <programme start="20260803003000 -0300" stop="20260803013000 -0300" channel="Band Sports.br">
+  <programme start="20260803013000 -0300" stop="20260803023000 -0300" channel="Band Sports.br">
     <title lang="pt">MXGP: Flandres - Corrida 2</title>
     <category lang="pt">Mundial de Motocross</category>
     <desc lang="pt">Toda a disputa da principal competição de motocross do mundo, organizada pela Federação Internacional de Motociclismo, a FIM, com etapas por todo o planeta.</desc>
   </programme>
-  <programme start="20260803013000 -0300" stop="20260803030000 -0300" channel="Band Sports.br">
-    <title lang="pt">AMG Cup Brasil</title>
-    <category lang="pt">AMG Cup Brasil</category>
-    <desc lang="pt">Competição de velocidade com carros da montadora Mercedes-Benz e corridas por todo o Brasil.</desc>
+  <programme start="20260803023000 -0300" stop="20260803030000 -0300" channel="Band Sports.br">
+    <title lang="pt">Pra Vencer Tem que Lutar</title>
+    <desc lang="pt">Programa destaca jovens talentos das artes marciais em comunidades periféricas, com foco no impacto social e na superação através do esporte. O vencedor garante reformas para sua academia.</desc>
   </programme>
   <programme start="20260803030000 -0300" stop="20260803050000 -0300" channel="Band Sports.br">
     <title lang="pt">SFT</title>
@@ -9914,6 +10294,171 @@
     <title lang="pt">Canal Livre</title>
     <category lang="pt">Interview</category>
     <desc lang="pt">Canal Livre entrevista os governadores Eduardo Leite, Ratinho Jr. e Ronaldo Caiado. Eles discutem as propostas para a superação da polarização política no país e os impactos da crise do Banco Master na credibilidade das instituições nacionais.</desc>
+  </programme>
+  <programme start="20260801060000 -0300" stop="20260801062000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260801062000 -0300" stop="20260801064000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260801064000 -0300" stop="20260801070000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260801070000 -0300" stop="20260801072500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260801072500 -0300" stop="20260801075000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260801075000 -0300" stop="20260801081500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260801081500 -0300" stop="20260801084000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260801084000 -0300" stop="20260801091000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260801091000 -0300" stop="20260801093500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260801093500 -0300" stop="20260801103500 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260801103500 -0300" stop="20260801113000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260801113000 -0300" stop="20260801131500 -0300" channel="National Geographic.br">
+    <title lang="pt">Filme</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Acompanhe uma produção cinematográfica.</desc>
+  </programme>
+  <programme start="20260801131500 -0300" stop="20260801141000 -0300" channel="National Geographic.br">
+    <title lang="pt">Cesar Millan - Melhores Humanos, Melhores Cachorros</title>
+    <category lang="pt">Animals</category>
+    <desc lang="pt">O especialista em comportamento canino Cesar Millan auxilia donos de cães nos Estados Unidos. Cesar ajuda a treinar os cães, a mudar seus maus hábitos e a melhorar a vida tanto dos animais quanto de suas famílias.</desc>
+  </programme>
+  <programme start="20260801141000 -0300" stop="20260801144000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mika, Resgatista de Animais</title>
+    <category lang="pt">Animals</category>
+    <desc lang="pt">Mika Prada se dedica a resgatar animais que foram mal-tratados ou abandonados. Ao longo de sua carreira profissional, ela já resgatou mais de um milhão de animais de todas as espécies e habitats.</desc>
+  </programme>
+  <programme start="20260801144000 -0300" stop="20260801150500 -0300" channel="National Geographic.br">
+    <title lang="pt">Amante dos Bichos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Uma série documental sobre a vida selvagem e a diversidade humana. Cada episódio procura encontrar e fotografar animais e refletir sobre como os humanos se relacionam uns com os outros.</desc>
+  </programme>
+  <programme start="20260801150500 -0300" stop="20260801160000 -0300" channel="National Geographic.br">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">O veterinário Dr. Pol mostra sua zona rural, em Michigan, onde cuida de animais que necessitam de sua experiência e bondade. Pol é imperturbável e imparável, dedicando, rotineiramente, 14 horas por dia para sua comunidade.</desc>
+  </programme>
+  <programme start="20260801160000 -0300" stop="20260801170000 -0300" channel="National Geographic.br">
+    <title lang="pt">The Dog House - Lar Perfeito</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">O dia a dia de abrigo de animais que luta para encontrar lares para todos os cães.</desc>
+  </programme>
+  <programme start="20260801170000 -0300" stop="20260801180000 -0300" channel="National Geographic.br">
+    <title lang="pt">Yukon - Plantão Veterinário</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">A Dra. Michelle Oakley é veterinária em um dos ambientes mais hostis da Terra, o norte do Canadá. Ela assume as tarefas mais extremas, além de administrar uma clínica de animais em sua casa.</desc>
+  </programme>
+  <programme start="20260801180000 -0300" stop="20260801190000 -0300" channel="National Geographic.br">
+    <title lang="pt">Vale dos Reis - Tesouros do Egito</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acompanhe a busca por tesouros perdidos do Egito no Vale dos Reis.</desc>
+  </programme>
+  <programme start="20260801190000 -0300" stop="20260801200000 -0300" channel="National Geographic.br">
+    <title lang="pt">Segredos de Feras Gigantes</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Escavações arqueológicas lançam luz sobre os animais extintos de antigamente, do Tiranossauro Rex ao tigre da Tasmânia, do tigre dente-de-sabre e ao mamute peludo, e examinam as lendas e mitos que os cercam.</desc>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260801210000 -0300" channel="National Geographic.br">
+    <title lang="pt">Segredos Perdidos da Civilização Maia</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Nas profundezas da selva da Guatemala, Albert Lin descobre segredos Maias perdidos entre ruínas antigas e sistemas de cavernas.</desc>
+  </programme>
+  <programme start="20260801210000 -0300" stop="20260801220000 -0300" channel="National Geographic.br">
+    <title lang="pt">Planeta Selvagem - México</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Agraciado com uma enorme quantidade de ecossistemas, o México é um valiosíssimo tesouro natural do mundo. O programa apresenta suas montanhas, mares, desertos, mangues, florestas e biodiversidade.</desc>
+  </programme>
+  <programme start="20260801220000 -0300" stop="20260801225500 -0300" channel="National Geographic.br">
+    <title lang="pt">Heróis da Ecologia</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Conheça soluções ecológicas inovadoras e inteligentes para diferentes espaços de viver.</desc>
+  </programme>
+  <programme start="20260801225500 -0300" stop="20260801232500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260801232500 -0300" stop="20260801235000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260801235000 -0300" stop="20260802005000 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Colômbia</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Acompanhe a polícia aeroportuária em sua luta contra o tráfico de drogas.</desc>
+  </programme>
+  <programme start="20260802005000 -0300" stop="20260802015000 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - São Paulo</title>
+    <category lang="pt">Crime</category>
+    <desc lang="pt">No Aeroporto Internacional de Guarulhos, em São Paulo, Brasil, uma nova equipe de segurança entra em ação contra o crime. De tentativas de tráfico ilegal de drogas e de pessoas a contrabando de mercadoria e moedas, tudo pode acontecer.</desc>
+  </programme>
+  <programme start="20260802015000 -0300" stop="20260802024000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260802024000 -0300" stop="20260802032500 -0300" channel="National Geographic.br">
+    <title lang="pt">Cidades Desvendadas com Albert Lin</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.</desc>
+  </programme>
+  <programme start="20260802032500 -0300" stop="20260802041000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.</desc>
+  </programme>
+  <programme start="20260802041000 -0300" stop="20260802045500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260802045500 -0300" stop="20260802053500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260802053500 -0300" stop="20260802060000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
   </programme>
   <programme start="20260802060000 -0300" stop="20260802062000 -0300" channel="National Geographic.br">
     <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
@@ -12461,32 +13006,32 @@
   <programme start="20260801081000 -0300" stop="20260801081600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Na Amazônia, Peyo descobre ovos de jacaré-açu, mas sem a mãe por perto. Ele e os guardas ajudam a mãe a reencontrar seus ovos.</desc>
+    <desc lang="pt">No Sul da Austrália, a descoberta de uma Aranha Pavão por Kyle leva os guardas a uma missão de resgate, usando folhas e danças para ajudar o macho a impressionar a fêmea.</desc>
   </programme>
   <programme start="20260801081600 -0300" stop="20260801082200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Na Amazônia, Peyo descobre ovos de jacaré-açu, mas sem a mãe por perto. Ele e os guardas ajudam a mãe a reencontrar seus ovos.</desc>
+    <desc lang="pt">No Sul da Austrália, a descoberta de uma Aranha Pavão por Kyle leva os guardas a uma missão de resgate, usando folhas e danças para ajudar o macho a impressionar a fêmea.</desc>
   </programme>
   <programme start="20260801082200 -0300" stop="20260801082800 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Na Amazônia, Peyo descobre ovos de jacaré-açu, mas sem a mãe por perto. Ele e os guardas ajudam a mãe a reencontrar seus ovos.</desc>
+    <desc lang="pt">No Sul da Austrália, a descoberta de uma Aranha Pavão por Kyle leva os guardas a uma missão de resgate, usando folhas e danças para ajudar o macho a impressionar a fêmea.</desc>
   </programme>
   <programme start="20260801082800 -0300" stop="20260801083400 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Na Amazônia, Peyo descobre ovos de jacaré-açu, mas sem a mãe por perto. Ele e os guardas ajudam a mãe a reencontrar seus ovos.</desc>
+    <desc lang="pt">No Sul da Austrália, a descoberta de uma Aranha Pavão por Kyle leva os guardas a uma missão de resgate, usando folhas e danças para ajudar o macho a impressionar a fêmea.</desc>
   </programme>
   <programme start="20260801083400 -0300" stop="20260801084000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Na Amazônia, Peyo descobre ovos de jacaré-açu, mas sem a mãe por perto. Ele e os guardas ajudam a mãe a reencontrar seus ovos.</desc>
+    <desc lang="pt">No Sul da Austrália, a descoberta de uma Aranha Pavão por Kyle leva os guardas a uma missão de resgate, usando folhas e danças para ajudar o macho a impressionar a fêmea.</desc>
   </programme>
   <programme start="20260801084000 -0300" stop="20260801085000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Na Amazônia, Peyo descobre ovos de jacaré-açu, mas sem a mãe por perto. Ele e os guardas ajudam a mãe a reencontrar seus ovos.</desc>
+    <desc lang="pt">No Sul da Austrália, a descoberta de uma Aranha Pavão por Kyle leva os guardas a uma missão de resgate, usando folhas e danças para ajudar o macho a impressionar a fêmea.</desc>
   </programme>
   <programme start="20260801085000 -0300" stop="20260801090000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Ursinhos Carinhosos</title>
@@ -12766,77 +13311,77 @@
   <programme start="20260801140000 -0300" stop="20260801140200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801140200 -0300" stop="20260801140500 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801140500 -0300" stop="20260801140700 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801140700 -0300" stop="20260801141000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801141000 -0300" stop="20260801141200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801141200 -0300" stop="20260801141500 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801141500 -0300" stop="20260801141700 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801141700 -0300" stop="20260801142000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801142000 -0300" stop="20260801142200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801142200 -0300" stop="20260801142500 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801142500 -0300" stop="20260801142700 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801142700 -0300" stop="20260801143000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801143000 -0300" stop="20260801143200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801143200 -0300" stop="20260801143500 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801143500 -0300" stop="20260801144000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Cocomelon</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Compartilhar é uma ótima maneira de cuidar das pessoas ao seu redor e de se divertir.</desc>
+    <desc lang="pt">Cante junto a nova música original, ótima para aprender os nomes de todos.</desc>
   </programme>
   <programme start="20260801144000 -0300" stop="20260801145000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Pequeno Príncipe e Seus Amigos</title>
@@ -18211,8 +18756,8 @@
   </programme>
   <programme start="20260801070000 -0300" stop="20260801081500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal da Cultura na Missão do Dia</title>
-    <category lang="pt">Adventure</category>
-    <desc lang="pt">Doroteia tem uma missão muito importante: transformar o espaço do B.O.R.A. em um lugar cheio de diversão para receber crianças que participarão de um encontro para discutir como melhorar a vida no planeta Terra. Doroteia e Osório partem em busca de levar diversão para as crianças depois desse encontro.</desc>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Ludovico tenta organizar um mutirão de limpeza no bairro, mas não sai como esperado. Desanimado, ele recebe inspiração de Cacá para conhecer Seu Hélio da Silva, que sozinho transformou espaço abandonado no Parque Linear Tiquatira. Na Zona Leste de São Paulo, Ludovico descobre como milhares de árvores plantadas por uma pessoa criaram o primeiro parque linear da cidade, e aprende que grandes mudanças começam com pequenas atitudes.</desc>
   </programme>
   <programme start="20260801081500 -0300" stop="20260801083000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Física Divertida</title>
@@ -18232,7 +18777,7 @@
   <programme start="20260801090000 -0300" stop="20260801092500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os ventos cearenses na Comunidade de Tatajuba sopram forte enquanto crianças contam como constroem suas canoas de isopor ou da raiz de timbaúba para competir em regatas no mar. Do mar à terra, fazem suas arminhas de folha de coqueiro e se misturam nas areias das dunas em velozes descidas com talas de madeira. Ao cair da tarde a pequena comunidade é povoada de brincadeiras de elástico, jogo de futebol e uma vastidão de contação de histórias que assombram a criançada.</desc>
+    <desc lang="pt">A tradição gaúcha é contada e apresentada por crianças que dançam invernadas, laçam e tosam carneiros, fazem churrasco de chão, pescam com frequência e cantam cantigas regionais. Brincadeiras de rua como pega-pega, pular corda e amarelinha são apresentadas com sotaques por elas que vivem na fronteira com o Uruguai.</desc>
   </programme>
   <programme start="20260801092500 -0300" stop="20260801093000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Morgana &amp; Celeste</title>
@@ -18332,7 +18877,7 @@
   <programme start="20260801125000 -0300" stop="20260801130000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Valentim faz uma descoberta intrigante na praia, um pequeno montinho de areia que desperta sua curiosidade. Valentim reúne Duquesa, Fiufiu e Baiá para uma investigação sobre o monte de areia e as pegadas misteriosas que apareceram ao seu redor.</desc>
+    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
   </programme>
   <programme start="20260801130000 -0300" stop="20260801131500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Meu AmigãoZão</title>
@@ -18357,7 +18902,7 @@
   <programme start="20260801134500 -0300" stop="20260801140000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">A Arca do Ziraldo</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Tininim e Alice vão salvar animais ameaçados de extinção numa aventura divertida e com muita imaginação na Mata do Cafundó. Com ajuda dos poderes mágicos e criativos da Arca do Ziraldo, eles vão tentar preservar do fim do mundo não apenas os animais ameaçados, mas a própria brincadeira de faz de conta.</desc>
+    <desc lang="pt">Tininim e Alice salvam animais ameaçados de extinção em uma aventura divertida e com muita imaginação na Mata do Cafundó. Com ajuda dos poderes mágicos e criativos da Arca do Ziraldo, eles vão tentar preservar todo mundo.</desc>
   </programme>
   <programme start="20260801140000 -0300" stop="20260801153000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Era uma Vez no Quintal</title>
@@ -18422,7 +18967,7 @@
   <programme start="20260801174500 -0300" stop="20260801180000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">A Arca do Ziraldo</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Tininim e Alice vão salvar animais ameaçados de extinção numa aventura divertida e com muita imaginação na Mata do Cafundó. Com ajuda dos poderes mágicos e criativos da Arca do Ziraldo, eles vão tentar preservar do fim do mundo não apenas os animais ameaçados, mas a própria brincadeira de faz de conta.</desc>
+    <desc lang="pt">Tininim e Alice salvam animais ameaçados de extinção em uma aventura divertida e com muita imaginação na Mata do Cafundó. Com ajuda dos poderes mágicos e criativos da Arca do Ziraldo, eles vão tentar preservar todo mundo.</desc>
   </programme>
   <programme start="20260801180000 -0300" stop="20260801181500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Viola e Tambor</title>
@@ -18442,7 +18987,7 @@
   <programme start="20260801183000 -0300" stop="20260801184000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Valentim faz uma descoberta intrigante na praia, um pequeno montinho de areia que desperta sua curiosidade. Valentim reúne Duquesa, Fiufiu e Baiá para uma investigação sobre o monte de areia e as pegadas misteriosas que apareceram ao seu redor.</desc>
+    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
   </programme>
   <programme start="20260801184000 -0300" stop="20260801184500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esse É o Bicho!</title>
@@ -18467,7 +19012,7 @@
   <programme start="20260801192000 -0300" stop="20260801193000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Doroteia precisa fazer um trabalho escolar sobre o Museu Catavento e chama o irmão Ludovico para ajudá-la. Lá, os dois precisam encarar um desafio para salvarem o planeta Terra de uma invasão alienígena.</desc>
+    <desc lang="pt">Osório convida a tia Ofélia para um passeio pelo Pateo do Collegio para conhecer o berço de São Paulo enquanto busca um tesouro deixado pelo santo padre Anchieta.</desc>
   </programme>
   <programme start="20260801193000 -0300" stop="20260801200000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Musical Rá Tim Bum - Vai Ter Show do Badulaque</title>
@@ -18487,7 +19032,7 @@
   <programme start="20260801203000 -0300" stop="20260801205500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os ventos cearenses na Comunidade de Tatajuba sopram forte enquanto crianças contam como constroem suas canoas de isopor ou da raiz de timbaúba para competir em regatas no mar. Do mar à terra, fazem suas arminhas de folha de coqueiro e se misturam nas areias das dunas em velozes descidas com talas de madeira. Ao cair da tarde a pequena comunidade é povoada de brincadeiras de elástico, jogo de futebol e uma vastidão de contação de histórias que assombram a criançada.</desc>
+    <desc lang="pt">A tradição gaúcha é contada e apresentada por crianças que dançam invernadas, laçam e tosam carneiros, fazem churrasco de chão, pescam com frequência e cantam cantigas regionais. Brincadeiras de rua como pega-pega, pular corda e amarelinha são apresentadas com sotaques por elas que vivem na fronteira com o Uruguai.</desc>
   </programme>
   <programme start="20260801205500 -0300" stop="20260801210000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Morgana &amp; Celeste</title>
@@ -18497,22 +19042,22 @@
   <programme start="20260801210000 -0300" stop="20260801213000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A professora de Lucas pede que ele faça um trabalho sobre as regiões do Brasil. Ao chegar em casa, ele pede a ajuda de Rogério que, na maior boa vontade, pega seu vasto material de geografia, mas, enquanto ele fala, Lucas entra no mundo da Lua.</desc>
+    <desc lang="pt">Numa bela tarde de sábado a euforia é grande. Juliana e sua amiga Daniela vão ao show de seus maiores ídolos, os Big Bad Boys. Lucas não foi convidado e está se sentindo rejeitado, mas não admite e fica fazendo intrigas.</desc>
   </programme>
   <programme start="20260801213000 -0300" stop="20260801220000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A professora de Lucas pede que ele faça um trabalho sobre as regiões do Brasil. Ao chegar em casa, ele pede a ajuda de Rogério que, na maior boa vontade, pega seu vasto material de geografia, mas, enquanto ele fala, Lucas entra no mundo da Lua.</desc>
+    <desc lang="pt">Numa bela tarde de sábado a euforia é grande. Juliana e sua amiga Daniela vão ao show de seus maiores ídolos, os Big Bad Boys. Lucas não foi convidado e está se sentindo rejeitado, mas não admite e fica fazendo intrigas.</desc>
   </programme>
   <programme start="20260801220000 -0300" stop="20260801223000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A professora de Lucas pede que ele faça um trabalho sobre as regiões do Brasil. Ao chegar em casa, ele pede a ajuda de Rogério que, na maior boa vontade, pega seu vasto material de geografia, mas, enquanto ele fala, Lucas entra no mundo da Lua.</desc>
+    <desc lang="pt">Numa bela tarde de sábado a euforia é grande. Juliana e sua amiga Daniela vão ao show de seus maiores ídolos, os Big Bad Boys. Lucas não foi convidado e está se sentindo rejeitado, mas não admite e fica fazendo intrigas.</desc>
   </programme>
   <programme start="20260801223000 -0300" stop="20260801234500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal da Cultura na Missão do Dia</title>
-    <category lang="pt">Adventure</category>
-    <desc lang="pt">Doroteia tem uma missão muito importante: transformar o espaço do B.O.R.A. em um lugar cheio de diversão para receber crianças que participarão de um encontro para discutir como melhorar a vida no planeta Terra. Doroteia e Osório partem em busca de levar diversão para as crianças depois desse encontro.</desc>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Ludovico tenta organizar um mutirão de limpeza no bairro, mas não sai como esperado. Desanimado, ele recebe inspiração de Cacá para conhecer Seu Hélio da Silva, que sozinho transformou espaço abandonado no Parque Linear Tiquatira. Na Zona Leste de São Paulo, Ludovico descobre como milhares de árvores plantadas por uma pessoa criaram o primeiro parque linear da cidade, e aprende que grandes mudanças começam com pequenas atitudes.</desc>
   </programme>
   <programme start="20260801234500 -0300" stop="20260802000000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">1, 2, 3 Agora É Sua Vez</title>
@@ -18557,7 +19102,7 @@
   <programme start="20260802020000 -0300" stop="20260802023000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os ventos cearenses na Comunidade de Tatajuba sopram forte enquanto crianças contam como constroem suas canoas de isopor ou da raiz de timbaúba para competir em regatas no mar. Do mar à terra, fazem suas arminhas de folha de coqueiro e se misturam nas areias das dunas em velozes descidas com talas de madeira. Ao cair da tarde a pequena comunidade é povoada de brincadeiras de elástico, jogo de futebol e uma vastidão de contação de histórias que assombram a criançada.</desc>
+    <desc lang="pt">A tradição gaúcha é contada e apresentada por crianças que dançam invernadas, laçam e tosam carneiros, fazem churrasco de chão, pescam com frequência e cantam cantigas regionais. Brincadeiras de rua como pega-pega, pular corda e amarelinha são apresentadas com sotaques por elas que vivem na fronteira com o Uruguai.</desc>
   </programme>
   <programme start="20260802023000 -0300" stop="20260802024500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Yoga com Histórias</title>
@@ -18592,7 +19137,7 @@
   <programme start="20260802035000 -0300" stop="20260802040000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Doroteia precisa fazer um trabalho escolar sobre o Museu Catavento e chama o irmão Ludovico para ajudá-la. Lá, os dois precisam encarar um desafio para salvarem o planeta Terra de uma invasão alienígena.</desc>
+    <desc lang="pt">Osório convida a tia Ofélia para um passeio pelo Pateo do Collegio para conhecer o berço de São Paulo enquanto busca um tesouro deixado pelo santo padre Anchieta.</desc>
   </programme>
   <programme start="20260802040000 -0300" stop="20260802041000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Paramigos Imparáveis</title>
@@ -18627,7 +19172,7 @@
   <programme start="20260802050000 -0300" stop="20260802051500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">A Arca do Ziraldo</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Tininim e Alice vão salvar animais ameaçados de extinção numa aventura divertida e com muita imaginação na Mata do Cafundó. Com ajuda dos poderes mágicos e criativos da Arca do Ziraldo, eles vão tentar preservar do fim do mundo não apenas os animais ameaçados, mas a própria brincadeira de faz de conta.</desc>
+    <desc lang="pt">Tininim e Alice salvam animais ameaçados de extinção em uma aventura divertida e com muita imaginação na Mata do Cafundó. Com ajuda dos poderes mágicos e criativos da Arca do Ziraldo, eles vão tentar preservar todo mundo.</desc>
   </programme>
   <programme start="20260802051500 -0300" stop="20260802052000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">T.R.EX.C.I</title>
@@ -25176,10 +25721,123 @@
     <category lang="pt">Temporada 13 Episódio 2 - Código Azul Placa Espacial</category>
     <desc lang="pt">Ao chegar em seu restaurante favorito, a equipe do CSI encontra uma cena de crime violenta e oito pessoas mortas.</desc>
   </programme>
-  <programme start="20260802051700 -0300" stop="20260802061700 -0300" channel="SPACE.br">
+  <programme start="20260802051700 -0300" stop="20260802060000 -0300" channel="SPACE.br">
     <title lang="pt">CSI Investigação Criminal</title>
     <category lang="pt">Temporada 15 Episódio 16 - Última Viagem</category>
     <desc lang="pt">Os membros da equipe CSI buscam o assassino de uma moça que foi encontrada asfixiada e que teve o corpo coberto por tinta prata. As pistas levam ao carro conversível clássico no qual um mafioso de Las Vegas foi brutalmente morto.</desc>
+  </programme>
+  <programme start="20260802060000 -0300" stop="20260802061000 -0300" channel="SPACE.br">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+  </programme>
+  <programme start="20260802061000 -0300" stop="20260802062000 -0300" channel="SPACE.br">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+  </programme>
+  <programme start="20260802062000 -0300" stop="20260802070500 -0300" channel="SPACE.br">
+    <title lang="pt">CSI: Miami</title>
+    <category lang="pt">Temporada 8 Episódio 11 - Delko na Defesa</category>
+    <desc lang="pt">A equipe descobre que Delko está trabalhando para um advogado que defende um homem sem-teto, acusado de violentar e matar uma mulher rica.</desc>
+  </programme>
+  <programme start="20260802070500 -0300" stop="20260802075000 -0300" channel="SPACE.br">
+    <title lang="pt">CSI Investigação Criminal</title>
+    <category lang="pt">Temporada 9 Episódio 10 - Só Mais Um</category>
+    <desc lang="pt">Grissom avisa que está deixando a equipe, o que os deixa surpresos e tristes; Dr. Raymond Langston pode assumir uma posição permanente no grupo.</desc>
+  </programme>
+  <programme start="20260802075000 -0300" stop="20260802083700 -0300" channel="SPACE.br">
+    <title lang="pt">CSI Investigação Criminal</title>
+    <category lang="pt">Temporada 11 Episódio 7 - Bater e Moer</category>
+    <desc lang="pt">O presidente de uma companhia se torna um suspeito de assassinato quando seus cartões de crédito são encontrados entre os restos mortais de um corpo humano.</desc>
+  </programme>
+  <programme start="20260802083700 -0300" stop="20260802092400 -0300" channel="SPACE.br">
+    <title lang="pt">CSI: Miami</title>
+    <category lang="pt">Temporada 10 Episódio 10 - Long Gone</category>
+    <desc lang="pt">Horatio is determined to find a family that completely disappeared.</desc>
+  </programme>
+  <programme start="20260802092400 -0300" stop="20260802100900 -0300" channel="SPACE.br">
+    <title lang="pt">CSI: Miami</title>
+    <category lang="pt">Temporada 2 Episódio 7 - Grand Prix</category>
+    <desc lang="pt">A gas man is engulfed in invisible flames and dies during a qualifying race at the Grand Prix Americas.</desc>
+  </programme>
+  <programme start="20260802100900 -0300" stop="20260802105400 -0300" channel="SPACE.br">
+    <title lang="pt">CSI Investigação Criminal</title>
+    <category lang="pt">Temporada 13 Episódio 5 - Jogo Fatal</category>
+    <desc lang="pt">Depois de um policial ser morto violentamente, seu parceiro, um cão, se torna o principal suspeito, o que dificulta o trabalho de Nick; Finlay e Morgan investigam o assassinato de um ganancioso advogado de divórcios que tem muitos inimigos.</desc>
+  </programme>
+  <programme start="20260802105400 -0300" stop="20260802114200 -0300" channel="SPACE.br">
+    <title lang="pt">CSI Investigação Criminal</title>
+    <category lang="pt">Temporada 16 Episódio 2 - Imortalidade Parte 2</category>
+    <desc lang="pt">Catherine Willows e Gil Grissom estão de volta a Las Vegas para investigar a explosão que aconteceu dentro de um cassino. A equipe acredita que o crime esteja relacionado a Lady Heather; D.B. e Sara pensam no futuro.</desc>
+  </programme>
+  <programme start="20260802114200 -0300" stop="20260802122900 -0300" channel="SPACE.br">
+    <title lang="pt">CSI: Miami</title>
+    <category lang="pt">Temporada 6 Episódio 13 - Elevando Caine</category>
+    <desc lang="pt">A ex-esposa de Horatio, a mãe de Kyle, reaparece como a viúva de um bilionário, que fará qualquer coisa para conseguir seu filho de volta.</desc>
+  </programme>
+  <programme start="20260802122900 -0300" stop="20260802144900 -0300" channel="SPACE.br">
+    <title lang="pt">Constantine</title>
+    <desc lang="pt">Contos sobrenaturais baseados nas histórias em quadrinhos &quot;Hellblazer&quot;. O solitário Constantine tenta garantir seu lugar no paraíso enviando demônios de volta ao inferno, mas seu destino está ligado ao de Angela, uma policial que investiga o suposto suicídio de sua irmã gêmea.</desc>
+  </programme>
+  <programme start="20260802144900 -0300" stop="20260802170300 -0300" channel="SPACE.br">
+    <title lang="pt">Os Bad Boys</title>
+    <desc lang="pt">Em Miami, os detetives Mike Lowrey e Marcus Burnett trocam de identidade enquanto investigam assassinatos ligados ao roubo de uma carga de 100 milhões de dólares em heroína, que recentemente confiscaram.</desc>
+  </programme>
+  <programme start="20260802170300 -0300" stop="20260802185700 -0300" channel="SPACE.br">
+    <title lang="pt">Rampage - Destruição Total</title>
+    <category lang="pt">Action / 2018</category>
+    <desc lang="pt">Davis Okoye é um primatologista recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora, Okoye precisa conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.</desc>
+  </programme>
+  <programme start="20260802185700 -0300" stop="20260802210600 -0300" channel="SPACE.br">
+    <title lang="pt">Baywatch - S.O.S Malibu</title>
+    <category lang="pt">Comedy / 2017</category>
+    <desc lang="pt">O ex-atleta olímpico Matt Brody quer se juntar a uma equipe de salva-vidas de elite liderada por Mitch Buchannon. Quando as drogas e o suspeito dono de um resort ameaçam a baía, Mitch e Matt precisam colocar suas diferenças de lado e entrar em ação.</desc>
+  </programme>
+  <programme start="20260802210600 -0300" stop="20260802230000 -0300" channel="SPACE.br">
+    <title lang="pt">A Múmia</title>
+    <category lang="pt">Action / 2017</category>
+    <desc lang="pt">Na Mesopotâmia, séculos atrás, Ahmanet tem seus planos interrompidos quando estava prestes a invocar Set, o deus da morte, para que juntos pudessem governar o mundo. Mumificada, ela é aprisionada numa tumba. Atualmente, o local é descoberto por acidente por Nick Morton e Chris Vail, saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey, eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet.</desc>
+  </programme>
+  <programme start="20260802230000 -0300" stop="20260803010400 -0300" channel="SPACE.br">
+    <title lang="pt">O Vingador do Futuro</title>
+    <category lang="pt">Science fiction / 2012</category>
+    <desc lang="pt">Quaid, um operário entediado, procura uma empresa que oferece um serviço especial: um procedimento que transforma sonhos em lembranças verdadeiras. Como seu sonho era ser espião, Quaid passa pelo procedimento, mas as coisas não saem como planejadas.</desc>
+  </programme>
+  <programme start="20260803010400 -0300" stop="20260803014900 -0300" channel="SPACE.br">
+    <title lang="pt">CSI: Miami</title>
+    <category lang="pt">Temporada 8 Episódio 11 - Delko na Defesa</category>
+    <desc lang="pt">A equipe descobre que Delko está trabalhando para um advogado que defende um homem sem-teto, acusado de violentar e matar uma mulher rica.</desc>
+  </programme>
+  <programme start="20260803014900 -0300" stop="20260803023200 -0300" channel="SPACE.br">
+    <title lang="pt">CSI Investigação Criminal</title>
+    <category lang="pt">Temporada 9 Episódio 10 - Só Mais Um</category>
+    <desc lang="pt">Grissom avisa que está deixando a equipe, o que os deixa surpresos e tristes; Dr. Raymond Langston pode assumir uma posição permanente no grupo.</desc>
+  </programme>
+  <programme start="20260803023200 -0300" stop="20260803031500 -0300" channel="SPACE.br">
+    <title lang="pt">CSI Investigação Criminal</title>
+    <category lang="pt">Temporada 11 Episódio 7 - Bater e Moer</category>
+    <desc lang="pt">O presidente de uma companhia se torna um suspeito de assassinato quando seus cartões de crédito são encontrados entre os restos mortais de um corpo humano.</desc>
+  </programme>
+  <programme start="20260803031500 -0300" stop="20260803035800 -0300" channel="SPACE.br">
+    <title lang="pt">CSI: Miami</title>
+    <category lang="pt">Temporada 10 Episódio 10 - Long Gone</category>
+    <desc lang="pt">Horatio is determined to find a family that completely disappeared.</desc>
+  </programme>
+  <programme start="20260803035800 -0300" stop="20260803044000 -0300" channel="SPACE.br">
+    <title lang="pt">CSI: Miami</title>
+    <category lang="pt">Temporada 2 Episódio 7 - Grand Prix</category>
+    <desc lang="pt">A gas man is engulfed in invisible flames and dies during a qualifying race at the Grand Prix Americas.</desc>
+  </programme>
+  <programme start="20260803044000 -0300" stop="20260803052200 -0300" channel="SPACE.br">
+    <title lang="pt">CSI Investigação Criminal</title>
+    <category lang="pt">Temporada 13 Episódio 5 - Jogo Fatal</category>
+    <desc lang="pt">Depois de um policial ser morto violentamente, seu parceiro, um cão, se torna o principal suspeito, o que dificulta o trabalho de Nick; Finlay e Morgan investigam o assassinato de um ganancioso advogado de divórcios que tem muitos inimigos.</desc>
+  </programme>
+  <programme start="20260803052200 -0300" stop="20260803062200 -0300" channel="SPACE.br">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
   <programme start="20260801060000 -0300" stop="20260801080900 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Line Walker 2 - Espião Invisível</title>
@@ -28561,60 +29219,309 @@
     <category lang="pt">Science</category>
     <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
   </programme>
+  <programme start="20260801000000 -0300" stop="20260801061000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Cine Canal</title>
+    <category lang="pt">Western</category>
+    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
+  </programme>
+  <programme start="20260801061000 -0300" stop="20260801073000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260801073000 -0300" stop="20260801083000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Conexão Rural Germipasto</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Acompanhe notícias, informações de mercado e oportunidades do setor.</desc>
+  </programme>
+  <programme start="20260801083000 -0300" stop="20260801090000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">La Región - Agropecuária</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Direto de Santa Cruz de La Sierra, na Bolívia, o programa traz informações e atualizações sobre o agronegócio da região e de países vizinhos.</desc>
+  </programme>
+  <programme start="20260801090000 -0300" stop="20260801100000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Programa Ruminar</title>
+    <category lang="pt">Shopping</category>
+    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
+  </programme>
+  <programme start="20260801100000 -0300" stop="20260801140000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Virtual Qualidade Total</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Oferta de 1.500 animais, leilão promovido pela Central Leilões.</desc>
+  </programme>
+  <programme start="20260801140000 -0300" stop="20260801200000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Virtual Central Pantanal Coxim</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Oferta de 1.500 animais, leilão promovido pela Central Leilões.</desc>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260802000000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802050000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Cine Canal</title>
+    <category lang="pt">Western</category>
+    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
+  </programme>
+  <programme start="20260802050000 -0300" stop="20260802060000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Programa Ruminar</title>
+    <category lang="pt">Shopping</category>
+    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
+  </programme>
   <programme start="20260802060000 -0300" stop="20260802063000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Caminhos do Brasil</title>
     <category lang="pt">Fishing</category>
     <desc lang="pt">Veja as mais diferentes regiões do país com imagens documentais, costumes, receitas e culturas.</desc>
   </programme>
-  <programme start="20260802063000 -0300" stop="20260802073000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Programa Ruminar</title>
-    <category lang="pt">Shopping</category>
-    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
+  <programme start="20260802063000 -0300" stop="20260802070000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260802070000 -0300" stop="20260802073000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
   </programme>
   <programme start="20260802073000 -0300" stop="20260802080000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Domingão do Carlão</title>
     <category lang="pt">Agriculture</category>
     <desc lang="pt">Acompanhe entrevistas com personagens importantes do setor agropecuário.</desc>
   </programme>
-  <programme start="20260802080000 -0300" stop="20260802093000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Show Raízes</title>
-    <category lang="pt">Music</category>
-    <desc lang="pt">Acompanhe o programa com música e entrevistas com profissionais liberais, empresários e autoridades.</desc>
+  <programme start="20260802080000 -0300" stop="20260802083000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
   </programme>
-  <programme start="20260802093000 -0300" stop="20260802100000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Terra Pecuária</title>
+  <programme start="20260802083000 -0300" stop="20260802090000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
     <category lang="pt">Agriculture</category>
-    <desc lang="pt">Fique por dentro do que há de melhor no agronegócio e aproveite para conhecer mais sobre a vida do agricultor e do criador que investem em grandes projetos de melhoramento genético.</desc>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
-  <programme start="20260802100000 -0300" stop="20260802140000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual MB Leilões</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Venda de animais para cria, recria e engorda.</desc>
+  <programme start="20260802090000 -0300" stop="20260802091500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
   </programme>
-  <programme start="20260802140000 -0300" stop="20260802200000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual de Corte</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Oferta de 1.500 animais de corte.</desc>
-  </programme>
-  <programme start="20260802200000 -0300" stop="20260803000000 -0300" channel="Canal do Boi.br">
+  <programme start="20260802091500 -0300" stop="20260802093000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Genética BR</title>
     <category lang="pt">Special</category>
     <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
   </programme>
-  <programme start="20260803000000 -0300" stop="20260803053000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Cine Canal</title>
-    <category lang="pt">Western</category>
-    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
-  </programme>
-  <programme start="20260803053000 -0300" stop="20260803054500 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Genética BR</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
-  </programme>
-  <programme start="20260803054500 -0300" stop="20260803064500 -0300" channel="Canal do Boi.br">
+  <programme start="20260802093000 -0300" stop="20260802094500 -0300" channel="Canal do Boi.br">
     <title lang="pt">Grandes Criatórios</title>
     <category lang="pt">Agriculture</category>
     <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260802094500 -0300" stop="20260802100000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260802100000 -0300" stop="20260802140000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Expojuina 2026</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260802140000 -0300" stop="20260802180000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Expojuina 2026</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260802180000 -0300" stop="20260802200000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Expojuina 2026</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260802200000 -0300" stop="20260802203000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260802203000 -0300" stop="20260802210000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260802210000 -0300" stop="20260802213000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260802213000 -0300" stop="20260802220000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260802220000 -0300" stop="20260802223000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260802223000 -0300" stop="20260802230000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260802230000 -0300" stop="20260802233000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260802233000 -0300" stop="20260803000000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260803000000 -0300" stop="20260803015000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Hombre</title>
+    <desc lang="pt">John Russell foi criado por apaches, mas quando seu verdadeiro pai falece, ele precisa ir ao Arizona receber sua herança. Durante o trajeto, John é vítima de preconceito, porém quando sua carruagem é atacada por uma gangue, cabe a ele defender os passageiros, que são as mesmas pessoas que o insultaram.</desc>
+  </programme>
+  <programme start="20260803015000 -0300" stop="20260803032200 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Uma Cidade Contra o Xerife</title>
+    <desc lang="pt">Para ganhar um dinheiro extra, o oportunista Jason McCullough assume o cargo temporário de xerife em uma cidadezinha dos EUA. Usando a inteligência e sua habilidade com as armas, ele combate um quarteto de bandidos liderado pelo temido vilão Danby.</desc>
+  </programme>
+  <programme start="20260803032200 -0300" stop="20260803053000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Rocky II - A Revanche</title>
+    <desc lang="pt">Após a luta contra Apollo Creed, Rocky promete à sua esposa largar os ringues. Mas os fãs de boxe insistem em uma revanche entre os dois pugilistas. Sem dinheiro, Rocky se vê obrigado a aceitar o desafio e recebe a benção da esposa para lutar. Agora o lutador deve se preparar para o combate do século e decide treinar intensamente, sonhando apenas em terminar a luta sem ser nocauteado pelo campeão.</desc>
+  </programme>
+  <programme start="20260803053000 -0300" stop="20260803054500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Agenda de Leilões</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Acompanhe a agenda de leilões transmitidos pelo canal.</desc>
+  </programme>
+  <programme start="20260803054500 -0300" stop="20260803064500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260801033000 -0300" stop="20260801070000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Renascer</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Com propósito de evangelização, Apóstolo Hernandes leva uma mensagem de esperança aos fiéis.</desc>
+  </programme>
+  <programme start="20260801070000 -0300" stop="20260801073000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Fernanda Hernandes - Live</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260801073000 -0300" stop="20260801083000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Renascer Kids</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Acompanhe a atração que traz entrevistas, desenhos animados, muitas brincadeiras, além de um conteúdo bíblico e educativo.</desc>
+  </programme>
+  <programme start="20260801083000 -0300" stop="20260801093000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Palavra do Dia com Apóstolo Estevam</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe uma discussão a partir de um trecho da Bíblia lido pelo Apóstolo Estevam Hernandes.</desc>
+  </programme>
+  <programme start="20260801093000 -0300" stop="20260801100000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Melhor Notícia com Bispa Fê</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">A bispa Fe traz uma palavra de fé e esperança para revigorar o espírito.</desc>
+  </programme>
+  <programme start="20260801100000 -0300" stop="20260801110000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Melhores Momentos Gideão com Apóstolo</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Apóstolo Estevam Hernandes conversa com pessoas que viveram milagres.</desc>
+  </programme>
+  <programme start="20260801110000 -0300" stop="20260801120000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">De Bem com a Vida</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Revista eletrônica com temas pertinentes e de interesse da mulher moderna e atual.</desc>
+  </programme>
+  <programme start="20260801120000 -0300" stop="20260801140000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Renascer</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Com propósito de evangelização, Apóstolo Hernandes leva uma mensagem de esperança aos fiéis.</desc>
+  </programme>
+  <programme start="20260801140000 -0300" stop="20260801150000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Clipes Gospel</title>
+    <category lang="pt">Music</category>
+    <desc lang="pt">Acompanhe a transmissão de clipes musicais do gênero gospel.</desc>
+  </programme>
+  <programme start="20260801150000 -0300" stop="20260801154500 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Deep Conference</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Fique por dentro de todos os eventos da principal conferência da juventude Deep, da Primeira Igreja de Marília, cuja intenção é promover uma experiência única para jovens crendo na manifestação do Reino na sociedade e em todas as áreas.</desc>
+  </programme>
+  <programme start="20260801154500 -0300" stop="20260801160000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culinária Tudo de Bom</title>
+    <category lang="pt">Cooking</category>
+    <desc lang="pt">Dicas rápidas de receitas deliciosas.</desc>
+  </programme>
+  <programme start="20260801160000 -0300" stop="20260801163000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Testemunhos - Momento Renascer</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe inspiradoras histórias de fé e superação.</desc>
+  </programme>
+  <programme start="20260801163000 -0300" stop="20260801170000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">TBN - Joel Osten</title>
+  </programme>
+  <programme start="20260801170000 -0300" stop="20260801180000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto Bispa Fernanda</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">A Bispa Fê traz uma palavra de perseverança e força para alimentar o espírito.</desc>
+  </programme>
+  <programme start="20260801180000 -0300" stop="20260801190000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Melhores Momentos Gideão 60' com Apóstolo</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Apóstolo Estevam Hernandes conversa com pessoas que viveram milagres.</desc>
+  </programme>
+  <programme start="20260801190000 -0300" stop="20260801200000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto Especial</title>
+    <category lang="pt">Religious</category>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260801203000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Pastor Larry Huch</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O pastor Larry Huch ajuda pessoas em todos os lugares com a mensagem da salvação de Deus.</desc>
+  </programme>
+  <programme start="20260801203000 -0300" stop="20260801220000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Cine Gospel</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Filmes inspiradores que abordam temas diversos para entreter a família.</desc>
+  </programme>
+  <programme start="20260801220000 -0300" stop="20260801230000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Bispa Sonia Talks</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Acompanhe entrevistas exclusivas, para compartilhar histórias de fé e superação, conduzidas pela Bispa Sonia Hernandes.</desc>
+  </programme>
+  <programme start="20260801230000 -0300" stop="20260802000000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Show Especial da Rede Gospel</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Acompanhe os melhores shows nacionais e internacionais da programação da Rede Gospel.</desc>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802003000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Fernanda Hernandes - Live</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260802003000 -0300" stop="20260802013000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto Bispa Sonia</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">A bispa Sonia Hernandes traz uma palavra de fé e amor, sempre com muita adoração.</desc>
+  </programme>
+  <programme start="20260802013000 -0300" stop="20260802023000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto - Apóstolo Estevam</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O apóstolo Estevam Hernandes traz uma palavra de fé e vitória para alimentar a alma.</desc>
+  </programme>
+  <programme start="20260802023000 -0300" stop="20260802033000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto Bispa Sonia</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">A bispa Sonia Hernandes traz uma palavra de fé e amor, sempre com muita adoração.</desc>
+  </programme>
+  <programme start="20260802033000 -0300" stop="20260802040000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto - Apóstolo Estevam</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O apóstolo Estevam Hernandes traz uma palavra de fé e vitória para alimentar a alma.</desc>
+  </programme>
+  <programme start="20260802040000 -0300" stop="20260802050000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto Bispa Sonia</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">A bispa Sonia Hernandes traz uma palavra de fé e amor, sempre com muita adoração.</desc>
+  </programme>
+  <programme start="20260802050000 -0300" stop="20260802060000 -0300" channel="Rede Gospel HD.br">
+    <title lang="pt">Culto - Apóstolo Estevam</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O apóstolo Estevam Hernandes traz uma palavra de fé e vitória para alimentar a alma.</desc>
   </programme>
   <programme start="20260802060000 -0300" stop="20260802070000 -0300" channel="Rede Gospel HD.br">
     <title lang="pt">Culto Bispa Sonia</title>
@@ -29428,6 +30335,236 @@
     <category lang="pt">Temporada 3 Episódio 38</category>
     <desc lang="pt">Com a mansão em perigo de ser embargada, ?fakat pressiona Ferit e Seyran; ?evki sequestra Kaz?m e pede dinheiro pelo resgate.</desc>
   </programme>
+  <programme start="20260801060000 -0300" stop="20260801062400 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Duelo com Bobby Flay</title>
+    <category lang="pt">Temporada 17 Episódio 14 - Clube do Medo</category>
+    <desc lang="pt">Todos sentem um arrepio de medo quando Jesse Palmer e Eddie Jackson pisam na arena de Bobby Flay. Frank Terzoli e John Patterson se preparam para ser o pior pesadelo de Bobby na cozinha.</desc>
+  </programme>
+  <programme start="20260801062400 -0300" stop="20260801064500 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Duelo com Bobby Flay</title>
+    <category lang="pt">Temporada 36 Episódio 1 - Disputa na Praia</category>
+    <desc lang="pt">As ondas estão boas na praia, mas o Bobby Flay pode se dar mal na festa de verão de Jet Tila e Jesse Palmer, onde ele competirá com os chefs Demetrius Brown e Pablo Lamon.</desc>
+  </programme>
+  <programme start="20260801064500 -0300" stop="20260801073100 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Chopped - Doce Desafio</title>
+    <category lang="pt">Temporada 2 Episódio 2 - Festa de Aniversário</category>
+    <desc lang="pt">Nesta competição com o tema aniversário, os chefs preparam doces comemorativos com pipoca. Na segunda rodada, eles precisam criar uma sobremesa com farinha de insetos. Na terceira, encaram um ingrediente difícil.</desc>
+  </programme>
+  <programme start="20260801073100 -0300" stop="20260801075200 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Giada em Casa</title>
+    <category lang="pt">Temporada 9 Episódio 5 - Ao Ar Livre</category>
+    <desc lang="pt">Giada De Laurentiis vai a Palm Springs, Califórnia, com a filha e o namorado para um fim de semana de diversão sob o sol. Ela prepara um banquete ao ar livre, com macarrão de piquenique, sanduíches de fraldinha e brownies de manteiga de amêndoa.</desc>
+  </programme>
+  <programme start="20260801075200 -0300" stop="20260801081300 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Giada em Casa</title>
+    <category lang="pt">Temporada 9 Episódio 6 - Conforto Familiar</category>
+    <desc lang="pt">Giada De Laurentiis prepara algumas de suas receitas preferidas. Entre elas, nhoque ao molho de manteiga e tomilho, que sua tia Raffy também está preparando. Giada conversa com a mãe em Roma, enquanto prepara os tomates recheados da Veronica.</desc>
+  </programme>
+  <programme start="20260801081300 -0300" stop="20260801083700 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <category lang="pt">Temporada 11 Episódio 1 - Para Agradar as Mães</category>
+    <desc lang="pt">Para o Dia das Mães, Valerie convida a atriz Angela Kinsey para um dia de autocuidado e comida extravagante. Ela faz bacalhau assado com caju, coco e limão, couve picante e bolo cítrico de sobremesa.</desc>
+  </programme>
+  <programme start="20260801083700 -0300" stop="20260801085800 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <category lang="pt">Temporada 11 Episódio 2 - Sábado</category>
+    <desc lang="pt">Valerie Bertinelli quer garantir seu sucesso nos pratos do fim de semana, então, já prepara uma caçarola de rabanada rápida com calda de morango, e sopa de ervilha com mascarpone de limão.</desc>
+  </programme>
+  <programme start="20260801085800 -0300" stop="20260801092200 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <category lang="pt">Temporada 26 Episódio 21 - Praticidade Italiana</category>
+    <desc lang="pt">Rachael Ray conta os segredos de um jantar italiano à prova de erros. Coxas de frango enroladas no presunto cru com alecrim; espaguete frio com molho cru picante.</desc>
+  </programme>
+  <programme start="20260801092200 -0300" stop="20260801094300 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <category lang="pt">Temporada 26 Episódio 26 - Jantar Assustador</category>
+    <desc lang="pt">Junte-se à Rachael para uma noite de Halloween com uma refeição picante para os adultos. Tomates beefsteak assados com bacon e agrião acompanhados por macarrão com molho de queijo ao estilo Welsh Rarebit; couve com alho; aliches e cerveja tipo Ale.</desc>
+  </programme>
+  <programme start="20260801094300 -0300" stop="20260801103000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Chef Itinerante</title>
+    <category lang="pt">Temporada 1 Episódio 6 - Austrália</category>
+    <desc lang="pt">O chef nômade Jock Zonfrillo visita uma remota comunidade aborígine da costa norte da Austrália para descobrir os segredos culinários de uma das culturas vivas mais antigas do mundo.</desc>
+  </programme>
+  <programme start="20260801103000 -0300" stop="20260801105400 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Loucos por Churrasco</title>
+    <category lang="pt">Temporada 4 Episódio 12 - Básicos do Bobby - Mediterrâneo no Quintal</category>
+    <desc lang="pt">O chef Bobby Flay mostra sua paixão pela comida mediterrânea. Ele prepara uma salada crocante de cenoura e uma pasta cremosa de berinjela grelhada e revela seu segredo para grelhar peixes enquanto os infunde com muito sabor.</desc>
+  </programme>
+  <programme start="20260801105400 -0300" stop="20260801111500 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Loucos por Churrasco</title>
+    <category lang="pt">Temporada 4 Episódio 6 - Básicos do Bobby - Delícias de Legume</category>
+    <desc lang="pt">Bobby monta um cardápio vegetariano que tem muito sabor. Primeiro, ele reinventa a pizza usando um cogumelo portobelo com uma mistura de tomates, azeitonas e alcaparras, com queijo de cabra derretido. Depois, mostra a preparação de molhos saborosos.</desc>
+  </programme>
+  <programme start="20260801111500 -0300" stop="20260801113900 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <category lang="pt">Temporada 4 Episódio 16 - Deliciosamente Delicioso</category>
+    <desc lang="pt">Um prato clássico, frango frito com waffles, é reinventado para criar uma nova alternativa: frango frito com tacos de panqueca.</desc>
+  </programme>
+  <programme start="20260801113900 -0300" stop="20260801120000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Sabores da América com Michael Symon</title>
+    <category lang="pt">Temporada 4 Episódio 17 - Carne Tripla</category>
+    <desc lang="pt">Um sanduíche triplo de carne com barriga de porco defumada, mortadela e patê de fígado de galinha; empada frita de caranguejo de casca mole; asas de frango frito picantes com molho szechuan em Seattle.</desc>
+  </programme>
+  <programme start="20260801120000 -0300" stop="20260801122400 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Sabor na Brasa</title>
+    <category lang="pt">Temporada 3 Episódio 12 - Brincando com Fogo na Nova Inglaterra</category>
+    <desc lang="pt">Na Nova Inglaterra, Roger Mooking encontra duas pessoas que adoram brincar com fogo; a escritora Paula Marcoux o ensina a cozinhar mexilhões no vapor e o fazendeiro David Adamson mostra seus kits para churrasco de porco.</desc>
+  </programme>
+  <programme start="20260801122400 -0300" stop="20260801124700 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Sabor na Brasa</title>
+    <category lang="pt">Temporada 3 Episódio 13 - Celebração de Primavera no Kentucky</category>
+    <desc lang="pt">Em Lancaster, Kentucky, Roger Mooking e Richard McCallister preparam frangos temperados em uma base inspirada nas churrasqueiras uruguaias. Roger contribui com milho na espiga, temperado com ervas e óleo de coco.</desc>
+  </programme>
+  <programme start="20260801124700 -0300" stop="20260801132900 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <category lang="pt">Temporada 4 Episódio 4 - Mágica</category>
+    <desc lang="pt">Pegue um chapéu e uma varinha e prepare-se para lançar um feitiço, porque o tema de hoje em A Guerra dos Bolos é mágica. O famoso mágico Mat Franco marca presença para ajudar a decidir qual dos quatro incríveis confeiteiros vai fazer seu bolo aparecer em uma festa de arrasar em homenagem à mágica e ganhar dez mil dólares - e qual deles vai desaparecer.</desc>
+  </programme>
+  <programme start="20260801132900 -0300" stop="20260801141500 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">A Guerra dos Cupcakes</title>
+    <category lang="pt">Temporada 4 Episódio 12 - Festival do Grito</category>
+    <desc lang="pt">Eli Roth, diretor de filmes de horror, é o juiz convidado que ajudará a decidir qual confeiteiro ganhará um lugar na festa de encerramento do &quot;Screamfest&quot;, um festival de filmes de horror.</desc>
+  </programme>
+  <programme start="20260801141500 -0300" stop="20260801144000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Receitas da Ina - De Volta ao Básico</title>
+    <category lang="pt">Temporada 26 Episódio 1 - Produtos da Fazenda</category>
+    <desc lang="pt">Os produtos frescos da fazenda inspiram o banquete de primavera de Ina Garten. O cardápio inclui cordeiro com alecrim, tzatziki e abobrinha assada com parmesão. De sobremesa, ricota doce com frutas vermelhas frescas.</desc>
+  </programme>
+  <programme start="20260801144000 -0300" stop="20260801150400 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Receitas da Ina - De Volta ao Básico</title>
+    <category lang="pt">Temporada 26 Episódio 2 - Frutos do Mar</category>
+    <desc lang="pt">Ina Garten compartilha suas receitas secretas de frutos-do-mar, começando pelo cioppino, um guisado feito de bacalhau, camarão, vieiras e mexilhões. Salmão com tomates-cereja assados e ceviche de vieiras completam o cardápio.</desc>
+  </programme>
+  <programme start="20260801150400 -0300" stop="20260801152900 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Cake Boss</title>
+    <category lang="pt">Temporada 6 Episódio 1 - Candelabro</category>
+    <desc lang="pt">Buddy recebe um pedido desafiador para criar um bolo em formato de lustre, que deverá ser pendurado de cabeça para baixo; chegou o dia do tão esperado batizado do bebê Carlo.</desc>
+  </programme>
+  <programme start="20260801152900 -0300" stop="20260801155300 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Cake Boss</title>
+    <category lang="pt">Temporada 6 Episódio 2 - Casamento no Museu</category>
+    <desc lang="pt">Os sons do sino soam mais como rugidos quando Buddy faz um bolo gigante de dinossauro para um casamento realizado num museu. Buddy dá uma de romântico e pede Lisa em casamento de novo, após 10 anos de matrimônio.</desc>
+  </programme>
+  <programme start="20260801155300 -0300" stop="20260801164000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">A Disputa dos Confeiteiros - Primavera</title>
+    <category lang="pt">Temporada 6 Episódio 4 - Primavera ao Ar Livre - Desafio em Equipe</category>
+    <desc lang="pt">Está na hora de aproveitar a natureza, e os oito cozinheiros criam petiscos para comer durante uma trilha. Depois, preparam um Paris-Brest e formam duplas para completar a sobremesa em forma de bicicleta.</desc>
+  </programme>
+  <programme start="20260801164000 -0300" stop="20260801172700 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">A Guerra dos Bolos</title>
+    <category lang="pt">Temporada 4 Episódio 5 - Trolls</category>
+    <desc lang="pt">A Guerra dos Bolos se junta a Poppy e seu amigo, Tronco, em uma épica aventura onde quatro confeiteiros batalham para ter seu bolo como destaque da festa que vai comemorar o longa de animação da DreamWorks, Trolls. Walt Dohrn e Mike Mitchell, diretores de Trolls, são os convidados como jurados especiais.</desc>
+  </programme>
+  <programme start="20260801172700 -0300" stop="20260801181500 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">A Guerra dos Cupcakes</title>
+    <category lang="pt">Temporada 4 Episódio 13 - Batalha Vegana</category>
+    <desc lang="pt">Na primeira guerra dos cupcakes veganos, quatro confeiteiros lutam para que seus bolinhos naturais estejam na abertura do Green Festival de Los Angeles.</desc>
+  </programme>
+  <programme start="20260801181500 -0300" stop="20260801190300 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">A Guerra dos Cupcakes</title>
+    <category lang="pt">Temporada 5 Episódio 1 - O Centenário</category>
+    <desc lang="pt">É cupcake contra cupcake na competição mais apetitosa da atualidade. Quatro confeiteiros competem pelo mais importante título do concurso quando eles têm de exibir seus deliciosos cupcakes numa cerimônia de aniversário.</desc>
+  </programme>
+  <programme start="20260801190300 -0300" stop="20260801195000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Show de Cozinha</title>
+    <category lang="pt">Temporada 1 Episódio 1 - Bem-vindo ao Show de Cozinha!</category>
+    <desc lang="pt">Katie Lee faz uma couve cremosa com ovos para o café da manhã e os chefs discutem suas resoluções de Ano Novo; Geoffrey Zakarian faz um coquetel chamado Red Velvet.</desc>
+  </programme>
+  <programme start="20260801195000 -0300" stop="20260801203200 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Show de Cozinha</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Clube do Livro</category>
+    <desc lang="pt">Os chefs respondem aos tuítes dos espectadores enquanto preparam uma receita deliciosa com os três alimentos mais procurados no foodnetwork.com: frango, couve e quinoa; Jeff Mauro ajuda Sunny Anderson a preparar um ravióli.</desc>
+  </programme>
+  <programme start="20260801203200 -0300" stop="20260801205600 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Duelo com Bobby Flay</title>
+    <category lang="pt">Temporada 9 Episódio 5 - Dançando com o Diabo</category>
+    <desc lang="pt">Lance Bass e o chef bad boy Michael Voltaggio se unem para colocar Bobby Flay em seu devido lugar. Os chefs que enfrentam Bobby são Robbie Jester e James Laird, o melhor chef francês de Nova Jersey.</desc>
+  </programme>
+  <programme start="20260801205600 -0300" stop="20260801211900 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Duelo com Bobby Flay</title>
+    <category lang="pt">Temporada 9 Episódio 6 - Noite das Garotas</category>
+    <desc lang="pt">Katie Lee, do Food Network, e Laura Vitale, do Cooking Channel, chegam vestidas para matar o recorde de Bobby Flay. Jennifer Jasinski, de Denver, e o proprietário de restaurante Eric Levine, de Nova Jersey, disputam a chance de vencer Bobby Flay.</desc>
+  </programme>
+  <programme start="20260801211900 -0300" stop="20260801220100 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Batalha do Churrasco</title>
+    <category lang="pt">Temporada 5 Episódio 5</category>
+    <desc lang="pt">Bobby Flay defende seu título de campeão contra os capitães Sunny Anderson e Michael Voltaggio.</desc>
+  </programme>
+  <programme start="20260801220100 -0300" stop="20260801234100 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Grandes Chefs - Torneio dos Campeões</title>
+    <category lang="pt">Temporada 4 Episódio 2 - Randomizador sem Controle</category>
+    <desc lang="pt">Guy Fieri continua a primeira rodada de conflitos culinários com mais quatro batalhas; os chefs não apenas precisam conquistar seu oponente, mas também enfrentam o randomizador atualizado com uma nova categoria de curinga.</desc>
+  </programme>
+  <programme start="20260801234100 -0300" stop="20260802000500 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Giada em Casa</title>
+    <category lang="pt">Temporada 9 Episódio 5 - Ao Ar Livre</category>
+    <desc lang="pt">Giada De Laurentiis vai a Palm Springs, Califórnia, com a filha e o namorado para um fim de semana de diversão sob o sol. Ela prepara um banquete ao ar livre, com macarrão de piquenique, sanduíches de fraldinha e brownies de manteiga de amêndoa.</desc>
+  </programme>
+  <programme start="20260802000500 -0300" stop="20260802002900 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Giada em Casa</title>
+    <category lang="pt">Temporada 9 Episódio 6 - Conforto Familiar</category>
+    <desc lang="pt">Giada De Laurentiis prepara algumas de suas receitas preferidas. Entre elas, nhoque ao molho de manteiga e tomilho, que sua tia Raffy também está preparando. Giada conversa com a mãe em Roma, enquanto prepara os tomates recheados da Veronica.</desc>
+  </programme>
+  <programme start="20260802002900 -0300" stop="20260802005300 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <category lang="pt">Temporada 11 Episódio 1 - Para Agradar as Mães</category>
+    <desc lang="pt">Para o Dia das Mães, Valerie convida a atriz Angela Kinsey para um dia de autocuidado e comida extravagante. Ela faz bacalhau assado com caju, coco e limão, couve picante e bolo cítrico de sobremesa.</desc>
+  </programme>
+  <programme start="20260802005300 -0300" stop="20260802011600 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Receitas Caseiras da Valerie</title>
+    <category lang="pt">Temporada 11 Episódio 2 - Sábado</category>
+    <desc lang="pt">Valerie Bertinelli quer garantir seu sucesso nos pratos do fim de semana, então, já prepara uma caçarola de rabanada rápida com calda de morango, e sopa de ervilha com mascarpone de limão.</desc>
+  </programme>
+  <programme start="20260802011600 -0300" stop="20260802014000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <category lang="pt">Temporada 26 Episódio 21 - Praticidade Italiana</category>
+    <desc lang="pt">Rachael Ray conta os segredos de um jantar italiano à prova de erros. Coxas de frango enroladas no presunto cru com alecrim; espaguete frio com molho cru picante.</desc>
+  </programme>
+  <programme start="20260802014000 -0300" stop="20260802020100 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Refeição em 30 Minutos</title>
+    <category lang="pt">Temporada 26 Episódio 26 - Jantar Assustador</category>
+    <desc lang="pt">Junte-se à Rachael para uma noite de Halloween com uma refeição picante para os adultos. Tomates beefsteak assados com bacon e agrião acompanhados por macarrão com molho de queijo ao estilo Welsh Rarebit; couve com alho; aliches e cerveja tipo Ale.</desc>
+  </programme>
+  <programme start="20260802020100 -0300" stop="20260802022200 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Loucos por Churrasco</title>
+    <category lang="pt">Temporada 4 Episódio 12 - Básicos do Bobby - Mediterrâneo no Quintal</category>
+    <desc lang="pt">O chef Bobby Flay mostra sua paixão pela comida mediterrânea. Ele prepara uma salada crocante de cenoura e uma pasta cremosa de berinjela grelhada e revela seu segredo para grelhar peixes enquanto os infunde com muito sabor.</desc>
+  </programme>
+  <programme start="20260802022200 -0300" stop="20260802024300 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Loucos por Churrasco</title>
+    <category lang="pt">Temporada 4 Episódio 6 - Básicos do Bobby - Delícias de Legume</category>
+    <desc lang="pt">Bobby monta um cardápio vegetariano que tem muito sabor. Primeiro, ele reinventa a pizza usando um cogumelo portobelo com uma mistura de tomates, azeitonas e alcaparras, com queijo de cabra derretido. Depois, mostra a preparação de molhos saborosos.</desc>
+  </programme>
+  <programme start="20260802024300 -0300" stop="20260802032900 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Chef Itinerante</title>
+    <category lang="pt">Temporada 1 Episódio 6 - Austrália</category>
+    <desc lang="pt">O chef nômade Jock Zonfrillo visita uma remota comunidade aborígine da costa norte da Austrália para descobrir os segredos culinários de uma das culturas vivas mais antigas do mundo.</desc>
+  </programme>
+  <programme start="20260802032900 -0300" stop="20260802035000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <category lang="pt">Temporada 35 Episódio 5 - Da Carne ao Bao</category>
+    <desc lang="pt">Guy Fieri vai a Logan e prova um sabor mundialmente famoso; em Juneau, prova pão bao; em Denver, visita uma charcutaria artesanal.</desc>
+  </programme>
+  <programme start="20260802035000 -0300" stop="20260802041100 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <category lang="pt">Temporada 35 Episódio 7 - Inspiração na Cidade Natal</category>
+    <desc lang="pt">Guy Fieri prova em Logan, uma especialidade da Louisiana, como macarrão de frango enegrecido; em Portland, Oregon, um toque vegano aos sabores israelenses; em Denver, uma pizzaria especializada em tortas ao estilo de Detroit.</desc>
+  </programme>
+  <programme start="20260802041100 -0300" stop="20260802043200 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
+    <category lang="pt">Temporada 36 Episódio 3 - Siciliano e Frutos do Mar</category>
+    <desc lang="pt">Guy Fieri visita um food truck italiano em Oklahoma City; em Portland, prova pratos com caranguejo; em Fort Lauderdale pratos brasileiros e caribenhos.</desc>
+  </programme>
+  <programme start="20260802043200 -0300" stop="20260802051800 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Show de Cozinha</title>
+    <category lang="pt">Temporada 1 Episódio 1 - Bem-vindo ao Show de Cozinha!</category>
+    <desc lang="pt">Katie Lee faz uma couve cremosa com ovos para o café da manhã e os chefs discutem suas resoluções de Ano Novo; Geoffrey Zakarian faz um coquetel chamado Red Velvet.</desc>
+  </programme>
+  <programme start="20260802051800 -0300" stop="20260802060000 -0300" channel="Food Network HD Brasil.br">
+    <title lang="pt">Show de Cozinha</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Clube do Livro</category>
+    <desc lang="pt">Os chefs respondem aos tuítes dos espectadores enquanto preparam uma receita deliciosa com os três alimentos mais procurados no foodnetwork.com: frango, couve e quinoa; Jeff Mauro ajuda Sunny Anderson a preparar um ravióli.</desc>
+  </programme>
   <programme start="20260802060000 -0300" stop="20260802062400 -0300" channel="Food Network HD Brasil.br">
     <title lang="pt">Duelo com Bobby Flay</title>
     <category lang="pt">Temporada 36 Episódio 2 - Que Venham os Britânicos!</category>
@@ -29750,9 +30887,14 @@
     <category lang="pt">Liga das Nações de Vôlei Masculino</category>
     <desc lang="pt">Todas as emoções da competição disputada anualmente entre seleções masculinas de vôlei.</desc>
   </programme>
-  <programme start="20260802063000 -0300" stop="20260802081000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Programação SporTV2</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260802063000 -0300" stop="20260802070000 -0300" channel="SporTV2 HD.br">
+    <title lang="pt">Lendas Olímpicas</title>
+    <desc lang="pt">Conheça Abhinav Bindra, medalhista de ouro na categoria carabina de ar 10m em Beijing 2008.</desc>
+  </programme>
+  <programme start="20260802070000 -0300" stop="20260802081000 -0300" channel="SporTV2 HD.br">
+    <title lang="pt">As Bicampeãs</title>
+    <category lang="pt">Temporada 1 Episódio 1 - A Estrada</category>
+    <desc lang="pt">Derrotas dolorosas nos Jogos Olímpicos de Atenas 2004 e no Mundial de 2007, além dos Jogos Pan-Americanos do mesmo ano, no Rio, deixam a Seleção Brasileira de vôlei feminino com fama de &quot;amarelona&quot; por não conseguir subir no lugar mais alto do pódio.</desc>
   </programme>
   <programme start="20260802081000 -0300" stop="20260802103000 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Final</title>
@@ -29765,19 +30907,19 @@
     <desc lang="pt">Com apenas seis jogadoras que estiveram nas Olimpíadas de Tóquio, a seleção feminina de vôlei se prepara para temporada com Liga das Nações e Mundial, título que as brasileiras ainda não têm; o técnico José Roberto Guimarães revela suas superstições.</desc>
   </programme>
   <programme start="20260802110000 -0300" stop="20260802120000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
-    <category lang="pt">Circuito Brasileiro de Vôlei de Praia</category>
-    <desc lang="pt">Acompanhe as emoções da competição organizada pela Confederação Brasileira de Vôlei.</desc>
+    <title lang="pt">Elite 16: Rio de Janeiro - Semifinal Feminina</title>
+    <category lang="pt">Circuito Mundial de Vôlei de Praia</category>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
   </programme>
   <programme start="20260802120000 -0300" stop="20260802130000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
-    <category lang="pt">Circuito Brasileiro de Vôlei de Praia</category>
-    <desc lang="pt">Acompanhe as emoções da competição organizada pela Confederação Brasileira de Vôlei.</desc>
+    <title lang="pt">Elite 16: Rio de Janeiro - Semifinal Masculina</title>
+    <category lang="pt">Circuito Mundial de Vôlei de Praia</category>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
   </programme>
   <programme start="20260802130000 -0300" stop="20260802140000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
-    <category lang="pt">Circuito Brasileiro de Vôlei de Praia</category>
-    <desc lang="pt">Acompanhe as emoções da competição organizada pela Confederação Brasileira de Vôlei.</desc>
+    <title lang="pt">Elite 16: Rio de Janeiro - Semifinal Masculina</title>
+    <category lang="pt">Circuito Mundial de Vôlei de Praia</category>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
   </programme>
   <programme start="20260802140000 -0300" stop="20260802143000 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Lendas Olímpicas</title>
@@ -29788,19 +30930,19 @@
     <desc lang="pt">Conheça Abhinav Bindra, medalhista de ouro na categoria carabina de ar 10m em Beijing 2008.</desc>
   </programme>
   <programme start="20260802150000 -0300" stop="20260802160000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
-    <category lang="pt">Circuito Brasileiro de Vôlei de Praia</category>
-    <desc lang="pt">Acompanhe as emoções da competição organizada pela Confederação Brasileira de Vôlei.</desc>
+    <title lang="pt">Elite 16: Rio de Janeiro - Disputa de Terceiro Lugar Feminina</title>
+    <category lang="pt">Circuito Mundial de Vôlei de Praia</category>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
   </programme>
   <programme start="20260802160000 -0300" stop="20260802170000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
-    <category lang="pt">Circuito Brasileiro de Vôlei de Praia</category>
-    <desc lang="pt">Acompanhe as emoções da competição organizada pela Confederação Brasileira de Vôlei.</desc>
+    <title lang="pt">Elite 16: Rio de Janeiro - Disputa de Terceiro Lugar Masculina</title>
+    <category lang="pt">Circuito Mundial de Vôlei de Praia</category>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
   </programme>
   <programme start="20260802170000 -0300" stop="20260802180000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
-    <category lang="pt">Circuito Brasileiro de Vôlei de Praia</category>
-    <desc lang="pt">Acompanhe as emoções da competição organizada pela Confederação Brasileira de Vôlei.</desc>
+    <title lang="pt">Elite 16: Rio de Janeiro - Final Masculina</title>
+    <category lang="pt">Circuito Mundial de Vôlei de Praia</category>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
   </programme>
   <programme start="20260802180000 -0300" stop="20260802190000 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Circuito Mundial de Vôlei de Praia</title>
@@ -29828,9 +30970,9 @@
     <desc lang="pt">Todas as emoções da competição disputada anualmente entre seleções masculinas de vôlei.</desc>
   </programme>
   <programme start="20260803030000 -0300" stop="20260803040000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Circuito Brasileiro de Vôlei de Praia</title>
-    <category lang="pt">Circuito Brasileiro de Vôlei de Praia</category>
-    <desc lang="pt">Acompanhe as emoções da competição organizada pela Confederação Brasileira de Vôlei.</desc>
+    <title lang="pt">Elite 16: Rio de Janeiro - Final Masculina</title>
+    <category lang="pt">Circuito Mundial de Vôlei de Praia</category>
+    <desc lang="pt">Todas as emoções da competição que reúne as melhores duplas do vôlei de praia de todo o planeta.</desc>
   </programme>
   <programme start="20260803040000 -0300" stop="20260803050000 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Circuito Mundial de Vôlei de Praia</title>
@@ -30371,15 +31513,16 @@
     <title lang="pt">Premiere 7</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
-  <programme start="20260801140000 -0300" stop="20260801220000 -0300" channel="Premiere 7 HD.br">
+  <programme start="20260801140000 -0300" stop="20260801193000 -0300" channel="Premiere 7 HD.br">
     <title lang="pt">Premiere 7</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
-  <programme start="20260801220000 -0300" stop="20260802000000 -0300" channel="Premiere 7 HD.br">
-    <title lang="pt">Premiere 7</title>
-    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  <programme start="20260801193000 -0300" stop="20260802020000 -0300" channel="Premiere 7 HD.br">
+    <title lang="pt">Jungle Fight 154</title>
+    <category lang="pt">Jungle Fight 154</category>
+    <desc lang="pt">Edição 154 do evento de artes marciais mistas. Do Ginásio Mauro Pinheiro, em São Paulo. As semifinais da Fight do Milhão feminino entram em disputa, com os combates entre Nágila Bruna e Regiane Borges, além de Bianca Sattelmayer e Yasmin Guimarães.</desc>
   </programme>
-  <programme start="20260802000000 -0300" stop="20260802060000 -0300" channel="Premiere 7 HD.br">
+  <programme start="20260802020000 -0300" stop="20260802060000 -0300" channel="Premiere 7 HD.br">
     <title lang="pt">Premiere 7</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
@@ -32749,7 +33892,7 @@
     <title lang="pt">VT - O&amp;#x27;Higgins x Boca Juniors</title>
   </programme>
   <programme start="20260801060000 -0300" stop="20260801070000 -0300" channel="ESPN 4.br">
-    <title lang="pt">Resenha: Em Busca da Identidade Perdida</title>
+    <title lang="pt">Resenha</title>
   </programme>
   <programme start="20260801070000 -0300" stop="20260801090000 -0300" channel="ESPN 4.br">
     <title lang="pt">VT - LBF</title>
@@ -32779,7 +33922,7 @@
     <title lang="pt">Nascar Brasil: Etapa de Cuiabá-MT - Ao Vivo</title>
   </programme>
   <programme start="20260801193000 -0300" stop="20260801203000 -0300" channel="ESPN 4.br">
-    <title lang="pt">Resenha: Em Busca da Identidade Perdida</title>
+    <title lang="pt">Resenha</title>
   </programme>
   <programme start="20260801203000 -0300" stop="20260801213000 -0300" channel="ESPN 4.br">
     <title lang="pt">ESPN League</title>
@@ -32903,18 +34046,6 @@
   </programme>
   <programme start="20260801220000 -0300" stop="20260801230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
-  </programme>
-  <programme start="20260801104500 -0300" stop="20260801131500 -0300" channel="ESPN 3.br">
-    <title lang="pt">Tour de France Femmes avec Zwift 2026 - Ao Vivo</title>
-    <category lang="pt">Esporte/Ciclismo</category>
-  </programme>
-  <programme start="20260801131500 -0300" stop="20260801133000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Momento ESPN: Em Nome dos Pais</title>
-    <category lang="pt">Séries/Diversos</category>
-  </programme>
-  <programme start="20260801133000 -0300" stop="20260801160000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - ESPN Knockout: LFA 238</title>
-    <category lang="pt">Esporte/Luta</category>
   </programme>
   <programme start="20260801160000 -0300" stop="20260801175500 -0300" channel="ESPN 3.br">
     <title lang="pt">WNBA: New York Liberty x Phoenix Mercury - Ao Vivo</title>
@@ -33980,18 +35111,6 @@
     <title lang="pt">Sportscenter Americano - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20260801081500 -0300" stop="20260801111500 -0300" channel="Combate.br">
-    <title lang="pt">Robson x Rojas</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260801111500 -0300" stop="20260801140000 -0300" channel="Combate.br">
-    <title lang="pt">Conceição x Gonzalez</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260801140000 -0300" stop="20260801143000 -0300" channel="Combate.br">
-    <title lang="pt">Jungle Fighters - Vida De Guerreiro 2026  Ep. 41</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260801143000 -0300" stop="20260801180000 -0300" channel="Combate.br">
     <title lang="pt">Oktagon 92 - Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
@@ -34455,18 +35574,6 @@
   <programme start="20260815200000 -0300" stop="20260815210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260801104500 -0300" stop="20260801124500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Eu Sei o que Vocês Fizeram no Verão Passado</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260801124500 -0300" stop="20260801142500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">O Podcast</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260801142500 -0300" stop="20260801162500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Distrito 9</title>
-    <category lang="pt">Filme/Ficção</category>
   </programme>
   <programme start="20260801162500 -0300" stop="20260801181500 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Faça Ela Voltar</title>
