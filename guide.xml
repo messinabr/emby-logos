@@ -455,7 +455,7 @@
   <programme start="20260802220000 -0300" stop="20260802230000 -0300" channel="Band São Paulo.br">
     <title lang="pt">Canal Livre</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">Acompanhe entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica. Um momento para análise e reflexão.</desc>
+    <desc lang="pt">Canal Livre entrevista os governadores Eduardo Leite, Ratinho Jr. e Ronaldo Caiado. Eles discutem as propostas para a superação da polarização política no país e os impactos da crise do Banco Master na credibilidade das instituições nacionais.</desc>
   </programme>
   <programme start="20260802230000 -0300" stop="20260803000000 -0300" channel="Band São Paulo.br">
     <title lang="pt">Som dos Oceanos</title>
@@ -481,7 +481,12 @@
     <title lang="pt">Band Esporte</title>
     <desc lang="pt">Reportagens especiais sobre diferentes acontecimentos e personagens do mundo dos esportes.</desc>
   </programme>
-  <programme start="20260803020000 -0300" stop="20260803030000 -0300" channel="Band São Paulo.br">
+  <programme start="20260803020000 -0300" stop="20260803040000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20260803040000 -0300" stop="20260803050000 -0300" channel="Band São Paulo.br">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <category lang="pt">Religious</category>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -790,7 +795,7 @@
   <programme start="20260802093000 -0300" stop="20260802101000 -0300" channel="SBT.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">Proibida de ver televisão, Chiquinha começa a contar histórias de terror ao Chaves, que fica assustado. Chespirito é marinheiro, mas seus enjoos em pleno alto mar causam problemas com os passageiros.</desc>
+    <desc lang="pt">Seu Madruga ganha um terno muito grande de herança do seu falecido tio Jacinto e resolve usá-lo no Festival da Boa Vizinhança. Enquanto isso, ele é paquerado pela Dona Edwiges.</desc>
   </programme>
   <programme start="20260802101000 -0300" stop="20260802110000 -0300" channel="SBT.br">
     <title lang="pt">Notícias Impressionantes</title>
@@ -1166,9 +1171,9 @@
     <desc lang="pt">O programa aborda vários temas relacionados à saúde dos brasileiros. A prevenção de doenças e o seu tratamento são expostos por meio de orientações de especialistas.</desc>
   </programme>
   <programme start="20260802080000 -0300" stop="20260802090000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Missa de Aparecida - Matriz Basílica</title>
+    <title lang="pt">Santuário Nacional de Aparecida</title>
     <category lang="pt">Religious</category>
-    <desc lang="pt">Santa Missa direto da Matriz Basílica.</desc>
+    <desc lang="pt">Eventos e missas direto do Santuário Nacional de Aparecida.</desc>
   </programme>
   <programme start="20260802090000 -0300" stop="20260802100000 -0300" channel="TV Cultura.br">
     <title lang="pt">Balaio</title>
@@ -1187,7 +1192,7 @@
   </programme>
   <programme start="20260802110000 -0300" stop="20260802120000 -0300" channel="TV Cultura.br">
     <title lang="pt">Boas Práticas Escolares</title>
-    <category lang="pt">Educational</category>
+    <category lang="pt">Temporada 4 Episódio 24</category>
     <desc lang="pt">Histórias de cidadania, inclusão e educação a partir de iniciativas transformadoras, dentro e fora do ambiente escolar, que geram impacto positivo na vida dos alunos por meio do esporte, sustentabilidade, dança, literatura e muito mais.</desc>
   </programme>
   <programme start="20260802120000 -0300" stop="20260802133000 -0300" channel="TV Cultura.br">
@@ -1197,8 +1202,8 @@
   </programme>
   <programme start="20260802133000 -0300" stop="20260802134000 -0300" channel="TV Cultura.br">
     <title lang="pt">Planeta Palavra</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.</desc>
+    <category lang="pt">Temporada 1 Episódio 1 - Os Super Bombeiros</category>
+    <desc lang="pt">Vaca e Jacaré brincam de super bombeiros e saem com um balde de água à procura de Fogo. Depois de muita trapalhada com a Onça e de acabar com o churrasco da Galinha, cantam e dançam enquanto comem milho assado.</desc>
   </programme>
   <programme start="20260802134000 -0300" stop="20260802135000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bino e Fino</title>
@@ -1207,8 +1212,8 @@
   </programme>
   <programme start="20260802135000 -0300" stop="20260802140000 -0300" channel="TV Cultura.br">
     <title lang="pt">Milo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, cantar e dançar. Cada dia guarda uma surpresa diferente.</desc>
+    <category lang="pt">Temporada 1 Episódio 42 - Milo, o Padeiro</category>
+    <desc lang="pt">Rodney precisa deixar seu avental de cozinheiro, e Milo, Lofty e Lark tomam seu lugar para competirem na tenda culinária. Eles almejam a premiada Colher de Ouro.</desc>
   </programme>
   <programme start="20260802140000 -0300" stop="20260802141500 -0300" channel="TV Cultura.br">
     <title lang="pt">Meu AmigãoZão</title>
@@ -1217,8 +1222,8 @@
   </programme>
   <programme start="20260802141500 -0300" stop="20260802143000 -0300" channel="TV Cultura.br">
     <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Masha canta canções de ninar que sempre ensinam algo novo, interessante e divertido.</desc>
+    <category lang="pt">Temporada 6 Episódio 4 - Truque de Mágica</category>
+    <desc lang="pt">O Urso recebe a visita de seu antigo companheiro de circo. No entanto, Masha entra em cena com seus planos caóticos e começa a pregar peças e causar confusão.</desc>
   </programme>
   <programme start="20260802143000 -0300" stop="20260802144500 -0300" channel="TV Cultura.br">
     <title lang="pt">Ninhos em Movimento</title>
@@ -1227,8 +1232,8 @@
   </programme>
   <programme start="20260802144500 -0300" stop="20260802150000 -0300" channel="TV Cultura.br">
     <title lang="pt">Sol em Dó Ré Mi</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">A menina Sol, de seis anos, tem um segredo: ela conhece uma melodia secreta que abre um portal que a leva até o mundo Dó Ré Mi. Lá, ela aprende lições importantes com seus amigos instrumentos para enfrentar desafios no seu próprio mundo.</desc>
+    <category lang="pt">Temporada 1 Episódio 5 - O Canto da Baleia; Medo</category>
+    <desc lang="pt">Sol enfrenta seu maior desafio quando começa a sentir medo do escuro e dos misteriosos ruídos que ouve à noite. Com a ajuda de seus amigos e a doce melodia de uma baleia amiga, Sol embarca em uma aventura submarina onde descobre que os sons assustadores podem, na verdade, ser algo belo e tranquilizador. Ao enfrentar seus medos, Sol aprende que, às vezes, o que parece assustador no início pode se transformar em uma canção encantadora. Uma história inspiradora sobre coragem e como superar o medo.</desc>
   </programme>
   <programme start="20260802150000 -0300" stop="20260802160000 -0300" channel="TV Cultura.br">
     <title lang="pt">Mar Brasileiro</title>
@@ -1257,17 +1262,17 @@
   </programme>
   <programme start="20260802183000 -0300" stop="20260802190000 -0300" channel="TV Cultura.br">
     <title lang="pt">Resgate Animal</title>
-    <category lang="pt">Animals</category>
-    <desc lang="pt">As dramáticas histórias de animais silvestres ameaçados pelo avanço das cidades sobre as florestas, seus antigos habitats. Com a ajuda de profissionais especializados, esses animais ganham uma segunda chance para viver.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - Gavião</category>
+    <desc lang="pt">Um gavião acaba enroscado numa linha de pipa e fratura a asa. Os animais silvestres não combinam com uma vida dentro de casa. O tráfico de animais é ilegal, mas, infelizmente, muito comum no Brasil.</desc>
   </programme>
   <programme start="20260802190000 -0300" stop="20260802193000 -0300" channel="TV Cultura.br">
     <title lang="pt">Vitrine</title>
-    <category lang="pt">Public affairs</category>
+    <category lang="pt">Temporada 2 Episódio 5</category>
     <desc lang="pt">O programa analisa as redefinições na comunicação impulsionadas pela tecnologia, além de visitar os bastidores das produções atuais e do acervo do canal.</desc>
   </programme>
   <programme start="20260802193000 -0300" stop="20260802200000 -0300" channel="TV Cultura.br">
     <title lang="pt">Museus de São Paulo</title>
-    <category lang="pt">History</category>
+    <category lang="pt">Temporada 2 Episódio 10 - Museu Afro Brasil</category>
     <desc lang="pt">Uma visita guiada pelo acervo e a história dos principais museus paulistas. Museus promovem troca de conhecimento e a possibilidade de novas reflexões sobre a história humana.</desc>
   </programme>
   <programme start="20260802200000 -0300" stop="20260802210000 -0300" channel="TV Cultura.br">
@@ -1282,8 +1287,8 @@
   </programme>
   <programme start="20260802220000 -0300" stop="20260802223000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Novo Sempre Vem</title>
-    <category lang="pt">Music</category>
-    <desc lang="pt">Apresentações inéditas e intimistas de artistas da nova cena musical nacional. Em um cenário em que o consumo musical é fortemente mediado por algoritmos, a série aposta no olhar humano para selecionar repertórios, artistas e formatos.</desc>
+    <category lang="pt">Temporada 2 Episódio 18 - Flavio Ferrari e Luana Granai</category>
+    <desc lang="pt">O cantor e compositor recifense Flavio Ferrari e a cantora e compositora Luana Granai falam sobre música e carreira.</desc>
   </programme>
   <programme start="20260802223000 -0300" stop="20260802233000 -0300" channel="TV Cultura.br">
     <title lang="pt">Provoca</title>
@@ -1291,9 +1296,9 @@
     <desc lang="pt">Marcelo Tas revisita o formato de entrevistas trazendo filosofia e interação, prometendo romper o véu entre alta cultura e a cultura pop, trazendo nomes diversos e inusitados, e provocando com questões sobre sociedade, existência e a vida em si.</desc>
   </programme>
   <programme start="20260802233000 -0300" stop="20260803020000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Clássicos</title>
-    <category lang="pt">Music</category>
-    <desc lang="pt">Grandes concertos ou produções documentais sobre algum aspecto da música. Entre em contato com as mais importantes orquestras do mundo, sempre dirigidas por maestros famosos e solistas renomados.</desc>
+    <title lang="pt">La Fanciulla del West</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">A ópera &quot;La Fanciulla del West&quot;, traduzida como &quot;A Garota do Oeste&quot;, é apresentada pela Orquestra Sinfônica Municipal e Coro Lírico Municipal, sob regência e direção musical de Roberto Minczuk.</desc>
   </programme>
   <programme start="20260803020000 -0300" stop="20260803023000 -0300" channel="TV Cultura.br">
     <title lang="pt">Figuras da Dança</title>
@@ -1310,10 +1315,15 @@
     <category lang="pt">Interview</category>
     <desc lang="pt">A cada programa, uma personalidade notória é posicionada no centro de uma roda, um espaço plural para a apresentação de ideias, conceitos e análises sobre temas de interesse da população. Ela então responde a perguntas dos entrevistadores convidados.</desc>
   </programme>
-  <programme start="20260803043000 -0300" stop="20260803053000 -0300" channel="TV Cultura.br">
+  <programme start="20260803043000 -0300" stop="20260803050000 -0300" channel="TV Cultura.br">
     <title lang="pt">Matéria de Capa</title>
     <category lang="pt">Newsmagazine</category>
     <desc lang="pt">De curiosidades a segredos do espaço, uma síntese dos temas mais importantes da atualidade.</desc>
+  </programme>
+  <programme start="20260803050000 -0300" stop="20260803060000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Balaio</title>
+    <category lang="pt">Music</category>
+    <desc lang="pt">Pai e filho são os anfitriões desse verdadeiro balaio de sonoridades, ritmos e parcerias repleto de encontros. Cada papo, conversa, entrevista, tem a finalidade de levar para uma viagem musical pela diversidade dos ritmos e estilos.</desc>
   </programme>
   <programme start="20260801054000 -0300" stop="20260801063000 -0300" channel="Record TV.br">
     <title lang="pt">Corrente dos 70</title>
@@ -1940,12 +1950,12 @@
   <programme start="20260802150000 -0300" stop="20260802153000 -0300" channel="TV Brasil.br">
     <title lang="pt">Parques do Brasil</title>
     <category lang="pt">Environment</category>
-    <desc lang="pt">Criado em 2002, em Minas Gerais, a unidade protege uma área significativa da Serra do Espinhaço, a única cordilheira brasileira e um dos lugares com mais espécies endêmicas de plantas do Brasil e do mundo.</desc>
+    <desc lang="pt">Um dos parques nacionais brasileiros, o Parque Nacional do Descobrimento compõe, com o Parque Nacional do Monte Pascoal e Pau Brasil, um corredor ecológico de mata atlântica da costa do descobrimento, administrado pelo Instituto Chico Mendes.</desc>
   </programme>
   <programme start="20260802153000 -0300" stop="20260802160000 -0300" channel="TV Brasil.br">
     <title lang="pt">Expedições</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">Nossos expedicionários se encontram com lideranças xinguanas em Canarana, Mato Grosso e, acompanhados dessas pessoas, iniciam mais uma travessia na região das nascentes do Rio Xingu.</desc>
+    <desc lang="pt">Nossa equipe faz uma aventura descendo de bicicleta trechos dos 42 km de ladeiras íngremes de uma estrada na Serra Geral Catarinense, ao sul do estado, que parece não ter fim.</desc>
   </programme>
   <programme start="20260802160000 -0300" stop="20260802173000 -0300" channel="TV Brasil.br">
     <title lang="pt">Galáxias</title>
@@ -2014,14 +2024,19 @@
   <programme start="20260803040000 -0300" stop="20260803043000 -0300" channel="TV Brasil.br">
     <title lang="pt">Parques do Brasil</title>
     <category lang="pt">Environment</category>
-    <desc lang="pt">Criado em 2002, em Minas Gerais, a unidade protege uma área significativa da Serra do Espinhaço, a única cordilheira brasileira e um dos lugares com mais espécies endêmicas de plantas do Brasil e do mundo.</desc>
+    <desc lang="pt">Um dos parques nacionais brasileiros, o Parque Nacional do Descobrimento compõe, com o Parque Nacional do Monte Pascoal e Pau Brasil, um corredor ecológico de mata atlântica da costa do descobrimento, administrado pelo Instituto Chico Mendes.</desc>
   </programme>
   <programme start="20260803043000 -0300" stop="20260803050000 -0300" channel="TV Brasil.br">
     <title lang="pt">Expedições</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">Nossos expedicionários se encontram com lideranças xinguanas em Canarana, Mato Grosso e, acompanhados dessas pessoas, iniciam mais uma travessia na região das nascentes do Rio Xingu.</desc>
+    <desc lang="pt">Nossa equipe faz uma aventura descendo de bicicleta trechos dos 42 km de ladeiras íngremes de uma estrada na Serra Geral Catarinense, ao sul do estado, que parece não ter fim.</desc>
   </programme>
-  <programme start="20260803050000 -0300" stop="20260803060000 -0300" channel="TV Brasil.br">
+  <programme start="20260803050000 -0300" stop="20260803053000 -0300" channel="TV Brasil.br">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <category lang="pt">Travel</category>
+    <desc lang="pt">Um emocionante voo pelo Brasil. Por meio de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
+  </programme>
+  <programme start="20260803053000 -0300" stop="20260803063000 -0300" channel="TV Brasil.br">
     <title lang="pt">Brasil Visto de Cima</title>
     <category lang="pt">Travel</category>
     <desc lang="pt">Um emocionante voo pelo Brasil. Por meio de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.</desc>
@@ -4855,32 +4870,32 @@
     <category lang="pt">Temporada 11 Episódio 4 - Já São Tudo Gente Grande</category>
     <desc lang="pt">Kris encontra Caitlyn pela primeira vez no aniversário de Kylie.</desc>
   </programme>
-  <programme start="20260801060000 -0300" stop="20260801062400 -0300" channel="TLC.br">
+  <programme start="20260801060000 -0300" stop="20260801062500 -0300" channel="TLC.br">
     <title lang="pt">Eu Não Sabia que Estava Grávida</title>
     <category lang="pt">Temporada 4 Episódio 25 - Bebê Milagroso</category>
     <desc lang="pt">Marisa nunca menstruou, por isso os médicos diziam que ela provavelmente jamais teria filhos. Mas um dia ela começa a sentir fortes dores nas costas, corre para o hospital e descobre que está em trabalho de parto.</desc>
   </programme>
-  <programme start="20260801062400 -0300" stop="20260801064800 -0300" channel="TLC.br">
+  <programme start="20260801062500 -0300" stop="20260801064900 -0300" channel="TLC.br">
     <title lang="pt">Eu Não Sabia que Estava Grávida</title>
     <category lang="pt">Temporada 4 Episódio 24 - Quatro Anos Depois</category>
     <desc lang="pt">Kristen tomou anticoncepcionais durante os quatro anos de relacionamento com o namorado. Um dia, ela sente dores fortes e é levada para a sala de emergência, onde descobre que está em trabalho de parto.</desc>
   </programme>
-  <programme start="20260801064800 -0300" stop="20260801073600 -0300" channel="TLC.br">
+  <programme start="20260801064900 -0300" stop="20260801073700 -0300" channel="TLC.br">
     <title lang="pt">Bem-Vindo à Família Plath</title>
     <category lang="pt">Temporada 3 Episódio 3 - Parabéns, Micah!</category>
     <desc lang="pt">Ethan insiste para que sua mãe vá à propriedade dele; Moriah e Olivia falam sobre bebês, contracepção e garotos; a família Plath prepara uma surpresa especial para o vigésimo aniversário de Micah.</desc>
   </programme>
-  <programme start="20260801073600 -0300" stop="20260801082500 -0300" channel="TLC.br">
+  <programme start="20260801073700 -0300" stop="20260801082600 -0300" channel="TLC.br">
     <title lang="pt">Bem-Vindo à Família Plath</title>
     <category lang="pt">Temporada 3 Episódio 4 - Eu Vou Enlouquecer</category>
     <desc lang="pt">Olivia planeja um dia divertido com Ethan, Moriah, Max e Micah, mas uma discussão quase estraga o clima; Moriah encara uma escolha difícil; Olivia e Micah fazem uma sessão de fotos sensuais.</desc>
   </programme>
-  <programme start="20260801082500 -0300" stop="20260801091400 -0300" channel="TLC.br">
+  <programme start="20260801082600 -0300" stop="20260801091500 -0300" channel="TLC.br">
     <title lang="pt">Bem-Vindo à Família Plath</title>
     <category lang="pt">Temporada 3 Episódio 5 - Foi Você Quem Mudou</category>
     <desc lang="pt">Max e Lydia têm uma missão secreta; a tensão entre Kim e Ethan pode frustrar os planos dele de sair com os irmãos; Ethan e Olivia discutem uma mudança e chegam a um ponto crítico do relacionamento.</desc>
   </programme>
-  <programme start="20260801091400 -0300" stop="20260801100300 -0300" channel="TLC.br">
+  <programme start="20260801091500 -0300" stop="20260801100300 -0300" channel="TLC.br">
     <title lang="pt">Bem-Vindo à Família Plath</title>
     <category lang="pt">Temporada 3 Episódio 6 - Isso É um Encontro?</category>
     <desc lang="pt">A sessão de terapia de Olivia a leva a refletir sobre mudanças profundas em relação a Ethan; Moriah e Max discutem sobre as roupas provocantes dela; Barry leva Isaac e Micah para jogar golfe; Micah tem um encontro com Helena.</desc>
@@ -4890,22 +4905,22 @@
     <category lang="pt">Temporada 19 Episódio 14 - A Verdade Liberta</category>
     <desc lang="pt">Kody critica sua antiga igreja durante encontro com Robyn. Christine organiza festa de noivado com tacos e Meri explora sua liberdade espiritual.</desc>
   </programme>
-  <programme start="20260801105200 -0300" stop="20260801114000 -0300" channel="TLC.br">
+  <programme start="20260801105200 -0300" stop="20260801114100 -0300" channel="TLC.br">
     <title lang="pt">4 Mulheres e 1 Marido</title>
     <category lang="pt">Temporada 19 Episódio 15 - A Fé Move Montanhas</category>
     <desc lang="pt">As garotas de Robyn exploram igrejas não mórmons, e Kody tenta evitar conflitos; Christine prova seu vestido de casamento e Meri quer namorar.</desc>
   </programme>
-  <programme start="20260801114000 -0300" stop="20260801123000 -0300" channel="TLC.br">
+  <programme start="20260801114100 -0300" stop="20260801123100 -0300" channel="TLC.br">
     <title lang="pt">4 Mulheres e 1 Marido</title>
     <category lang="pt">Temporada 19 Episódio 16 - Tempo de Chorar, Tempo de Sorrir</category>
     <desc lang="pt">Meri corta uma colcha que celebrava seu casamento com Kody; Christine e David estão em Moab e se preparam para um dia mágico; Robyn e Kody têm uma conversa difícil sobre a separação da família.</desc>
   </programme>
-  <programme start="20260801123000 -0300" stop="20260801131400 -0300" channel="TLC.br">
+  <programme start="20260801123100 -0300" stop="20260801131500 -0300" channel="TLC.br">
     <title lang="pt">4 Mulheres e 1 Marido</title>
     <category lang="pt">Temporada 19 Episódio 17 - O Amor É Paciente</category>
     <desc lang="pt">Christine e David se casam no Rio Colorado em um evento animado; Kody expressa frustração por não estar presente na celebração da família Brown.</desc>
   </programme>
-  <programme start="20260801131400 -0300" stop="20260801140300 -0300" channel="TLC.br">
+  <programme start="20260801131500 -0300" stop="20260801140300 -0300" channel="TLC.br">
     <title lang="pt">Meu Grande Casamento Cigano</title>
     <category lang="pt">Temporada 2 Episódio 1 - Tradições e Superstições Ciganas</category>
     <desc lang="pt">Adolescentes ciganos ignoram tradições em seu casamento, deixando suas famílias furiosas; uma miss está determinada a manter sua coroa; um ex-detento, que se tornou pastor, está à procura de uma esposa para seu filho.</desc>
@@ -4930,97 +4945,97 @@
     <category lang="pt">Temporada 1 Episódio 5 - Abdul e Vickie</category>
     <desc lang="pt">Abdul e Vickie levam o estilo de vida pão-duro a outro nível. Eles pechincham até para comprar o bolo de aniversário de casamento e aproveitam as carcaças de animais mortos na estrada para dar de presente.</desc>
   </programme>
-  <programme start="20260801165600 -0300" stop="20260801172000 -0300" channel="TLC.br">
+  <programme start="20260801165600 -0300" stop="20260801172100 -0300" channel="TLC.br">
     <title lang="pt">Muquiranas</title>
     <category lang="pt">Temporada 2 Episódio 7 - Jordan; Michael</category>
     <desc lang="pt">Jordan gasta apenas 1.400 dólares por mês com sua família de cinco pessoas racionando tudo e pedindo sobras aos vizinhos. Já Michael reutiliza a água em que toma banho para lavar louça.</desc>
   </programme>
-  <programme start="20260801172000 -0300" stop="20260801174600 -0300" channel="TLC.br">
+  <programme start="20260801172100 -0300" stop="20260801174700 -0300" channel="TLC.br">
     <title lang="pt">Cupom Mania</title>
     <category lang="pt">Temporada 1 Episódio 5 - Desirae e Stephanie</category>
     <desc lang="pt">A econômica Desirae é tão esperta que não paga nem pelos jornais de onde recorta seus cupons: ela os recolhe em lixeiras públicas.</desc>
   </programme>
-  <programme start="20260801174600 -0300" stop="20260801180800 -0300" channel="TLC.br">
+  <programme start="20260801174700 -0300" stop="20260801180800 -0300" channel="TLC.br">
     <title lang="pt">Cupom Mania</title>
     <category lang="pt">Temporada 1 Episódio 6 - Chris e Antoinette</category>
     <desc lang="pt">Antoniete é uma mãe solteira que coleta cupons para poder cuidar da mãe e da filha, enquanto Chris usa seu talento na matemática para ajudar uma instituição de caridade.</desc>
   </programme>
-  <programme start="20260801180800 -0300" stop="20260801183400 -0300" channel="TLC.br">
+  <programme start="20260801180800 -0300" stop="20260801183500 -0300" channel="TLC.br">
     <title lang="pt">Casas Exuberantes</title>
     <category lang="pt">Temporada 1 Episódio 10 - Casa dos Sonhos em Las Vegas</category>
     <desc lang="pt">O ex-boxeador profissional Damian passou por uma fase difícil na Califórnia até ganhar um milhão de dólares em uma raspadinha. Agora, ele procura uma casa em um condomínio fechado em Las Vegas.</desc>
   </programme>
-  <programme start="20260801183400 -0300" stop="20260801185600 -0300" channel="TLC.br">
+  <programme start="20260801183500 -0300" stop="20260801185600 -0300" channel="TLC.br">
     <title lang="pt">Casas Exuberantes</title>
     <category lang="pt">Temporada 2 Episódio 10 - Volta ao Lar no Alabama</category>
     <desc lang="pt">Mãe e filho compartilham sua vitória na raspadinha, mudando-se para Tallassee, Alabama. David os ajuda a encontrar uma casa à beira do lago com um estúdio de arte por até 225.000 dólares.</desc>
   </programme>
-  <programme start="20260801185600 -0300" stop="20260801203300 -0300" channel="TLC.br">
+  <programme start="20260801185600 -0300" stop="20260801203200 -0300" channel="TLC.br">
     <title lang="pt">Pesadelo na Cozinha</title>
     <category lang="pt">Temporada 5 Episódio 4 - Bar do Pio - São Paulo/SP</category>
     <desc lang="pt">No Bar do Pio, Eleni vive em conflito com o filho, e a crise familiar vira crise no salão. Jacquin tenta reorganizar a casa.</desc>
   </programme>
-  <programme start="20260801203300 -0300" stop="20260801210000 -0300" channel="TLC.br">
+  <programme start="20260801203200 -0300" stop="20260801210000 -0300" channel="TLC.br">
     <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
     <category lang="pt">Temporada 31 Episódio 3 - Renascimento na Califórnia</category>
     <desc lang="pt">Nesta viagem, Guy Fieri celebra a cena gastronômica de Chico, Califórnia, enquanto moradores e donos de restaurantes se recuperam dos incêndios que assolaram a região.</desc>
   </programme>
-  <programme start="20260801210000 -0300" stop="20260801212600 -0300" channel="TLC.br">
+  <programme start="20260801210000 -0300" stop="20260801212700 -0300" channel="TLC.br">
     <title lang="pt">Lanchonetes Clássicas com Guy Fieri</title>
     <category lang="pt">Temporada 31 Episódio 5 - Café com Hambúrguer</category>
     <desc lang="pt">Guy Fieri toma café em um restaurante na Califórnia que serve rabanadas; em Washington, ele experimenta um delicioso gravlax e um hambúrguer com um toque original.</desc>
   </programme>
-  <programme start="20260801212600 -0300" stop="20260801222000 -0300" channel="TLC.br">
+  <programme start="20260801212700 -0300" stop="20260801221900 -0300" channel="TLC.br">
     <title lang="pt">Drinques pelo Mundo</title>
     <category lang="pt">Temporada 1 Episódio 9 - Lituânia</category>
     <desc lang="pt">Jack tem uma visão panorâmica da Lituânia antes de fazer um pouso forçado em um balão de ar quente. Lá ele conhece o hidromel e caça a cegonha-negra.</desc>
   </programme>
-  <programme start="20260801222000 -0300" stop="20260801224900 -0300" channel="TLC.br">
+  <programme start="20260801221900 -0300" stop="20260801225000 -0300" channel="TLC.br">
     <title lang="pt">Passeio Completo</title>
     <category lang="pt">Temporada 1 Episódio 3 - Quinta da Comporta</category>
     <desc lang="pt">Com areia dourada e mar azul-turquesa, a Praia de Comporta é uma das mais chiques de Portugal e é frequentada por muitos famosos, como o designer Christian Louboutin e o ator Harrison Ford. Ana conhece a praia onde Madonna foi vista cavalgando.</desc>
   </programme>
-  <programme start="20260801224900 -0300" stop="20260801232300 -0300" channel="TLC.br">
+  <programme start="20260801225000 -0300" stop="20260801232500 -0300" channel="TLC.br">
     <title lang="pt">Mapa do Pop</title>
     <category lang="pt">Temporada 5 Episódio 12 - A Nova Cena da Música em São Paulo</category>
     <desc lang="pt">Conheça a nova cena musical paulista e encontre, entre muitas propostas e disrupções, os palcos com cada vez mais espaço para as mulheres e os artistas LGBTQIAP+. Agora, eles e elas chegam ao sucesso comercial.</desc>
   </programme>
-  <programme start="20260801232300 -0300" stop="20260801235700 -0300" channel="TLC.br">
+  <programme start="20260801232500 -0300" stop="20260801235700 -0300" channel="TLC.br">
     <title lang="pt">Mapa do Pop</title>
     <category lang="pt">Temporada 5 Episódio 13 - A Hollywood do Sul</category>
     <desc lang="pt">Acompanhe um tour por Atlanta, por algumas das locações mais importantes da cidade e entenda porque lá é o local preferido de grandes produções, como: &quot;Pantera Negra&quot;, &quot;Mulher Maravilha&quot; e &quot;Homem-Aranha&quot;.</desc>
   </programme>
-  <programme start="20260801235700 -0300" stop="20260802004700 -0300" channel="TLC.br">
+  <programme start="20260801235700 -0300" stop="20260802004800 -0300" channel="TLC.br">
     <title lang="pt">O Vestido Ideal</title>
     <category lang="pt">Reality</category>
     <desc lang="pt">A pandemia de Covid-19 deixou a indústria de casamentos de cabeça para baixo, forçando a Kleinfeld a fechar temporariamente. Ainda assim, as noivas continuaram a mandar e-mails para Randy. Veja algumas dessas histórias.</desc>
   </programme>
-  <programme start="20260802004700 -0300" stop="20260802013600 -0300" channel="TLC.br">
+  <programme start="20260802004800 -0300" stop="20260802013700 -0300" channel="TLC.br">
     <title lang="pt">Meu Grande Casamento Cigano</title>
     <category lang="pt">Temporada 2 Episódio 2 - Confusão em Dose Dupla</category>
     <desc lang="pt">Melhores amigas, Lottie e Courtney planejam um casamento duplo; os gêmeos Teddy e Tommy estão prestes a completar 18 anos com diferentes ideias. Enquanto Teddy curte a vida de solteiro, Tommy acha que é hora de se casar.</desc>
   </programme>
-  <programme start="20260802013600 -0300" stop="20260802024800 -0300" channel="TLC.br">
+  <programme start="20260802013700 -0300" stop="20260802024700 -0300" channel="TLC.br">
     <title lang="pt">Amor Fora das Grades - Como Eles Estão Agora?</title>
     <category lang="pt">Temporada 4 Episódio 17 - Segredos Sujos</category>
     <desc lang="pt">Branwin recebe uma ligação misteriosa; Amber e Puppy seguem Eric quando ele se comporta de maneira estranha; Ray fica magoado quando Britney menciona um acordo pré-nupcial; Taylor e Chance mantêm segredos; Brittany confronta Amanda.</desc>
   </programme>
-  <programme start="20260802024800 -0300" stop="20260802040000 -0300" channel="TLC.br">
+  <programme start="20260802024700 -0300" stop="20260802035800 -0300" channel="TLC.br">
     <title lang="pt">Amor Fora das Grades - Como Eles Estão Agora?</title>
     <category lang="pt">Temporada 4 Episódio 18 - O Delator</category>
     <desc lang="pt">O casamento de Sara e Shawn envolve momentos dramáticos; Destinie enfrenta uma emergência; Chazz quer que Branwin confesse tudo; Kayla espia o encontro de Kevin e Tiffany; Lindsey recebe uma notícia chocante de seu advogado.</desc>
   </programme>
-  <programme start="20260802040000 -0300" stop="20260802050900 -0300" channel="TLC.br">
+  <programme start="20260802035800 -0300" stop="20260802050700 -0300" channel="TLC.br">
     <title lang="pt">Amor Fora das Grades - Como Eles Estão Agora?</title>
     <category lang="pt">Temporada 4 Episódio 19 - Sempre o Vilão</category>
     <desc lang="pt">Amber perde a cabeça com Puppy em um confronto chocante; Daonte flagra Lindsey se aproximando de Blaine; Kevin fica preso no plano de Kayla; Chance teme que Tayler esteja guardando um segredo; Chazz acha que Branwin está tramando algo ruim.</desc>
   </programme>
-  <programme start="20260802050900 -0300" stop="20260802053300 -0300" channel="TLC.br">
+  <programme start="20260802050700 -0300" stop="20260802053200 -0300" channel="TLC.br">
     <title lang="pt">Cupom Mania</title>
     <category lang="pt">Temporada 3 Episódio 5 - Adrienne e Sarah</category>
     <desc lang="pt">A pastora Adrienne, prega seu amor por juntar cupons na congregação e tenta converter um amigo cético a adotar a prática. Enquanto Sarah, de 14 anos, controla as compras de mercado da família com seus cupons.</desc>
   </programme>
-  <programme start="20260802053300 -0300" stop="20260802060000 -0300" channel="TLC.br">
+  <programme start="20260802053200 -0300" stop="20260802060000 -0300" channel="TLC.br">
     <title lang="pt">Muquiranas</title>
     <category lang="pt">Temporada 1 Episódio 2 - Kate</category>
     <desc lang="pt">Conheça Kate, uma mulher que vive com pouco dinheiro na cidade de Nova York.</desc>
@@ -9729,30 +9744,20 @@
     <category lang="pt">News</category>
     <desc lang="pt">Reportagens para começar o dia com as informações que importam.</desc>
   </programme>
-  <programme start="20260801120000 -0300" stop="20260801130000 -0300" channel="CNN Brasil.br">
+  <programme start="20260801120000 -0300" stop="20260801132500 -0300" channel="CNN Brasil.br">
     <title lang="pt">Agora CNN</title>
     <category lang="pt">News</category>
     <desc lang="pt">Reportagens para começar o dia com as informações que importam.</desc>
   </programme>
-  <programme start="20260801130000 -0300" stop="20260801141500 -0300" channel="CNN Brasil.br">
+  <programme start="20260801132500 -0300" stop="20260801144000 -0300" channel="CNN Brasil.br">
     <title lang="pt">WW</title>
     <category lang="pt">Talk</category>
     <desc lang="pt">O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana.</desc>
   </programme>
-  <programme start="20260801141500 -0300" stop="20260801143000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">Boletim Agora CNN</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">As principais notícias do dia transmitidas pelo canal CNN Brasil.</desc>
-  </programme>
-  <programme start="20260801143000 -0300" stop="20260801151500 -0300" channel="CNN Brasil.br">
-    <title lang="pt">Hot Market</title>
-    <category lang="pt">Bus./financial</category>
-    <desc lang="pt">Discussão sobre juros, contas públicas, eleições, tecnologia e mercado de trabalho do Brasil e do mundo, com entrevista com nomes de destaque do mercado.</desc>
-  </programme>
-  <programme start="20260801151500 -0300" stop="20260801153000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">Boletim Agora CNN</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">As principais notícias do dia transmitidas pelo canal CNN Brasil.</desc>
+  <programme start="20260801144000 -0300" stop="20260801153000 -0300" channel="CNN Brasil.br">
+    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
+    <category lang="pt">Travel</category>
+    <desc lang="pt">Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária.</desc>
   </programme>
   <programme start="20260801153000 -0300" stop="20260801161500 -0300" channel="CNN Brasil.br">
     <title lang="pt">CNN Viagem &amp; Gastronomia</title>
@@ -9764,29 +9769,24 @@
     <category lang="pt">News</category>
     <desc lang="pt">Reportagens para começar o dia com as informações que importam.</desc>
   </programme>
-  <programme start="20260801171500 -0300" stop="20260801180000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN Esportes S/A</title>
-    <desc lang="pt">Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol.</desc>
-  </programme>
-  <programme start="20260801180000 -0300" stop="20260801181500 -0300" channel="CNN Brasil.br">
-    <title lang="pt">Boletim Agora CNN</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">As principais notícias do dia transmitidas pelo canal CNN Brasil.</desc>
-  </programme>
-  <programme start="20260801181500 -0300" stop="20260801184500 -0300" channel="CNN Brasil.br">
+  <programme start="20260801171500 -0300" stop="20260801174500 -0300" channel="CNN Brasil.br">
     <title lang="pt">É Negócio</title>
     <category lang="pt">Interview</category>
     <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados pelo apresentador e seus convidados especiais.</desc>
   </programme>
-  <programme start="20260801184500 -0300" stop="20260801192500 -0300" channel="CNN Brasil.br">
+  <programme start="20260801174500 -0300" stop="20260801180000 -0300" channel="CNN Brasil.br">
+    <title lang="pt">Boletim Agora CNN</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">As principais notícias do dia transmitidas pelo canal CNN Brasil.</desc>
+  </programme>
+  <programme start="20260801180000 -0300" stop="20260801184500 -0300" channel="CNN Brasil.br">
+    <title lang="pt">CNN Esportes S/A</title>
+    <desc lang="pt">Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol.</desc>
+  </programme>
+  <programme start="20260801184500 -0300" stop="20260801193000 -0300" channel="CNN Brasil.br">
     <title lang="pt">Agora CNN</title>
     <category lang="pt">News</category>
     <desc lang="pt">Reportagens para começar o dia com as informações que importam.</desc>
-  </programme>
-  <programme start="20260801192500 -0300" stop="20260801193000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN Cast</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">Um espaço para ouvir as principais vozes dos setores mais importantes para o país.</desc>
   </programme>
   <programme start="20260801193000 -0300" stop="20260801200000 -0300" channel="CNN Brasil.br">
     <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista</title>
@@ -11563,142 +11563,142 @@
     <category lang="pt">Temporada 4 Episódio 18 - Negócios na Estrada</category>
     <desc lang="pt">Durante esta nova viagem pelas estradas dos Estados Unidos, os rapazes partem na procura de tesouros e aventuras. De Chicago a Sturgis, eles fazem grandes compras, conhecem convidados famosos e visitam monumentos nacionais.</desc>
   </programme>
-  <programme start="20260801060000 -0300" stop="20260801065000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801060000 -0300" stop="20260801064600 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Joias Sobre Rodas</title>
     <category lang="pt">Temporada 13 Episódio 13 - 1973 Camaro</category>
     <desc lang="pt">Mike encontra um Camaro segunda geração e pretende transformá-lo num carro de corrida. Edd começa instalando um kit profissional, mas precisa encontrar peças substitutas para o motor.</desc>
   </programme>
-  <programme start="20260801065000 -0300" stop="20260801074000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801064600 -0300" stop="20260801073300 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Dupla do Barulho</title>
     <category lang="pt">Temporada 12 Episódio 2 - O Macaco de Um Milhão de Dólares</category>
     <desc lang="pt">Aaron foi para o Pico Pikes e deixou os Monkeys a cargo de montar o Chevy 55, que estreia no leilão Barrett-Jackson em duas semanas.</desc>
   </programme>
-  <programme start="20260801074000 -0300" stop="20260801083000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801073300 -0300" stop="20260801082400 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Oficinaço</title>
     <category lang="pt">Temporada 3 Episódio 2 - Valor Sentimental</category>
     <desc lang="pt">Gary Hopper, um velho amigo de Joe, chega com um Chevrolet Bel Air 1955 à oficina. A pressão é maior porque o carro tem valor sentimental para a família de Gary, mas peças faltando e o capô amassado comprometem a entrega.</desc>
   </programme>
-  <programme start="20260801083000 -0300" stop="20260801092200 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801082400 -0300" stop="20260801091600 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Invasão de Garagens</title>
     <category lang="pt">Temporada 4 Episódio 9 - Caos em Malibu</category>
     <desc lang="pt">Um herói norte-americano perde a batalha contra o transtorno de estresse pós-traumático, então a equipe se une a seu pai para restaurar o Malibu 1968 que comprou enquanto estava no Iraque.</desc>
   </programme>
-  <programme start="20260801092200 -0300" stop="20260801101400 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801091600 -0300" stop="20260801100700 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Invasão de Garagens</title>
     <category lang="pt">Temporada 4 Episódio 10 - Fazendo Graça</category>
     <desc lang="pt">Com problemas mecânicos, um Nova 1967 fica parado na garagem por quatro anos. Para honrar a memória do falecido pai do proprietário, a equipe de Garage Squad ajuda a realizar o sonho de restaurá-lo.</desc>
   </programme>
-  <programme start="20260801101400 -0300" stop="20260801110600 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801100700 -0300" stop="20260801105500 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Mexicânicos e Outros Mecânicos</title>
     <category lang="pt">Auto</category>
     <desc lang="pt">Chelín e Pikin encomendaram um painel Chevrolet 1951 para transformá-lo em um camarim móvel; um cliente quer restaurar seu Corvette Stingray 1977; Effi leva Fernanda para uma escapada a Los Angeles para comemorar o aniversário de casamento.</desc>
   </programme>
-  <programme start="20260801110600 -0300" stop="20260801115800 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801105500 -0300" stop="20260801114600 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Pequena Grande Oficina</title>
     <category lang="pt">Temporada 1 Episódio 2 - Estreia na SEMA</category>
     <desc lang="pt">Justin Nichols e a equipe da Nichols Paint and Fab são famosos pelo trabalho meticuloso e os trabalhos de pintura impecáveis. Eles se preparam para arriscar sua reputação com o primeiro projeto para a SEMA, um C10 1960.</desc>
   </programme>
-  <programme start="20260801115800 -0300" stop="20260801125000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801114600 -0300" stop="20260801123900 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Texas Metal</title>
     <category lang="pt">Temporada 3 Episódio 1 - Chassi Customizado</category>
     <desc lang="pt">Bill e a equipe tentam se superar reinventando o design de um Ford F5 COE 1950. A oficina começa a primeira fase da restauração de um Corvette Stingray 1969 montando um chassi customizado.</desc>
   </programme>
-  <programme start="20260801125000 -0300" stop="20260801134200 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801123900 -0300" stop="20260801133200 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Oficina do Barulho</title>
     <category lang="pt">Temporada 3 Episódio 7 - 56 Ford</category>
     <desc lang="pt">Após vender o Corvette 57 por 80 mil dólares, a equipe começa a trabalhar na picape Ford de Sue Yu-Lan Martin. O carro passa mais de três semanas na pintura e, como Tom gastou demais, pede um adiantamento a Sue.</desc>
   </programme>
-  <programme start="20260801134200 -0300" stop="20260801143400 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801133200 -0300" stop="20260801142400 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Carros Irados - Bastidores</title>
     <category lang="pt">Temporada 1 Episódio 9 - Tamanho Importa, Sim</category>
     <desc lang="pt">Veja imagens inéditas e depoimentos da equipe mostrando a reconstrução épica de um ícone norte-americano: um GM 'Parade of Progress' Futurliner 1939.</desc>
   </programme>
-  <programme start="20260801143400 -0300" stop="20260801152600 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801142400 -0300" stop="20260801152000 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Overhaulin': Os Supercarros</title>
     <category lang="pt">Temporada 9 Episódio 1 - Johnny Depp</category>
     <desc lang="pt">Um Ford Mustang 1967, propriedade da atriz Amber Heard, é reformado. O processo liderado por Chip Foose conta com o auxílio do pai de Amber e também de seu noivo, Johnny Depp.</desc>
   </programme>
-  <programme start="20260801152600 -0300" stop="20260801161800 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801152000 -0300" stop="20260801161600 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Overhaulin': Os Supercarros</title>
     <category lang="pt">Temporada 9 Episódio 2 - 1982 El Camino</category>
     <desc lang="pt">O amado El Camino 1982 de Locksmith Doug precisa de uma ajuda do Overhaulin'. Chip Foose e sua equipe têm o necessário para transformar completamente este carro.</desc>
   </programme>
-  <programme start="20260801161800 -0300" stop="20260801171000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801161600 -0300" stop="20260801170800 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Carros dos Sonhos com Robert Downey Jr.</title>
     <category lang="pt">Temporada 1 Episódio 3 - Riviera para Hoje</category>
     <desc lang="pt">Robert explora alternativas ecológicas para modernizar um dos carros mais icônicos e de maior consumo de combustível de todos os tempos: o Buick Riviera. Depois da conversão, ele testa os resultados em um passeio nostálgico pelas ruas de Manhattan.</desc>
   </programme>
-  <programme start="20260801171000 -0300" stop="20260801180200 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801170800 -0300" stop="20260801180100 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Oficinaço</title>
     <category lang="pt">Temporada 7 Episódio 9 - Uma Surpresa para Pompa</category>
     <desc lang="pt">Joe e Mandi Martin preparam uma grande surpresa para Pompa: eles estão consertando uma moto Fat Boy Harley só para ele; Joe tem uma Ferrari abandonada em sua coleção que pretende pilotar de novo.</desc>
   </programme>
-  <programme start="20260801180200 -0300" stop="20260801185400 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801180100 -0300" stop="20260801185500 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Mexicânicos</title>
     <category lang="pt">Temporada 10 Episódio 1 - Oka Giner &amp; Merceditas</category>
     <desc lang="pt">A atriz Oka Giner recorre a Martín para ajudar seu amigo passeador de cães Fer a recuperar sua fonte de renda construindo um veículo ideal para seus passageiros peludos. Durante o processo, Oka aprende mecânica enquanto compartilha aulas de atuação.</desc>
   </programme>
-  <programme start="20260801185400 -0300" stop="20260801194600 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801185500 -0300" stop="20260801194900 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Te Devo Essa! Carros das Estrelas - México</title>
     <category lang="pt">Temporada 1 Episódio 1 - Eduardo Capetillo</category>
     <desc lang="pt">Eduardo Capetillo, uma das figuras mais queridas e respeitadas do entretenimento no México, quer agradecer a Don Juan, caseiro de sua família há 50 anos, restaurando um GMC Sierra 1986 que está em péssimo estado.</desc>
   </programme>
-  <programme start="20260801194600 -0300" stop="20260801203800 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801194900 -0300" stop="20260801203700 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Joias Sobre Rodas</title>
     <category lang="pt">Temporada 13 Episódio 17 - 1916 Cadillac</category>
     <desc lang="pt">Edd surpreende Mike na Inglaterra, comprando um Cadillac 1916. Eles trabalham incansavelmente para preparar o carro para o rali Pequim-Paris, um percurso de mais de 14.000 quilômetros.</desc>
   </programme>
-  <programme start="20260801203800 -0300" stop="20260801213000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801203700 -0300" stop="20260801212600 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Dupla do Barulho</title>
     <category lang="pt">Temporada 11 Episódio 2 - Harley e Eu</category>
     <desc lang="pt">Richard dá de presente para Aaron uma Harley-Davidson de 1942 que era usada para fins militares. A intenção é restaurar a moto de acordo com o seu design original para que possam participar de uma corrida vintage em Nova Jersey.</desc>
   </programme>
-  <programme start="20260801213000 -0300" stop="20260801222200 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801212600 -0300" stop="20260801222100 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Oficinaço</title>
     <category lang="pt">Temporada 3 Episódio 3 - Novo em Folha</category>
     <desc lang="pt">Joe Martin mal consegue acreditar no que vê: um Impala 1963 com quatro marchas e um lendário motor 409 sob o capô. O dono quer manter alguns detalhes originais, mas com novo chassi, suspensão e rodas maiores.</desc>
   </programme>
-  <programme start="20260801222200 -0300" stop="20260801231400 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801222100 -0300" stop="20260801231300 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Texas Metal</title>
     <category lang="pt">Temporada 7 Episódio 1 - Picapes Reformadas</category>
     <desc lang="pt">A forma e a função se encontram quando Bill e sua equipe customizam uma picape Dodge Ram 2023 para exposições, sem comprometer o desempenho. A equipe Ekstensive precisa reconstruir uma antiga picape Ford 1949.</desc>
   </programme>
-  <programme start="20260801231400 -0300" stop="20260802000600 -0300" channel="Discovery Turbo.br">
+  <programme start="20260801231300 -0300" stop="20260802000700 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Texas Metal</title>
     <category lang="pt">Temporada 7 Episódio 2 - Bronco 1989 Renovado</category>
     <desc lang="pt">Bill Carlton e seu guru, John Burgess, reformam um Bronco II 1989 rebaixado e barulhento. A equipe constrói um chassi personalizado para uma picape Ford 1949 com suspensão traseira independente.</desc>
   </programme>
-  <programme start="20260802000600 -0300" stop="20260802005800 -0300" channel="Discovery Turbo.br">
+  <programme start="20260802000700 -0300" stop="20260802010100 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Mexicânicos e Outros Mecânicos</title>
     <category lang="pt">Auto</category>
     <desc lang="pt">Chelín e Pikin encomendaram um painel Chevrolet 1951 para transformá-lo em um camarim móvel; um cliente quer restaurar seu Corvette Stingray 1977; Effi leva Fernanda para uma escapada a Los Angeles para comemorar o aniversário de casamento.</desc>
   </programme>
-  <programme start="20260802005800 -0300" stop="20260802015000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260802010100 -0300" stop="20260802015300 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Joias Sobre Rodas</title>
     <category lang="pt">Temporada 13 Episódio 17 - 1916 Cadillac</category>
     <desc lang="pt">Edd surpreende Mike na Inglaterra, comprando um Cadillac 1916. Eles trabalham incansavelmente para preparar o carro para o rali Pequim-Paris, um percurso de mais de 14.000 quilômetros.</desc>
   </programme>
-  <programme start="20260802015000 -0300" stop="20260802024000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260802015300 -0300" stop="20260802024300 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Dupla do Barulho</title>
     <category lang="pt">Temporada 11 Episódio 2 - Harley e Eu</category>
     <desc lang="pt">Richard dá de presente para Aaron uma Harley-Davidson de 1942 que era usada para fins militares. A intenção é restaurar a moto de acordo com o seu design original para que possam participar de uma corrida vintage em Nova Jersey.</desc>
   </programme>
-  <programme start="20260802024000 -0300" stop="20260802033000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260802024300 -0300" stop="20260802033600 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Oficinaço</title>
     <category lang="pt">Temporada 3 Episódio 3 - Novo em Folha</category>
     <desc lang="pt">Joe Martin mal consegue acreditar no que vê: um Impala 1963 com quatro marchas e um lendário motor 409 sob o capô. O dono quer manter alguns detalhes originais, mas com novo chassi, suspensão e rodas maiores.</desc>
   </programme>
-  <programme start="20260802033000 -0300" stop="20260802042000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260802033600 -0300" stop="20260802042600 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Texas Metal</title>
     <category lang="pt">Temporada 7 Episódio 1 - Picapes Reformadas</category>
     <desc lang="pt">A forma e a função se encontram quando Bill e sua equipe customizam uma picape Dodge Ram 2023 para exposições, sem comprometer o desempenho. A equipe Ekstensive precisa reconstruir uma antiga picape Ford 1949.</desc>
   </programme>
-  <programme start="20260802042000 -0300" stop="20260802051000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260802042600 -0300" stop="20260802051500 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Texas Metal</title>
     <category lang="pt">Temporada 7 Episódio 2 - Bronco 1989 Renovado</category>
     <desc lang="pt">Bill Carlton e seu guru, John Burgess, reformam um Bronco II 1989 rebaixado e barulhento. A equipe constrói um chassi personalizado para uma picape Ford 1949 com suspensão traseira independente.</desc>
   </programme>
-  <programme start="20260802051000 -0300" stop="20260802060000 -0300" channel="Discovery Turbo.br">
+  <programme start="20260802051500 -0300" stop="20260802060000 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Mexicânicos e Outros Mecânicos</title>
     <category lang="pt">Auto</category>
     <desc lang="pt">Chelín e Pikin encomendaram um painel Chevrolet 1951 para transformá-lo em um camarim móvel; um cliente quer restaurar seu Corvette Stingray 1977; Effi leva Fernanda para uma escapada a Los Angeles para comemorar o aniversário de casamento.</desc>
@@ -12181,7 +12181,7 @@
   <programme start="20260801091200 -0300" stop="20260801093600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
+    <desc lang="pt">Confira o trabalho de artistas especializados na fotografia de alimentos, como a premiada fotógrafa Melanie Dunea; conheça os bastidores de uma sessão de fotos com Brian Preston-Campbell e Tom Schierlitz.</desc>
   </programme>
   <programme start="20260801093600 -0300" stop="20260801100000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12201,7 +12201,7 @@
   <programme start="20260801104800 -0300" stop="20260801111200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
+    <desc lang="pt">Confira o trabalho de artistas especializados na fotografia de alimentos, como a premiada fotógrafa Melanie Dunea; conheça os bastidores de uma sessão de fotos com Brian Preston-Campbell e Tom Schierlitz.</desc>
   </programme>
   <programme start="20260801111200 -0300" stop="20260801113600 -0300" channel="Discovery World.br">
     <title lang="pt">Paraísos pelo Mundo - Praias</title>
@@ -12226,7 +12226,7 @@
   <programme start="20260801131200 -0300" stop="20260801133600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Andrea e Tina têm a chance de testar três hotéis completamente diferentes em São Francisco: o Embarcadero, no centro da cidade, o luxuoso Sausalito e o simpático The Mission Hotel.</desc>
+    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
   </programme>
   <programme start="20260801133600 -0300" stop="20260801140000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12271,7 +12271,7 @@
   <programme start="20260801164800 -0300" stop="20260801171200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
+    <desc lang="pt">Confira o trabalho de artistas especializados na fotografia de alimentos, como a premiada fotógrafa Melanie Dunea; conheça os bastidores de uma sessão de fotos com Brian Preston-Campbell e Tom Schierlitz.</desc>
   </programme>
   <programme start="20260801171200 -0300" stop="20260801173600 -0300" channel="Discovery World.br">
     <title lang="pt">Minha Casa nas Montanhas</title>
@@ -12286,12 +12286,12 @@
   <programme start="20260801180000 -0300" stop="20260801182400 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Andrea e Tina têm a chance de testar três hotéis completamente diferentes em São Francisco: o Embarcadero, no centro da cidade, o luxuoso Sausalito e o simpático The Mission Hotel.</desc>
+    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
   </programme>
   <programme start="20260801182400 -0300" stop="20260801184800 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
+    <desc lang="pt">Confira o trabalho de artistas especializados na fotografia de alimentos, como a premiada fotógrafa Melanie Dunea; conheça os bastidores de uma sessão de fotos com Brian Preston-Campbell e Tom Schierlitz.</desc>
   </programme>
   <programme start="20260801184800 -0300" stop="20260801191200 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
@@ -12306,7 +12306,7 @@
   <programme start="20260801193600 -0300" stop="20260801200000 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Andrea e Tina têm a chance de testar três hotéis completamente diferentes em São Francisco: o Embarcadero, no centro da cidade, o luxuoso Sausalito e o simpático The Mission Hotel.</desc>
+    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
   </programme>
   <programme start="20260801200000 -0300" stop="20260801202400 -0300" channel="Discovery World.br">
     <title lang="pt">Você Renova</title>
@@ -12361,7 +12361,7 @@
   <programme start="20260802011200 -0300" stop="20260802013600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Andrea e Tina têm a chance de testar três hotéis completamente diferentes em São Francisco: o Embarcadero, no centro da cidade, o luxuoso Sausalito e o simpático The Mission Hotel.</desc>
+    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
   </programme>
   <programme start="20260802013600 -0300" stop="20260802020000 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12396,7 +12396,7 @@
   <programme start="20260802051200 -0300" stop="20260802053600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
+    <desc lang="pt">Confira o trabalho de artistas especializados na fotografia de alimentos, como a premiada fotógrafa Melanie Dunea; conheça os bastidores de uma sessão de fotos com Brian Preston-Campbell e Tom Schierlitz.</desc>
   </programme>
   <programme start="20260802053600 -0300" stop="20260802060000 -0300" channel="Discovery World.br">
     <title lang="pt">Buying Hawaii</title>
@@ -15920,27 +15920,27 @@
   <programme start="20260802234600 -0300" stop="20260802235700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Gordon causa um apagão e o time vai precisar garantir que a Estação Espacial esteja segura à noite; eles acabam tropeçando nas coisas e em um misterioso invasor chamado Fizz.</desc>
+    <desc lang="pt">Alienígenas nadadores tomam conta do lago detrás da casa e parecem estar crescendo e multiplicando-se. Os Agentes PURST precisam dar um jeito de espantá-los.</desc>
   </programme>
   <programme start="20260802235700 -0300" stop="20260803000900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Gordon causa um apagão e o time vai precisar garantir que a Estação Espacial esteja segura à noite; eles acabam tropeçando nas coisas e em um misterioso invasor chamado Fizz.</desc>
+    <desc lang="pt">Alienígenas nadadores tomam conta do lago detrás da casa e parecem estar crescendo e multiplicando-se. Os Agentes PURST precisam dar um jeito de espantá-los.</desc>
   </programme>
   <programme start="20260803000900 -0300" stop="20260803002100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Gordon causa um apagão e o time vai precisar garantir que a Estação Espacial esteja segura à noite; eles acabam tropeçando nas coisas e em um misterioso invasor chamado Fizz.</desc>
+    <desc lang="pt">Alienígenas nadadores tomam conta do lago detrás da casa e parecem estar crescendo e multiplicando-se. Os Agentes PURST precisam dar um jeito de espantá-los.</desc>
   </programme>
   <programme start="20260803002100 -0300" stop="20260803003300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dog e Pony viram guardas juniores por um dia e acabam envolvendo a Unicidade em uma grande confusão.</desc>
+    <desc lang="pt">Unicidade fica em silêncio durante uma visita do irmão empreendedor de Pony, Phillip.</desc>
   </programme>
   <programme start="20260803003300 -0300" stop="20260803004500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dog e Pony viram guardas juniores por um dia e acabam envolvendo a Unicidade em uma grande confusão.</desc>
+    <desc lang="pt">Unicidade fica em silêncio durante uma visita do irmão empreendedor de Pony, Phillip.</desc>
   </programme>
   <programme start="20260803004500 -0300" stop="20260803010700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">100% Lobo - O Livro de Hath</title>
@@ -16025,12 +16025,12 @@
   <programme start="20260803035500 -0300" stop="20260803040600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Ansiosa para conseguir novos membros para o Clube de Robótica, Shani cria uma mascote robô dançante para o Dia dos Clubes, que leva ao desastre quando a programação de seu robô fica sobrecarregada.</desc>
+    <desc lang="pt">Polly quer impressionar Jake, então ela convida a elefanta celebridade para a grande festa de Littleton. Quando a elefanta desaparece depois que Polly a deixa pequenininha, eles precisam encontrá-la.</desc>
   </programme>
   <programme start="20260803040600 -0300" stop="20260803041700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Ansiosa para conseguir novos membros para o Clube de Robótica, Shani cria uma mascote robô dançante para o Dia dos Clubes, que leva ao desastre quando a programação de seu robô fica sobrecarregada.</desc>
+    <desc lang="pt">Polly quer impressionar Jake, então ela convida a elefanta celebridade para a grande festa de Littleton. Quando a elefanta desaparece depois que Polly a deixa pequenininha, eles precisam encontrá-la.</desc>
   </programme>
   <programme start="20260803041700 -0300" stop="20260803042800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
@@ -16060,17 +16060,17 @@
   <programme start="20260803052400 -0300" stop="20260803053600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Gordon causa um apagão e o time vai precisar garantir que a Estação Espacial esteja segura à noite; eles acabam tropeçando nas coisas e em um misterioso invasor chamado Fizz.</desc>
+    <desc lang="pt">Alienígenas nadadores tomam conta do lago detrás da casa e parecem estar crescendo e multiplicando-se. Os Agentes PURST precisam dar um jeito de espantá-los.</desc>
   </programme>
   <programme start="20260803053600 -0300" stop="20260803054800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Gordon causa um apagão e o time vai precisar garantir que a Estação Espacial esteja segura à noite; eles acabam tropeçando nas coisas e em um misterioso invasor chamado Fizz.</desc>
+    <desc lang="pt">Alienígenas nadadores tomam conta do lago detrás da casa e parecem estar crescendo e multiplicando-se. Os Agentes PURST precisam dar um jeito de espantá-los.</desc>
   </programme>
   <programme start="20260803054800 -0300" stop="20260803064800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Gordon causa um apagão e o time vai precisar garantir que a Estação Espacial esteja segura à noite; eles acabam tropeçando nas coisas e em um misterioso invasor chamado Fizz.</desc>
+    <desc lang="pt">Alienígenas nadadores tomam conta do lago detrás da casa e parecem estar crescendo e multiplicando-se. Os Agentes PURST precisam dar um jeito de espantá-los.</desc>
   </programme>
   <programme start="20260801053800 -0300" stop="20260801060200 -0300" channel="Gloob HD.br">
     <title lang="pt">Bugados</title>
@@ -17147,12 +17147,12 @@
   <programme start="20260801083100 -0300" stop="20260801084900 -0300" channel="Cartoonito.br">
     <title lang="pt">Blippi</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Blippi explica e explora coisas interessantes como caminhões de bombeiros, zoológicos, animais, caminhões de lixo, espaço e tratores enquanto ensina as crianças sobre números, cores, formas, palavras e muito mais.</desc>
+    <desc lang="pt">Em um animado passeio de outono, Blippi conhece uma plantação de abóboras e aprende sobre as direções com um labirinto num milharal.</desc>
   </programme>
   <programme start="20260801084900 -0300" stop="20260801090600 -0300" channel="Cartoonito.br">
     <title lang="pt">Blippi</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Blippi explica e explora coisas interessantes como caminhões de bombeiros, zoológicos, animais, caminhões de lixo, espaço e tratores enquanto ensina as crianças sobre números, cores, formas, palavras e muito mais.</desc>
+    <desc lang="pt">Em um animado passeio de outono, Blippi conhece uma plantação de abóboras e aprende sobre as direções com um labirinto num milharal.</desc>
   </programme>
   <programme start="20260801090600 -0300" stop="20260801091300 -0300" channel="Cartoonito.br">
     <title lang="pt">Lucas, a Aranha</title>
@@ -17692,12 +17692,12 @@
   <programme start="20260802010000 -0300" stop="20260802011600 -0300" channel="Cartoonito.br">
     <title lang="pt">Blippi</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Blippi explica e explora coisas interessantes como caminhões de bombeiros, zoológicos, animais, caminhões de lixo, espaço e tratores enquanto ensina as crianças sobre números, cores, formas, palavras e muito mais.</desc>
+    <desc lang="pt">Em um animado passeio de outono, Blippi conhece uma plantação de abóboras e aprende sobre as direções com um labirinto num milharal.</desc>
   </programme>
   <programme start="20260802011600 -0300" stop="20260802013100 -0300" channel="Cartoonito.br">
     <title lang="pt">Blippi</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Blippi explica e explora coisas interessantes como caminhões de bombeiros, zoológicos, animais, caminhões de lixo, espaço e tratores enquanto ensina as crianças sobre números, cores, formas, palavras e muito mais.</desc>
+    <desc lang="pt">Em um animado passeio de outono, Blippi conhece uma plantação de abóboras e aprende sobre as direções com um labirinto num milharal.</desc>
   </programme>
   <programme start="20260802013100 -0300" stop="20260802013400 -0300" channel="Cartoonito.br">
     <title lang="pt">Maravilhas do Blippi - Desenhos Animados Educativos para Crianças</title>
@@ -22840,12 +22840,12 @@
   <programme start="20260803043500 -0300" stop="20260803052000 -0300" channel="A&amp;E HD.br">
     <title lang="pt">Acumuladores Compulsivos</title>
     <category lang="pt">Reality</category>
-    <desc lang="pt">Para fazer parte da vida de sua neta ainda não nascida, Cobra deve limpar sua casa e transformar sua propriedade em um ambiente mais seguro.</desc>
+    <desc lang="pt">Forrest cresceu nos projetos e contava ao filho histórias sobre um par de sapatos que ele não podia comprar quando era mais jovem. Ele enfrenta extrema pressão financeira devido às multas diárias da Associação de Proprietários de Casas.</desc>
   </programme>
   <programme start="20260803052000 -0300" stop="20260803062000 -0300" channel="A&amp;E HD.br">
     <title lang="pt">Acumuladores Compulsivos</title>
     <category lang="pt">Reality</category>
-    <desc lang="pt">Para fazer parte da vida de sua neta ainda não nascida, Cobra deve limpar sua casa e transformar sua propriedade em um ambiente mais seguro.</desc>
+    <desc lang="pt">Forrest cresceu nos projetos e contava ao filho histórias sobre um par de sapatos que ele não podia comprar quando era mais jovem. Ele enfrenta extrema pressão financeira devido às multas diárias da Associação de Proprietários de Casas.</desc>
   </programme>
   <programme start="20260801060000 -0300" stop="20260801065700 -0300" channel="Investigação Discovery HD.br">
     <title lang="pt">Hillsong - O Escândalo por Trás da Megaigreja</title>
@@ -23561,17 +23561,17 @@
     <category lang="pt">Temporada 4 Episódio 18 - O Caçador de Recompensas do Deserto!</category>
     <desc lang="pt">Naruto, Hinata e Kiba têm a missão de encontrar um ladrão. Durante a busca, conhecem um caçador de recompensas que também quer aprisioná-lo. O que eles não sabem é que o caçador de recompensas também é um criminoso procurado.</desc>
   </programme>
-  <programme start="20260801071100 -0300" stop="20260801073600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801071100 -0300" stop="20260801073500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Spy x Family</title>
     <category lang="pt">Temporada 1 Episódio 8 - A Operação da Polícia Secreta</category>
     <desc lang="pt">O irmão de Yor trabalha secretamente para a Agência de Segurança Nacional, uma organização que caça espiões e monitora cidadãos. Um dia, ele visita os Forgers.</desc>
   </programme>
-  <programme start="20260801073600 -0300" stop="20260801080000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801073500 -0300" stop="20260801075900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Haikyu!! To the Top</title>
     <category lang="pt">Temporada 4 Episódio 10 - Linha de Frente</category>
     <desc lang="pt">Após a cerimônia de abertura, Hinata sente falta de seus tênis. Shimizu o ajuda, relembrando momentos memoráveis com a equipe.</desc>
   </programme>
-  <programme start="20260801080000 -0300" stop="20260801082500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801075900 -0300" stop="20260801082500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Blue Lock</title>
     <category lang="pt">Temporada 2 Episódio 3 - O Mundo do Sentimento</category>
     <desc lang="pt">Isagi busca evoluir e aprende a agir por reflexo para superar suas limitações.</desc>
@@ -23581,12 +23581,12 @@
     <category lang="pt">Temporada 1 Episódio 29 - O Estranho Segredo de Bruce Wayne</category>
     <desc lang="pt">Hugo Strange cria uma máquina capaz de ler pensamentos e consegue descobrir que Bruce é o Batman.</desc>
   </programme>
-  <programme start="20260801084700 -0300" stop="20260801091000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801084700 -0300" stop="20260801090900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 1 Episódio 30 - Tigre, Tigre</category>
     <desc lang="pt">Selina Kyle é sequestrada pelo Dr. Emile Dorian em sua última tentativa de fornecer um par para Tygrus, seu híbrido homem-gato. Batman vai em seu socorro, mas acaba capturado e forçado a entrar em um jogo de gato e rato com Tygrus.</desc>
   </programme>
-  <programme start="20260801091000 -0300" stop="20260801093300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801090900 -0300" stop="20260801093300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 2 Episódio 7 - Profundezas</category>
     <desc lang="pt">Artemis retorna à equipe para ajudar a supervisionar o lançamento de um satélite de comunicações, um evento que Arraia Negra mandou Aqualad sabotar.</desc>
@@ -23611,12 +23611,12 @@
     <category lang="pt">Temporada 1 Episódio 76 - O Cosmo de Thor Está Cheio de Ódio</category>
     <desc lang="pt">Seiya e seus amigos vão ao Palácio Valhalla para libertar Hilda do controle maligno do Anel de Nibelungo, mas o Guerreiro Deus Thor aparece em seu caminho.</desc>
   </programme>
-  <programme start="20260801111100 -0300" stop="20260801113500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801111100 -0300" stop="20260801113600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Frieren e a Jornada para o Além</title>
     <category lang="pt">Temporada 1 Episódio 13 - Aversão à Própria Espécie</category>
     <desc lang="pt">O padre de um vilarejo pede a Frieren que leve em suas viagens o irmão mais novo dele, um curandeiro talentoso, mas desinteressado.</desc>
   </programme>
-  <programme start="20260801113500 -0300" stop="20260801115900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801113600 -0300" stop="20260801115900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">The Apothecary Diaries</title>
     <category lang="pt">Temporada 1 Episódio 21 - How to Buy Out a Contract</category>
     <desc lang="pt">Lihaku ouve rumores sobre Pairin ser comprada e pede ajuda à Maomao.</desc>
@@ -23626,12 +23626,12 @@
     <category lang="pt">Temporada 4 Episódio 69 - The Unleashing</category>
     <desc lang="pt">A tristeza e a raiva pela morte do Androide 16 catapultam Gohan para um nível nunca antes visto de Super Saiyan; em sua nova forma, Gohan aniquila os Cell Juniors, pega de volta os feijões Senzu e enfrenta Cell.</desc>
   </programme>
-  <programme start="20260801122500 -0300" stop="20260801124900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801122500 -0300" stop="20260801125000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 4 Episódio 70 - The Unstoppable Gohan</category>
     <desc lang="pt">Gohan volta todo o seu poder para Cell, que usa sua força reserva para se defender.</desc>
   </programme>
-  <programme start="20260801124900 -0300" stop="20260801140800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801125000 -0300" stop="20260801140800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justice League Dark</title>
     <desc lang="pt">A Liga da Justiça encontra uma força sobrenatural contra a qual seus poderes parecem ser inúteis, e Batman reúne uma nova equipe formada por heróis míticos como o Monstro do Pântano, o Demônio e Constantine.</desc>
   </programme>
@@ -23650,12 +23650,12 @@
     <category lang="pt">Temporada 3 Episódio 10 - O Mortyencontro Rickchuriano</category>
     <desc lang="pt">Rick e Morty são convocados pelo presidente dos EUA para matar um alienígena perverso nos túneis secretos debaixo da Casa Branca; Beth começa a suspeitar de que possa ser um clone.</desc>
   </programme>
-  <programme start="20260801145800 -0300" stop="20260801152000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801145800 -0300" stop="20260801152100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Common Side Effects</title>
     <category lang="pt">Temporada 1 Episódio 10 - A Batida</category>
     <desc lang="pt">O FBI e o Órgão de Repressão às Drogas fazem uma batida no local, resultando em péssimas consequências. O destino do cogumelo é decidido.</desc>
   </programme>
-  <programme start="20260801152000 -0300" stop="20260801154400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801152100 -0300" stop="20260801154400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Common Side Effects</title>
     <category lang="pt">Temporada 1 Episódio 1 - Pilot</category>
     <desc lang="pt">Marshall Cuso aparece em Nova York com um cogumelo que pode curar qualquer doença ou ferimento; sua antiga colega de classe, Frances, o conhece por acaso, mas mantém segredo de que trabalha para a Reutical, uma empresa farmacêutica.</desc>
@@ -23699,12 +23699,12 @@
     <category lang="pt">Action</category>
     <desc lang="pt">Summer tem um novo namorado; Jerry recebe más notícias; Gotron voltou.</desc>
   </programme>
-  <programme start="20260801193700 -0300" stop="20260801200000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801193700 -0300" stop="20260801195900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 3 Episódio 9 - O ABC da Beth</category>
     <desc lang="pt">Beth relembra sua infância quando Rick a leva para um mundo chamado Froopy Land; Jerry finalmente encontra uma nova mulher, mas Morty e Summer ficam atentos à sua nova namorada, que é alienígena.</desc>
   </programme>
-  <programme start="20260801200000 -0300" stop="20260801202500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801195900 -0300" stop="20260801202500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 3 Episódio 10 - O Mortyencontro Rickchuriano</category>
     <desc lang="pt">Rick e Morty são convocados pelo presidente dos EUA para matar um alienígena perverso nos túneis secretos debaixo da Casa Branca; Beth começa a suspeitar de que possa ser um clone.</desc>
@@ -23719,132 +23719,132 @@
     <category lang="pt">Temporada 1 Episódio 2</category>
     <desc lang="pt">Jonathan e Samantha fazem de tudo para tentar salvar o mundo da própria salvação.</desc>
   </programme>
-  <programme start="20260801205800 -0300" stop="20260801211600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801205800 -0300" stop="20260801211700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
     <category lang="pt">Temporada 1 Episódio 4</category>
     <desc lang="pt">Os R-Men tentam descobrir se alguém é um novo herói ou apenas uma pessoa com uma terrível ressaca.</desc>
   </programme>
-  <programme start="20260801211600 -0300" stop="20260801213000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801211700 -0300" stop="20260801213100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 2 Episódio 4 - O Chefe Encontra o Amor?</category>
     <desc lang="pt">Este é o episódio mais assustador de qualquer desenho animado já criado.</desc>
   </programme>
-  <programme start="20260801213000 -0300" stop="20260801214300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801213100 -0300" stop="20260801214500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Robot Chicken</title>
     <category lang="pt">Temporada 11 Episódio 1 - May Cause a Whole Lotta Scabs</category>
     <desc lang="pt">Frango Robô leva Riley de &quot;Divertida Mente&quot; mais para dentro e ainda mais para fora; o Caveira Vermelha luta contra seu derradeiro nêmesis; Rey recebe mais do que o esperado na casa de Skywalker.</desc>
   </programme>
-  <programme start="20260801214300 -0300" stop="20260801220800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801214500 -0300" stop="20260801220900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Harley Quinn</title>
     <category lang="pt">Temporada 1 Episódio 9 - A Seat at the Table</category>
     <desc lang="pt">Ao tornar-se a nova integrante da Legião do Mal, Arlequina passa mais tempo com Coringa. Porém, agora que são iguais, Harley arrisca retomar sua antiga relação tóxica com ele.</desc>
   </programme>
-  <programme start="20260801220800 -0300" stop="20260801223000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801220900 -0300" stop="20260801223000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 5 Episódio 13 - Amor Crocodilo</category>
     <desc lang="pt">Simpatizando com Crocodilo após vê-lo na TV sendo condenado por um crime, Baby Doll o liberta e sai em uma onda de crimes com ele antes de começar a questionar sua confiabilidade e seu próprio julgamento.</desc>
   </programme>
-  <programme start="20260801223000 -0300" stop="20260801225400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801223000 -0300" stop="20260801225500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Bravest Warriors</title>
     <category lang="pt">Adventure</category>
     <desc lang="pt">Os Bravos Guerreiros descobrem que o Gatomia estava furtando em lojas durante suas aventuras interplanetárias. Chris assume a responsabilidade de ensiná-lo o que é certo e errado.</desc>
   </programme>
-  <programme start="20260801225400 -0300" stop="20260801231800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801225500 -0300" stop="20260801232000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 1 - As Lendas de uma Nova Era</category>
     <desc lang="pt">Após treinar por anos no Santuário da Grécia, Seiya enfrenta um adversário poderoso para ter a Armadura de Pégaso, a marca de um Cavaleiro da deusa Atena.</desc>
   </programme>
-  <programme start="20260801231800 -0300" stop="20260801234400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801232000 -0300" stop="20260801234600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Lazarus</title>
     <category lang="pt">Action</category>
     <desc lang="pt">No ano utópico de 2052, o Dr. Skinner descobre uma droga milagrosa chamada Hapna. Mas, três anos depois, ele anuncia que todos os que a tomaram irão morrer. Um grupo conhecido como Lazarus tem a tarefa de encontrar Skinner e criar uma vacina.</desc>
   </programme>
-  <programme start="20260801234400 -0300" stop="20260802001000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260801234600 -0300" stop="20260802001100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Jujutsu Kaisen</title>
     <category lang="pt">Temporada 1 Episódio 20 - Fora do Padrão</category>
     <desc lang="pt">Depois de analisar o leque de habilidades de Hanami com seu intelecto, Todou usa uma técnica desorientadora para atacá-lo em conjunto com Yuji.</desc>
   </programme>
-  <programme start="20260802001000 -0300" stop="20260802003500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802001100 -0300" stop="20260802003600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">JoJo's Bizarre Adventure: Stardust Crusaders</title>
     <category lang="pt">Temporada 2 Episódio 10 - O Imperador e o Enforcado</category>
     <desc lang="pt">Polnareff parte sozinho para vingar a irmã depois de ser atacado por um estranho Stand que só pode ser visto no reflexo de um espelho.</desc>
   </programme>
-  <programme start="20260802003500 -0300" stop="20260802010000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802003600 -0300" stop="20260802010100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">JoJo's Bizarre Adventure: Stardust Crusaders</title>
     <category lang="pt">Temporada 2 Episódio 11 - O Imperador e o Enforcado</category>
     <desc lang="pt">Kakyoin tenta convencer Polnareff a fugir quando descobre que o aliado está enfrentando uma batalha perdida contra o Stand inimigo.</desc>
   </programme>
-  <programme start="20260802010000 -0300" stop="20260802012300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802010100 -0300" stop="20260802012400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rooster Fighter</title>
     <category lang="pt">Temporada 1 Episódio 9 - Gone To The Birds</category>
     <desc lang="pt">Demônios e diabos espreitam para atacar Keiji e seus amigos.</desc>
   </programme>
-  <programme start="20260802012300 -0300" stop="20260802014900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802012400 -0300" stop="20260802015000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 27 - Explode a Fúria de Gohan!</category>
     <desc lang="pt">Piccolo tenta explorar o ponto fraco de Nappa; os lutadores sentem a iminente chegada de Goku.</desc>
   </programme>
-  <programme start="20260802014900 -0300" stop="20260802021300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802015000 -0300" stop="20260802021400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 28 - O Ataque dos Sayajins! Kami-Sama e Piccolo Morrem</category>
     <desc lang="pt">Piccolo morre e, com isso, Kami-Sama também; as esferas do dragão deixam de existir.</desc>
   </programme>
-  <programme start="20260802021300 -0300" stop="20260802023700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802021400 -0300" stop="20260802023900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 29 - Papai, Você É Incrível! Uma Técnica Mortal Chamada Kaio-ken</category>
     <desc lang="pt">Son Goku aplica vários golpes em Nappa vingando seus amigos Yamcha, Tenshinhan e Piccolo; Nappa resolve aplicar sobre Son Goku sua técnica mais poderosa.</desc>
   </programme>
-  <programme start="20260802023700 -0300" stop="20260802025900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802023900 -0300" stop="20260802030100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Common Side Effects</title>
     <category lang="pt">Temporada 1 Episódio 5 - Star-Tel-Lite</category>
     <desc lang="pt">Marshall, Frances e seus vizinhos malucos lidam com as consequências de um incidente perigoso.</desc>
   </programme>
-  <programme start="20260802025900 -0300" stop="20260802031000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802030100 -0300" stop="20260802031200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Robot Chicken</title>
     <category lang="pt">Temporada 10 Episódio 1 - Ginger Hill in: Bursting Pipes</category>
     <desc lang="pt">Os roteiristas de &quot;Frango Robô&quot; revelam o que pode vencer as Tartarugas Ninja; Popeye e a equipe se preparam para se adaptar ao público moderno; Bitch Pudding assume o papel de uma empregada.</desc>
   </programme>
-  <programme start="20260802031000 -0300" stop="20260802032100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802031200 -0300" stop="20260802032400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 2 Episódio 1 - Gwimbly</category>
     <desc lang="pt">A gangue clássica ajuda um perdedor que encontraram nas ruas. Allan borrifa ele com a mangueira.</desc>
   </programme>
-  <programme start="20260802032100 -0300" stop="20260802033200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802032400 -0300" stop="20260802033500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 2 Episódio 3 - A Aventura do Allan</category>
     <desc lang="pt">Allan recebe a tarefa de encontrar mais clips para papel para o escritório.</desc>
   </programme>
-  <programme start="20260802033200 -0300" stop="20260802035800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802033500 -0300" stop="20260802035900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Clone High</title>
     <category lang="pt">Temporada 2 Episódio 7 - Graves Erros: Os Homicídios de Virgens</category>
     <desc lang="pt">Encarregados de criar um lote novo de clones, Scudworth e Sr. B percebem que podem não ser mais tão bons exumadores; Joana tenta impedir um encontro ilícito no cemitério antes que Lincoln perca tudo? menos a virgindade.</desc>
   </programme>
-  <programme start="20260802035800 -0300" stop="20260802042100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802035900 -0300" stop="20260802042200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Genndy Tartakovsky's Primal</title>
     <category lang="pt">Temporada 1 Episódio 3 - Uma Morte Fria</category>
     <desc lang="pt">No inverno primordial, um bando de mamutes sai à caça do assassino de um dos animais do grupo.</desc>
   </programme>
-  <programme start="20260802042100 -0300" stop="20260802044400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802042200 -0300" stop="20260802044500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Samurai Jack</title>
     <category lang="pt">Temporada 3 Episódio 12 - XXXVIII</category>
     <desc lang="pt">Os deuses antigos tentam destruir um mal poderoso e enviam uma parte da besta, que se precipita pelo espaço. Quando ela aterrissa na Terra, acaba espalhando seu mal por todos os lugares.</desc>
   </programme>
-  <programme start="20260802044400 -0300" stop="20260802045500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802044500 -0300" stop="20260802045600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Mike Tyson Mysteries</title>
     <category lang="pt">Temporada 2 Episódio 4 - Ontem à Noite em Charlie Rose</category>
     <desc lang="pt">Um convidado desaparece do estúdio de um talk show e Mike e sua equipe partem para Nova York.</desc>
   </programme>
-  <programme start="20260802045500 -0300" stop="20260802050600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802045600 -0300" stop="20260802050800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Mike Tyson Mysteries</title>
     <category lang="pt">Temporada 3 Episódio 1 - Ajude um Irmão</category>
     <desc lang="pt">Para evitar Deezy, Mike é forçado a recorrer a seu irmão nerd famoso e distante.</desc>
   </programme>
-  <programme start="20260802050600 -0300" stop="20260802051800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802050800 -0300" stop="20260802051900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Space Ghost de Costa a Costa</title>
     <category lang="pt">Temporada 4 Episódio 4 - Anniversary</category>
     <desc lang="pt">Space Ghost faz um especial que mostra o sucesso que é a saga Space Ghost.</desc>
   </programme>
-  <programme start="20260802051800 -0300" stop="20260802053000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260802051900 -0300" stop="20260802053000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Space Ghost de Costa a Costa</title>
     <category lang="pt">Temporada 4 Episódio 6 - Pilot</category>
     <desc lang="pt">Lokar apresenta o episódio piloto do programa original, &quot;Birdman de Costa a Costa&quot;, estrelando Birdman, antes de Space Ghost tornar-se apresentador oficial.</desc>
@@ -24979,7 +24979,7 @@
   <programme start="20260801084500 -0300" stop="20260801085000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
+    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
   </programme>
   <programme start="20260801085000 -0300" stop="20260801100000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Memória Cubana</title>
@@ -24993,7 +24993,7 @@
   <programme start="20260801120800 -0300" stop="20260801121500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
+    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
   </programme>
   <programme start="20260801121500 -0300" stop="20260801133000 -0300" channel="Canal Brasil.br">
     <title lang="pt">DOPS - Uma Arqueologia da Violência</title>
@@ -25018,7 +25018,7 @@
   <programme start="20260801145800 -0300" stop="20260801150000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
+    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
   </programme>
   <programme start="20260801150000 -0300" stop="20260801165300 -0300" channel="Canal Brasil.br">
     <title lang="pt">São Paulo, Sociedade Anônima</title>
@@ -25027,7 +25027,7 @@
   <programme start="20260801165300 -0300" stop="20260801170000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
+    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
   </programme>
   <programme start="20260801170000 -0300" stop="20260801175200 -0300" channel="Canal Brasil.br">
     <title lang="pt">Primavera nos Dentes - A História dos Secos &amp; Molhados</title>
@@ -25071,7 +25071,7 @@
   <programme start="20260802025600 -0300" stop="20260802030000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
+    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
   </programme>
   <programme start="20260802030000 -0300" stop="20260802043000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Era uma Vez Eu, Verônica</title>
@@ -25382,110 +25382,125 @@
     <category lang="pt">Talk</category>
     <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
-  <programme start="20260802060000 -0300" stop="20260802083000 -0300" channel="TNT.br">
-    <title lang="pt">Hollywood One on One</title>
-    <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+  <programme start="20260802060000 -0300" stop="20260802060300 -0300" channel="TNT.br">
+    <title lang="pt">TNT Buzz</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Interview style program, reporting on world news and entertainment.</desc>
   </programme>
-  <programme start="20260802083000 -0300" stop="20260802085500 -0300" channel="TNT.br">
-    <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <category lang="pt">Sitcom</category>
-    <desc lang="pt">Acompanhe o dia a dia de Chris, um adolescente crescendo no Brooklyn dos anos 1980, ao lado de sua excêntrica família, composta pelo pai, Julius, sua mãe, Rochelle, sua irmã mimada, Tonya, e seu irmão Drew, que é bastante popular.</desc>
+  <programme start="20260802060300 -0300" stop="20260802060400 -0300" channel="TNT.br">
+    <title lang="pt">TNT Buzz</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Interview style program, reporting on world news and entertainment.</desc>
   </programme>
-  <programme start="20260802085500 -0300" stop="20260802092000 -0300" channel="TNT.br">
+  <programme start="20260802060400 -0300" stop="20260802073600 -0300" channel="TNT.br">
     <title lang="pt">Como Treinar o Seu Dragão</title>
     <category lang="pt">Children / 2010</category>
     <desc lang="pt">Soluço é um jovem viking que não tem capacidade para lutar contra os dragões, como é a tradição local. Sua vida muda quando ele ajuda um dragão que lhe mostra toda a verdade. Juntos, eles tentam provar que dragões e humanos podem ser amigos.</desc>
   </programme>
-  <programme start="20260802092000 -0300" stop="20260802094500 -0300" channel="TNT.br">
+  <programme start="20260802073600 -0300" stop="20260802091700 -0300" channel="TNT.br">
     <title lang="pt">Como Treinar o Seu Dragão 2</title>
     <category lang="pt">Children / 2014</category>
     <desc lang="pt">Cinco anos se passaram desde que Soluço estabeleceu a paz com os dragões e vive em harmonia, na Ilha de Berk, com Banguela. Eles voam, apostam corridas e se divertem muito. Em uma destas aventuras, descobrem uma caverna secreta cheia de dragões. Agora, a dupla luta para proteger Berk de um guerreiro perigoso, chamado Drago Bludvist, que deseja controlar todos os dragões existentes.</desc>
   </programme>
-  <programme start="20260802094500 -0300" stop="20260802103000 -0300" channel="TNT.br">
+  <programme start="20260802091700 -0300" stop="20260802094200 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 15 - Todo Mundo Odeia o Gretzky</category>
     <desc lang="pt">Tentando fazer com que seu irmão mais novo, Drew, fique longe de mais problemas, Chris concorda, relutantemente, em sair da escola e acompanhá-lo em uma missão para encontrar seu ídolo, o grande jogador de hóquei Wayne Gretzky.</desc>
   </programme>
-  <programme start="20260802103000 -0300" stop="20260802105500 -0300" channel="TNT.br">
+  <programme start="20260802094200 -0300" stop="20260802100700 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <category lang="pt">Temporada 3 Episódio 4 - Todo Mundo Odeia o Blackie</category>
-    <desc lang="pt">Julius e Rochelle decidem que seria uma boa ideia ter um cachorro, algo que Chris sempre quis; infelizmente, Julius só está pensando na segurança e não na diversão, por isso, Chris receberá a tarefa de treinar o animal para ser um cão de ataque.</desc>
+    <category lang="pt">Temporada 3 Episódio 16 - Todo Mundo Odeia O Bfd</category>
+    <desc lang="pt">Chris está tão desesperado para juntar dinheiro para ir ao show do Run DMC que aproveita a chance de participar do evento de arrecadação de fundos dos Diretores de Funerais Negros -BFD -, organizado pelo Sr. Omar.</desc>
   </programme>
-  <programme start="20260802105500 -0300" stop="20260802112000 -0300" channel="TNT.br">
+  <programme start="20260802100700 -0300" stop="20260802103100 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 19 - Todo Mundo Odeia Ser Maneiro</category>
     <desc lang="pt">Tentando ser considerado maneiro na escola, Chris é pego com cigarros e é suspenso; tentando se vingar de Julius por ele ter guardado um casaco que foi presente de uma ex-namorada, Rochelle desfila pela vizinhança com uma roupa inadequada.</desc>
   </programme>
-  <programme start="20260802112000 -0300" stop="20260802114500 -0300" channel="TNT.br">
+  <programme start="20260802103100 -0300" stop="20260802105400 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 17 - Todo Mundo Odeia Ex-Presidiário</category>
     <desc lang="pt">Chris tenta ajudar Malvo, um criminoso de carreira que recentemente foi liberto da prisão, dando uma virada na sua vida e levando-o de volta para a escola; Rochelle fica surpresa com os instintos protetores de uma amiga de Tonya.</desc>
   </programme>
-  <programme start="20260802114500 -0300" stop="20260802123000 -0300" channel="TNT.br">
+  <programme start="20260802105400 -0300" stop="20260802111800 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 10 - Todo Mundo Odeia Kwanzaa</category>
     <desc lang="pt">Chris decide que sua boa ação será ajudar Kill Moves a visitar a mãe dele no fim do ano, mas a visita vira um grande desafio porque Kill Moves não sabe como encontrá-la; Julius decide boicotar o Natal em favor do Kwanzaa.</desc>
   </programme>
-  <programme start="20260802123000 -0300" stop="20260802125500 -0300" channel="TNT.br">
+  <programme start="20260802111800 -0300" stop="20260802114100 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 11 - Todo Mundo Odeia a Rodoviária</category>
     <desc lang="pt">Chris e sua família decidem fazer uma viagem ao sul para ir ao velório de um parente distante de Julius, mas, enquanto esperam pelo ônibus, Chris e Julius se envolvem num esquema de apostas e perdem todo o dinheiro que tinham.</desc>
   </programme>
-  <programme start="20260802125500 -0300" stop="20260802132000 -0300" channel="TNT.br">
+  <programme start="20260802114100 -0300" stop="20260802120500 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 18 - Todo Mundo Odeia O Dia Da Terra</category>
     <desc lang="pt">Chris e o pai recolhem latinhas para o projeto escolar do Dia da Terra; Rochelle é convocada à escola para discutir o comportamento inapropriado de Tonya e percebe que essa maçã não caiu longe da árvore.</desc>
   </programme>
-  <programme start="20260802132000 -0300" stop="20260802134500 -0300" channel="TNT.br">
+  <programme start="20260802120500 -0300" stop="20260802122800 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 8 - Todo Mundo Odeia Salário Mínimo</category>
     <desc lang="pt">Doc se recusa a dar um aumento de salário para Chris, que sai à procura de um novo emprego no restaurante chinês da vizinhança; Rochelle e Julius tentam compreender por que Drew está indo mal nas aulas, até conhecerem a nova professora dele.</desc>
   </programme>
-  <programme start="20260802134500 -0300" stop="20260802141000 -0300" channel="TNT.br">
+  <programme start="20260802122800 -0300" stop="20260802125300 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 15 - Todo Mundo Odeia o Gretzky</category>
     <desc lang="pt">Tentando fazer com que seu irmão mais novo, Drew, fique longe de mais problemas, Chris concorda, relutantemente, em sair da escola e acompanhá-lo em uma missão para encontrar seu ídolo, o grande jogador de hóquei Wayne Gretzky.</desc>
   </programme>
-  <programme start="20260802141000 -0300" stop="20260802151000 -0300" channel="TNT.br">
+  <programme start="20260802125300 -0300" stop="20260802131700 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
-    <category lang="pt">Temporada 3 Episódio 4 - Todo Mundo Odeia o Blackie</category>
-    <desc lang="pt">Julius e Rochelle decidem que seria uma boa ideia ter um cachorro, algo que Chris sempre quis; infelizmente, Julius só está pensando na segurança e não na diversão, por isso, Chris receberá a tarefa de treinar o animal para ser um cão de ataque.</desc>
+    <category lang="pt">Temporada 3 Episódio 16 - Todo Mundo Odeia O Bfd</category>
+    <desc lang="pt">Chris está tão desesperado para juntar dinheiro para ir ao show do Run DMC que aproveita a chance de participar do evento de arrecadação de fundos dos Diretores de Funerais Negros -BFD -, organizado pelo Sr. Omar.</desc>
   </programme>
-  <programme start="20260802151000 -0300" stop="20260802161000 -0300" channel="TNT.br">
+  <programme start="20260802131700 -0300" stop="20260802134100 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 19 - Todo Mundo Odeia Ser Maneiro</category>
     <desc lang="pt">Tentando ser considerado maneiro na escola, Chris é pego com cigarros e é suspenso; tentando se vingar de Julius por ele ter guardado um casaco que foi presente de uma ex-namorada, Rochelle desfila pela vizinhança com uma roupa inadequada.</desc>
   </programme>
-  <programme start="20260802161000 -0300" stop="20260802171000 -0300" channel="TNT.br">
+  <programme start="20260802134100 -0300" stop="20260802140500 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris</title>
     <category lang="pt">Temporada 3 Episódio 17 - Todo Mundo Odeia Ex-Presidiário</category>
     <desc lang="pt">Chris tenta ajudar Malvo, um criminoso de carreira que recentemente foi liberto da prisão, dando uma virada na sua vida e levando-o de volta para a escola; Rochelle fica surpresa com os instintos protetores de uma amiga de Tonya.</desc>
   </programme>
-  <programme start="20260802171000 -0300" stop="20260802220000 -0300" channel="TNT.br">
+  <programme start="20260802140500 -0300" stop="20260802161100 -0300" channel="TNT.br">
     <title lang="pt">Warcraft - O Primeiro Encontro de Dois Mundos</title>
     <category lang="pt">Fantasy / 2016</category>
     <desc lang="pt">Em busca de uma nova terra para viver, os guerreiros Orc atravessam um portal e chegam até Azeroth, uma região pacífica que vira um campo de batalha pela sobrevivência de dois povos.</desc>
   </programme>
-  <programme start="20260802220000 -0300" stop="20260802230000 -0300" channel="TNT.br">
+  <programme start="20260802161100 -0300" stop="20260802181100 -0300" channel="TNT.br">
     <title lang="pt">Hellboy II - O Exército Dourado</title>
     <category lang="pt">Action / 2008</category>
     <desc lang="pt">Hellboy, sua namorada Liz e Abe Sapien enfrentam uma grande batalha quando um príncipe do submundo tenta recuperar a Terra. Cansado de viver à sombra dos seres humanos, o Príncipe Nuada tenta despertar um exército de máquinas assassinas para libertar as criaturas de fantasia na Terra. Apenas Hellboy pode deter o príncipe sombrio e impedir a aniquilação da humanidade.</desc>
   </programme>
-  <programme start="20260802230000 -0300" stop="20260803000000 -0300" channel="TNT.br">
+  <programme start="20260802181100 -0300" stop="20260802194900 -0300" channel="TNT.br">
     <title lang="pt">Cada um Tem a Gêmea que Merece</title>
     <category lang="pt">Comedy / 2011</category>
     <desc lang="pt">Jack, um publicitário de sucesso com uma linda família, enlouquece com a visita de sua irmã gêmea Jill no dia de Ação de Graças. As coisas ficam ainda mais fora de controle quando Jill decide ficar mais tempo.</desc>
   </programme>
-  <programme start="20260803000000 -0300" stop="20260803010000 -0300" channel="TNT.br">
+  <programme start="20260802194900 -0300" stop="20260802220000 -0300" channel="TNT.br">
     <title lang="pt">Jurassic World - O Mundo dos Dinossauros</title>
     <category lang="pt">Adventure / 2015</category>
     <desc lang="pt">O Parque dos Dinossauros está aberto para visitação, e o público tem a chance de ver de perto as mais diversas espécies. No entanto, um desses animais, resultado de experiência genética, desenvolve alta inteligência e se torna uma ameaça para todos.</desc>
   </programme>
-  <programme start="20260803010000 -0300" stop="20260803020000 -0300" channel="TNT.br">
+  <programme start="20260802220000 -0300" stop="20260803002100 -0300" channel="TNT.br">
     <title lang="pt">O Protetor</title>
     <category lang="pt">Action / 2014</category>
     <desc lang="pt">O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Ele conhece Alina, uma jovem que está sob poder de uma quadrilha russa, e simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Longe da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido.</desc>
+  </programme>
+  <programme start="20260803002100 -0300" stop="20260803030000 -0300" channel="TNT.br">
+    <title lang="pt">Tróia</title>
+    <category lang="pt">Adventure / 2004</category>
+    <desc lang="pt">Durante uma visita ao rei de Esparta, Menelau, o príncipe troiano Paris se apaixona pela esposa do rei, Helena, e a leva de volta para Troia. O irmão de Menelau, o rei Agamenon, que já havia derrotado todos os exércitos na Grécia, encontra o pretexto que faltava para declarar guerra contra Troia, o único reino que o impede de controlar o Mar Egeu.</desc>
+  </programme>
+  <programme start="20260803030000 -0300" stop="20260803054800 -0300" channel="TNT.br">
+    <title lang="pt">Alexandre</title>
+    <category lang="pt">Historical drama / 2003</category>
+    <desc lang="pt">Conhecido como Alexandre, o Grande, por ter criado um dos maiores impérios de todos os tempos, o rei liderou seus exércitos por mais de 35 mil km de cercos e conquistas em apenas oito anos.</desc>
+  </programme>
+  <programme start="20260803054800 -0300" stop="20260803064800 -0300" channel="TNT.br">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
   <programme start="20260801052500 -0300" stop="20260801070000 -0300" channel="MEGAPIX HD.br">
     <title lang="pt">Scooby-Doo - O Filme</title>
@@ -29219,15 +29234,25 @@
     <category lang="pt">Science</category>
     <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
   </programme>
-  <programme start="20260801000000 -0300" stop="20260801061000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Cine Canal</title>
-    <category lang="pt">Western</category>
-    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
+  <programme start="20260801050000 -0300" stop="20260801061000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Bandas Show</title>
+    <category lang="pt">Music</category>
+    <desc lang="pt">Conheça bons artistas e bandas e confira entrevistas com convidados.</desc>
   </programme>
-  <programme start="20260801061000 -0300" stop="20260801073000 -0300" channel="Canal do Boi.br">
+  <programme start="20260801061000 -0300" stop="20260801063000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260801063000 -0300" stop="20260801070000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Genética BR</title>
     <category lang="pt">Special</category>
     <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260801070000 -0300" stop="20260801073000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
   <programme start="20260801073000 -0300" stop="20260801083000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Conexão Rural Germipasto</title>
@@ -29235,39 +29260,115 @@
     <desc lang="pt">Acompanhe notícias, informações de mercado e oportunidades do setor.</desc>
   </programme>
   <programme start="20260801083000 -0300" stop="20260801090000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">La Región - Agropecuária</title>
+    <title lang="pt">Terralmo Negócios Rurais</title>
     <category lang="pt">Agriculture</category>
-    <desc lang="pt">Direto de Santa Cruz de La Sierra, na Bolívia, o programa traz informações e atualizações sobre o agronegócio da região e de países vizinhos.</desc>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
-  <programme start="20260801090000 -0300" stop="20260801100000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Programa Ruminar</title>
-    <category lang="pt">Shopping</category>
-    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
+  <programme start="20260801090000 -0300" stop="20260801091500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
   </programme>
-  <programme start="20260801100000 -0300" stop="20260801140000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual Qualidade Total</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Oferta de 1.500 animais, leilão promovido pela Central Leilões.</desc>
+  <programme start="20260801091500 -0300" stop="20260801093000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
-  <programme start="20260801140000 -0300" stop="20260801200000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual Central Pantanal Coxim</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Oferta de 1.500 animais, leilão promovido pela Central Leilões.</desc>
-  </programme>
-  <programme start="20260801200000 -0300" stop="20260802000000 -0300" channel="Canal do Boi.br">
+  <programme start="20260801093000 -0300" stop="20260801094500 -0300" channel="Canal do Boi.br">
     <title lang="pt">Genética BR</title>
     <category lang="pt">Special</category>
     <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
   </programme>
-  <programme start="20260802000000 -0300" stop="20260802050000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Cine Canal</title>
-    <category lang="pt">Western</category>
-    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
+  <programme start="20260801094500 -0300" stop="20260801100000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
-  <programme start="20260802050000 -0300" stop="20260802060000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Programa Ruminar</title>
-    <category lang="pt">Shopping</category>
-    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
+  <programme start="20260801100000 -0300" stop="20260801103000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260801103000 -0300" stop="20260801110000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260801110000 -0300" stop="20260801150000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Top Tulipa - Edição Origens</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260801150000 -0300" stop="20260801190000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Top Tulipa - Edição Origens</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260801190000 -0300" stop="20260801200000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilão Top Tulipa - Edição Origens</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260801200000 -0300" stop="20260801203000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260801203000 -0300" stop="20260801210000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260801210000 -0300" stop="20260801213000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260801213000 -0300" stop="20260801220000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260801220000 -0300" stop="20260801223000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260801223000 -0300" stop="20260801230000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260801230000 -0300" stop="20260801233000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260801233000 -0300" stop="20260802000000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260802000000 -0300" stop="20260802021000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">A Felicidade Não se Compra</title>
+    <category lang="pt">Holiday / 1946</category>
+    <desc lang="pt">Clarence é um espírito candidato a anjo que recebe a missão de ajudar um homem muito valoroso, porém desiludido. George Bailey está à beira do suicídio quando é salvo por Clarence, que lhe mostra como ele é importante na vida de muitas pessoas.</desc>
+  </programme>
+  <programme start="20260802021000 -0300" stop="20260802033500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Espero Que Você Morra</title>
+    <category lang="pt">Comedy drama / 2000</category>
+    <desc lang="pt">O corretor de seguros, Mac, fez uma apólice para si no valor de 1 milhão de dólares e é seduzido por Sally, que planeja matá-lo para ficar com o dinheiro. O plano seria perfeito se ela não acabasse se apaixonando de verdade.</desc>
+  </programme>
+  <programme start="20260802033500 -0300" stop="20260802050000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Capitão Scarlett</title>
+    <category lang="pt">Adventure / 1953</category>
+  </programme>
+  <programme start="20260802050000 -0300" stop="20260802053000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260802053000 -0300" stop="20260802060000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
   <programme start="20260802060000 -0300" stop="20260802063000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Caminhos do Brasil</title>
@@ -34047,22 +34148,6 @@
   <programme start="20260801220000 -0300" stop="20260801230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260801160000 -0300" stop="20260801175500 -0300" channel="ESPN 3.br">
-    <title lang="pt">WNBA: New York Liberty x Phoenix Mercury - Ao Vivo</title>
-    <category lang="pt">Esporte/Basquete Feminino</category>
-  </programme>
-  <programme start="20260801175500 -0300" stop="20260801200000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Estudiantes x Defensa y Justicia - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20260801200000 -0300" stop="20260801210000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - Kings World Cup Clubs: Semifinal</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20260801210000 -0300" stop="20260801220000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - Kings World Cup Clubs: Semifinal</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
   <programme start="20260801220000 -0300" stop="20260802000000 -0300" channel="ESPN 3.br">
     <title lang="pt">VT - LBF: Campinas x Sampaio</title>
     <category lang="pt">Esporte/Basquete Feminino</category>
@@ -35111,26 +35196,6 @@
     <title lang="pt">Sportscenter Americano - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20260801143000 -0300" stop="20260801180000 -0300" channel="Combate.br">
-    <title lang="pt">Oktagon 92 - Ao Vivo</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260801180000 -0300" stop="20260801182500 -0300" channel="Combate.br">
-    <title lang="pt">Jungle Fighters - Vida De Guerreiro 2026  Ep. 38</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260801182500 -0300" stop="20260801191000 -0300" channel="Combate.br">
-    <title lang="pt">Acesso Total Judô - Ippon Tokio Ep 1</title>
-    <category lang="pt">Esporte/Judô</category>
-  </programme>
-  <programme start="20260801191000 -0300" stop="20260801195500 -0300" channel="Combate.br">
-    <title lang="pt">Acesso Total - Ippon - Ep. 2</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260801195500 -0300" stop="20260801230000 -0300" channel="Combate.br">
-    <title lang="pt">Fight Do Milhão -  Semifinais Feminino - Card Completo - São Paulo, Sp - Ao Vivo</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260801230000 -0300" stop="20260802020000 -0300" channel="Combate.br">
     <title lang="pt">Boxe : Conceiçao x Muratalla - Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
@@ -35574,18 +35639,6 @@
   <programme start="20260815200000 -0300" stop="20260815210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260801162500 -0300" stop="20260801181500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Faça Ela Voltar</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260801181500 -0300" stop="20260801202000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Liga da Justiça</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260801202000 -0300" stop="20260801220000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Entrevista com o Demônio</title>
-    <category lang="pt">Filme/Terror</category>
   </programme>
   <programme start="20260801220000 -0300" stop="20260801235500 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Eu Sei o que Vocês Fizeram no Verão Passado</title>
