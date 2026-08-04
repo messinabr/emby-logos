@@ -3671,6 +3671,70 @@
     <category lang="pt">Copa do Brasil</category>
     <desc lang="pt">Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
   </programme>
+  <programme start="20260803060000 -0300" stop="20260803063000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 6 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As principais notícias, agenda política, previsão do tempo e informações para ficar bem-informado.</desc>
+  </programme>
+  <programme start="20260803063000 -0300" stop="20260803082500 -0300" channel="Globo News.br">
+    <title lang="pt">GloboNews em Ponto</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Mônica Waldvogel e Nilson Klava apresentam as principais notícias e informações da manhã.</desc>
+  </programme>
+  <programme start="20260803082500 -0300" stop="20260803110000 -0300" channel="Globo News.br">
+    <title lang="pt">GloboNews Radar</title>
+    <category lang="pt">News</category>
+  </programme>
+  <programme start="20260803110000 -0300" stop="20260803130000 -0300" channel="Globo News.br">
+    <title lang="pt">Conexão Globonews</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Leilane Neubarth, Camila Bomfim e Rafael Colombo trazem as notícias do dia com um olhar único.</desc>
+  </programme>
+  <programme start="20260803130000 -0300" stop="20260803160000 -0300" channel="Globo News.br">
+    <title lang="pt">Estúdio i</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhada por um prestigiado time de comentaristas, Andréia Sadi destaca e analisa as principais notícias e o que é assunto nas redes sociais, além de antecipar as tendências dentro e fora do ambiente digital.</desc>
+  </programme>
+  <programme start="20260803160000 -0300" stop="20260803180000 -0300" channel="Globo News.br">
+    <title lang="pt">GloboNews Mais</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Julia Duailibi apresenta as principais notícias do dia e a repercussão dos acontecimentos mais importantes do momento. Tudo com análise, bastidores e entrevistas exclusivas com os nomes mais importantes da política e economia do Brasil.</desc>
+  </programme>
+  <programme start="20260803180000 -0300" stop="20260803200000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 18 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Natuza Nery apresenta a cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no mundo, e um time de comentaristas analisa os principais acontecimentos do momento.</desc>
+  </programme>
+  <programme start="20260803200000 -0300" stop="20260803220000 -0300" channel="Globo News.br">
+    <title lang="pt">Em Pauta</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os assuntos e gerando reflexão.</desc>
+  </programme>
+  <programme start="20260803220000 -0300" stop="20260804000000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias.</desc>
+  </programme>
+  <programme start="20260804000000 -0300" stop="20260804010000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição da Meia-Noite</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Narayanna Borges traz as repercussões das principais notícias no Brasil e no mundo.</desc>
+  </programme>
+  <programme start="20260804010000 -0300" stop="20260804030000 -0300" channel="Globo News.br">
+    <title lang="pt">Em Pauta</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os assuntos e gerando reflexão.</desc>
+  </programme>
+  <programme start="20260804030000 -0300" stop="20260804050000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias.</desc>
+  </programme>
+  <programme start="20260804050000 -0300" stop="20260804060000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 5 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Os principais fatos que acontecem no Brasil e no mundo.</desc>
+  </programme>
   <programme start="20260804060000 -0300" stop="20260804063000 -0300" channel="Globo News.br">
     <title lang="pt">Jornal GloboNews - Edição das 6 Horas</title>
     <category lang="pt">News</category>
@@ -10927,6 +10991,166 @@
     <category lang="pt">Temporada 4 Episódio 7 - Buldogue com Dor de Barriga</category>
     <desc lang="pt">Dr. Blue tenta encontrar o objeto que o buldogue Yuki ingeriu; Dr. Lavigne e sua esposa pesquisam cuidados alternativos para Suki, um gato resgatado que sofreu uma amputação nas duas patas dianteiras.</desc>
   </programme>
+  <programme start="20260803060000 -0300" stop="20260803064500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">As Megamarcas que Mudaram o Mundo</title>
+    <category lang="pt">Temporada 2 Episódio 2 - A Internet Acabou com as Locadoras de Filmes</category>
+    <desc lang="pt">Um engenheiro de software cria a Blockbuster. Mas com o boom das &quot;ponto com&quot;, dois executivos na Califórnia redefinem a indústria audiovisual e enfrentam o gigante dos meios de comunicação social com a Netflix e sua assinatura on-line.</desc>
+  </programme>
+  <programme start="20260803064500 -0300" stop="20260803073000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">As Megamarcas que Mudaram o Mundo</title>
+    <category lang="pt">Temporada 2 Episódio 1 - Fim do Telefone Fixo</category>
+    <desc lang="pt">A Motorola apresenta o primeiro telefone portátil e as empresas de telecomunicações competem para criar o produto mais popular. Até que uma pequena empresa canadense lança o Blackberry, que combina funções de um computador com as de um celular.</desc>
+  </programme>
+  <programme start="20260803073000 -0300" stop="20260803082000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">O Melhor de Trato Feito</title>
+    <category lang="pt">Temporada 4 Episódio 15 - Natal Passado</category>
+    <desc lang="pt">A equipe comemora as festas relembrando os melhores e mais hilários momentos dos Natais passados.</desc>
+  </programme>
+  <programme start="20260803082000 -0300" stop="20260803090500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Temporada 16 Episódio 5 - Um Trato Nada Discreto</category>
+    <desc lang="pt">Chum pode comprar um artigo de Austin Powers; Rick tenta chegar a um trato por um rascunho autografado de um herói americano.</desc>
+  </programme>
+  <programme start="20260803090500 -0300" stop="20260803095500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Caçadores de Relíquias</title>
+    <category lang="pt">Collectibles</category>
+    <desc lang="pt">Nos Estados Unidos, as pessoas costumam colecionar objetos que despertam suas paixões - desde antiguidades brilhantes até peças enferrujadas. Mike e Frank vasculham coleções e sonham em transformar seus achados empoeirados em tesouros inestimáveis.</desc>
+  </programme>
+  <programme start="20260803095500 -0300" stop="20260803104500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Inacreditável com Dan Aykroyd</title>
+    <category lang="pt">Temporada 1 Episódio 5 - Invenções Estranhas</category>
+    <desc lang="pt">Algumas das invenções mais bizarras da história: desde uma máscara de gás para bebês e um robô alimentado por lesmas, até aviões infláveis, câmeras escondidas em lentes de contato e sistemas de segurança para a vida após a morte.</desc>
+  </programme>
+  <programme start="20260803104500 -0300" stop="20260803113500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Mistérios Revelados</title>
+    <category lang="pt">Temporada 3 Episódio 5 - O Pé-Grande da Montanha de Mármore e os Sussurros na Mina Waldeck</category>
+    <desc lang="pt">Evidências da possível existência do Pé-Grande na Carolina do Norte; homem afirma ouvir sussurros em uma mina de ouro abandonada na Austrália; russo arrisca sua vida dobrando uma barra de aço; possível óvni sobrevoa um avião de passageiros em Nevada.</desc>
+  </programme>
+  <programme start="20260803113500 -0300" stop="20260803122500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Inexplicável - Com William Shatner</title>
+    <category lang="pt">Temporada 4 Episódio 10 - O Elo Perdido</category>
+    <desc lang="pt">Oito bilhões de pessoas vivem na Terra. As civilizações humanas abrangem o globo. Embora muitos acreditem que a mão divina de Deus colocou os humanos na Terra, outros questionam se já houve outros tipos de criaturas semelhantes a humanos.</desc>
+  </programme>
+  <programme start="20260803122500 -0300" stop="20260803131500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+    <category lang="pt">Temporada 5 Episódio 1 - O Tesouro Perdido do Montezuma</category>
+    <desc lang="pt">O maravilhoso tesouro de um rei asteca desapareceu, inspirando uma busca de 500 anos em vários continentes. Um dos maiores guerreiros de todos os tempos acumulou um vasto tesouro, no entanto, o seu paradeiro permanece sendo um mistério.</desc>
+  </programme>
+  <programme start="20260803131500 -0300" stop="20260803140500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">O Melhor de Trato Feito</title>
+    <category lang="pt">Temporada 1 Episódio 11 - Contrato Original dos Beatles</category>
+    <desc lang="pt">A loja recebe um livro assinado por Shoeless Joe Jackson, o contrato original dos Beatles com seu empresário Brian Epstein, e antigas espadas de samurai japonesas.</desc>
+  </programme>
+  <programme start="20260803140500 -0300" stop="20260803145500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">O Melhor de Trato Feito</title>
+    <category lang="pt">Temporada 1 Episódio 24 - Luzes! Câmera! Trato Feito!</category>
+    <desc lang="pt">Em busca de itens para dar mais elegância à loja, Rick faz um lance pela maior coleção de acessórios de Willy Wonka que existe; um cliente chega com supostos itens originais do guarda-roupa de Tony Soprano.</desc>
+  </programme>
+  <programme start="20260803145500 -0300" stop="20260803154500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">O Melhor de Trato Feito</title>
+    <category lang="pt">Temporada 1 Episódio 4 - Oferta da Morte</category>
+    <desc lang="pt">Durante o Halloween, Rick e sua equipe se preparam para receber na loja alguns dos tesouros mais assustadores e improváveis já vistos no programa.</desc>
+  </programme>
+  <programme start="20260803154500 -0300" stop="20260803163500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">O Melhor de Trato Feito</title>
+    <category lang="pt">Temporada 1 Episódio 6 - Com o Pé na Estrada</category>
+    <desc lang="pt">Os negociadores do programa partem em uma jornada para encontrar tesouros perdidos; Chum enlouquece com uma coleção da Nike avaliada em um milhão de dólares; Rick descobre uma incrível coleção da Disney.</desc>
+  </programme>
+  <programme start="20260803163500 -0300" stop="20260803172500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">O Melhor de Trato Feito</title>
+    <category lang="pt">Temporada 1 Episódio 7 - Itens de Criminosos Famosos</category>
+    <desc lang="pt">Uma série de itens dos criminosos mais perigosos chega à loja. Rick e a sua equipe precisam decidir se vale a pena fazer negócio e ficar com eles ou se preferem liberá-los.</desc>
+  </programme>
+  <programme start="20260803172500 -0300" stop="20260803181500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Rick conhece Billy Gibbons, o vocalista bem-vestido da icônica banda de rock ZZ Top; veja algumas das guitarras e conheça as recordações mais impressionantes de roqueiros lendários.</desc>
+  </programme>
+  <programme start="20260803181500 -0300" stop="20260803184500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Aberto para Compras</title>
+    <category lang="pt">Temporada 2 Episódio 1 - Rio de Janeiro</category>
+    <desc lang="pt">Na capital carioca, Cláudio, Luciana e Sergio começam sua jornada explorando as oportunidades em uma dos maiores mercados de antiguidades do país, a Feira da Praça XV. Ali, Cláudio conhece uma pessoa que o leva para ver um acervo fora da praça.</desc>
+  </programme>
+  <programme start="20260803184500 -0300" stop="20260803191000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Aberto para Compras</title>
+    <category lang="pt">Temporada 2 Episódio 15 - Minas Gerais</category>
+    <desc lang="pt">Cláudio, Luciana e Sergio apresentam mais negociações inéditas que surgiram em Minas Gerais, durante a jornada do trio pelo caminho da Estrada Real. Igrejas centenárias, arte popular e o jeitinho mineiro formam o cenário.</desc>
+  </programme>
+  <programme start="20260803191000 -0300" stop="20260803194000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Parados na Fronteira</title>
+    <category lang="pt">Temporada 3 Episódio 3</category>
+    <desc lang="pt">Policiais de Iquitos entram na selva peruana. Após vários meses de trabalho de inteligência, uma grande área de cultivo de coca foi localizada. Durante o reconhecimento da área, eles descobrem um acampamento e um garoto de 13 anos.</desc>
+  </programme>
+  <programme start="20260803194000 -0300" stop="20260803203000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Temporada 17 Episódio 18 - Coleção de Beisebol</category>
+    <desc lang="pt">Rick vai a Boston para conferir uma coleção histórica de beisebol dos Red Sox; Corey se interessa por uma jaqueta da Segunda Guerra e, junto com Chum, aprende novos truques com um antigo kit de magia; um fóssil com a marca de uma mão é analisado.</desc>
+  </programme>
+  <programme start="20260803203000 -0300" stop="20260803212000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Temporada 17 Episódio 2 - Uma Série Sobre o Nada</category>
+    <desc lang="pt">Um ator de &quot;Seinfeld&quot; visita à loja com um valioso souvenir da série; Rick viaja para o leste do país em busca de um novo veículo, mas precisa tomar uma difícil decisão: ficar com o estranho carro esportivo dos anos 1960 ou voltar a bordo de um bote que funciona com rum.</desc>
+  </programme>
+  <programme start="20260803212000 -0300" stop="20260803221000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Temporada 16 Episódio 18 - Corey e B. B. King</category>
+    <desc lang="pt">A loja recebe uma guitarra assinada por B.B. King e um suporte de espadas japonês. Depois, Rick visita uma casa inspirada em Andy Warhol.</desc>
+  </programme>
+  <programme start="20260803221000 -0300" stop="20260803225500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Segunda Guerra Mundial com Tom Hanks</title>
+    <category lang="pt">Temporada 1 Episódio 11 - Itália</category>
+    <desc lang="pt">Os Aliados planejaram penetrar rapidamente no coração do Reich através da Itália, no entanto, a campanha transformou-se em um avanço lento e muito custoso. Meses de intensos combates, terreno difícil e a firme resistência alemã fizeram da operação uma guerra de atrito prolongada e sangrenta.</desc>
+  </programme>
+  <programme start="20260803225500 -0300" stop="20260803234500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Segunda Guerra Mundial com Tom Hanks</title>
+    <category lang="pt">Temporada 1 Episódio 12 - A Batalha pelos Céus</category>
+    <desc lang="pt">Pelos céus da Europa, uma batalha violenta e extremamente cara e arriscada se desenvolve entre as forças aéreas aliadas e a poderosa Luftwaffe alemã. De bombardeios estratégicos e combates aéreos a enormes perdas humanas, a luta pela supremacia aérea deixa sua marca desumana por todo o continente.</desc>
+  </programme>
+  <programme start="20260803234500 -0300" stop="20260804003500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Trato Feito</title>
+    <category lang="pt">Temporada 17 Episódio 23 - Negociações Espaciais</category>
+    <desc lang="pt">Um livro da Apollo 10 autografado aterrissa na loja; Chum pede a ajuda de um cantor do Nsync para validar uma coleção de bonecos; Rick tenta ficar com os tacos de golfe de Bob Hope.</desc>
+  </programme>
+  <programme start="20260804003500 -0300" stop="20260804012000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Fugas com Morgan Freeman</title>
+    <category lang="pt">Temporada 2 Episódio 2 - Fuga de Prisioneiro de Guerra do Vietnã</category>
+    <desc lang="pt">Um piloto teuto-americano, Dieter Dengler, usa habilidades de sobrevivência aperfeiçoadas na infância para escapar de uma prisão secreta no Laos durante os primeiros anos da guerra do Vietnã.</desc>
+  </programme>
+  <programme start="20260804012000 -0300" stop="20260804020000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Fugas com Morgan Freeman</title>
+    <category lang="pt">Temporada 2 Episódio 7 - Túnel para a Liberdade</category>
+    <desc lang="pt">Durante a Guerra Civil, uma fuga muito ousada coloca em liberdade centenas de soldados da União. Após ser capturado e enviado para a prisão de Richmond, na Virgínia, o coronel Thomas Rose organiza uma das maiores fugas em massa da história.</desc>
+  </programme>
+  <programme start="20260804020000 -0300" stop="20260804024500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Fugas com Morgan Freeman</title>
+    <category lang="pt">Temporada 2 Episódio 1 - Fugindo de Parchman</category>
+    <desc lang="pt">Prisioneiro descobre como escapar de uma das fazendas prisionais mais famosas do Mississippi.</desc>
+  </programme>
+  <programme start="20260804024500 -0300" stop="20260804032500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+    <category lang="pt">Temporada 5 Episódio 5 - O Tesouro do Capitão Kidd</category>
+    <desc lang="pt">Em um dos maiores mistérios da era de ouro da pirataria, o capitão William Kidd ataca um navio no ano de 1698 e confisca os seus tesouros inestimáveis. Entretanto, ao ser finalmente capturado, Kidd recusa-se a revelar onde escondeu o que saqueou.</desc>
+  </programme>
+  <programme start="20260804032500 -0300" stop="20260804040500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+    <category lang="pt">Temporada 5 Episódio 1 - O Tesouro Perdido do Montezuma</category>
+    <desc lang="pt">O maravilhoso tesouro de um rei asteca desapareceu, inspirando uma busca de 500 anos em vários continentes. Um dos maiores guerreiros de todos os tempos acumulou um vasto tesouro, no entanto, o seu paradeiro permanece sendo um mistério.</desc>
+  </programme>
+  <programme start="20260804040500 -0300" stop="20260804045000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+    <category lang="pt">Temporada 5 Episódio 2 - O Jardim do éden</category>
+    <desc lang="pt">A resposta para se o Jardim do Éden se trata apenas de uma história para explicar a criação humana.</desc>
+  </programme>
+  <programme start="20260804045000 -0300" stop="20260804053500 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Grandes Mistérios da História com Laurence Fishburne</title>
+    <category lang="pt">Temporada 5 Episódio 3 - A Fortuna Perdida dos Cavaleiros Templários</category>
+    <desc lang="pt">Há mais de 700 anos, uma ordem religiosa acumulou um vasto tesouro de ouro, prata, pedras preciosas e relíquias religiosas que desapareceu misteriosamente. Por séculos, historiadores e caçadores de fortuna cruzaram continentes em sua busca.</desc>
+  </programme>
+  <programme start="20260804053500 -0300" stop="20260804060000 -0300" channel="HISTORY CHANNEL HD.br">
+    <title lang="pt">Parados na Fronteira</title>
+    <category lang="pt">Temporada 3 Episódio 3</category>
+    <desc lang="pt">Policiais de Iquitos entram na selva peruana. Após vários meses de trabalho de inteligência, uma grande área de cultivo de coca foi localizada. Durante o reconhecimento da área, eles descobrem um acampamento e um garoto de 13 anos.</desc>
+  </programme>
   <programme start="20260804060000 -0300" stop="20260804064500 -0300" channel="HISTORY CHANNEL HD.br">
     <title lang="pt">As Megamarcas que Mudaram o Mundo</title>
     <category lang="pt">Temporada 2 Episódio 1 - Fim do Telefone Fixo</category>
@@ -15030,12 +15254,12 @@
   <programme start="20260804060000 -0300" stop="20260804062600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804062600 -0300" stop="20260804064900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804064900 -0300" stop="20260804070000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mundo do Barney</title>
@@ -15125,7 +15349,7 @@
   <programme start="20260804110400 -0300" stop="20260804110900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804110900 -0300" stop="20260804111400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
@@ -15135,7 +15359,7 @@
   <programme start="20260804111400 -0300" stop="20260804113700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804113700 -0300" stop="20260804114800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
@@ -15230,7 +15454,7 @@
   <programme start="20260804153200 -0300" stop="20260804155700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804155700 -0300" stop="20260804160800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Bubble's Hotel</title>
@@ -15255,12 +15479,12 @@
   <programme start="20260804162900 -0300" stop="20260804163400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804163400 -0300" stop="20260804165900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804165900 -0300" stop="20260804171000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Zouk a Bruxinha</title>
@@ -15270,7 +15494,7 @@
   <programme start="20260804171000 -0300" stop="20260804173500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804173500 -0300" stop="20260804174000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
@@ -15280,7 +15504,7 @@
   <programme start="20260804174000 -0300" stop="20260804180300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804180300 -0300" stop="20260804181400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Hello Kitty: Super Style!</title>
@@ -15345,7 +15569,7 @@
   <programme start="20260804201500 -0300" stop="20260804204000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804204000 -0300" stop="20260804204500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa Pig</title>
@@ -15395,27 +15619,27 @@
   <programme start="20260804215600 -0300" stop="20260804221900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804221900 -0300" stop="20260804224200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804224200 -0300" stop="20260804230700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260804230700 -0300" stop="20260804231900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Super Wish</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Jesse decide imitar tudo o que Maylin diz e perde o seu aviso de prender o fôlego na Floresta Flutuante. Ao aspirar, Jesse se transforma num balão vivo e sai flutuando, com Zander segurando a sua perna.</desc>
+    <desc lang="pt">As crianças descobrem um restaurante mágico em que tudo o que imaginam aparece. Após comer, eles ganham um show da própria imaginação. Só que a única forma de sair é fazendo um show inesquecível.</desc>
   </programme>
   <programme start="20260804231900 -0300" stop="20260804233100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Super Wish</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Jesse decide imitar tudo o que Maylin diz e perde o seu aviso de prender o fôlego na Floresta Flutuante. Ao aspirar, Jesse se transforma num balão vivo e sai flutuando, com Zander segurando a sua perna.</desc>
+    <desc lang="pt">As crianças descobrem um restaurante mágico em que tudo o que imaginam aparece. Após comer, eles ganham um show da própria imaginação. Só que a única forma de sair é fazendo um show inesquecível.</desc>
   </programme>
   <programme start="20260804233100 -0300" stop="20260804234300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
@@ -15455,12 +15679,12 @@
   <programme start="20260805002200 -0300" stop="20260805003300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cachorro e Pônei partem em uma aventura astronômica quando Cachorro se transforma em um robô.</desc>
+    <desc lang="pt">Cachorro e Pônei decidem aprender a treinar cavalos para dançar, mas cães não podem participar.</desc>
   </programme>
   <programme start="20260805003300 -0300" stop="20260805004500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cachorro e Pônei partem em uma aventura astronômica quando Cachorro se transforma em um robô.</desc>
+    <desc lang="pt">Cachorro e Pônei decidem aprender a treinar cavalos para dançar, mas cães não podem participar.</desc>
   </programme>
   <programme start="20260805004500 -0300" stop="20260805010700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">100% Lobo - O Livro de Hath</title>
@@ -15565,7 +15789,7 @@
   <programme start="20260805043900 -0300" stop="20260805050200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Chega a nova cadeirinha para bebê, mas o carro da família não tem espaço para ela. Com a ajuda da Peppa e do George, o Papai Pig escolhe um carro maior para a família.</desc>
+    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
   </programme>
   <programme start="20260805050200 -0300" stop="20260805051300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mundo do Barney</title>
@@ -15580,17 +15804,17 @@
   <programme start="20260805052400 -0300" stop="20260805053600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Um alienígena de olhos esbugalhados se infiltra na estação e seus métodos musicais viram problema.</desc>
+    <desc lang="pt">Um relógio cuco perde o controle, e os PURST têm certeza de que os VURST estão planejando a tomada da Estação Espacial. Loo assume o desafio e se infiltra no inimigo.</desc>
   </programme>
   <programme start="20260805053600 -0300" stop="20260805054800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Um alienígena de olhos esbugalhados se infiltra na estação e seus métodos musicais viram problema.</desc>
+    <desc lang="pt">Um relógio cuco perde o controle, e os PURST têm certeza de que os VURST estão planejando a tomada da Estação Espacial. Loo assume o desafio e se infiltra no inimigo.</desc>
   </programme>
   <programme start="20260805054800 -0300" stop="20260805064800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Um alienígena de olhos esbugalhados se infiltra na estação e seus métodos musicais viram problema.</desc>
+    <desc lang="pt">Um relógio cuco perde o controle, e os PURST têm certeza de que os VURST estão planejando a tomada da Estação Espacial. Loo assume o desafio e se infiltra no inimigo.</desc>
   </programme>
   <programme start="20260803054300 -0300" stop="20260803061400 -0300" channel="Gloob HD.br">
     <title lang="pt">Bugados</title>
@@ -16688,7 +16912,7 @@
   <programme start="20260803192500 -0300" stop="20260803193800 -0300" channel="Cartoon Network.br">
     <title lang="pt">Big Blue: O Grande Oceano</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A equipe Calypso vence uma competição de dança e recebe uma entrega especial.</desc>
+    <desc lang="pt">Bacon Berry pega algo que não lhe pertence. Lettie e Lemo tentam devolvê-lo ao seu legítimo dono.</desc>
   </programme>
   <programme start="20260803193800 -0300" stop="20260803200100 -0300" channel="Cartoon Network.br">
     <title lang="pt">A Jornada Heroica do Valente Príncipe Ivandoé</title>
@@ -28090,10 +28314,67 @@
     <category lang="pt">Drama / 2022</category>
     <desc lang="pt">Uma família negra da periferia de Contagem, Minas Gerais, busca seguir seus sonhos em um país que acaba de eleger como presidente um homem de extrema-direita, que representa o contrário de tudo que eles são.</desc>
   </programme>
-  <programme start="20260804051500 -0300" stop="20260804061500 -0300" channel="TELECINE PIPOCA.br">
+  <programme start="20260804051500 -0300" stop="20260804073000 -0300" channel="TELECINE PIPOCA.br">
     <title lang="pt">Círculo de Fogo</title>
     <category lang="pt">Science fiction / 2013</category>
     <desc lang="pt">Criaturas monstruosas conhecidas como Kaiju começam a emergir do mar. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers. Cada um é controlado por duas pessoas por meio de uma conexão neural. Entretanto, mesmo os Jaegers se mostram insuficientes para derrotar os Kaiju. Diante deste cenário, a última esperança é um velho robô, que passa a ser comandado por um antigo piloto e uma pessoa em treinamento.</desc>
+  </programme>
+  <programme start="20260804073000 -0300" stop="20260804094000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Oblivion</title>
+    <desc lang="pt">Em 2077, Jack Harper é o responsável pela manutenção de equipamentos de segurança em um planeta Terra irreconhecível, que foi destruído por uma raça alienígena. O que restou da humanidade vive hoje em uma colônia lunar, para onde Jack irá assim que terminar seu trabalho na Terra. Porém, um dia, ele encontra a espaçonave de uma mulher e, ao conhecê-la, tudo o que Jack sabe até então é posto em dúvida, iniciando-se uma jornada em que ele precisará descobrir o que realmente aconteceu no passado.</desc>
+  </programme>
+  <programme start="20260804094000 -0300" stop="20260804114000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">A Batalha de Riddick</title>
+    <category lang="pt">Science fiction / 2004</category>
+    <desc lang="pt">Os Necromongers, guerreiros interplanetários, vivem de assolar novos mundos. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias. Riddick, um homem solitário que vive exilado, decide ajudar os fugitivos.</desc>
+  </programme>
+  <programme start="20260804114000 -0300" stop="20260804132000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Viagem ao Centro da Terra - O Filme</title>
+    <category lang="pt">Children / 2008</category>
+    <desc lang="pt">Durante uma expedição na Islândia, o professor Trevor Anderson, o seu sobrinho Sean, e sua guia Hannah ficam presos em uma caverna. Enquanto seguem sua rota de fuga mais abaixo da superfície da Terra, eles passam por lugares estranhos e encontram criaturas incríveis, incluindo dinossauros. Porém, como a atividade vulcânica à sua volta aumenta, eles percebem que precisam encontrar o caminho para fora rapidamente.</desc>
+  </programme>
+  <programme start="20260804132000 -0300" stop="20260804150000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Os Croods 2 - Uma Nova Era</title>
+    <category lang="pt">Children / 2020</category>
+    <desc lang="pt">Em busca de um habitat mais seguro, a família pré-histórica Crood descobre um paraíso isolado que atende a todas as suas necessidades. Infelizmente, eles também devem aprender a viver com os Bettermans, uma família que está alguns degraus acima dos Croods na escada evolutiva. À medida que as tensões entre os novos vizinhos começam a aumentar, uma nova ameaça logo impulsiona os dois clãs em uma aventura épica que os força a abraçar suas diferenças e se fortalecerem e sobreviverem juntos.</desc>
+  </programme>
+  <programme start="20260804150000 -0300" stop="20260804170000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Um Príncipe em Minha Vida</title>
+    <category lang="pt">Romantic comedy / 2004</category>
+    <desc lang="pt">Paige Morgan é uma boa aluna que se apaixona por Eddie, aluno dinamarquês de intercâmbio. Ela descobre que ele é o herdeiro do trono da Dinamarca e entende que terá que superar alguns obstáculos para ficar com ele.</desc>
+  </programme>
+  <programme start="20260804170000 -0300" stop="20260804184000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Sem Deixar Vestígios</title>
+    <category lang="pt">Drama / 2009</category>
+    <desc lang="pt">Etienne está a um passo de se tornar o novo presidente de uma importante companhia. Porém, sua consciência o assombra por uma injustiça que cometeu no início de sua carreira. Mas ao tentar consertar as coisas, tudo pode piorar.</desc>
+  </programme>
+  <programme start="20260804184000 -0300" stop="20260804202500 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">O Máskara</title>
+    <desc lang="pt">A vida do tímido e socialmente desajeitado bancário Stanley Ipkiss muda completamente quando ele encontra no mar uma máscara que possui o espírito do deus escandinavo Loki. Sempre que usa a máscara, Stanley ganha superpoderes e se transforma em um cara cheio de charme e confiança, chamando a atenção da linda cantora Tina. No entanto, ele acaba atraindo também o perigoso namorado dela, o gângster Dorian, que tenta se apoderar da máscara para usar seus poderes para o mal.</desc>
+  </programme>
+  <programme start="20260804202500 -0300" stop="20260804220000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">O Convento</title>
+    <category lang="pt">Horror / 2023</category>
+    <desc lang="pt">Após a morte suspeita do irmão, um padre, Grace viaja até o Convento Mount Saviour, na Escócia, para descobrir o que realmente aconteceu. Uma vez lá, ela descobre assassinato, sacrilégio e uma verdade perturbadora sobre seu próprio passado.</desc>
+  </programme>
+  <programme start="20260804220000 -0300" stop="20260805004500 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Missão: Impossível - Acerto de Contas Parte 1</title>
+    <category lang="pt">Action / 2023</category>
+    <desc lang="pt">Ethan Hunt e sua equipe devem rastrear uma nova arma que pode ameaçar toda a humanidade se cair em mãos erradas. Com o destino do mundo em jogo, se inicia uma corrida mortal ao redor do globo. Confrontado por um inimigo misterioso e poderoso, Ethan é forçado a considerar que talvez nada importe mais do que a missão, nem mesmo as vidas daqueles com quem ele mais se importa.</desc>
+  </programme>
+  <programme start="20260805004500 -0300" stop="20260805022000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Shrek</title>
+    <desc lang="pt">Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo para resgatar uma princesa.</desc>
+  </programme>
+  <programme start="20260805022000 -0300" stop="20260805042000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Robin Hood - A Origem</title>
+    <category lang="pt">Action / 2018</category>
+    <desc lang="pt">Um cruzado endurecido pela batalha e um guerreiro mouro criam uma revolta contra a coroa inglesa.</desc>
+  </programme>
+  <programme start="20260805042000 -0300" stop="20260805052000 -0300" channel="TELECINE PIPOCA.br">
+    <title lang="pt">Nós</title>
+    <category lang="pt">Horror / 2019</category>
+    <desc lang="pt">Adelaide e Gabe levam a família para passar um fim de semana na praia e descansar. Eles começam a aproveitar o ensolarado local, mas a chegada de um grupo misterioso muda tudo e a família se torna refém de seres com aparências iguais às suas.</desc>
   </programme>
   <programme start="20260803042500 -0300" stop="20260803061000 -0300" channel="Telecine Cult.br">
     <title lang="pt">Eu Sou o Amor</title>
@@ -28887,10 +29168,85 @@
     <title lang="pt">Divisão de Homicídios</title>
     <desc lang="pt">Dois detetives de homicídios do Departamento de Polícia de Los Angeles - um deles um veterano que se aventura com imóveis e o outro ator nas horas vagas - investigam o assassinato brutal de integrantes de um grupo de rap. É um caso repleto de perigos mesmo sem as complicações e distrações da carreira paralela dos policiais.</desc>
   </programme>
-  <programme start="20260804035400 -0300" stop="20260804045400 -0300" channel="HBO Pop.br">
+  <programme start="20260804035400 -0300" stop="20260804060000 -0300" channel="HBO Pop.br">
     <title lang="pt">Apostas &amp; Segredos</title>
     <category lang="pt">Romance / 2024</category>
     <desc lang="pt">Muriel e o marido Lee estão prestes a começarem uma nova vida, mas são surpreendidos pela chegada do irmão de Lee. Muriel passa a viver uma vida secreta, apostando em cavalos de corrida e descobrindo um amor que ela nunca imaginou ser possível.</desc>
+  </programme>
+  <programme start="20260804060000 -0300" stop="20260804072500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Isto É Spinal Tap 2</title>
+    <category lang="pt">Music / 2025</category>
+    <desc lang="pt">Marty DiBergi acompanha os colegas afastados da banda Spinal Tap, David St. Hubbins, Nigel Tufnel e Derek Smalls, reunidos para um último show. Com Paul McCartney e Elton John, Spinal Tap enfrenta seu passado tumultuado para um espetáculo que almejam firmar no panteão do rock 'n' roll.</desc>
+  </programme>
+  <programme start="20260804072500 -0300" stop="20260804084500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Chris Fleming ao Vivo no Cadillac Palace</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Chris Fleming apresenta seu primeiro especial da HBO, onde compartilha sua perspectiva sobre masculinidade e congas com sua energia contagiante.</desc>
+  </programme>
+  <programme start="20260804084500 -0300" stop="20260804103000 -0300" channel="HBO Pop.br">
+    <title lang="pt">A Noite É Delas</title>
+    <category lang="pt">Dark comedy / 2017</category>
+    <desc lang="pt">Jess reúne suas amigas de faculdade para uma despedida de solteira. Quando elas matam um stripper acidentalmente, o final de semana de festas e curtição fica fora de controle.</desc>
+  </programme>
+  <programme start="20260804103000 -0300" stop="20260804121000 -0300" channel="HBO Pop.br">
+    <title lang="pt">Uma Noite com a Família Blacks</title>
+    <category lang="pt">Comedy / 2016</category>
+    <desc lang="pt">Carl Black recebe a oportunidade de tirar a sua família de Chicago e perseguir uma vida melhor. Ao chegar em Beverly Hills, eles se deparam com o expurgo anual da cidade, um período de 12 horas em que todo tipo de crime é legalizado.</desc>
+  </programme>
+  <programme start="20260804121000 -0300" stop="20260804142000 -0300" channel="HBO Pop.br">
+    <title lang="pt">Besouro Azul</title>
+    <category lang="pt">Action / 2023</category>
+    <desc lang="pt">O jovem Jaime Raynes se vê na posse de uma antiga relíquia de biotecnologia alienígena chamada Escaravelho. Quando o Escaravelho escolhe Jaime para ser seu hospedeiro, ele é presenteado com uma armadura capaz de poderes extraordinários.</desc>
+  </programme>
+  <programme start="20260804142000 -0300" stop="20260804155500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Professora sem Classe</title>
+    <category lang="pt">Romantic comedy / 2011</category>
+    <desc lang="pt">Para a maioria, o ensino é uma profissão honrosa, exceto para Elizabeth. A desbocada e embriagada professora mal pode esperar para se casar com um homem rico e largar o emprego, mas assim que seu namorado a deixa, ela precisa repensar sobre seus planos. Quando Scott Delacorte, um professor substituto bonito e rico chega à escola, Elizabeth encontra nele uma saída para sua situação, mas terá de enfrentar a forte concorrência de Amy, uma colega popular e alegre.</desc>
+  </programme>
+  <programme start="20260804155500 -0300" stop="20260804162500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Larry e a Busca da Infelicidade</title>
+    <category lang="pt">Temporada 1 Episódio 6</category>
+    <desc lang="pt">Os Obamas queriam preparar uma celebração para homenagear o 250º aniversário dos Estados Unidos, mas Larry David ligou.</desc>
+  </programme>
+  <programme start="20260804162500 -0300" stop="20260804182500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Os Outros Caras</title>
+    <category lang="pt">Comedy / 2010</category>
+    <desc lang="pt">Gamble e Hoitz são detetives da polícia de Nova York que não fazem alarde com o seu trabalho diário atrás de uma escrivaninha. Gamble aprecia a sua função, mas Hoitz está ansioso para voltar para as ruas. Quando um caso aparentemente insignificante acaba se revelando um grande negócio, os dois policiais têm a oportunidade de provar finalmente a seus companheiros que eles têm capacidade.</desc>
+  </programme>
+  <programme start="20260804182500 -0300" stop="20260804191000 -0300" channel="HBO Pop.br">
+    <title lang="pt">Pílula de Farinha - O Escândalo que Gerou Vidas</title>
+    <category lang="pt">Temporada 1 Episódio 1 - Padecendo no Paraíso</category>
+    <desc lang="pt">Em Mauá, quatro mulheres engravidam apesar de tomar corretamente o anticoncepcional mais vendido do Brasil: Microvlar. A coincidência chama a atenção da imprensa e investigações revelam que placebos foram enviados às farmácias de todo o país.</desc>
+  </programme>
+  <programme start="20260804191000 -0300" stop="20260804212000 -0300" channel="HBO Pop.br">
+    <title lang="pt">Besouro Azul</title>
+    <category lang="pt">Action / 2023</category>
+    <desc lang="pt">O jovem Jaime Raynes se vê na posse de uma antiga relíquia de biotecnologia alienígena chamada Escaravelho. Quando o Escaravelho escolhe Jaime para ser seu hospedeiro, ele é presenteado com uma armadura capaz de poderes extraordinários.</desc>
+  </programme>
+  <programme start="20260804212000 -0300" stop="20260804220000 -0300" channel="HBO Pop.br">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <category lang="pt">Temporada 13 Episódio 19</category>
+    <desc lang="pt">O carismático e britânico comentarista John Oliver oferece sua perspectiva singular e voz distinta sobre qualquer número de questões sociais, políticas ou atuais.</desc>
+  </programme>
+  <programme start="20260804220000 -0300" stop="20260805004500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Harry Potter e a Câmara Secreta</title>
+    <category lang="pt">Children / 2002</category>
+    <desc lang="pt">Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a arriscar e se livrar do lar problemático.</desc>
+  </programme>
+  <programme start="20260805004500 -0300" stop="20260805022000 -0300" channel="HBO Pop.br">
+    <title lang="pt">Professora sem Classe</title>
+    <category lang="pt">Romantic comedy / 2011</category>
+    <desc lang="pt">Para a maioria, o ensino é uma profissão honrosa, exceto para Elizabeth. A desbocada e embriagada professora mal pode esperar para se casar com um homem rico e largar o emprego, mas assim que seu namorado a deixa, ela precisa repensar sobre seus planos. Quando Scott Delacorte, um professor substituto bonito e rico chega à escola, Elizabeth encontra nele uma saída para sua situação, mas terá de enfrentar a forte concorrência de Amy, uma colega popular e alegre.</desc>
+  </programme>
+  <programme start="20260805022000 -0300" stop="20260805040500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Minhas Adoráveis Ex-Namoradas</title>
+    <category lang="pt">Romantic comedy / 2009</category>
+    <desc lang="pt">Connor é um fotógrafo de celebridades que desfruta da vida de solteiro com várias mulheres. Às vésperas do casamento do seu irmão, Connor recebe a visita dos espíritos de suas amantes rejeitadas, que o levam para uma odisseia através de seus relacionamentos fracassados para descobrir o motivo de Connor ser um mulherengo. Se houver alguma esperança, ele ainda pode encontrar um verdadeiro amor.</desc>
+  </programme>
+  <programme start="20260805040500 -0300" stop="20260805050500 -0300" channel="HBO Pop.br">
+    <title lang="pt">Alma em Chamas</title>
+    <category lang="pt">Biography / 2025</category>
+    <desc lang="pt">O'Leary não apenas luta pela sobrevivência, como também descobre o sentido da vida. Dos profissionais de saúde à sua família e o apoio da comunidade.</desc>
   </programme>
   <programme start="20260803060000 -0300" stop="20260803074500 -0300" channel="HBO Mundi.br">
     <title lang="pt">A Leste de Wall</title>
@@ -35034,18 +35390,6 @@
   <programme start="20260803220000 -0300" stop="20260803230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260803163000 -0300" stop="20260803183000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - WNBA: Connecticut Sun x Dallas Wings</title>
-    <category lang="pt">Esporte/Basquete Feminino</category>
-  </programme>
-  <programme start="20260803183000 -0300" stop="20260803193000 -0300" channel="ESPN 3.br">
-    <title lang="pt">The Kingdom Presented By State Farm</title>
-    <category lang="pt">Documentário/Esportivo</category>
-  </programme>
-  <programme start="20260803193000 -0300" stop="20260803220000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - ESPN KnockOut: Pierce O'Leary x Mark Chamberlain</title>
-    <category lang="pt">Esporte/Boxe</category>
-  </programme>
   <programme start="20260803220000 -0300" stop="20260804010000 -0300" channel="ESPN 3.br">
     <title lang="pt">World Series of Poker Mesa Final: Dia 1 - Ao Vivo</title>
     <category lang="pt">Esporte/Diversos</category>
@@ -36082,18 +36426,6 @@
     <title lang="pt">WTA 1000 Toronto: Quartas-de-Final - Ao Vivo</title>
     <category lang="pt">Esporte/Tênis Feminino</category>
   </programme>
-  <programme start="20260803155500 -0300" stop="20260803183000 -0300" channel="Combate.br">
-    <title lang="pt">One Fight Night 45</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260803183000 -0300" stop="20260803213000 -0300" channel="Combate.br">
-    <title lang="pt">Oktagon 92</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260803213000 -0300" stop="20260803233000 -0300" channel="Combate.br">
-    <title lang="pt">Boxe : Conceiçao x Muratalla</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260803233000 -0300" stop="20260804023000 -0300" channel="Combate.br">
     <title lang="pt">Fight Do Milhão -  Semifinais Feminino - Card Completo - São Paulo, Sp</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36481,26 +36813,6 @@
   <programme start="20260817200000 -0300" stop="20260817210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260803162000 -0300" stop="20260803180000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Anjos da Noite - Guerra de Sangue</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260803180000 -0300" stop="20260803183600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260803183600 -0300" stop="20260803191000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260803191000 -0300" stop="20260803194600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260803194600 -0300" stop="20260803220000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">A Noiva!</title>
-    <category lang="pt">Filme/Romance</category>
   </programme>
   <programme start="20260803220000 -0300" stop="20260804000000 -0300" channel="HBO Plus HD.br">
     <title lang="pt">O Exterminador do Futuro: A Salvação</title>
