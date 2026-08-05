@@ -1175,15 +1175,10 @@
     <category lang="pt">Educational</category>
     <desc lang="pt">Programa incentiva o aprendizado da língua inglesa de uma forma descontraída, por meio de letras de músicas e jogos entre equipes formadas por estudantes.</desc>
   </programme>
-  <programme start="20260806050000 -0300" stop="20260806060000 -0300" channel="TV Cultura.br">
+  <programme start="20260806050000 -0300" stop="20260806063000 -0300" channel="TV Cultura.br">
     <title lang="pt">Jornal da Cultura</title>
     <category lang="pt">News</category>
     <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
-  </programme>
-  <programme start="20260806060000 -0300" stop="20260806063000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Energia</title>
-    <category lang="pt">Exercise</category>
-    <desc lang="pt">Atualmente, a vida corrida e agitada, fruto do excesso de trabalho, tem feito com que a maioria das pessoas subestime sua qualidade de vida. Acompanhe aulas com meia hora de duração cada e dicas de como cuidar melhor do corpo.</desc>
   </programme>
   <programme start="20260806063000 -0300" stop="20260806070000 -0300" channel="TV Cultura.br">
     <title lang="pt">Negros em Foco</title>
@@ -1193,7 +1188,7 @@
   <programme start="20260806070000 -0300" stop="20260806071500 -0300" channel="TV Cultura.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806071500 -0300" stop="20260806072000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
@@ -4417,7 +4412,7 @@
   <programme start="20260806070000 -0300" stop="20260806072600 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">Chaves está matando insetos com gasolina e os coloca em um saquinho de pipoca. Mas o pessoal da vila se confunde e acaba comendo os bichos, o que resulta em vários problemas.</desc>
+    <desc lang="pt">Continuando com o trabalho de sapateiro, agora Seu Madruga precisa consertar os sapatos de Dona Florinda e Senhor Barriga.</desc>
   </programme>
   <programme start="20260806072600 -0300" stop="20260806075200 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -4457,7 +4452,7 @@
   <programme start="20260806102500 -0300" stop="20260806105800 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">Chaves está matando insetos com gasolina e os coloca em um saquinho de pipoca. Mas o pessoal da vila se confunde e acaba comendo os bichos, o que resulta em vários problemas.</desc>
+    <desc lang="pt">Continuando com o trabalho de sapateiro, agora Seu Madruga precisa consertar os sapatos de Dona Florinda e Senhor Barriga.</desc>
   </programme>
   <programme start="20260806105800 -0300" stop="20260806112500 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -4570,9 +4565,9 @@
     <desc lang="pt">Nenê encontra Tuco com Ana, uma garota de programa, e acha que é sua namorada. A confusão fica completa quando Nenê encontra o jornal com o anúncio de Ana e desconfia de Lineu.</desc>
   </programme>
   <programme start="20260807002600 -0300" stop="20260807005600 -0300" channel="Multishow.br">
-    <title lang="pt">Aquecimento Rock in Rio 2024</title>
-    <category lang="pt">Music</category>
-    <desc lang="pt">Artistas que fazem parte da escalação do Rock in Rio 2024 se apresentam em shows ao redor do mundo.</desc>
+    <title lang="pt">Foo Fighters: Live at Wembley Stadium</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O DVD capta o legendário e último show da mais recente turnê do Foo Fighters, na Wembley Arena, em Londres.</desc>
   </programme>
   <programme start="20260807005600 -0300" stop="20260807012700 -0300" channel="Multishow.br">
     <title lang="pt">A Vila</title>
@@ -4582,12 +4577,12 @@
   <programme start="20260807012700 -0300" stop="20260807015100 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">Chaves está matando insetos com gasolina e os coloca em um saquinho de pipoca. Mas o pessoal da vila se confunde e acaba comendo os bichos, o que resulta em vários problemas.</desc>
+    <desc lang="pt">Continuando com o trabalho de sapateiro, agora Seu Madruga precisa consertar os sapatos de Dona Florinda e Senhor Barriga.</desc>
   </programme>
   <programme start="20260807015100 -0300" stop="20260807022400 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">Chaves está matando insetos com gasolina e os coloca em um saquinho de pipoca. Mas o pessoal da vila se confunde e acaba comendo os bichos, o que resulta em vários problemas.</desc>
+    <desc lang="pt">Continuando com o trabalho de sapateiro, agora Seu Madruga precisa consertar os sapatos de Dona Florinda e Senhor Barriga.</desc>
   </programme>
   <programme start="20260807022400 -0300" stop="20260807025100 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -4597,7 +4592,7 @@
   <programme start="20260807025100 -0300" stop="20260807031900 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">Chaves está matando insetos com gasolina e os coloca em um saquinho de pipoca. Mas o pessoal da vila se confunde e acaba comendo os bichos, o que resulta em vários problemas.</desc>
+    <desc lang="pt">Continuando com o trabalho de sapateiro, agora Seu Madruga precisa consertar os sapatos de Dona Florinda e Senhor Barriga.</desc>
   </programme>
   <programme start="20260807031900 -0300" stop="20260807034500 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -12364,7 +12359,7 @@
   <programme start="20260805091200 -0300" stop="20260805093600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Conheça os bastidores do The Hunger, o badalado restaurante da chef Camille Becerra e Alan Philips, e o jantar inspirado nos anos 20 do restaurante Big Little Supper Club, de Lauren Gerrie e Flannery Klette-Kolton.</desc>
+    <desc lang="pt">Al Roker encontra Famous Fat Dave, um guia de gastronomia que o leva para conhecer os restaurantes mais deliciosos do Harlem; conheça as bancas de comida de rua de Nova York indicadas para o Prêmio Vendy.</desc>
   </programme>
   <programme start="20260805093600 -0300" stop="20260805100000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12384,7 +12379,7 @@
   <programme start="20260805104800 -0300" stop="20260805111200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Conheça os bastidores do The Hunger, o badalado restaurante da chef Camille Becerra e Alan Philips, e o jantar inspirado nos anos 20 do restaurante Big Little Supper Club, de Lauren Gerrie e Flannery Klette-Kolton.</desc>
+    <desc lang="pt">Al Roker encontra Famous Fat Dave, um guia de gastronomia que o leva para conhecer os restaurantes mais deliciosos do Harlem; conheça as bancas de comida de rua de Nova York indicadas para o Prêmio Vendy.</desc>
   </programme>
   <programme start="20260805111200 -0300" stop="20260805113600 -0300" channel="Discovery World.br">
     <title lang="pt">Paraísos pelo Mundo - Praias</title>
@@ -12409,7 +12404,7 @@
   <programme start="20260805131200 -0300" stop="20260805133600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Randy e Vaughn, Jake e Lee têm a chance de testar três opções de hospedagem totalmente diferentes no Alasca: um hotel com vistas panorâmicas em Anchorage, um resort nas montanhas e um luxuoso trailer.</desc>
+    <desc lang="pt">Os Scarpinos escolhem um entre três hotéis para uma estadia dos sonhos em Miami.</desc>
   </programme>
   <programme start="20260805133600 -0300" stop="20260805140000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12424,7 +12419,7 @@
   <programme start="20260805142400 -0300" stop="20260805144800 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um toboágua infinito ao melhor parque aquático para as crianças, venha mergulhar nas atrações aquáticas mais divertidas do planeta.</desc>
+    <desc lang="pt">Coquetéis servidos em um barco, a maior festa em uma piscina no México e a maior piscina para adultos do Havaí.</desc>
   </programme>
   <programme start="20260805144800 -0300" stop="20260805151200 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12454,7 +12449,7 @@
   <programme start="20260805164800 -0300" stop="20260805171200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Conheça os bastidores do The Hunger, o badalado restaurante da chef Camille Becerra e Alan Philips, e o jantar inspirado nos anos 20 do restaurante Big Little Supper Club, de Lauren Gerrie e Flannery Klette-Kolton.</desc>
+    <desc lang="pt">Al Roker encontra Famous Fat Dave, um guia de gastronomia que o leva para conhecer os restaurantes mais deliciosos do Harlem; conheça as bancas de comida de rua de Nova York indicadas para o Prêmio Vendy.</desc>
   </programme>
   <programme start="20260805171200 -0300" stop="20260805173600 -0300" channel="Discovery World.br">
     <title lang="pt">Minha Casa nas Montanhas</title>
@@ -12469,17 +12464,17 @@
   <programme start="20260805180000 -0300" stop="20260805182400 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Randy e Vaughn, Jake e Lee têm a chance de testar três opções de hospedagem totalmente diferentes no Alasca: um hotel com vistas panorâmicas em Anchorage, um resort nas montanhas e um luxuoso trailer.</desc>
+    <desc lang="pt">Os Scarpinos escolhem um entre três hotéis para uma estadia dos sonhos em Miami.</desc>
   </programme>
   <programme start="20260805182400 -0300" stop="20260805184800 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Conheça os bastidores do The Hunger, o badalado restaurante da chef Camille Becerra e Alan Philips, e o jantar inspirado nos anos 20 do restaurante Big Little Supper Club, de Lauren Gerrie e Flannery Klette-Kolton.</desc>
+    <desc lang="pt">Al Roker encontra Famous Fat Dave, um guia de gastronomia que o leva para conhecer os restaurantes mais deliciosos do Harlem; conheça as bancas de comida de rua de Nova York indicadas para o Prêmio Vendy.</desc>
   </programme>
   <programme start="20260805184800 -0300" stop="20260805191200 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um toboágua infinito ao melhor parque aquático para as crianças, venha mergulhar nas atrações aquáticas mais divertidas do planeta.</desc>
+    <desc lang="pt">Coquetéis servidos em um barco, a maior festa em uma piscina no México e a maior piscina para adultos do Havaí.</desc>
   </programme>
   <programme start="20260805191200 -0300" stop="20260805193600 -0300" channel="Discovery World.br">
     <title lang="pt">Vende-se Pântano</title>
@@ -12489,7 +12484,7 @@
   <programme start="20260805193600 -0300" stop="20260805200000 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Randy e Vaughn, Jake e Lee têm a chance de testar três opções de hospedagem totalmente diferentes no Alasca: um hotel com vistas panorâmicas em Anchorage, um resort nas montanhas e um luxuoso trailer.</desc>
+    <desc lang="pt">Os Scarpinos escolhem um entre três hotéis para uma estadia dos sonhos em Miami.</desc>
   </programme>
   <programme start="20260805200000 -0300" stop="20260805202400 -0300" channel="Discovery World.br">
     <title lang="pt">Você Renova</title>
@@ -12544,7 +12539,7 @@
   <programme start="20260806011200 -0300" stop="20260806013600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Randy e Vaughn, Jake e Lee têm a chance de testar três opções de hospedagem totalmente diferentes no Alasca: um hotel com vistas panorâmicas em Anchorage, um resort nas montanhas e um luxuoso trailer.</desc>
+    <desc lang="pt">Os Scarpinos escolhem um entre três hotéis para uma estadia dos sonhos em Miami.</desc>
   </programme>
   <programme start="20260806013600 -0300" stop="20260806020000 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12579,7 +12574,7 @@
   <programme start="20260806051200 -0300" stop="20260806053600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Conheça os bastidores do The Hunger, o badalado restaurante da chef Camille Becerra e Alan Philips, e o jantar inspirado nos anos 20 do restaurante Big Little Supper Club, de Lauren Gerrie e Flannery Klette-Kolton.</desc>
+    <desc lang="pt">Al Roker encontra Famous Fat Dave, um guia de gastronomia que o leva para conhecer os restaurantes mais deliciosos do Harlem; conheça as bancas de comida de rua de Nova York indicadas para o Prêmio Vendy.</desc>
   </programme>
   <programme start="20260806053600 -0300" stop="20260806060000 -0300" channel="Discovery World.br">
     <title lang="pt">Buying Hawaii</title>
@@ -15709,12 +15704,12 @@
   <programme start="20260806060000 -0300" stop="20260806062600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806062600 -0300" stop="20260806064900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806064900 -0300" stop="20260806070000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mundo do Barney</title>
@@ -15769,12 +15764,12 @@
   <programme start="20260806093900 -0300" stop="20260806095000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260806095000 -0300" stop="20260806100400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260806100400 -0300" stop="20260806101100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Turma da Mônica</title>
@@ -15814,7 +15809,7 @@
   <programme start="20260806111400 -0300" stop="20260806113700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806113700 -0300" stop="20260806114800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
@@ -15844,12 +15839,12 @@
   <programme start="20260806130700 -0300" stop="20260806132100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260806132100 -0300" stop="20260806133200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260806133200 -0300" stop="20260806134300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Hello Kitty: Super Style!</title>
@@ -15939,7 +15934,7 @@
   <programme start="20260806163400 -0300" stop="20260806165900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806165900 -0300" stop="20260806171000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Zouk a Bruxinha</title>
@@ -15949,7 +15944,7 @@
   <programme start="20260806171000 -0300" stop="20260806173500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806173500 -0300" stop="20260806174000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
@@ -15959,7 +15954,7 @@
   <programme start="20260806174000 -0300" stop="20260806180300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806180300 -0300" stop="20260806181400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Hello Kitty: Super Style!</title>
@@ -15999,12 +15994,12 @@
   <programme start="20260806193800 -0300" stop="20260806194900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260806194900 -0300" stop="20260806200000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260806200000 -0300" stop="20260806200500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
@@ -16024,7 +16019,7 @@
   <programme start="20260806201500 -0300" stop="20260806204000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806204000 -0300" stop="20260806204500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
@@ -16074,27 +16069,27 @@
   <programme start="20260806215600 -0300" stop="20260806221900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806221900 -0300" stop="20260806224200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806224200 -0300" stop="20260806230700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">O Dr. Hamster traz um formigueiro gigante e abre a tampa para mostrá-lo às as crianças. Mas elas acabam fugindo e ninguém percebe.</desc>
+    <desc lang="pt">George toma o café da manhã rápido demais e fica com soluço; Peppa e seus amigos estão andando de bicicleta; a mamãe faz uma caixa especial para que Peppa guarde coisas secretas e George fica triste por ela não contar o que tem na caixa.</desc>
   </programme>
   <programme start="20260806230700 -0300" stop="20260806231900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Super Wish</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A turma vai ao topo de um vulcão em que a fonte da lava é um tonel infinito de açúcar derretido. Quando Winnie quebra a torneira sem querer e não conta a ninguém, Balloonicus leva a culpa pela erupção.</desc>
+    <desc lang="pt">Enquanto conhecem a tradição de aniversário australiana do pão de fadas, as crianças descobrem a Vila das Centenas e Milhares; Winnie magoa acidentalmente os minúsculos Confetinhos e eles a encolhem até que ela se desculpe.</desc>
   </programme>
   <programme start="20260806231900 -0300" stop="20260806233100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Super Wish</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">A turma vai ao topo de um vulcão em que a fonte da lava é um tonel infinito de açúcar derretido. Quando Winnie quebra a torneira sem querer e não conta a ninguém, Balloonicus leva a culpa pela erupção.</desc>
+    <desc lang="pt">Enquanto conhecem a tradição de aniversário australiana do pão de fadas, as crianças descobrem a Vila das Centenas e Milhares; Winnie magoa acidentalmente os minúsculos Confetinhos e eles a encolhem até que ela se desculpe.</desc>
   </programme>
   <programme start="20260806233100 -0300" stop="20260806234300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
@@ -16134,12 +16129,12 @@
   <programme start="20260807002200 -0300" stop="20260807003300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cachorro e Pônei decidem aprender a treinar cavalos para dançar, mas cães não podem participar.</desc>
+    <desc lang="pt">Dog e Pony brincam de guias turísticos quando seu velho amigo Piki, o unicórnio, visita Unicidade.</desc>
   </programme>
   <programme start="20260807003300 -0300" stop="20260807004500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cachorro e Pônei decidem aprender a treinar cavalos para dançar, mas cães não podem participar.</desc>
+    <desc lang="pt">Dog e Pony brincam de guias turísticos quando seu velho amigo Piki, o unicórnio, visita Unicidade.</desc>
   </programme>
   <programme start="20260807004500 -0300" stop="20260807010700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">100% Lobo - O Livro de Hath</title>
@@ -16224,12 +16219,12 @@
   <programme start="20260807035500 -0300" stop="20260807040600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260807040600 -0300" stop="20260807041700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
+    <desc lang="pt">Em sua viagem escolar à Biblioteca da Cidade Cosmopolitan, Polly e suas amigas descobrem que muitos dos livros da biblioteca desapareceram misteriosamente, incluindo a série de livros favorita da Polly.</desc>
   </programme>
   <programme start="20260807041700 -0300" stop="20260807042800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
@@ -18332,7 +18327,7 @@
   <programme start="20260806072600 -0300" stop="20260806072900 -0300" channel="Cartoonito.br">
     <title lang="pt">Pocoyo - Músicas Infantis</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Divirta-se com Pocoyo e seus amigos cantando &quot;Na Fazenda da Nina&quot;.</desc>
+    <desc lang="pt">Divirta-se com Pocoyo e seus amigos cantando &quot;A Roda do Ônibus&quot;.</desc>
   </programme>
   <programme start="20260806072900 -0300" stop="20260806073600 -0300" channel="Cartoonito.br">
     <title lang="pt">Lucas, a Aranha</title>
@@ -18366,8 +18361,8 @@
   </programme>
   <programme start="20260806082800 -0300" stop="20260806083900 -0300" channel="Cartoonito.br">
     <title lang="pt">Perninha em Obras</title>
-    <category lang="pt">Temporada 1 Episódio 8 - O Sundae Derretido</category>
-    <desc lang="pt">É aniversário de Taz, e os Looney Construtores preparam um sundae enorme para ele. Mas Gaguinho não quer cometer erros e acaba atrasando as coisas, fazendo com que o sorvete comece a derreter.</desc>
+    <category lang="pt">Temporada 1 Episódio 8 - Botão Dançante</category>
+    <desc lang="pt">Pernalonga tenta tocar músicas no intervalo do almoço, mas seu &quot;botão de dança&quot; está quebrado.</desc>
   </programme>
   <programme start="20260806083900 -0300" stop="20260806084500 -0300" channel="Cartoonito.br">
     <title lang="pt">Cuquín</title>
@@ -19177,7 +19172,7 @@
   <programme start="20260805093000 -0300" stop="20260805100000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Qual É, Bicho?</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">É madrugada. A campainha toca e Camila vai atender. Lobato acorda com o barulho e vai ver quem é. Ao ver que é seu cunhado Ubirajara, fica muito bravo.</desc>
+    <desc lang="pt">Nani, Cadu e Lino ficam imaginando como serão quando ficarem mais velhos. Camila mostra quais são e como vivem os animais mais velhos do zoológico: o gibão, a hipopótamo Teteia, o tamanduá Tatá, a rinoceronte Menina e muitos outros.</desc>
   </programme>
   <programme start="20260805100000 -0300" stop="20260805101500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Yoga com Histórias</title>
@@ -19267,7 +19262,7 @@
   <programme start="20260805125000 -0300" stop="20260805130000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Formação rochosa bloqueia uma parte da Ilha, fazendo com que todos que a atravessam desapareçam misteriosamente, como um truque de magia. Com determinação e coragem, Baiá, Marraia e Bela Baleia se lançam em uma missão cheia de reviravoltas.</desc>
+    <desc lang="pt">Valentim faz uma descoberta intrigante na praia, um pequeno montinho de areia que desperta sua curiosidade. Valentim reúne Duquesa, Fiufiu e Baiá para uma investigação sobre o monte de areia e as pegadas misteriosas que apareceram ao seu redor.</desc>
   </programme>
   <programme start="20260805130000 -0300" stop="20260805131500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Meu AmigãoZão</title>
@@ -19287,7 +19282,7 @@
   <programme start="20260805133500 -0300" stop="20260805134500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Ludovico e Ofélia vão ao museu do Instituto Biológico para aprender sobre alguns insetos e perder um pouco do medo de alguns deles.</desc>
+    <desc lang="pt">Doroteia acompanha Osório até o Museu de Zoologia da USP, onde o amigo vai passar por um importante teste que definirá o seu futuro como artista.</desc>
   </programme>
   <programme start="20260805134500 -0300" stop="20260805140000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Rubra em Família</title>
@@ -19342,7 +19337,7 @@
   <programme start="20260805154000 -0300" stop="20260805160000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Pratinho da Iaiá</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Com a música &quot;Lá no Céu&quot;.</desc>
+    <desc lang="pt">Com a música &quot;Samba do Feijão&quot;.</desc>
   </programme>
   <programme start="20260805160000 -0300" stop="20260805163000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Cocoricó</title>
@@ -19357,7 +19352,7 @@
   <programme start="20260805170000 -0300" stop="20260805171000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Ludovico e Ofélia vão ao museu do Instituto Biológico para aprender sobre alguns insetos e perder um pouco do medo de alguns deles.</desc>
+    <desc lang="pt">Doroteia acompanha Osório até o Museu de Zoologia da USP, onde o amigo vai passar por um importante teste que definirá o seu futuro como artista.</desc>
   </programme>
   <programme start="20260805171000 -0300" stop="20260805172000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Os Óculos Mágicos de Charlotte</title>
@@ -19367,7 +19362,7 @@
   <programme start="20260805172000 -0300" stop="20260805173000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Formação rochosa bloqueia uma parte da Ilha, fazendo com que todos que a atravessam desapareçam misteriosamente, como um truque de magia. Com determinação e coragem, Baiá, Marraia e Bela Baleia se lançam em uma missão cheia de reviravoltas.</desc>
+    <desc lang="pt">Valentim faz uma descoberta intrigante na praia, um pequeno montinho de areia que desperta sua curiosidade. Valentim reúne Duquesa, Fiufiu e Baiá para uma investigação sobre o monte de areia e as pegadas misteriosas que apareceram ao seu redor.</desc>
   </programme>
   <programme start="20260805173000 -0300" stop="20260805174000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Isso Disso</title>
@@ -19452,7 +19447,7 @@
   <programme start="20260805203000 -0300" stop="20260805210000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
+    <desc lang="pt">A Festa do Divino e seus símbolos e tradições é vivida intensamente por crianças de São Luiz, que nos apresentam e contam como é viver papéis de imperatriz e imperador em tão importante celebração. Brincar de pipa, construir jangada de buriti, criar passarinho, fazer farinha e tocar tambor de crioula é parte do cotidiano dessas crianças maranhenses.</desc>
   </programme>
   <programme start="20260805210000 -0300" stop="20260805212000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">DJ Cão e a Loja de Discos</title>
@@ -19582,12 +19577,12 @@
   <programme start="20260806035000 -0300" stop="20260806040000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Formação rochosa bloqueia uma parte da Ilha, fazendo com que todos que a atravessam desapareçam misteriosamente, como um truque de magia. Com determinação e coragem, Baiá, Marraia e Bela Baleia se lançam em uma missão cheia de reviravoltas.</desc>
+    <desc lang="pt">Valentim faz uma descoberta intrigante na praia, um pequeno montinho de areia que desperta sua curiosidade. Valentim reúne Duquesa, Fiufiu e Baiá para uma investigação sobre o monte de areia e as pegadas misteriosas que apareceram ao seu redor.</desc>
   </programme>
   <programme start="20260806040000 -0300" stop="20260806043000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
+    <desc lang="pt">A Festa do Divino e seus símbolos e tradições é vivida intensamente por crianças de São Luiz, que nos apresentam e contam como é viver papéis de imperatriz e imperador em tão importante celebração. Brincar de pipa, construir jangada de buriti, criar passarinho, fazer farinha e tocar tambor de crioula é parte do cotidiano dessas crianças maranhenses.</desc>
   </programme>
   <programme start="20260806043000 -0300" stop="20260806044500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Repórter Rá Teen Bum</title>
@@ -19602,12 +19597,12 @@
   <programme start="20260806050000 -0300" stop="20260806053000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Qual É, Bicho?</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">É madrugada. A campainha toca e Camila vai atender. Lobato acorda com o barulho e vai ver quem é. Ao ver que é seu cunhado Ubirajara, fica muito bravo.</desc>
+    <desc lang="pt">Nani, Cadu e Lino ficam imaginando como serão quando ficarem mais velhos. Camila mostra quais são e como vivem os animais mais velhos do zoológico: o gibão, a hipopótamo Teteia, o tamanduá Tatá, a rinoceronte Menina e muitos outros.</desc>
   </programme>
   <programme start="20260806053000 -0300" stop="20260806055000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Pratinho da Iaiá</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Com a música &quot;Lá no Céu&quot;.</desc>
+    <desc lang="pt">Com a música &quot;Samba do Feijão&quot;.</desc>
   </programme>
   <programme start="20260806055000 -0300" stop="20260806060000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">A Mansão Maluca do Professor Ambrósio</title>
@@ -22515,15 +22510,15 @@
     <category lang="pt">Temporada 7 Episódio 9 - The Thanksgiving Decoupling</category>
     <desc lang="pt">Os planos para o dia de Ação de Graças dos amigos incluem um jantar na casa dos Wolowitz, mas Sheldon não fica nada satisfeito com o lugar escolhido; Leonard e Penny lidam com um erro do passado da moça.</desc>
   </programme>
-  <programme start="20260806050000 -0300" stop="20260806060000 -0300" channel="Warner Channel.br">
+  <programme start="20260806050000 -0300" stop="20260806054700 -0300" channel="Warner Channel.br">
     <title lang="pt">Encontrados</title>
     <category lang="pt">Temporada 2 Episódio 8 - Desaparecida e Assombrada</category>
     <desc lang="pt">A luta de Margaret para suprimir memórias do desaparecimento de Jaime desencadeia emoções que ela não consegue afastar; a M&amp;A se esforça para encontrar uma mãe desaparecida com transtorno mental.</desc>
   </programme>
-  <programme start="20260806060000 -0300" stop="20260806065700 -0300" channel="Warner Channel.br">
-    <title lang="pt">Encontrados</title>
-    <category lang="pt">Temporada 2 Episódio 9 - Desaparecida e Visada</category>
-    <desc lang="pt">Um viciado em drogas em recuperação desaparece e sua namorada recorre a M&amp;A, mas a interferência de forças externas complica a investigação; Sir revela um segredo chocante sobre um dos aliados da M&amp;A; um dos membros da equipe está gravemente ferido.</desc>
+  <programme start="20260806054700 -0300" stop="20260806065700 -0300" channel="Warner Channel.br">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Talk</category>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
   <programme start="20260806065700 -0300" stop="20260806083800 -0300" channel="Warner Channel.br">
     <title lang="pt">Salt</title>
@@ -26154,7 +26149,7 @@
   <programme start="20260806135500 -0300" stop="20260806140000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Espelho</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">Livro de memórias lançado em 2015 por Oswaldo de Camargo. A obra reconstrói a infância do autor no interior de São Paulo, servindo como testemunho histórico e literário sobre a vivência e a identidade da população negra no pós-abolição.</desc>
+    <desc lang="pt">Filmes do cineasta guineense Flora Gomes abordam dilemas, música e infância em África.</desc>
   </programme>
   <programme start="20260806140000 -0300" stop="20260806141500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Cinejornal</title>
@@ -27838,7 +27833,7 @@
   <programme start="20260806060000 -0300" stop="20260806073500 -0300" channel="TCM.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
   <programme start="20260806073500 -0300" stop="20260806093100 -0300" channel="TCM.br">
     <title lang="pt">O Médico e o Monstro</title>
@@ -27900,7 +27895,7 @@
   <programme start="20260807044400 -0300" stop="20260807054400 -0300" channel="TCM.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
+    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
   <programme start="20260805054000 -0300" stop="20260805072000 -0300" channel="Telecine Premium.br">
     <title lang="pt">Queridos, Cresci!</title>
@@ -28818,34 +28813,34 @@
     <category lang="pt">Action / 2023</category>
     <desc lang="pt">A polícia investiga um atirador de elite que mata sem deixar vestígios. Eleanor, uma agente antissocial e problemática, é uma das grandes esperanças da operação de resolver o caso logo. A sua psique conturbada pode ser a única capaz de compreender melhor a mente do assassino.</desc>
   </programme>
-  <programme start="20260805080500 -0300" stop="20260805100500 -0300" channel="HBO2.br">
+  <programme start="20260805080500 -0300" stop="20260805100000 -0300" channel="HBO2.br">
     <title lang="pt">Relay - Contrato Perigoso</title>
     <category lang="pt">Thriller / 2024</category>
     <desc lang="pt">Um intermediário é especialista em negociar subornos entre empresas e indivíduos que ameaçam arruiná-las. Quando chega uma mensagem de uma cliente em potencial, que precisa de sua proteção para sobreviver, as regras mudam rapidamente.</desc>
   </programme>
-  <programme start="20260805100500 -0300" stop="20260805115000 -0300" channel="HBO2.br">
+  <programme start="20260805100000 -0300" stop="20260805114500 -0300" channel="HBO2.br">
     <title lang="pt">Eu Sei o que Vocês Fizeram no Verão Passado</title>
     <category lang="pt">Horror / 1997</category>
     <desc lang="pt">Os amigos Julie, Barry, Helen e Ray atropelam um pescador e jogam seu corpo na água. Um ano depois, os quatro se reencontram quando Julie recebe uma carta assustadora informando que o crime que cometeram no verão passado foi visto. Enquanto persegue quem acredita ser o responsável pela carta, Barry é atropelado por um homem com um gancho. Agora, Julie, Helen e Ray precisam fugir da perseguição implacável do misterioso assassino.</desc>
   </programme>
-  <programme start="20260805115000 -0300" stop="20260805133000 -0300" channel="HBO2.br">
+  <programme start="20260805114500 -0300" stop="20260805132500 -0300" channel="HBO2.br">
     <title lang="pt">Eles Vão te Matar</title>
     <category lang="pt">Horror / 2026</category>
     <desc lang="pt">Uma mulher responde a um anúncio enigmático para uma vaga de governanta em um luxuoso e sombrio arranha-céu em Nova York. Ao chegar, ela descobre que moradores desapareceram sem deixar rastros por décadas, alimentando boatos de um culto satânico escondido nas sombras.</desc>
   </programme>
-  <programme start="20260805133000 -0300" stop="20260805153000 -0300" channel="HBO2.br">
+  <programme start="20260805132500 -0300" stop="20260805152500 -0300" channel="HBO2.br">
     <title lang="pt">No Limite do Amanhã</title>
     <category lang="pt">Science fiction / 2014</category>
     <desc lang="pt">Em uma guerra contra alienígenas, William Cage descobre que tem a estranha habilidade de voltar no tempo, ficando preso em um eterno ciclo. Ele treina para usar suas novas habilidades, derrotar os invasores e acabar com a guerra.</desc>
   </programme>
-  <programme start="20260805153000 -0300" stop="20260805170000 -0300" channel="HBO2.br">
+  <programme start="20260805152500 -0300" stop="20260805170000 -0300" channel="HBO2.br">
     <title lang="pt">Hancock</title>
     <desc lang="pt">Hancock é um super-herói desajeitado que protege os cidadãos de Los Angeles, mas causa danos colaterais a cada ato heroico que realiza. Ele não se importa com o que as pessoas pensam a seu respeito. Depois de salvar a vida de um executivo, ele conhece a bela esposa do homem e descobre que, apesar de tudo, é um sujeito sensível.</desc>
   </programme>
   <programme start="20260805170000 -0300" stop="20260805180500 -0300" channel="HBO2.br">
     <title lang="pt">A Casa do Dragão</title>
     <category lang="pt">Temporada 3 Episódio 7 - O Dragão no Inverno</category>
-    <desc lang="pt">Os apoiadores de Aegon Targaryen entram em conflito com os adeptos de sua meia-irmã, Rhaenyra, pelo trono de Viserys I, seu falecido pai, iniciando uma guerra civil cerca de 200 anos antes dos eventos retratados em &quot;Game of Thrones&quot;.</desc>
+    <desc lang="pt">Dividida entre as visões de Mysaria e Daemon para seu reinado, Rhaenyra anseia desesperadamente por um sinal de que prevalecerá. A confiança entre as famílias se rompe quando Gwayne questiona os planos de Ormund, e Alicent chega a Harrenhal decidida a garantir a segurança de Helaena. Enquanto isso, Aegon toma uma decisão ousada e potencialmente imprudente.</desc>
   </programme>
   <programme start="20260805180500 -0300" stop="20260805202000 -0300" channel="HBO2.br">
     <title lang="pt">Jurassic World - Reino Ameaçado</title>
@@ -32295,7 +32290,7 @@
   </programme>
   <programme start="20260805233000 -0300" stop="20260806000000 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Galvão Bueno relembra as sete medalhas de ouro olímpicas do Brasil narradas na carreira e o dia em que quase fez a lenda Michael Phelps perder uma vitória.</desc>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
   </programme>
   <programme start="20260806000000 -0300" stop="20260806015500 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Brasil x Paraguai</title>
@@ -35463,18 +35458,6 @@
   <programme start="20260805220000 -0300" stop="20260805230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260805104500 -0300" stop="20260805131500 -0300" channel="ESPN 3.br">
-    <title lang="pt">Tour de France Femmes avec Zwift 2026 - Ao Vivo</title>
-    <category lang="pt">Esporte/Ciclismo</category>
-  </programme>
-  <programme start="20260805131500 -0300" stop="20260805133000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Momento CBTênis</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20260805133000 -0300" stop="20260805153000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Sportscenter</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
   <programme start="20260805153000 -0300" stop="20260805180000 -0300" channel="ESPN 3.br">
     <title lang="pt">VT - MLB: St. Louis Cardinals x New York Yankees</title>
     <category lang="pt">Esporte/Beisebol</category>
@@ -36519,18 +36502,6 @@
     <title lang="pt">WTA 1000 Toronto: Semifinal - Ao Vivo</title>
     <category lang="pt">Esporte/Tênis Feminino</category>
   </programme>
-  <programme start="20260805090500 -0300" stop="20260805114000 -0300" channel="Combate.br">
-    <title lang="pt">One Fight Night 45</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260805114000 -0300" stop="20260805144000 -0300" channel="Combate.br">
-    <title lang="pt">Oktagon 92</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260805144000 -0300" stop="20260805164000 -0300" channel="Combate.br">
-    <title lang="pt">UFC BJJ 9</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260805164000 -0300" stop="20260805174000 -0300" channel="Combate.br">
     <title lang="pt">Boxe : Conceiçao x Muratalla</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36926,18 +36897,6 @@
   <programme start="20260819200000 -0300" stop="20260819210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260805101100 -0300" stop="20260805123600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">O Espetacular Homem-Aranha</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260805123600 -0300" stop="20260805141100 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">O Massacre da Serra Elétrica: O Início</title>
-    <category lang="pt">Filme/Terror</category>
-  </programme>
-  <programme start="20260805141100 -0300" stop="20260805154600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Sleight: O Truque Perfeito</title>
-    <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20260805154600 -0300" stop="20260805180600 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Invocação do Mal 4: O Último Ritual</title>
