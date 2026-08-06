@@ -4024,30 +4024,30 @@
     <category lang="pt">Temporada 1 Episódio 14 - O que É Sucesso pra Você?</category>
     <desc lang="pt">A cantora e influencer Juliette se encontra com o historiador Leandro Karnal para uma conversa, conduzida por Gabriela Prioli, sobre o que é sucesso.</desc>
   </programme>
-  <programme start="20260806064300 -0300" stop="20260806073600 -0300" channel="GNT.br">
+  <programme start="20260806064300 -0300" stop="20260806064900 -0300" channel="GNT.br">
+    <title lang="pt">Que História É Essa, Porchat?</title>
+    <category lang="pt">Temporada 7 Episódio 11 - Jade Picon, Lucinha Lins e Pedro Scooby</category>
+    <desc lang="pt">Porchat recebe Jade Picon, Lucinha Lins e Pedro Scooby em seu programa; Na plateia, Daniela compartilha sobre sua fama no prédio; O programa também traz uma curiosa história da Paraíba que tem potencial para virar música.</desc>
+  </programme>
+  <programme start="20260806064900 -0300" stop="20260806074100 -0300" channel="GNT.br">
     <title lang="pt">Fazendo a Festa</title>
     <category lang="pt">Temporada 6 Episódio 13 - Pintando o Sete</category>
     <desc lang="pt">Valentina pede uma festa com o tema Pintando o Sete, que, aliás, é a idade que ela está completando.</desc>
   </programme>
-  <programme start="20260806073600 -0300" stop="20260806083300 -0300" channel="GNT.br">
+  <programme start="20260806074100 -0300" stop="20260806083800 -0300" channel="GNT.br">
     <title lang="pt">Santa Ajuda</title>
     <category lang="pt">Temporada 10 Episódio 19 - Quarto de Dormir e Ateliê de Costura</category>
     <desc lang="pt">A bagunça é eliminada no cômodo multifuncional da Mariana. Micaela organiza o quarto de dormir dela que precisa ser um ateliê de costura também.</desc>
   </programme>
-  <programme start="20260806083300 -0300" stop="20260806092700 -0300" channel="GNT.br">
+  <programme start="20260806083800 -0300" stop="20260806093200 -0300" channel="GNT.br">
     <title lang="pt">Decora</title>
     <category lang="pt">Temporada 12 Episódio 21 - Ateliê Gourmet</category>
     <desc lang="pt">Avó, filha e neta precisam de um ateliê de crochê mais equipado para receber clientes e dar cursos.</desc>
   </programme>
-  <programme start="20260806092700 -0300" stop="20260806102000 -0300" channel="GNT.br">
+  <programme start="20260806093200 -0300" stop="20260806102500 -0300" channel="GNT.br">
     <title lang="pt">Mais Cor, por Favor</title>
     <category lang="pt">Temporada 4 Episódio 28 - Cantinho da Poesia</category>
     <desc lang="pt">Taís e Natália adoram reunir outras amigas em um cantinho da sala para ler e conversar. Thalita leva mais cor e conforto ao local. O novo visual do espaço é inaugurado com um sarau de poesia.</desc>
-  </programme>
-  <programme start="20260806102000 -0300" stop="20260806102500 -0300" channel="GNT.br">
-    <title lang="pt">Que História É Essa, Porchat?</title>
-    <category lang="pt">Temporada 7 Episódio 11 - Jade Picon, Lucinha Lins e Pedro Scooby</category>
-    <desc lang="pt">Porchat recebe Jade Picon, Lucinha Lins e Pedro Scooby em seu programa; Na plateia, Daniela compartilha sobre sua fama no prédio; O programa também traz uma curiosa história da Paraíba que tem potencial para virar música.</desc>
   </programme>
   <programme start="20260806102500 -0300" stop="20260806105400 -0300" channel="GNT.br">
     <title lang="pt">Morar</title>
@@ -4071,7 +4071,7 @@
   </programme>
   <programme start="20260806130200 -0300" stop="20260806141700 -0300" channel="GNT.br">
     <title lang="pt">Papo de Segunda</title>
-    <category lang="pt">Temporada 18 Episódio 15</category>
+    <category lang="pt">Temporada 18 Episódio 15 - Cérebro e Coração de Pai; Viver Entre Aspas; Papo de Cueca</category>
     <desc lang="pt">No programa são debatidos diversos assuntos da atualidade. Quatro pontos de vista, por vezes conflitantes, ora solidários, mas sempre divertidos.</desc>
   </programme>
   <programme start="20260806141700 -0300" stop="20260806152100 -0300" channel="GNT.br">
@@ -10257,10 +10257,10 @@
     <category lang="pt">News</category>
     <desc lang="pt">Avaliação da agropecuária brasileira e as principais notícias do agro.</desc>
   </programme>
-  <programme start="20260805060000 -0300" stop="20260805080000 -0300" channel="Band News.br">
-    <title lang="pt">Jornal BandNews</title>
+  <programme start="20260805053000 -0300" stop="20260805080000 -0300" channel="Band News.br">
+    <title lang="pt">Bandnews Hoje</title>
     <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+    <desc lang="pt">Um jornal pensado para quem desperta conectado aos acontecimentos que movimentam o Brasil e o mundo.</desc>
   </programme>
   <programme start="20260805080000 -0300" stop="20260805093000 -0300" channel="Band News.br">
     <title lang="pt">Jornal Gente</title>
@@ -10268,29 +10268,39 @@
     <desc lang="pt">As principais notícias do Brasil e do mundo, com fatos importantes para se informar a cada dia.</desc>
   </programme>
   <programme start="20260805093000 -0300" stop="20260805100000 -0300" channel="Band News.br">
-    <title lang="pt">Radar BandNews</title>
+    <title lang="pt">Resumo Bandnews</title>
     <category lang="pt">News</category>
-    <desc lang="pt">As notícias mais importantes do dia que estão no radar do brasileiro.</desc>
+    <desc lang="pt">Nelson Gomes apresenta os acontecimentos mais relevantes do Brasil e do mundo, com linguagem objetiva, ritmo dinâmico e atualização precisa. Ele leva ao público as principais notícias do momento de forma ágil e direta.</desc>
   </programme>
-  <programme start="20260805100000 -0300" stop="20260805120000 -0300" channel="Band News.br">
+  <programme start="20260805100000 -0300" stop="20260805110000 -0300" channel="Band News.br">
     <title lang="pt">Manhã BandNews</title>
     <category lang="pt">News</category>
     <desc lang="pt">A atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
   </programme>
-  <programme start="20260805120000 -0300" stop="20260805140000 -0300" channel="Band News.br">
+  <programme start="20260805110000 -0300" stop="20260805120000 -0300" channel="Band News.br">
+    <title lang="pt">O X da Questão</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Ir além da notícia e revelar o que realmente importa: esse é o &quot;O X da Questão&quot;. Cynthia Martins e Rodolfo Schneider conduzem conversas inteligentes, com análise, contexto e diferentes pontos de vista sobre acontecimentos do Brasil e mundo.</desc>
+  </programme>
+  <programme start="20260805120000 -0300" stop="20260805123000 -0300" channel="Band News.br">
     <title lang="pt">BandNews no Meio do Dia</title>
     <category lang="pt">News</category>
     <desc lang="pt">Fique por dentro dos fatos mais importantes com participação de entrevistados e comentaristas.</desc>
   </programme>
-  <programme start="20260805140000 -0300" stop="20260805160000 -0300" channel="Band News.br">
+  <programme start="20260805123000 -0300" stop="20260805130000 -0300" channel="Band News.br">
+    <title lang="pt">Resumo Bandnews</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Nelson Gomes apresenta os acontecimentos mais relevantes do Brasil e do mundo, com linguagem objetiva, ritmo dinâmico e atualização precisa. Ele leva ao público as principais notícias do momento de forma ágil e direta.</desc>
+  </programme>
+  <programme start="20260805130000 -0300" stop="20260805140000 -0300" channel="Band News.br">
+    <title lang="pt">Papo Reto</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Com estilo analítico e provocador, Carlos Andreazza, do Rio de Janeiro, conduz as principais discussões do &quot;Papo Reto&quot; ao lado de Patrícia Rocha, nos estúdios de São Paulo.</desc>
+  </programme>
+  <programme start="20260805140000 -0300" stop="20260805170000 -0300" channel="Band News.br">
     <title lang="pt">Tarde BandNews</title>
     <category lang="pt">News</category>
     <desc lang="pt">As principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
-  </programme>
-  <programme start="20260805160000 -0300" stop="20260805170000 -0300" channel="Band News.br">
-    <title lang="pt">Entre Nós</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">Atração jornalística com notícias de destaque e com formato inovador, transmitida simultaneamente de dois estúdios diferentes, um da rádio e um de TV.</desc>
   </programme>
   <programme start="20260805170000 -0300" stop="20260805180000 -0300" channel="Band News.br">
     <title lang="pt">Expresso BandNews</title>
@@ -10303,34 +10313,39 @@
     <desc lang="pt">O jornalista Reinaldo Azevedo comenta principais notícias do momento com opiniões, polêmica e motivação para o pensamento a respeito de acontecimentos e destaques no Brasil e no mundo.</desc>
   </programme>
   <programme start="20260805193000 -0300" stop="20260805203000 -0300" channel="Band News.br">
-    <title lang="pt">Jornal BandNews</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+    <title lang="pt">Panorama</title>
+    <category lang="pt">Politics</category>
+    <desc lang="pt">Revista eletrônica com debate sobre temas específicos em pauta na Assembleia, convidados no estúdio e reportagens especiais.</desc>
   </programme>
   <programme start="20260805203000 -0300" stop="20260805213000 -0300" channel="Band News.br">
     <title lang="pt">Jornal da Band</title>
     <category lang="pt">News</category>
     <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
   </programme>
-  <programme start="20260805213000 -0300" stop="20260805230000 -0300" channel="Band News.br">
+  <programme start="20260805213000 -0300" stop="20260805233000 -0300" channel="Band News.br">
     <title lang="pt">Edição da Noite</title>
     <category lang="pt">News</category>
     <desc lang="pt">Felipe Vieira e Veruska Donato apresentam o &quot;Edição da Noite&quot;, com análise dos principais acontecimentos do Brasil e do mundo. O jornal traz os bastidores da política e participação de Fernando Schüler, Emanuel Pessoa, Fernando Mitre e Aod Cunha.</desc>
   </programme>
-  <programme start="20260805230000 -0300" stop="20260805233000 -0300" channel="Band News.br">
+  <programme start="20260805233000 -0300" stop="20260806000000 -0300" channel="Band News.br">
     <title lang="pt">Viver Melhor</title>
     <category lang="pt">Health</category>
     <desc lang="pt">Autoridades, gestores da área da saúde e grandes médicos tratam de temas de interesse público.</desc>
   </programme>
-  <programme start="20260805233000 -0300" stop="20260806000000 -0300" channel="Band News.br">
-    <title lang="pt">Ponto a Ponto</title>
-    <category lang="pt">Public affairs</category>
-    <desc lang="pt">A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
-  </programme>
-  <programme start="20260806000000 -0300" stop="20260806020000 -0300" channel="Band News.br">
-    <title lang="pt">Madrugada BandNews</title>
+  <programme start="20260806000000 -0300" stop="20260806003000 -0300" channel="Band News.br">
+    <title lang="pt">Bandnews no Mundo</title>
     <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+    <desc lang="pt">Debate sobre os principais destaques do noticiário internacional. Na companhia de convidados especiais, apresenta os detalhes de tudo que acontece no cenário mundial.</desc>
+  </programme>
+  <programme start="20260806003000 -0300" stop="20260806010000 -0300" channel="Band News.br">
+    <title lang="pt">Bandnews Empresas</title>
+    <category lang="pt">Bus./financial</category>
+    <desc lang="pt">Análise semanal com foco no ecossistema corporativo, inovação, gestão e tendências de mercado.</desc>
+  </programme>
+  <programme start="20260806010000 -0300" stop="20260806020000 -0300" channel="Band News.br">
+    <title lang="pt">Jornal da Band</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
   </programme>
   <programme start="20260806020000 -0300" stop="20260806024500 -0300" channel="Band News.br">
     <title lang="pt">Jornal da Noite</title>
@@ -10338,24 +10353,18 @@
     <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
   </programme>
   <programme start="20260806024500 -0300" stop="20260806030000 -0300" channel="Band News.br">
-    <title lang="pt">Madrugada BandNews</title>
+    <title lang="pt">Opinião do Dia</title>
     <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
   </programme>
-  <programme start="20260806030000 -0300" stop="20260806033000 -0300" channel="Band News.br">
+  <programme start="20260806030000 -0300" stop="20260806050000 -0300" channel="Band News.br">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Felipe Vieira e Veruska Donato apresentam o &quot;Edição da Noite&quot;, com análise dos principais acontecimentos do Brasil e do mundo. O jornal traz os bastidores da política e participação de Fernando Schüler, Emanuel Pessoa, Fernando Mitre e Aod Cunha.</desc>
+  </programme>
+  <programme start="20260806050000 -0300" stop="20260806053000 -0300" channel="Band News.br">
     <title lang="pt">Jornal Terraviva</title>
     <category lang="pt">News</category>
     <desc lang="pt">Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
-  </programme>
-  <programme start="20260806033000 -0300" stop="20260806040000 -0300" channel="Band News.br">
-    <title lang="pt">Ponto a Ponto</title>
-    <category lang="pt">Public affairs</category>
-    <desc lang="pt">A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
-  </programme>
-  <programme start="20260806040000 -0300" stop="20260806053000 -0300" channel="Band News.br">
-    <title lang="pt">1º Jornal</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
   </programme>
   <programme start="20260806053000 -0300" stop="20260806080000 -0300" channel="Band News.br">
     <title lang="pt">Bandnews Hoje</title>
@@ -17452,7 +17461,7 @@
   <programme start="20260805071100 -0300" stop="20260805071400 -0300" channel="Cartoonito.br">
     <title lang="pt">Pocoyo - Músicas Infantis</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Divirta-se com Pocoyo e seus amigos cantando &quot;Na Fazenda da Nina&quot;.</desc>
+    <desc lang="pt">Divirta-se com Pocoyo e seus amigos cantando &quot;A Roda do Ônibus&quot;.</desc>
   </programme>
   <programme start="20260805071400 -0300" stop="20260805072200 -0300" channel="Cartoonito.br">
     <title lang="pt">Pocoyo</title>
@@ -28889,7 +28898,7 @@
   <programme start="20260806112000 -0300" stop="20260806122500 -0300" channel="HBO2.br">
     <title lang="pt">A Casa do Dragão</title>
     <category lang="pt">Temporada 3 Episódio 7 - O Dragão no Inverno</category>
-    <desc lang="pt">Os apoiadores de Aegon Targaryen entram em conflito com os adeptos de sua meia-irmã, Rhaenyra, pelo trono de Viserys I, seu falecido pai, iniciando uma guerra civil cerca de 200 anos antes dos eventos retratados em &quot;Game of Thrones&quot;.</desc>
+    <desc lang="pt">Dividida entre as visões de Mysaria e Daemon para seu reinado, Rhaenyra anseia desesperadamente por um sinal de que prevalecerá. A confiança entre as famílias se rompe quando Gwayne questiona os planos de Ormund, e Alicent chega a Harrenhal decidida a garantir a segurança de Helaena. Enquanto isso, Aegon toma uma decisão ousada e potencialmente imprudente.</desc>
   </programme>
   <programme start="20260806122500 -0300" stop="20260806144000 -0300" channel="HBO2.br">
     <title lang="pt">Covil de Ladrões 2</title>
@@ -32387,7 +32396,7 @@
   </programme>
   <programme start="20260805180000 -0300" stop="20260805183000 -0300" channel="SporTV 3.br">
     <title lang="pt">Baú do Esporte</title>
-    <desc lang="pt">Galvão Bueno relembra as sete medalhas de ouro olímpicas do Brasil narradas na carreira e o dia em que quase fez a lenda Michael Phelps perder uma vitória.</desc>
+    <desc lang="pt">Um dos poucos a ganhar os quatro principais torneios do tênis mundial, Andre Agassi não era apenas um atleta habilidoso e persistente, ele tinha personalidade forte, questionadora e combativa.</desc>
   </programme>
   <programme start="20260805183000 -0300" stop="20260805192500 -0300" channel="SporTV 3.br">
     <title lang="pt">Faixa Olímpica</title>
@@ -35458,26 +35467,6 @@
   <programme start="20260805220000 -0300" stop="20260805230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260805153000 -0300" stop="20260805180000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - MLB: St. Louis Cardinals x New York Yankees</title>
-    <category lang="pt">Esporte/Beisebol</category>
-  </programme>
-  <programme start="20260805180000 -0300" stop="20260805190000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Pelas Quadras</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20260805190000 -0300" stop="20260805193000 -0300" channel="ESPN 3.br">
-    <title lang="pt">ATP Tour: This Week</title>
-    <category lang="pt">Esporte/Tênis</category>
-  </programme>
-  <programme start="20260805193000 -0300" stop="20260805203000 -0300" channel="ESPN 3.br">
-    <title lang="pt">The Kingdom Presented By State Farm</title>
-    <category lang="pt">Documentário/Esportivo</category>
-  </programme>
-  <programme start="20260805203000 -0300" stop="20260805233000 -0300" channel="ESPN 3.br">
-    <title lang="pt">MLB: Pittsburgh Pirates x Milwaukee Brewers - Ao Vivo</title>
-    <category lang="pt">Esporte/Beisebol</category>
-  </programme>
   <programme start="20260805233000 -0300" stop="20260806023000 -0300" channel="ESPN 3.br">
     <title lang="pt">World Series of Poker Mesa Final: Dia 3 - Ao Vivo</title>
     <category lang="pt">Esporte/Diversos</category>
@@ -36502,18 +36491,6 @@
     <title lang="pt">WTA 1000 Toronto: Semifinal - Ao Vivo</title>
     <category lang="pt">Esporte/Tênis Feminino</category>
   </programme>
-  <programme start="20260805164000 -0300" stop="20260805174000 -0300" channel="Combate.br">
-    <title lang="pt">Boxe : Conceiçao x Muratalla</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260805174000 -0300" stop="20260805201000 -0300" channel="Combate.br">
-    <title lang="pt">Connect Heroes</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260805201000 -0300" stop="20260805224000 -0300" channel="Combate.br">
-    <title lang="pt">Fight Do Milhão -  Semifinais Feminino - Card Completo - São Paulo, Sp</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260805224000 -0300" stop="20260806010000 -0300" channel="Combate.br">
     <title lang="pt">Bare Knuckle</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36897,22 +36874,6 @@
   <programme start="20260819200000 -0300" stop="20260819210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260805154600 -0300" stop="20260805180600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Invocação do Mal 4: O Último Ritual</title>
-    <category lang="pt">Filme/Terror</category>
-  </programme>
-  <programme start="20260805180600 -0300" stop="20260805191000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Coisa de Menino</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260805191000 -0300" stop="20260805201000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Coisa de Menino</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260805201000 -0300" stop="20260805220000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Quase 18</title>
-    <category lang="pt">Filme/Drama</category>
   </programme>
   <programme start="20260805220000 -0300" stop="20260805234500 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Acompanhante Perfeita</title>
