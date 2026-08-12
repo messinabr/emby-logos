@@ -10400,15 +10400,15 @@
     <category lang="pt">Public affairs</category>
     <desc lang="pt">A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
   </programme>
-  <programme start="20260813040000 -0300" stop="20260813060000 -0300" channel="Band News.br">
+  <programme start="20260813040000 -0300" stop="20260813053000 -0300" channel="Band News.br">
     <title lang="pt">1º Jornal</title>
     <category lang="pt">News</category>
     <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
   </programme>
-  <programme start="20260813060000 -0300" stop="20260813080000 -0300" channel="Band News.br">
-    <title lang="pt">Jornal BandNews</title>
+  <programme start="20260813053000 -0300" stop="20260813080000 -0300" channel="Band News.br">
+    <title lang="pt">Bandnews Hoje</title>
     <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+    <desc lang="pt">Um jornal pensado para quem desperta conectado aos acontecimentos que movimentam o Brasil e o mundo.</desc>
   </programme>
   <programme start="20260813080000 -0300" stop="20260813093000 -0300" channel="Band News.br">
     <title lang="pt">Jornal Gente</title>
@@ -10416,29 +10416,39 @@
     <desc lang="pt">As principais notícias do Brasil e do mundo, com fatos importantes para se informar a cada dia.</desc>
   </programme>
   <programme start="20260813093000 -0300" stop="20260813100000 -0300" channel="Band News.br">
-    <title lang="pt">Radar BandNews</title>
+    <title lang="pt">Resumo Bandnews</title>
     <category lang="pt">News</category>
-    <desc lang="pt">As notícias mais importantes do dia que estão no radar do brasileiro.</desc>
+    <desc lang="pt">Nelson Gomes apresenta os acontecimentos mais relevantes do Brasil e do mundo, com linguagem objetiva, ritmo dinâmico e atualização precisa. Ele leva ao público as principais notícias do momento de forma ágil e direta.</desc>
   </programme>
-  <programme start="20260813100000 -0300" stop="20260813120000 -0300" channel="Band News.br">
+  <programme start="20260813100000 -0300" stop="20260813110000 -0300" channel="Band News.br">
     <title lang="pt">Manhã BandNews</title>
     <category lang="pt">News</category>
     <desc lang="pt">A atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
   </programme>
-  <programme start="20260813120000 -0300" stop="20260813140000 -0300" channel="Band News.br">
+  <programme start="20260813110000 -0300" stop="20260813120000 -0300" channel="Band News.br">
+    <title lang="pt">O X da Questão</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Ir além da notícia e revelar o que realmente importa: esse é o &quot;O X da Questão&quot;. Cynthia Martins e Rodolfo Schneider conduzem conversas inteligentes, com análise, contexto e diferentes pontos de vista sobre acontecimentos do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260813120000 -0300" stop="20260813123000 -0300" channel="Band News.br">
     <title lang="pt">BandNews no Meio do Dia</title>
     <category lang="pt">News</category>
     <desc lang="pt">Fique por dentro dos fatos mais importantes com participação de entrevistados e comentaristas.</desc>
   </programme>
-  <programme start="20260813140000 -0300" stop="20260813160000 -0300" channel="Band News.br">
+  <programme start="20260813123000 -0300" stop="20260813130000 -0300" channel="Band News.br">
+    <title lang="pt">Resumo Bandnews</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Nelson Gomes apresenta os acontecimentos mais relevantes do Brasil e do mundo, com linguagem objetiva, ritmo dinâmico e atualização precisa. Ele leva ao público as principais notícias do momento de forma ágil e direta.</desc>
+  </programme>
+  <programme start="20260813130000 -0300" stop="20260813140000 -0300" channel="Band News.br">
+    <title lang="pt">Papo Reto</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Com estilo analítico e provocador, Carlos Andreazza, do Rio de Janeiro, conduz as principais discussões do &quot;Papo Reto&quot; ao lado de Patrícia Rocha, nos estúdios de São Paulo.</desc>
+  </programme>
+  <programme start="20260813140000 -0300" stop="20260813170000 -0300" channel="Band News.br">
     <title lang="pt">Tarde BandNews</title>
     <category lang="pt">News</category>
     <desc lang="pt">As principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
-  </programme>
-  <programme start="20260813160000 -0300" stop="20260813170000 -0300" channel="Band News.br">
-    <title lang="pt">Entre Nós</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">Atração jornalística com notícias de destaque e com formato inovador, transmitida simultaneamente de dois estúdios diferentes, um da rádio e um de TV.</desc>
   </programme>
   <programme start="20260813170000 -0300" stop="20260813180000 -0300" channel="Band News.br">
     <title lang="pt">Expresso BandNews</title>
@@ -10451,9 +10461,9 @@
     <desc lang="pt">O jornalista Reinaldo Azevedo comenta principais notícias do momento com opiniões, polêmica e motivação para o pensamento a respeito de acontecimentos e destaques no Brasil e no mundo.</desc>
   </programme>
   <programme start="20260813193000 -0300" stop="20260813203000 -0300" channel="Band News.br">
-    <title lang="pt">Jornal BandNews</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+    <title lang="pt">Panorama</title>
+    <category lang="pt">Politics</category>
+    <desc lang="pt">Revista eletrônica com debate sobre temas específicos em pauta na Assembleia, convidados no estúdio e reportagens especiais.</desc>
   </programme>
   <programme start="20260813203000 -0300" stop="20260813213000 -0300" channel="Band News.br">
     <title lang="pt">Jornal da Band</title>
@@ -10465,20 +10475,15 @@
     <category lang="pt">News</category>
     <desc lang="pt">Felipe Vieira e Veruska Donato apresentam o &quot;Edição da Noite&quot;, com análise dos principais acontecimentos do Brasil e do mundo. O jornal traz os bastidores da política e participação de Fernando Schüler, Emanuel Pessoa, Fernando Mitre e Aod Cunha.</desc>
   </programme>
-  <programme start="20260813230000 -0300" stop="20260813233000 -0300" channel="Band News.br">
-    <title lang="pt">Economia pra Você</title>
-    <category lang="pt">Bus./financial</category>
-    <desc lang="pt">Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
+  <programme start="20260813230000 -0300" stop="20260814010000 -0300" channel="Band News.br">
+    <title lang="pt">Eleições 2026: Debate dos Candidatos ao Governo do Estado da Bahia - 1º Turno</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Candidatos ao governo do estado da Bahia apresentam e debatem suas propostas eleitorais. Participam ACM Neto, do União Brasil, Jerônimo Rodrigues, do PT, e Ronaldo Mansur, do PSOL.</desc>
   </programme>
-  <programme start="20260813233000 -0300" stop="20260814000000 -0300" channel="Band News.br">
-    <title lang="pt">Show Business</title>
-    <category lang="pt">Interview</category>
-    <desc lang="pt">Acompanhe entrevistas com personalidades do mundo empresarial, politico e cultural. Economia, negócios e administração pública são os temas principais abordados.</desc>
-  </programme>
-  <programme start="20260814000000 -0300" stop="20260814020000 -0300" channel="Band News.br">
-    <title lang="pt">Madrugada BandNews</title>
+  <programme start="20260814010000 -0300" stop="20260814020000 -0300" channel="Band News.br">
+    <title lang="pt">Jornal da Band</title>
     <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
   </programme>
   <programme start="20260814020000 -0300" stop="20260814024500 -0300" channel="Band News.br">
     <title lang="pt">Jornal da Noite</title>
@@ -10486,24 +10491,28 @@
     <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
   </programme>
   <programme start="20260814024500 -0300" stop="20260814030000 -0300" channel="Band News.br">
-    <title lang="pt">Madrugada BandNews</title>
+    <title lang="pt">Opinião do Dia</title>
     <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
   </programme>
-  <programme start="20260814030000 -0300" stop="20260814033000 -0300" channel="Band News.br">
+  <programme start="20260814030000 -0300" stop="20260814043000 -0300" channel="Band News.br">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Felipe Vieira e Veruska Donato apresentam o &quot;Edição da Noite&quot;, com análise dos principais acontecimentos do Brasil e do mundo. O jornal traz os bastidores da política e participação de Fernando Schüler, Emanuel Pessoa, Fernando Mitre e Aod Cunha.</desc>
+  </programme>
+  <programme start="20260814043000 -0300" stop="20260814050000 -0300" channel="Band News.br">
+    <title lang="pt">Viver Melhor</title>
+    <category lang="pt">Health</category>
+    <desc lang="pt">Autoridades, gestores da área da saúde e grandes médicos tratam de temas de interesse público.</desc>
+  </programme>
+  <programme start="20260814050000 -0300" stop="20260814053000 -0300" channel="Band News.br">
     <title lang="pt">Jornal Terraviva</title>
     <category lang="pt">News</category>
     <desc lang="pt">Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
   </programme>
-  <programme start="20260814033000 -0300" stop="20260814040000 -0300" channel="Band News.br">
-    <title lang="pt">Economia pra Você</title>
-    <category lang="pt">Bus./financial</category>
-    <desc lang="pt">Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
-  </programme>
-  <programme start="20260814040000 -0300" stop="20260814050000 -0300" channel="Band News.br">
-    <title lang="pt">1º Jornal</title>
+  <programme start="20260814053000 -0300" stop="20260814063000 -0300" channel="Band News.br">
+    <title lang="pt">Bandnews Hoje</title>
     <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
+    <desc lang="pt">Um jornal pensado para quem desperta conectado aos acontecimentos que movimentam o Brasil e o mundo.</desc>
   </programme>
   <programme start="20260812060000 -0300" stop="20260812062000 -0300" channel="National Geographic.br">
     <title lang="pt">A Fábrica de Comidas</title>
@@ -12083,7 +12092,7 @@
   <programme start="20260812062400 -0300" stop="20260812071200 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260812071200 -0300" stop="20260812080000 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12093,7 +12102,7 @@
   <programme start="20260812080000 -0300" stop="20260812084800 -0300" channel="Discovery Science.br">
     <title lang="pt">Olho Crítico</title>
     <category lang="pt">Anthology</category>
-    <desc lang="pt">Este episódio analisa o crescente interesse pelas medicinas alternativas e lança um olhar crítico sobre antigos métodos de cura, como acupuntura e homeopatia, e sobre técnicas modernas, como reiki e terapia magnética com pedras, entre outras.</desc>
+    <desc lang="pt">Este episódio investiga o poder da mente. Descubra se ela pode realmente ser enganada por mensagens subliminares, ser hipnotizada ou reprimir lembranças terríveis.</desc>
   </programme>
   <programme start="20260812084800 -0300" stop="20260812093600 -0300" channel="Discovery Science.br">
     <title lang="pt">Tesouro Visto do Espaço</title>
@@ -12113,7 +12122,7 @@
   <programme start="20260812111200 -0300" stop="20260812120000 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260812120000 -0300" stop="20260812124800 -0300" channel="Discovery Science.br">
     <title lang="pt">Códigos e Conspirações</title>
@@ -12123,7 +12132,7 @@
   <programme start="20260812124800 -0300" stop="20260812133600 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260812133600 -0300" stop="20260812142400 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12153,7 +12162,7 @@
   <programme start="20260812173600 -0300" stop="20260812182400 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260812182400 -0300" stop="20260812191200 -0300" channel="Discovery Science.br">
     <title lang="pt">Desvendando o Passado</title>
@@ -12178,7 +12187,7 @@
   <programme start="20260812213600 -0300" stop="20260812222400 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260812222400 -0300" stop="20260812231200 -0300" channel="Discovery Science.br">
     <title lang="pt">Códigos e Conspirações</title>
@@ -12188,7 +12197,7 @@
   <programme start="20260812231200 -0300" stop="20260813000000 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260813000000 -0300" stop="20260813004800 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12198,7 +12207,7 @@
   <programme start="20260813004800 -0300" stop="20260813013600 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260813013600 -0300" stop="20260813022400 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12223,7 +12232,7 @@
   <programme start="20260813044800 -0300" stop="20260813053600 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260813053600 -0300" stop="20260813062400 -0300" channel="Discovery Science.br">
     <title lang="pt">Códigos e Conspirações</title>
@@ -12233,7 +12242,7 @@
   <programme start="20260813062400 -0300" stop="20260813071200 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260813071200 -0300" stop="20260813080000 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12243,7 +12252,7 @@
   <programme start="20260813080000 -0300" stop="20260813084800 -0300" channel="Discovery Science.br">
     <title lang="pt">Olho Crítico</title>
     <category lang="pt">Anthology</category>
-    <desc lang="pt">Este episódio analisa o crescente interesse pelas medicinas alternativas e lança um olhar crítico sobre antigos métodos de cura, como acupuntura e homeopatia, e sobre técnicas modernas, como reiki e terapia magnética com pedras, entre outras.</desc>
+    <desc lang="pt">Este episódio investiga o poder da mente. Descubra se ela pode realmente ser enganada por mensagens subliminares, ser hipnotizada ou reprimir lembranças terríveis.</desc>
   </programme>
   <programme start="20260813084800 -0300" stop="20260813093600 -0300" channel="Discovery Science.br">
     <title lang="pt">Tesouro Visto do Espaço</title>
@@ -12263,7 +12272,7 @@
   <programme start="20260813111200 -0300" stop="20260813120000 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260813120000 -0300" stop="20260813124800 -0300" channel="Discovery Science.br">
     <title lang="pt">Códigos e Conspirações</title>
@@ -12273,7 +12282,7 @@
   <programme start="20260813124800 -0300" stop="20260813133600 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260813133600 -0300" stop="20260813142400 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12303,7 +12312,7 @@
   <programme start="20260813173600 -0300" stop="20260813182400 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260813182400 -0300" stop="20260813191200 -0300" channel="Discovery Science.br">
     <title lang="pt">Desvendando o Passado</title>
@@ -12328,7 +12337,7 @@
   <programme start="20260813213600 -0300" stop="20260813222400 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260813222400 -0300" stop="20260813231200 -0300" channel="Discovery Science.br">
     <title lang="pt">Códigos e Conspirações</title>
@@ -12338,7 +12347,7 @@
   <programme start="20260813231200 -0300" stop="20260814000000 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260814000000 -0300" stop="20260814004800 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12348,7 +12357,7 @@
   <programme start="20260814004800 -0300" stop="20260814013600 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre</title>
     <category lang="pt">Science</category>
-    <desc lang="pt">Um acidente fatal em um bairro de Nova York e um em Quebec levantam a questão: a última geração de aeronave é capaz de lidar com as tensões de alta velocidade e altitude?</desc>
+    <desc lang="pt">Um descarrilamento em Maryland e uma colisão em Londres tiram muitas vidas. A manutenção tem se mantido em dia ou a indústria está se dirigindo ao desastre?</desc>
   </programme>
   <programme start="20260814013600 -0300" stop="20260814022400 -0300" channel="Discovery Science.br">
     <title lang="pt">Armas USA</title>
@@ -12373,7 +12382,7 @@
   <programme start="20260814044800 -0300" stop="20260814053600 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">A construção do Túnel Gotthard Base, na Suíça, foi projetada para levar 25 anos e já é considerada a obra mais desafiadora da qual se tem notícia na engenharia moderna, devido à sua extensão e complexidade.</desc>
+    <desc lang="pt">Conheça Snohvit, a primeira fábrica de gás natural liquefeito da Europa. Ela está sendo construída na Espanha e depois será levada até o Círculo Ártico. É a primeira vez que uma fábrica do gênero é construída tão longe do local de instalação.</desc>
   </programme>
   <programme start="20260814053600 -0300" stop="20260814063600 -0300" channel="Discovery Science.br">
     <title lang="pt">Códigos e Conspirações</title>
@@ -12413,7 +12422,7 @@
   <programme start="20260812091200 -0300" stop="20260812093600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260812093600 -0300" stop="20260812100000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12433,7 +12442,7 @@
   <programme start="20260812104800 -0300" stop="20260812111200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260812111200 -0300" stop="20260812113600 -0300" channel="Discovery World.br">
     <title lang="pt">Paraísos pelo Mundo - Praias</title>
@@ -12458,7 +12467,7 @@
   <programme start="20260812131200 -0300" stop="20260812133600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260812133600 -0300" stop="20260812140000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12473,7 +12482,7 @@
   <programme start="20260812142400 -0300" stop="20260812144800 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Conheça as melhores piscinas VIP do planeta. Veja um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.</desc>
+    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um toboágua infinito ao melhor parque aquático para as crianças, venha mergulhar nas atrações aquáticas mais divertidas do planeta.</desc>
   </programme>
   <programme start="20260812144800 -0300" stop="20260812151200 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12503,7 +12512,7 @@
   <programme start="20260812164800 -0300" stop="20260812171200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260812171200 -0300" stop="20260812173600 -0300" channel="Discovery World.br">
     <title lang="pt">Minha Casa nas Montanhas</title>
@@ -12518,17 +12527,17 @@
   <programme start="20260812180000 -0300" stop="20260812182400 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260812182400 -0300" stop="20260812184800 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260812184800 -0300" stop="20260812191200 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Conheça as melhores piscinas VIP do planeta. Veja um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.</desc>
+    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um toboágua infinito ao melhor parque aquático para as crianças, venha mergulhar nas atrações aquáticas mais divertidas do planeta.</desc>
   </programme>
   <programme start="20260812191200 -0300" stop="20260812193600 -0300" channel="Discovery World.br">
     <title lang="pt">Vende-se Pântano</title>
@@ -12538,7 +12547,7 @@
   <programme start="20260812193600 -0300" stop="20260812200000 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260812200000 -0300" stop="20260812202400 -0300" channel="Discovery World.br">
     <title lang="pt">Você Renova</title>
@@ -12593,7 +12602,7 @@
   <programme start="20260813011200 -0300" stop="20260813013600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260813013600 -0300" stop="20260813020000 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12628,7 +12637,7 @@
   <programme start="20260813051200 -0300" stop="20260813053600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260813053600 -0300" stop="20260813060000 -0300" channel="Discovery World.br">
     <title lang="pt">Buying Hawaii</title>
@@ -12668,7 +12677,7 @@
   <programme start="20260813091200 -0300" stop="20260813093600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260813093600 -0300" stop="20260813100000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12688,7 +12697,7 @@
   <programme start="20260813104800 -0300" stop="20260813111200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260813111200 -0300" stop="20260813113600 -0300" channel="Discovery World.br">
     <title lang="pt">Paraísos pelo Mundo - Praias</title>
@@ -12713,7 +12722,7 @@
   <programme start="20260813131200 -0300" stop="20260813133600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260813133600 -0300" stop="20260813140000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12728,7 +12737,7 @@
   <programme start="20260813142400 -0300" stop="20260813144800 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Conheça as melhores piscinas VIP do planeta. Veja um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.</desc>
+    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um toboágua infinito ao melhor parque aquático para as crianças, venha mergulhar nas atrações aquáticas mais divertidas do planeta.</desc>
   </programme>
   <programme start="20260813144800 -0300" stop="20260813151200 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12758,7 +12767,7 @@
   <programme start="20260813164800 -0300" stop="20260813171200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260813171200 -0300" stop="20260813173600 -0300" channel="Discovery World.br">
     <title lang="pt">Minha Casa nas Montanhas</title>
@@ -12773,17 +12782,17 @@
   <programme start="20260813180000 -0300" stop="20260813182400 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260813182400 -0300" stop="20260813184800 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260813184800 -0300" stop="20260813191200 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Conheça as melhores piscinas VIP do planeta. Veja um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.</desc>
+    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um toboágua infinito ao melhor parque aquático para as crianças, venha mergulhar nas atrações aquáticas mais divertidas do planeta.</desc>
   </programme>
   <programme start="20260813191200 -0300" stop="20260813193600 -0300" channel="Discovery World.br">
     <title lang="pt">Vende-se Pântano</title>
@@ -12793,7 +12802,7 @@
   <programme start="20260813193600 -0300" stop="20260813200000 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260813200000 -0300" stop="20260813202400 -0300" channel="Discovery World.br">
     <title lang="pt">Você Renova</title>
@@ -12848,7 +12857,7 @@
   <programme start="20260814011200 -0300" stop="20260814013600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Tom e Michelle Billionis fazem sua primeira viagem a Nova York, onde têm a chance de testar três hotéis muito diferentes. Com um orçamento de quatro mil dólares, escolher o melhor será um desafio.</desc>
+    <desc lang="pt">Após viajar pelo sul dos EUA, Tim quer levar sua esposa para conhecer Nova Orleans, Louisiana. Eles precisam decidir entre o luxo do French Quarter, as atrações da Bourbon Street e o tradicional Garden District.</desc>
   </programme>
   <programme start="20260814013600 -0300" stop="20260814020000 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12883,7 +12892,7 @@
   <programme start="20260814051200 -0300" stop="20260814053600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett, lançou a campanha &quot;Esta Cidade Vai Fazer Dieta&quot;. Ao longo de dois meses, acompanhe duas jornadas de perda de peso e seus desafios.</desc>
+    <desc lang="pt">Entenda como duas dietas radicais podem desacelerar o processo de envelhecimento: um casal restringe o consumo calórico pela metade para tentar viver mais e um atleta crudívoro de 40 anos.</desc>
   </programme>
   <programme start="20260814053600 -0300" stop="20260814063600 -0300" channel="Discovery World.br">
     <title lang="pt">Buying Hawaii</title>
@@ -16303,62 +16312,62 @@
   <programme start="20260812055100 -0300" stop="20260812060200 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812060200 -0300" stop="20260812061400 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812061400 -0300" stop="20260812062500 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812062500 -0300" stop="20260812063700 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812063700 -0300" stop="20260812064800 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812064800 -0300" stop="20260812070000 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812070000 -0300" stop="20260812071100 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812071100 -0300" stop="20260812072300 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812072300 -0300" stop="20260812073400 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812073400 -0300" stop="20260812074600 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812074600 -0300" stop="20260812075700 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812075700 -0300" stop="20260812080900 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260812080900 -0300" stop="20260812082100 -0300" channel="Gloob HD.br">
     <title lang="pt">Denver</title>
@@ -16588,7 +16597,7 @@
   <programme start="20260813001800 -0300" stop="20260813002900 -0300" channel="Gloob HD.br">
     <title lang="pt">Alvinnn!!! E os Esquilos</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Theodore presenteia Dave com um colete feito à mão em seu aniversário e insiste que ele use.</desc>
+    <desc lang="pt">A sorte de Alvin vai de mal a pior depois que Theodore encontra um trevo-de-quatro-folhas e tudo começa a acontecer do seu jeito.</desc>
   </programme>
   <programme start="20260813002900 -0300" stop="20260813005300 -0300" channel="Gloob HD.br">
     <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
@@ -19773,7 +19782,7 @@
   <programme start="20260813125000 -0300" stop="20260813130000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
+    <desc lang="pt">Na tranquila região do Mar Azul, Baiá e seus amigos estão desfrutando de um momento de descontração quando são surpreendidos por um acontecimento verdadeiramente assustador. Baiá fica tão aterrorizado que corre para contar para o polvo Ast.</desc>
   </programme>
   <programme start="20260813130000 -0300" stop="20260813131500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Meu AmigãoZão</title>
@@ -19793,7 +19802,7 @@
   <programme start="20260813133500 -0300" stop="20260813134500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">A paixão de Ludovico por futebol acabou. Por conta disso, ele decide não jogar a final do campeonato interquintais. Mas Ofélia tem a fórmula para mudar essa situação.</desc>
+    <desc lang="pt">Doroteia e Osório visitam o Museu Lasar Segall em busca de inspiração para um baile de carnaval. Eles descobrem que o artista modernista criou cenários carnavalescos nos anos 30, unindo arte e diversão.</desc>
   </programme>
   <programme start="20260813134500 -0300" stop="20260813140000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Rubra em Família</title>
@@ -19863,7 +19872,7 @@
   <programme start="20260813170000 -0300" stop="20260813171000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">A paixão de Ludovico por futebol acabou. Por conta disso, ele decide não jogar a final do campeonato interquintais. Mas Ofélia tem a fórmula para mudar essa situação.</desc>
+    <desc lang="pt">Doroteia e Osório visitam o Museu Lasar Segall em busca de inspiração para um baile de carnaval. Eles descobrem que o artista modernista criou cenários carnavalescos nos anos 30, unindo arte e diversão.</desc>
   </programme>
   <programme start="20260813171000 -0300" stop="20260813172000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Os Óculos Mágicos de Charlotte</title>
@@ -19873,7 +19882,7 @@
   <programme start="20260813172000 -0300" stop="20260813173000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
+    <desc lang="pt">Na tranquila região do Mar Azul, Baiá e seus amigos estão desfrutando de um momento de descontração quando são surpreendidos por um acontecimento verdadeiramente assustador. Baiá fica tão aterrorizado que corre para contar para o polvo Ast.</desc>
   </programme>
   <programme start="20260813173000 -0300" stop="20260813174000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Isso Disso</title>
@@ -19958,7 +19967,7 @@
   <programme start="20260813203000 -0300" stop="20260813210000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Em terras de poucas chuvas, crianças do Vale do Jequitinhonha mostram e contam como constroem carrinhos com latas e tábuas com mãos de poucas perguntas. As mesmas que são também sabedoras de jogos de pedrinhas, bolinhas de gude, de apanhar fruta no pé e de lavar roupa no rio. Os pés deslizam sobre uma amarelinha de chutar pedra até o último dia da semana, pulam corda, saltam em riachos e montam em cavalos de pau. À noite se juntam em cantorias de Folia de Reis, passando de casa em casa.</desc>
+    <desc lang="pt">Debaixo de uma mangueira um mundo se faz. Crianças de três comunidades do Vale do Jequitinhonha revelam como constroem suas casinhas e todos os segredos que habitam esses cantinhos. Seus corpos vigorosos brincam de esconde-esconde pela mata, tocam o batuque em família, sobem e descem em gangorras de bambu e giram suas biorras.</desc>
   </programme>
   <programme start="20260813210000 -0300" stop="20260813212000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">DJ Cão e a Loja de Discos</title>
@@ -20078,12 +20087,12 @@
   <programme start="20260814035000 -0300" stop="20260814040000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
+    <desc lang="pt">Na tranquila região do Mar Azul, Baiá e seus amigos estão desfrutando de um momento de descontração quando são surpreendidos por um acontecimento verdadeiramente assustador. Baiá fica tão aterrorizado que corre para contar para o polvo Ast.</desc>
   </programme>
   <programme start="20260814040000 -0300" stop="20260814043000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Em terras de poucas chuvas, crianças do Vale do Jequitinhonha mostram e contam como constroem carrinhos com latas e tábuas com mãos de poucas perguntas. As mesmas que são também sabedoras de jogos de pedrinhas, bolinhas de gude, de apanhar fruta no pé e de lavar roupa no rio. Os pés deslizam sobre uma amarelinha de chutar pedra até o último dia da semana, pulam corda, saltam em riachos e montam em cavalos de pau. À noite se juntam em cantorias de Folia de Reis, passando de casa em casa.</desc>
+    <desc lang="pt">Debaixo de uma mangueira um mundo se faz. Crianças de três comunidades do Vale do Jequitinhonha revelam como constroem suas casinhas e todos os segredos que habitam esses cantinhos. Seus corpos vigorosos brincam de esconde-esconde pela mata, tocam o batuque em família, sobem e descem em gangorras de bambu e giram suas biorras.</desc>
   </programme>
   <programme start="20260814043000 -0300" stop="20260814044500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Repórter Rá Teen Bum</title>
@@ -20485,7 +20494,7 @@
   <programme start="20260812061100 -0300" stop="20260812061300 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">HackTown 2025</title>
     <category lang="pt">Event</category>
-    <desc lang="pt">Todos os eventos do festival de inovação, negócios, tecnologia e criatividade na cidade de Santa Rita do Sapucaí, em Minas Gerais.</desc>
+    <desc lang="pt">A banda Cor dos Olhos se apresenta no festival HackTown 2025.</desc>
   </programme>
   <programme start="20260812061300 -0300" stop="20260812061400 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Music Drops</title>
@@ -20818,7 +20827,7 @@
   <programme start="20260813004900 -0300" stop="20260813005100 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">HackTown 2025</title>
     <category lang="pt">Event</category>
-    <desc lang="pt">Todos os eventos do festival de inovação, negócios, tecnologia e criatividade na cidade de Santa Rita do Sapucaí, em Minas Gerais.</desc>
+    <desc lang="pt">A banda Cor dos Olhos se apresenta no festival HackTown 2025.</desc>
   </programme>
   <programme start="20260813005100 -0300" stop="20260813005200 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Music Drops</title>
@@ -20956,7 +20965,7 @@
   <programme start="20260813021200 -0300" stop="20260813021500 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">HackTown 2025</title>
     <category lang="pt">Event</category>
-    <desc lang="pt">Todos os eventos do festival de inovação, negócios, tecnologia e criatividade na cidade de Santa Rita do Sapucaí, em Minas Gerais.</desc>
+    <desc lang="pt">A banda Cor dos Olhos se apresenta no festival HackTown 2025.</desc>
   </programme>
   <programme start="20260813021500 -0300" stop="20260813021700 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Music Drops</title>
@@ -21517,7 +21526,7 @@
   <programme start="20260814001200 -0300" stop="20260814001500 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">HackTown 2025</title>
     <category lang="pt">Event</category>
-    <desc lang="pt">Todos os eventos do festival de inovação, negócios, tecnologia e criatividade na cidade de Santa Rita do Sapucaí, em Minas Gerais.</desc>
+    <desc lang="pt">A banda Cor dos Olhos se apresenta no festival HackTown 2025.</desc>
   </programme>
   <programme start="20260814001500 -0300" stop="20260814001700 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Music Drops</title>
@@ -21532,7 +21541,7 @@
   <programme start="20260814001800 -0300" stop="20260814002000 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">HackTown 2025</title>
     <category lang="pt">Event</category>
-    <desc lang="pt">Todos os eventos do festival de inovação, negócios, tecnologia e criatividade na cidade de Santa Rita do Sapucaí, em Minas Gerais.</desc>
+    <desc lang="pt">A banda Cor dos Olhos se apresenta no festival HackTown 2025.</desc>
   </programme>
   <programme start="20260814002000 -0300" stop="20260814002100 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Music Drops</title>
@@ -25849,7 +25858,7 @@
   <programme start="20260813103000 -0300" stop="20260813110000 -0300" channel="Film &amp; Arts HD.br">
     <title lang="pt">Film&amp;Arts Desde o West End</title>
     <category lang="pt">Entertainment</category>
-    <desc lang="pt">Tudo sobre a aclamada adaptação musical de &quot;De Volta para o Futuro&quot;, do Teatro Adelphi, em Londres.</desc>
+    <desc lang="pt">O programa traz as novidades do cenário teatral londrino com uma perspectiva latino-americana.</desc>
   </programme>
   <programme start="20260813110000 -0300" stop="20260813123500 -0300" channel="Film &amp; Arts HD.br">
     <title lang="pt">Martha Argerich &amp; Lahav Shani em Tel Aviv</title>
@@ -26160,7 +26169,7 @@
   <programme start="20260813154700 -0300" stop="20260813155000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Espelho</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <desc lang="pt">A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia.</desc>
   </programme>
   <programme start="20260813155000 -0300" stop="20260813173500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Môa, Raiz Afro Mãe</title>
@@ -26185,7 +26194,7 @@
   <programme start="20260813192200 -0300" stop="20260813193000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260813193000 -0300" stop="20260813194500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Esquinas - Pílulas</title>
@@ -26209,7 +26218,7 @@
   <programme start="20260813203500 -0300" stop="20260813204000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260813204000 -0300" stop="20260813220000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Quando Eu me Encontrar</title>
@@ -26224,7 +26233,7 @@
   <programme start="20260813235000 -0300" stop="20260813235500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260813235500 -0300" stop="20260814012000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Riscado</title>
@@ -26233,7 +26242,7 @@
   <programme start="20260814012000 -0300" stop="20260814012500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Espelho</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <desc lang="pt">A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia.</desc>
   </programme>
   <programme start="20260814012500 -0300" stop="20260814032000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Tieta do Agreste</title>
@@ -26243,7 +26252,7 @@
   <programme start="20260814032000 -0300" stop="20260814032500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Espelho</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <desc lang="pt">A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia.</desc>
   </programme>
   <programme start="20260814032500 -0300" stop="20260814043000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Matou a Família e Foi ao Cinema</title>
@@ -26980,10 +26989,15 @@
     <category lang="pt">Action / 2018</category>
     <desc lang="pt">Um falsificador é pego pela polícia de Hong Kong e a Justiça lhe oferece depor contra uma importante rede de falsificação de dinheiro. Para impedir sua declaração, o líder da máfia o ameaça.</desc>
   </programme>
-  <programme start="20260813042800 -0300" stop="20260813064300 -0300" channel="CINEMAX HD.br">
+  <programme start="20260813042800 -0300" stop="20260813055600 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Operação Corvo</title>
     <category lang="pt">Action / 2007</category>
     <desc lang="pt">O Colégio para Rapazes Suzuran, apelidado de Escola dos Corvos, é a escola mais violenta do país. Os alunos são chamados de corvos e se unem em facções, batalhando uns com os outros por influência e poder. Mas todos eles têm o mesmo objetivo, e que nunca foi obtido na história da escola: a unificação.</desc>
+  </programme>
+  <programme start="20260813055600 -0300" stop="20260813064300 -0300" channel="CINEMAX HD.br">
+    <title lang="pt">TNT Buzz</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Interview style program, reporting on world news and entertainment.</desc>
   </programme>
   <programme start="20260813064300 -0300" stop="20260813085600 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Operação Corvo - Suzuran Contra Kurosaki</title>
@@ -27128,9 +27142,9 @@
     <desc lang="pt">Resgatando novos e antigos achados da Grande Lixeira Cultural da Sbørnia, e apresentando aspectos nunca divulgados da geografia e da cultura do país, artistas trazem para a linguagem audiovisual a estética do teatro hiperbólico sbørniano.</desc>
   </programme>
   <programme start="20260812143000 -0300" stop="20260812150000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Brasil e Alemanha</title>
+    <title lang="pt">Brasil e Alemanha: 200 Anos de História</title>
     <category lang="pt">Temporada 1 Episódio 3 - Compartilhar</category>
-    <desc lang="pt">Uma análise sobre o presente e o futuro das relações entre Brasil e Alemanha, com foco nas iniciativas de igualdade de gênero, sustentabilidade e cooperação diplomática.</desc>
+    <desc lang="pt">O presente e o futuro das relações entre Brasil e Alemanha, com foco nas iniciativas de igualdade de gênero, sustentabilidade e cooperação diplomática. A trajetória de mulheres em cargos de liderança, como a cônsul-geral da Alemanha em São Paulo, é destacada ao lado de temas como energias renováveis, cultura compartilhada, educação e influência gastronômica.</desc>
   </programme>
   <programme start="20260812150000 -0300" stop="20260812190000 -0300" channel="Prime Box Brazil HD.br">
     <title lang="pt">1001 Noites</title>
@@ -27347,9 +27361,9 @@
     <desc lang="pt">Após anos de tragédias e crimes, veja como os responsáveis estão se posicionando e qual apoio é dado a essas pessoas anos depois.</desc>
   </programme>
   <programme start="20260813093000 -0300" stop="20260813100000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Brasil e Alemanha</title>
+    <title lang="pt">Brasil e Alemanha: 200 Anos de História</title>
     <category lang="pt">Temporada 1 Episódio 3 - Compartilhar</category>
-    <desc lang="pt">Uma análise sobre o presente e o futuro das relações entre Brasil e Alemanha, com foco nas iniciativas de igualdade de gênero, sustentabilidade e cooperação diplomática.</desc>
+    <desc lang="pt">O presente e o futuro das relações entre Brasil e Alemanha, com foco nas iniciativas de igualdade de gênero, sustentabilidade e cooperação diplomática. A trajetória de mulheres em cargos de liderança, como a cônsul-geral da Alemanha em São Paulo, é destacada ao lado de temas como energias renováveis, cultura compartilhada, educação e influência gastronômica.</desc>
   </programme>
   <programme start="20260813100000 -0300" stop="20260813110000 -0300" channel="Prime Box Brazil HD.br">
     <title lang="pt">No Interior das Pirâmides</title>
@@ -28969,21 +28983,21 @@
     <category lang="pt">Children / 2015</category>
     <desc lang="pt">Um caso de confusão de identidade faz humanos e animais acreditarem que há um lobisomem na floresta de Timberline. Shaw, um antigo caçador, aproveita a oportunidade para voltar a abrir a temporada de caça.</desc>
   </programme>
-  <programme start="20260813041700 -0300" stop="20260813060100 -0300" channel="HBO Family HD.br">
+  <programme start="20260813041700 -0300" stop="20260813060000 -0300" channel="HBO Family HD.br">
     <title lang="pt">LEGO Ninjago - O Filme</title>
     <category lang="pt">Children / 2017</category>
     <desc lang="pt">Pai e filho entram em um confronto épico para testar uma equipe indisciplinada de ninjas modernos. Agora, o grupo precisa aprender a controlar o ego e se unir para libertar seu verdadeiro poder.</desc>
   </programme>
-  <programme start="20260813060100 -0300" stop="20260813074000 -0300" channel="HBO Family HD.br">
+  <programme start="20260813060000 -0300" stop="20260813073900 -0300" channel="HBO Family HD.br">
     <title lang="pt">Pé Pequeno</title>
     <category lang="pt">Children / 2018</category>
     <desc lang="pt">Uma criatura conhecida como o Abominável Homem das Neves tem certeza de que os seres humanos realmente existem, mesmo que todos da sua espécie neguem. Mas ele não desiste tão facilmente de provar a sua tese.</desc>
   </programme>
-  <programme start="20260813074000 -0300" stop="20260813092100 -0300" channel="HBO Family HD.br">
+  <programme start="20260813073900 -0300" stop="20260813091900 -0300" channel="HBO Family HD.br">
     <title lang="pt">Férias no Trailer</title>
     <desc lang="pt">Bob Munro está estressado de tanto trabalhar. Decidido a descansar, ele quer levar sua esposa, Jamie, e seus filhos, Cassie e Carl, para uma viagem. Bob promete levá-los ao Havaí, mas decide mudar os planos sem os comunicar e viajar pelo Colorado em um trailer. Jamie, Cassie e Carl não gostam da ideia, mas aceitam viajar. Só que a vida em um trailer não tem o conforto com o qual estão acostumados em Los Angeles e cada tentativa de Bob em animar sua família acaba se tornando um grande desastre.</desc>
   </programme>
-  <programme start="20260813092100 -0300" stop="20260813112900 -0300" channel="HBO Family HD.br">
+  <programme start="20260813091900 -0300" stop="20260813112900 -0300" channel="HBO Family HD.br">
     <title lang="pt">Peixe Grande e Suas Histórias Maravilhosas</title>
     <category lang="pt">Drama / 2003</category>
     <desc lang="pt">William tem uma relação tensa com seu pai, Edward Bloom, porque ele sempre contou histórias exageradas sobre sua vida. Mesmo no leito de morte, Edward ainda narra histórias fantásticas. Quando William, que é jornalista, decide investigar os contos de seu pai, ele começa a entender melhor Edward e sua mania de contar histórias.</desc>
@@ -28993,52 +29007,52 @@
     <category lang="pt">Comedy / 2010</category>
     <desc lang="pt">A morte do treinador de basquete de infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.</desc>
   </programme>
-  <programme start="20260813131400 -0300" stop="20260813151000 -0300" channel="HBO Family HD.br">
+  <programme start="20260813131400 -0300" stop="20260813150900 -0300" channel="HBO Family HD.br">
     <title lang="pt">Jack, o Caçador de Gigantes</title>
     <category lang="pt">Fantasy / 2013</category>
     <desc lang="pt">Jack é um pobre fazendeiro que abre um portal entre o mundo real e o universo de uma terrível raça de gigantes, desencadeando uma guerra. A situação obriga Jack a lutar para deter os gigantes e salvar a humanidade.</desc>
   </programme>
-  <programme start="20260813151000 -0300" stop="20260813163900 -0300" channel="HBO Family HD.br">
+  <programme start="20260813150900 -0300" stop="20260813163800 -0300" channel="HBO Family HD.br">
     <title lang="pt">Emoji - O Filme</title>
     <category lang="pt">Children / 2017</category>
     <desc lang="pt">Textopolis é a cidade onde os emojis favoritos dos usuários de celular moram e trabalham. Lá, eles vivem em função de um sonho: serem usados nos textos dos humanos. Todos estão acostumados a ter somente uma expressão facial, com exceção de Gene, que nasceu com um bug em seu sistema que lhe permite trocar de rosto por meio de um filtro especial. Determinado a se tornar um emoji normal como os outros, ele embarca em uma jornada fantástica pelos aplicativos de celular mais populares do momento.</desc>
   </programme>
-  <programme start="20260813163900 -0300" stop="20260813182200 -0300" channel="HBO Family HD.br">
+  <programme start="20260813163800 -0300" stop="20260813182100 -0300" channel="HBO Family HD.br">
     <title lang="pt">Tom &amp; Jerry - O Filme</title>
     <category lang="pt">Children / 2021</category>
     <desc lang="pt">Uma das rivalidades mais amadas da história ressurge quando Jerry se muda para o hotel mais rico de Nova Iorque, na véspera do casamento do século, forçando a desesperada organizadora do evento a contratar Tom para se livrar do rato. A batalha entre gato e rato que se inicia ameaça destruir a sua carreira, o casamento e até mesmo o hotel. Mas logo um problema ainda maior surge: um diabólico funcionário começa a tramar contra os três.</desc>
   </programme>
-  <programme start="20260813182200 -0300" stop="20260813200100 -0300" channel="HBO Family HD.br">
+  <programme start="20260813182100 -0300" stop="20260813200200 -0300" channel="HBO Family HD.br">
     <title lang="pt">Pé Pequeno</title>
     <category lang="pt">Children / 2018</category>
     <desc lang="pt">Uma criatura conhecida como o Abominável Homem das Neves tem certeza de que os seres humanos realmente existem, mesmo que todos da sua espécie neguem. Mas ele não desiste tão facilmente de provar a sua tese.</desc>
   </programme>
-  <programme start="20260813200100 -0300" stop="20260813214600 -0300" channel="HBO Family HD.br">
+  <programme start="20260813200200 -0300" stop="20260813214500 -0300" channel="HBO Family HD.br">
     <title lang="pt">Gente Grande</title>
     <category lang="pt">Comedy / 2010</category>
     <desc lang="pt">A morte do treinador de basquete de infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.</desc>
   </programme>
-  <programme start="20260813214600 -0300" stop="20260813233300 -0300" channel="HBO Family HD.br">
+  <programme start="20260813214500 -0300" stop="20260813233200 -0300" channel="HBO Family HD.br">
     <title lang="pt">Os Fantasmas Ainda se Divertem - Beetlejuice Beetlejuice</title>
     <category lang="pt">Fantasy / 2024</category>
     <desc lang="pt">Lydia Deetz já é adulta e mãe da adolescente Astrid, que repentinamente descobre a misteriosa maquete da cidade no sótão e abre, sem querer, o portal para a vida após a morte, mais uma vez virando a vida da família Deetz de ponta-cabeça.</desc>
   </programme>
-  <programme start="20260813233300 -0300" stop="20260814012900 -0300" channel="HBO Family HD.br">
+  <programme start="20260813233200 -0300" stop="20260814012700 -0300" channel="HBO Family HD.br">
     <title lang="pt">Jack, o Caçador de Gigantes</title>
     <category lang="pt">Fantasy / 2013</category>
     <desc lang="pt">Jack é um pobre fazendeiro que abre um portal entre o mundo real e o universo de uma terrível raça de gigantes, desencadeando uma guerra. A situação obriga Jack a lutar para deter os gigantes e salvar a humanidade.</desc>
   </programme>
-  <programme start="20260814012900 -0300" stop="20260814030200 -0300" channel="HBO Family HD.br">
+  <programme start="20260814012700 -0300" stop="20260814030100 -0300" channel="HBO Family HD.br">
     <title lang="pt">A Casa Monstro</title>
     <category lang="pt">Children / 2006</category>
     <desc lang="pt">Nenhum adulto acredita quando três adolescentes falam que existe uma casa no bairro que é uma criatura perigosa. Com o Dia das Bruxas se aproximando, eles têm que descobrir uma forma de destruir a casa antes que ela faça mal a crianças inocentes.</desc>
   </programme>
-  <programme start="20260814030200 -0300" stop="20260814043200 -0300" channel="HBO Family HD.br">
+  <programme start="20260814030100 -0300" stop="20260814043100 -0300" channel="HBO Family HD.br">
     <title lang="pt">As Múmias e o Anel Perdido</title>
     <category lang="pt">Children / 2023</category>
     <desc lang="pt">Três antigas múmias acabam na Londres atual e embarcam em uma jornada em busca de um velho anel pertencente à Família Real, roubado pelo ambicioso arqueólogo Lord Carnaby.</desc>
   </programme>
-  <programme start="20260814043200 -0300" stop="20260814053200 -0300" channel="HBO Family HD.br">
+  <programme start="20260814043100 -0300" stop="20260814053100 -0300" channel="HBO Family HD.br">
     <title lang="pt">Emoji - O Filme</title>
     <category lang="pt">Children / 2017</category>
     <desc lang="pt">Textopolis é a cidade onde os emojis favoritos dos usuários de celular moram e trabalham. Lá, eles vivem em função de um sonho: serem usados nos textos dos humanos. Todos estão acostumados a ter somente uma expressão facial, com exceção de Gene, que nasceu com um bug em seu sistema que lhe permite trocar de rosto por meio de um filtro especial. Determinado a se tornar um emoji normal como os outros, ele embarca em uma jornada fantástica pelos aplicativos de celular mais populares do momento.</desc>
@@ -29282,72 +29296,72 @@
     <category lang="pt">Musical / 2023</category>
     <desc lang="pt">Separada da irmã e filhos, Celie enfrenta muitas dificuldades na vida, incluindo um marido abusivo. Com o apoio da cantora Shug Avery e sua enteada, encontra uma força extraordinária nos laços inquebráveis de um novo tipo de sororidade.</desc>
   </programme>
-  <programme start="20260813035100 -0300" stop="20260813060100 -0300" channel="HBO Pop.br">
+  <programme start="20260813035100 -0300" stop="20260813060000 -0300" channel="HBO Pop.br">
     <title lang="pt">Homem-Aranha 2</title>
     <desc lang="pt">O Dr. Otto Octavius é transformado em Doutor Octopus quando uma falha em uma experiência de fusão nuclear resulta em uma explosão que mata sua esposa. Ele culpa o Homem-Aranha pelo acidente e deseja vingança. Enquanto isso, o alter-ego do herói, Peter Parker, perde seus poderes. Para complicar as coisas, o seu melhor amigo odeia o Homem-Aranha e sua amada fica noiva.</desc>
   </programme>
-  <programme start="20260813060100 -0300" stop="20260813073600 -0300" channel="HBO Pop.br">
+  <programme start="20260813060000 -0300" stop="20260813073500 -0300" channel="HBO Pop.br">
     <title lang="pt">Crossroads - Amigas para Sempre</title>
     <category lang="pt">Comedy drama / 2002</category>
     <desc lang="pt">Três jovens amigas de infância prestes a entrar na vida adulta partem em uma viagem pelos Estados Unidos, de carona com um desconhecido. Durante o trajeto, elas redescobrem a si mesmas e a amizade que as une.</desc>
   </programme>
-  <programme start="20260813073600 -0300" stop="20260813091100 -0300" channel="HBO Pop.br">
+  <programme start="20260813073500 -0300" stop="20260813091000 -0300" channel="HBO Pop.br">
     <title lang="pt">Filhinho Da Mamãe</title>
     <category lang="pt">Comedy drama / 2007</category>
     <desc lang="pt">Jeffrey tem 29 anos e mora com sua mãe. Ele sente seu estilo de vida ameaçado quando ela começa a namorar Mert, um guru de autoajuda. Com o auxílio de Nora, uma moça nada convencional, ele entra em guerra contra Mert e aos poucos vai amadurecendo.</desc>
   </programme>
-  <programme start="20260813091100 -0300" stop="20260813121000 -0300" channel="HBO Pop.br">
+  <programme start="20260813091000 -0300" stop="20260813121000 -0300" channel="HBO Pop.br">
     <title lang="pt">Harry Potter e a Câmara Secreta</title>
     <category lang="pt">Children / 2002</category>
     <desc lang="pt">Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a arriscar e se livrar do lar problemático.</desc>
   </programme>
-  <programme start="20260813121000 -0300" stop="20260813135600 -0300" channel="HBO Pop.br">
+  <programme start="20260813121000 -0300" stop="20260813135800 -0300" channel="HBO Pop.br">
     <title lang="pt">Evolução</title>
     <desc lang="pt">Uma comédia que conta o caos que se segue quando um meteoro atinge a Terra carregando formas de vida alienígenas que dão um novo significado para o termo sobrevivência do mais apto. David Duchovny, Orlando Jones, Seann William Scott e Julianne Moore são as únicas pessoas entre os alienígenas e a dominação do mundo, o que poderia ser uma má notícia para a Terra.</desc>
   </programme>
-  <programme start="20260813135600 -0300" stop="20260813155600 -0300" channel="HBO Pop.br">
+  <programme start="20260813135800 -0300" stop="20260813155300 -0300" channel="HBO Pop.br">
     <title lang="pt">Os Outros Caras</title>
     <category lang="pt">Comedy / 2010</category>
     <desc lang="pt">Gamble e Hoitz são detetives da polícia de Nova York que não fazem alarde com o seu trabalho diário atrás de uma escrivaninha. Gamble aprecia a sua função, mas Hoitz está ansioso para voltar para as ruas. Quando um caso aparentemente insignificante acaba se revelando um grande negócio, os dois policiais têm a oportunidade de provar finalmente a seus companheiros que eles têm capacidade.</desc>
   </programme>
-  <programme start="20260813155600 -0300" stop="20260813175600 -0300" channel="HBO Pop.br">
+  <programme start="20260813155300 -0300" stop="20260813175500 -0300" channel="HBO Pop.br">
     <title lang="pt">Esposa de Mentirinha</title>
     <category lang="pt">Romantic comedy / 2011</category>
     <desc lang="pt">Infeliz em sua tentativa de casamento, Danny passa a vivenciar relacionamentos sem compromisso para driblar a carência. Assim, ele toca sua vida como cirurgião plástico bem-sucedido, tendo sua melhor amiga Katherine, mãe solteira de um casal, como fiel escudeira. Quando conhece a jovem Palmer e a paixão toma conta de ambos, ele inventa, para tentar conquistá-la, que é marido de Katherine, pai das crianças e que vai se separar.</desc>
   </programme>
-  <programme start="20260813175600 -0300" stop="20260813201100 -0300" channel="HBO Pop.br">
+  <programme start="20260813175500 -0300" stop="20260813200900 -0300" channel="HBO Pop.br">
     <title lang="pt">O Esquadrão Suicida</title>
     <category lang="pt">Action / 2021</category>
     <desc lang="pt">O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.</desc>
   </programme>
-  <programme start="20260813201100 -0300" stop="20260813220100 -0300" channel="HBO Pop.br">
+  <programme start="20260813200900 -0300" stop="20260813220000 -0300" channel="HBO Pop.br">
     <title lang="pt">Os Outros Caras</title>
     <category lang="pt">Comedy / 2010</category>
     <desc lang="pt">Gamble e Hoitz são detetives da polícia de Nova York que não fazem alarde com o seu trabalho diário atrás de uma escrivaninha. Gamble aprecia a sua função, mas Hoitz está ansioso para voltar para as ruas. Quando um caso aparentemente insignificante acaba se revelando um grande negócio, os dois policiais têm a oportunidade de provar finalmente a seus companheiros que eles têm capacidade.</desc>
   </programme>
-  <programme start="20260813220100 -0300" stop="20260814000100 -0300" channel="HBO Pop.br">
+  <programme start="20260813220000 -0300" stop="20260813235900 -0300" channel="HBO Pop.br">
     <title lang="pt">Esposa de Mentirinha</title>
     <category lang="pt">Romantic comedy / 2011</category>
     <desc lang="pt">Infeliz em sua tentativa de casamento, Danny passa a vivenciar relacionamentos sem compromisso para driblar a carência. Assim, ele toca sua vida como cirurgião plástico bem-sucedido, tendo sua melhor amiga Katherine, mãe solteira de um casal, como fiel escudeira. Quando conhece a jovem Palmer e a paixão toma conta de ambos, ele inventa, para tentar conquistá-la, que é marido de Katherine, pai das crianças e que vai se separar.</desc>
   </programme>
-  <programme start="20260814000100 -0300" stop="20260814013500 -0300" channel="HBO Pop.br">
+  <programme start="20260813235900 -0300" stop="20260814013000 -0300" channel="HBO Pop.br">
     <title lang="pt">Um Verão Infernal</title>
     <category lang="pt">Horror / 2023</category>
     <desc lang="pt">O conselheiro de acampamento de 24 anos, Jason Hochberg, chega a Camp Pineway achando que seu maior problema era estar afastado de seus colegas adolescentes. O que ele não sabe é que um assassino mascarado está rondando o acampamento, matando brutalmente os conselheiros um por um.</desc>
   </programme>
-  <programme start="20260814013500 -0300" stop="20260814021600 -0300" channel="HBO Pop.br">
+  <programme start="20260814013000 -0300" stop="20260814021200 -0300" channel="HBO Pop.br">
     <title lang="pt">Last Week Tonight With John Oliver</title>
-    <category lang="pt">Temporada 13 Episódio 20</category>
-    <desc lang="pt">O carismático e britânico comentarista John Oliver oferece sua perspectiva singular e voz distinta sobre qualquer número de questões sociais, políticas ou atuais.</desc>
+    <category lang="pt">Temporada 13 Episódio 20 - Episódio 20</category>
+    <desc lang="pt">John Oliver discute como o Departamento de Justiça mudou desde que Trump assumiu seu segundo mandato, e como o órgão parece estar agindo em benefício dele, em vez de em benefício da população.</desc>
   </programme>
-  <programme start="20260814021600 -0300" stop="20260814040100 -0300" channel="HBO Pop.br">
+  <programme start="20260814021200 -0300" stop="20260814042100 -0300" channel="HBO Pop.br">
     <title lang="pt">Supergirl</title>
     <desc lang="pt">Supergirl chega à Terra para recuperar o Omegaheadron, fonte de energia que pode salvar Krypton. O objeto cai nas mãos da bruxa Selena, que deseja conquistar o mundo. Selena faz um feitiço para que um jardineiro se apaixone pela Supergirl.</desc>
   </programme>
-  <programme start="20260814040100 -0300" stop="20260814050100 -0300" channel="HBO Pop.br">
-    <title lang="pt">O Sorriso de Mona Lisa</title>
-    <category lang="pt">Drama / 2003</category>
-    <desc lang="pt">Katherine Watson é uma recém-formada da UCLA que foi contratada, em 1953, para lecionar História da Arte na prestigiosa Wellesley College, uma escola só para mulheres. Determinada a confrontar valores ultrapassados da sociedade e da instituição, Katherine inspira suas alunas tradicionais, incluindo Betty e Joan, a mudarem a vida das pessoas como futuras líderes que serão.</desc>
+  <programme start="20260814042100 -0300" stop="20260814052100 -0300" channel="HBO Pop.br">
+    <title lang="pt">O Pequenino</title>
+    <category lang="pt">Comedy / 2006</category>
+    <desc lang="pt">O anão Calvin mal saiu da prisão e já planeja um novo assalto a uma joalheria. Perseguido pela polícia, ele esconde o diamante na bolsa de Vanessa, cujo marido, Darryl, sonha em ter um filho. Aproveitando a oportunidade para recuperar a pedra, Calvin se veste como criança e é deixado em frente à casa de Darryl para ser acolhido. O casal passa um final de semana com o pequeno e decide adotá-lo, acreditando ser um bebê abandonado.</desc>
   </programme>
   <programme start="20260812060000 -0300" stop="20260812075500 -0300" channel="HBO Mundi.br">
     <title lang="pt">Sempre em Frente</title>
@@ -29728,6 +29742,7 @@
   <programme start="20260812190000 -0300" stop="20260812195500 -0300" channel="Rede Vida.br">
     <title lang="pt">Missa pelos 50 Anos de Falecimento de Dom José de Matos Pereira</title>
     <category lang="pt">Special</category>
+    <desc lang="pt">Celebração eucarística em memória ao primeiro bispo da Diocese de Barretos, aos 50 anos de seu falecimento, em gratidão por seu legado pastoral à Igreja.</desc>
   </programme>
   <programme start="20260812195500 -0300" stop="20260812200000 -0300" channel="Rede Vida.br">
     <title lang="pt">Crônicas de Fé e Afeto</title>
@@ -31444,12 +31459,12 @@
     <category lang="pt">Temporada 3 Episódio 303</category>
     <desc lang="pt">Jana voltou para A Promessa, mas o castigo dos marqueses é mais severo do que ela imaginava.</desc>
   </programme>
-  <programme start="20260812150200 -0300" stop="20260812154900 -0300" channel="TNT Novelas.br">
+  <programme start="20260812150200 -0300" stop="20260812155300 -0300" channel="TNT Novelas.br">
     <title lang="pt">Iludida</title>
     <category lang="pt">Temporada 1 Episódio 32</category>
     <desc lang="pt">Volkan tenta se aproximar de Selçuk; Derya fica brava com Mert pelo que ele fez; Mert confronta Volkan; Haluk faz uma proposta a Tuygar; Haluk quer ajudar Volkan com alguma coisa.</desc>
   </programme>
-  <programme start="20260812154900 -0300" stop="20260812163800 -0300" channel="TNT Novelas.br">
+  <programme start="20260812155300 -0300" stop="20260812163800 -0300" channel="TNT Novelas.br">
     <title lang="pt">Iludida</title>
     <category lang="pt">Temporada 1 Episódio 33</category>
     <desc lang="pt">Nevin quer conversar com Asya; Bahar decide falar com Mert; Selçuk prepara uma surpresa para Nil; Gönül está brava com a filha pelo que ela fez; Derin tranquiliza Ali pelo que ele fez.</desc>
@@ -31544,12 +31559,12 @@
     <category lang="pt">Temporada 3 Episódio 304</category>
     <desc lang="pt">Jana cumpre seu castigo e pede ajuda a Manuel para falar com Curro; o conde mostra interesse na investigação de Alonso.</desc>
   </programme>
-  <programme start="20260813074700 -0300" stop="20260813083600 -0300" channel="TNT Novelas.br">
+  <programme start="20260813074700 -0300" stop="20260813083900 -0300" channel="TNT Novelas.br">
     <title lang="pt">Os Dez Mandamentos</title>
     <category lang="pt">Temporada 1 Episódio 34</category>
     <desc lang="pt">Num se recusa a pedir perdão, e Apuki avança para apunhalá-lo. Ramsés apresenta Maya a Moisés e Nefertari.</desc>
   </programme>
-  <programme start="20260813083600 -0300" stop="20260813091800 -0300" channel="TNT Novelas.br">
+  <programme start="20260813083900 -0300" stop="20260813091800 -0300" channel="TNT Novelas.br">
     <title lang="pt">Força de Mulher</title>
     <category lang="pt">Temporada 1 Episódio 33</category>
     <desc lang="pt">Depois de desmaiar novamente, Bahar fica preocupada com seus filhos, por isso decide engolir seu orgulho e recorrer a Hatice.</desc>
@@ -32786,7 +32801,7 @@
   <programme start="20260812071700 -0300" stop="20260812073100 -0300" channel="TV5 MONDE.br">
     <title lang="pt">Château !</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">Exploration du fascinant Château Royal d'Amboise, perché sur un promontoire surplombant la Loire. André Manoukian continue son périple au Château de Troussay, petit bijou de la Renaissance, avec ce château entièrement meublé.</desc>
+    <desc lang="pt">Découverte d'un château enchanteur au c?ur de la vallée de l'Eure, autrefois propriété de Françoise d'Aubigné, future Madame de Maintenon. Au c?ur de la Touraine, le château de Saché est un lieu d'inspiration privilégié d'Honoré de Balzac.</desc>
   </programme>
   <programme start="20260812073100 -0300" stop="20260812075900 -0300" channel="TV5 MONDE.br">
     <title lang="pt">Pistes vertes</title>
@@ -32995,7 +33010,7 @@
   <programme start="20260813071600 -0300" stop="20260813073300 -0300" channel="TV5 MONDE.br">
     <title lang="pt">Château !</title>
     <category lang="pt">Documentary</category>
-    <desc lang="pt">Exploration du fascinant Château Royal d'Amboise, perché sur un promontoire surplombant la Loire. André Manoukian continue son périple au Château de Troussay, petit bijou de la Renaissance, avec ce château entièrement meublé.</desc>
+    <desc lang="pt">Découverte d'un château enchanteur au c?ur de la vallée de l'Eure, autrefois propriété de Françoise d'Aubigné, future Madame de Maintenon. Au c?ur de la Touraine, le château de Saché est un lieu d'inspiration privilégié d'Honoré de Balzac.</desc>
   </programme>
   <programme start="20260813073300 -0300" stop="20260813080000 -0300" channel="TV5 MONDE.br">
     <title lang="pt">Les Belges du bout du monde</title>
@@ -35329,22 +35344,6 @@
   <programme start="20260812220000 -0300" stop="20260812230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260812090000 -0300" stop="20260812100000 -0300" channel="ESPN 3.br">
-    <title lang="pt">The Ocho: EUA x Canadá Dodgeball Showcase</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20260812100000 -0300" stop="20260812113000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20260812113000 -0300" stop="20260812123000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Bola da Vez: Carlos Prates</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20260812123000 -0300" stop="20260812133000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - WTA 1000 Toronto: Quartas-de-Final</title>
-    <category lang="pt">Esporte/Tênis Feminino</category>
-  </programme>
   <programme start="20260812133000 -0300" stop="20260812163000 -0300" channel="ESPN 3.br">
     <title lang="pt">VT - WTA 1000 Toronto: Quartas-de-Final</title>
     <category lang="pt">Esporte/Tênis Feminino</category>
@@ -36353,14 +36352,6 @@
     <title lang="pt">Show da Rodada da EFL</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20260812062500 -0300" stop="20260812095000 -0300" channel="Combate.br">
-    <title lang="pt">Fight Do Milhão -  Semifinais Feminino - Card Completo - São Paulo, Sp</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260812095000 -0300" stop="20260812122500 -0300" channel="Combate.br">
-    <title lang="pt">One Fight Night 45</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260812122500 -0300" stop="20260812152500 -0300" channel="Combate.br">
     <title lang="pt">Oktagon 92</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36788,18 +36779,6 @@
   <programme start="20260826200000 -0300" stop="20260826210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260812084000 -0300" stop="20260812102000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Invasores</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260812102000 -0300" stop="20260812123000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Superman</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260812123000 -0300" stop="20260812144500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Shazam!</title>
-    <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20260812144500 -0300" stop="20260812172000 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Mulher-Maravilha 1984</title>
