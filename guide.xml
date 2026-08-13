@@ -10305,10 +10305,10 @@
     <category lang="pt">News</category>
     <desc lang="pt">Avaliação da agropecuária brasileira e as principais notícias do agro.</desc>
   </programme>
-  <programme start="20260812060000 -0300" stop="20260812080000 -0300" channel="Band News.br">
-    <title lang="pt">Jornal BandNews</title>
+  <programme start="20260812053000 -0300" stop="20260812080000 -0300" channel="Band News.br">
+    <title lang="pt">Bandnews Hoje</title>
     <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+    <desc lang="pt">Um jornal pensado para quem desperta conectado aos acontecimentos que movimentam o Brasil e o mundo.</desc>
   </programme>
   <programme start="20260812080000 -0300" stop="20260812093000 -0300" channel="Band News.br">
     <title lang="pt">Jornal Gente</title>
@@ -10316,29 +10316,39 @@
     <desc lang="pt">As principais notícias do Brasil e do mundo, com fatos importantes para se informar a cada dia.</desc>
   </programme>
   <programme start="20260812093000 -0300" stop="20260812100000 -0300" channel="Band News.br">
-    <title lang="pt">Radar BandNews</title>
+    <title lang="pt">Resumo Bandnews</title>
     <category lang="pt">News</category>
-    <desc lang="pt">As notícias mais importantes do dia que estão no radar do brasileiro.</desc>
+    <desc lang="pt">Nelson Gomes apresenta os acontecimentos mais relevantes do Brasil e do mundo, com linguagem objetiva, ritmo dinâmico e atualização precisa. Ele leva ao público as principais notícias do momento de forma ágil e direta.</desc>
   </programme>
-  <programme start="20260812100000 -0300" stop="20260812120000 -0300" channel="Band News.br">
+  <programme start="20260812100000 -0300" stop="20260812110000 -0300" channel="Band News.br">
     <title lang="pt">Manhã BandNews</title>
     <category lang="pt">News</category>
     <desc lang="pt">A atualização das notícias da manhã e tudo o que é importante para se manter antenado ao longo do dia.</desc>
   </programme>
-  <programme start="20260812120000 -0300" stop="20260812140000 -0300" channel="Band News.br">
+  <programme start="20260812110000 -0300" stop="20260812120000 -0300" channel="Band News.br">
+    <title lang="pt">O X da Questão</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Ir além da notícia e revelar o que realmente importa: esse é o &quot;O X da Questão&quot;. Cynthia Martins e Rodolfo Schneider conduzem conversas inteligentes, com análise, contexto e diferentes pontos de vista sobre acontecimentos do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260812120000 -0300" stop="20260812123000 -0300" channel="Band News.br">
     <title lang="pt">BandNews no Meio do Dia</title>
     <category lang="pt">News</category>
     <desc lang="pt">Fique por dentro dos fatos mais importantes com participação de entrevistados e comentaristas.</desc>
   </programme>
-  <programme start="20260812140000 -0300" stop="20260812160000 -0300" channel="Band News.br">
+  <programme start="20260812123000 -0300" stop="20260812130000 -0300" channel="Band News.br">
+    <title lang="pt">Resumo Bandnews</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Nelson Gomes apresenta os acontecimentos mais relevantes do Brasil e do mundo, com linguagem objetiva, ritmo dinâmico e atualização precisa. Ele leva ao público as principais notícias do momento de forma ágil e direta.</desc>
+  </programme>
+  <programme start="20260812130000 -0300" stop="20260812140000 -0300" channel="Band News.br">
+    <title lang="pt">Papo Reto</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Com estilo analítico e provocador, Carlos Andreazza, do Rio de Janeiro, conduz as principais discussões do &quot;Papo Reto&quot; ao lado de Patrícia Rocha, nos estúdios de São Paulo.</desc>
+  </programme>
+  <programme start="20260812140000 -0300" stop="20260812170000 -0300" channel="Band News.br">
     <title lang="pt">Tarde BandNews</title>
     <category lang="pt">News</category>
     <desc lang="pt">As principais notícias do Brasil e do mundo. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior.</desc>
-  </programme>
-  <programme start="20260812160000 -0300" stop="20260812170000 -0300" channel="Band News.br">
-    <title lang="pt">Entre Nós</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">Atração jornalística com notícias de destaque e com formato inovador, transmitida simultaneamente de dois estúdios diferentes, um da rádio e um de TV.</desc>
   </programme>
   <programme start="20260812170000 -0300" stop="20260812180000 -0300" channel="Band News.br">
     <title lang="pt">Expresso BandNews</title>
@@ -10351,9 +10361,9 @@
     <desc lang="pt">O jornalista Reinaldo Azevedo comenta principais notícias do momento com opiniões, polêmica e motivação para o pensamento a respeito de acontecimentos e destaques no Brasil e no mundo.</desc>
   </programme>
   <programme start="20260812193000 -0300" stop="20260812203000 -0300" channel="Band News.br">
-    <title lang="pt">Jornal BandNews</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, trânsito, previsão do tempo e prestação de serviço.</desc>
+    <title lang="pt">Panorama</title>
+    <category lang="pt">Politics</category>
+    <desc lang="pt">Revista eletrônica com debate sobre temas específicos em pauta na Assembleia, convidados no estúdio e reportagens especiais.</desc>
   </programme>
   <programme start="20260812203000 -0300" stop="20260812213000 -0300" channel="Band News.br">
     <title lang="pt">Jornal da Band</title>
@@ -10365,20 +10375,15 @@
     <category lang="pt">News</category>
     <desc lang="pt">Felipe Vieira e Veruska Donato apresentam o &quot;Edição da Noite&quot;, com análise dos principais acontecimentos do Brasil e do mundo. O jornal traz os bastidores da política e participação de Fernando Schüler, Emanuel Pessoa, Fernando Mitre e Aod Cunha.</desc>
   </programme>
-  <programme start="20260812230000 -0300" stop="20260812233000 -0300" channel="Band News.br">
-    <title lang="pt">Viver Melhor</title>
-    <category lang="pt">Health</category>
-    <desc lang="pt">Autoridades, gestores da área da saúde e grandes médicos tratam de temas de interesse público.</desc>
+  <programme start="20260812230000 -0300" stop="20260813010000 -0300" channel="Band News.br">
+    <title lang="pt">Eleições 2026: Debate dos Candidatos ao Governo do Distrito Federal - 1º Turno</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Candidatos ao governo do Distrito Federal apresentam e debatem suas propostas eleitorais. Participam Celina Leão, do PP, José Roberto Arruda, do PSD, Kiko Caputo, do Novo, Leandro Grass, do PT, Paula Belmonte, do PSDB, e Ricardo Capelli, do PSB.</desc>
   </programme>
-  <programme start="20260812233000 -0300" stop="20260813000000 -0300" channel="Band News.br">
-    <title lang="pt">Ponto a Ponto</title>
-    <category lang="pt">Public affairs</category>
-    <desc lang="pt">A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
-  </programme>
-  <programme start="20260813000000 -0300" stop="20260813020000 -0300" channel="Band News.br">
-    <title lang="pt">Madrugada BandNews</title>
+  <programme start="20260813010000 -0300" stop="20260813020000 -0300" channel="Band News.br">
+    <title lang="pt">Jornal da Band</title>
     <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
+    <desc lang="pt">Os principais fatos do Brasil e do mundo relatados com imparcialidade e profundidade.</desc>
   </programme>
   <programme start="20260813020000 -0300" stop="20260813024500 -0300" channel="Band News.br">
     <title lang="pt">Jornal da Noite</title>
@@ -10386,24 +10391,23 @@
     <desc lang="pt">Acompanhe diariamente notícias do país e do mundo.</desc>
   </programme>
   <programme start="20260813024500 -0300" stop="20260813030000 -0300" channel="Band News.br">
-    <title lang="pt">Madrugada BandNews</title>
+    <title lang="pt">Opinião do Dia</title>
     <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe o noticiário atualizado com as principais informações a cada 30 minutos.</desc>
   </programme>
-  <programme start="20260813030000 -0300" stop="20260813033000 -0300" channel="Band News.br">
+  <programme start="20260813030000 -0300" stop="20260813043000 -0300" channel="Band News.br">
+    <title lang="pt">Edição da Noite</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Felipe Vieira e Veruska Donato apresentam o &quot;Edição da Noite&quot;, com análise dos principais acontecimentos do Brasil e do mundo. O jornal traz os bastidores da política e participação de Fernando Schüler, Emanuel Pessoa, Fernando Mitre e Aod Cunha.</desc>
+  </programme>
+  <programme start="20260813043000 -0300" stop="20260813050000 -0300" channel="Band News.br">
+    <title lang="pt">BandNews Docs</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acompanhe o programa que traz narrativas históricas sobre temas relevantes.</desc>
+  </programme>
+  <programme start="20260813050000 -0300" stop="20260813053000 -0300" channel="Band News.br">
     <title lang="pt">Jornal Terraviva</title>
     <category lang="pt">News</category>
     <desc lang="pt">Um telejornal dedicado ao agronegócio brasileiro, apresentando os principais fatos do dia do setor agropecuário, as notícias atualizadas, a previsão do tempo, boletins ao vivo dos principais eventos e leilões que acontecem no país.</desc>
-  </programme>
-  <programme start="20260813033000 -0300" stop="20260813040000 -0300" channel="Band News.br">
-    <title lang="pt">Ponto a Ponto</title>
-    <category lang="pt">Public affairs</category>
-    <desc lang="pt">A partir de dados de pesquisas, o programa fomenta debates que ajudam a entender a política no país.</desc>
-  </programme>
-  <programme start="20260813040000 -0300" stop="20260813053000 -0300" channel="Band News.br">
-    <title lang="pt">1º Jornal</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">Acompanhe as principais notícias do Brasil e do mundo, com agilidade e prestação de serviços, deixando o telespectador bem informado logo nas primeiras horas da manhã.</desc>
   </programme>
   <programme start="20260813053000 -0300" stop="20260813080000 -0300" channel="Band News.br">
     <title lang="pt">Bandnews Hoje</title>
@@ -11039,77 +11043,77 @@
     <category lang="pt">Temporada 2 Episódio 9 - Amor por Pepitas</category>
     <desc lang="pt">Freddy e Juan viajam para a Colúmbia Britânica para salvar um garimpeiro recluso, que vive de modo independente. Com a neve chegando, Freddy precisa convencê-lo a abandonar o sonho de pegar pepitas enormes.</desc>
   </programme>
-  <programme start="20260813071000 -0300" stop="20260813075400 -0300" channel="Discovery Channel.br">
+  <programme start="20260813071000 -0300" stop="20260813075800 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 10 Episódio 12 - Pântano Inclemente</category>
     <desc lang="pt">Os sobrevivencialistas Jake Nodar e Melissa Miller enfrentam um pântano na Flórida infestado de cobras venenosas e jacarés. Quando um deles fica desorientado, as autoridades iniciam uma operação de busca.</desc>
   </programme>
-  <programme start="20260813075400 -0300" stop="20260813084600 -0300" channel="Discovery Channel.br">
+  <programme start="20260813075800 -0300" stop="20260813084800 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 10 Episódio 8 - Desafio na África</category>
     <desc lang="pt">Um sobrevivente de ataques de cascavel, tubarão e urso e uma caçadora experiente enfrentam juntos a savana africana. Leões, hienas e o ambiente inóspito logo colocam suas habilidades à prova.</desc>
   </programme>
-  <programme start="20260813084600 -0300" stop="20260813093800 -0300" channel="Discovery Channel.br">
+  <programme start="20260813084800 -0300" stop="20260813093500 -0300" channel="Discovery Channel.br">
     <title lang="pt">Desafio em Dose Dupla</title>
     <category lang="pt">Temporada 2 Episódio 3 - Presos no Pântano</category>
     <desc lang="pt">Dave e Cody experimentam atravessar a região dos Everglades, na Flórida, a bordo de um aerobarco, atolam na lama e precisam encontrar um abrigo para passar a noite enquanto driblam os perigosos crocodilos e serpentes da região.</desc>
   </programme>
-  <programme start="20260813093800 -0300" stop="20260813103000 -0300" channel="Discovery Channel.br">
+  <programme start="20260813093500 -0300" stop="20260813102700 -0300" channel="Discovery Channel.br">
     <title lang="pt">Desafio em Dose Dupla - México</title>
     <category lang="pt">Temporada 1 Episódio 2 - Cavernas de Chicamocha</category>
     <desc lang="pt">Fernanda e Palma acabam presos em um labirinto de cavernas no Cânion de Chicamocha. Nesta missão, eles devem passar por encostas perigosas, cachoeiras enormes e ravinas infestadas de cobras venenosas.</desc>
   </programme>
-  <programme start="20260813103000 -0300" stop="20260813112600 -0300" channel="Discovery Channel.br">
+  <programme start="20260813102700 -0300" stop="20260813111900 -0300" channel="Discovery Channel.br">
     <title lang="pt">Ed Stafford - Contra Todos</title>
     <category lang="pt">Temporada 2 Episódio 3 - Ed Contra Ky Furneaux</category>
     <desc lang="pt">Ed compete contra Ky Furneaux, uma escaladora e dublê de Hollywood, na cordilheira Four Girls. Ed se inspira no Homem de Gelo primitivo para encontrar meios de sobreviver em vales gelados e picos cobertos de neve.</desc>
   </programme>
-  <programme start="20260813112600 -0300" stop="20260813122200 -0300" channel="Discovery Channel.br">
+  <programme start="20260813111900 -0300" stop="20260813121100 -0300" channel="Discovery Channel.br">
     <title lang="pt">Ed Stafford - Contra Todos</title>
     <category lang="pt">Temporada 2 Episódio 4 - Ed Contra Matt Wright</category>
     <desc lang="pt">Ed desafia Matt Wright no Arquipélago Wanshan, no litoral sul da China. Eles se apressam para conseguir materiais para construir balsas para uma travessia de 25 quilômetros. Ed precisa enfrentar o medo de águas profundas.</desc>
   </programme>
-  <programme start="20260813122200 -0300" stop="20260813131300 -0300" channel="Discovery Channel.br">
+  <programme start="20260813121100 -0300" stop="20260813130300 -0300" channel="Discovery Channel.br">
     <title lang="pt">Vida Remota</title>
     <category lang="pt">Temporada 3 Episódio 5 - As Sombras de Ozark</category>
     <desc lang="pt">Os Raneys visitam Ozark e descobrem um casal desnutrido e doente pelo mofo da cabana. Fortes tempestades elétricas atrapalham a construção, mas ela precisa ser terminada antes que a Mãe Natureza vença.</desc>
   </programme>
-  <programme start="20260813131300 -0300" stop="20260813140300 -0300" channel="Discovery Channel.br">
+  <programme start="20260813130300 -0300" stop="20260813135500 -0300" channel="Discovery Channel.br">
     <title lang="pt">Vida Remota</title>
     <category lang="pt">Temporada 3 Episódio 4 - O Gás da Esperança</category>
     <desc lang="pt">Os Raneys encaram uma propriedade abandonada por um casal que vive em um subúrbio de Ohio. Eles esperam recuperá-la com um antigo poço de gás natural para gerar luz, calor e eletricidade.</desc>
   </programme>
-  <programme start="20260813140300 -0300" stop="20260813145400 -0300" channel="Discovery Channel.br">
+  <programme start="20260813135500 -0300" stop="20260813144700 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 10 Episódio 12 - Pântano Inclemente</category>
     <desc lang="pt">Os sobrevivencialistas Jake Nodar e Melissa Miller enfrentam um pântano na Flórida infestado de cobras venenosas e jacarés. Quando um deles fica desorientado, as autoridades iniciam uma operação de busca.</desc>
   </programme>
-  <programme start="20260813145400 -0300" stop="20260813154400 -0300" channel="Discovery Channel.br">
+  <programme start="20260813144700 -0300" stop="20260813153900 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 10 Episódio 8 - Desafio na África</category>
     <desc lang="pt">Um sobrevivente de ataques de cascavel, tubarão e urso e uma caçadora experiente enfrentam juntos a savana africana. Leões, hienas e o ambiente inóspito logo colocam suas habilidades à prova.</desc>
   </programme>
-  <programme start="20260813154400 -0300" stop="20260813163400 -0300" channel="Discovery Channel.br">
+  <programme start="20260813153900 -0300" stop="20260813162600 -0300" channel="Discovery Channel.br">
     <title lang="pt">Desafio em Dose Dupla</title>
     <category lang="pt">Temporada 2 Episódio 3 - Presos no Pântano</category>
     <desc lang="pt">Dave e Cody experimentam atravessar a região dos Everglades, na Flórida, a bordo de um aerobarco, atolam na lama e precisam encontrar um abrigo para passar a noite enquanto driblam os perigosos crocodilos e serpentes da região.</desc>
   </programme>
-  <programme start="20260813163400 -0300" stop="20260813172400 -0300" channel="Discovery Channel.br">
+  <programme start="20260813162600 -0300" stop="20260813171800 -0300" channel="Discovery Channel.br">
     <title lang="pt">Desafio em Dose Dupla - México</title>
     <category lang="pt">Temporada 1 Episódio 2 - Cavernas de Chicamocha</category>
     <desc lang="pt">Fernanda e Palma acabam presos em um labirinto de cavernas no Cânion de Chicamocha. Nesta missão, eles devem passar por encostas perigosas, cachoeiras enormes e ravinas infestadas de cobras venenosas.</desc>
   </programme>
-  <programme start="20260813172400 -0300" stop="20260813181400 -0300" channel="Discovery Channel.br">
+  <programme start="20260813171800 -0300" stop="20260813181000 -0300" channel="Discovery Channel.br">
     <title lang="pt">Ed Stafford - Contra Todos</title>
     <category lang="pt">Temporada 2 Episódio 3 - Ed Contra Ky Furneaux</category>
     <desc lang="pt">Ed compete contra Ky Furneaux, uma escaladora e dublê de Hollywood, na cordilheira Four Girls. Ed se inspira no Homem de Gelo primitivo para encontrar meios de sobreviver em vales gelados e picos cobertos de neve.</desc>
   </programme>
-  <programme start="20260813181400 -0300" stop="20260813190400 -0300" channel="Discovery Channel.br">
+  <programme start="20260813181000 -0300" stop="20260813190200 -0300" channel="Discovery Channel.br">
     <title lang="pt">Ed Stafford - Contra Todos</title>
     <category lang="pt">Temporada 2 Episódio 4 - Ed Contra Matt Wright</category>
     <desc lang="pt">Ed desafia Matt Wright no Arquipélago Wanshan, no litoral sul da China. Eles se apressam para conseguir materiais para construir balsas para uma travessia de 25 quilômetros. Ed precisa enfrentar o medo de águas profundas.</desc>
   </programme>
-  <programme start="20260813190400 -0300" stop="20260813195300 -0300" channel="Discovery Channel.br">
+  <programme start="20260813190200 -0300" stop="20260813195300 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 11 Episódio 3 - Pequena Pessoa, Grande Desafio</category>
     <desc lang="pt">Subestimado a vida inteira, um participante com nanismo desafia a si na Amazônia, mas a luta é contra predadores e seu parceiro.</desc>
@@ -19212,7 +19216,7 @@
   <programme start="20260812093000 -0300" stop="20260812100000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Qual É, Bicho?</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cadu, Nani e Lino estão vendo um livro de sósias e se divertindo muito. A campainha toca e Ubirajara aparece. Todos ficam felizes com esta visita e fazem a maior bagunça.</desc>
+    <desc lang="pt">O primo de Camila vem do interior para prestar vestibular em São Paulo. Ele chega no zoológico para uma visita e Camila lhe mostra orgulhosamente como funciona o departamento veterinário.</desc>
   </programme>
   <programme start="20260812100000 -0300" stop="20260812101500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Yoga com Histórias</title>
@@ -19302,7 +19306,7 @@
   <programme start="20260812125000 -0300" stop="20260812130000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
+    <desc lang="pt">Na tranquila região do Mar Azul, Baiá e seus amigos estão desfrutando de um momento de descontração quando são surpreendidos por um acontecimento verdadeiramente assustador. Baiá fica tão aterrorizado que corre para contar para o polvo Ast.</desc>
   </programme>
   <programme start="20260812130000 -0300" stop="20260812131500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Meu AmigãoZão</title>
@@ -19322,7 +19326,7 @@
   <programme start="20260812133500 -0300" stop="20260812134500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">A paixão de Ludovico por futebol acabou. Por conta disso, ele decide não jogar a final do campeonato interquintais. Mas Ofélia tem a fórmula para mudar essa situação.</desc>
+    <desc lang="pt">Doroteia e Osório visitam o Museu Lasar Segall em busca de inspiração para um baile de carnaval. Eles descobrem que o artista modernista criou cenários carnavalescos nos anos 30, unindo arte e diversão.</desc>
   </programme>
   <programme start="20260812134500 -0300" stop="20260812140000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Rubra em Família</title>
@@ -19392,7 +19396,7 @@
   <programme start="20260812170000 -0300" stop="20260812171000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">A paixão de Ludovico por futebol acabou. Por conta disso, ele decide não jogar a final do campeonato interquintais. Mas Ofélia tem a fórmula para mudar essa situação.</desc>
+    <desc lang="pt">Doroteia e Osório visitam o Museu Lasar Segall em busca de inspiração para um baile de carnaval. Eles descobrem que o artista modernista criou cenários carnavalescos nos anos 30, unindo arte e diversão.</desc>
   </programme>
   <programme start="20260812171000 -0300" stop="20260812172000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Os Óculos Mágicos de Charlotte</title>
@@ -19402,7 +19406,7 @@
   <programme start="20260812172000 -0300" stop="20260812173000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
+    <desc lang="pt">Na tranquila região do Mar Azul, Baiá e seus amigos estão desfrutando de um momento de descontração quando são surpreendidos por um acontecimento verdadeiramente assustador. Baiá fica tão aterrorizado que corre para contar para o polvo Ast.</desc>
   </programme>
   <programme start="20260812173000 -0300" stop="20260812174000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Isso Disso</title>
@@ -19487,7 +19491,7 @@
   <programme start="20260812203000 -0300" stop="20260812210000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Em terras de poucas chuvas, crianças do Vale do Jequitinhonha mostram e contam como constroem carrinhos com latas e tábuas com mãos de poucas perguntas. As mesmas que são também sabedoras de jogos de pedrinhas, bolinhas de gude, de apanhar fruta no pé e de lavar roupa no rio. Os pés deslizam sobre uma amarelinha de chutar pedra até o último dia da semana, pulam corda, saltam em riachos e montam em cavalos de pau. À noite se juntam em cantorias de Folia de Reis, passando de casa em casa.</desc>
+    <desc lang="pt">Debaixo de uma mangueira um mundo se faz. Crianças de três comunidades do Vale do Jequitinhonha revelam como constroem suas casinhas e todos os segredos que habitam esses cantinhos. Seus corpos vigorosos brincam de esconde-esconde pela mata, tocam o batuque em família, sobem e descem em gangorras de bambu e giram suas biorras.</desc>
   </programme>
   <programme start="20260812210000 -0300" stop="20260812212000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">DJ Cão e a Loja de Discos</title>
@@ -19617,12 +19621,12 @@
   <programme start="20260813035000 -0300" stop="20260813040000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Edye apresenta: Um assobio misterioso interrompe Bela Baleia. Pipa, Baiá e Marraia investigam a 'sereia' das lendas. Após busca divertida, descobrem uma nova moradora da ilha.</desc>
+    <desc lang="pt">Na tranquila região do Mar Azul, Baiá e seus amigos estão desfrutando de um momento de descontração quando são surpreendidos por um acontecimento verdadeiramente assustador. Baiá fica tão aterrorizado que corre para contar para o polvo Ast.</desc>
   </programme>
   <programme start="20260813040000 -0300" stop="20260813043000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Em terras de poucas chuvas, crianças do Vale do Jequitinhonha mostram e contam como constroem carrinhos com latas e tábuas com mãos de poucas perguntas. As mesmas que são também sabedoras de jogos de pedrinhas, bolinhas de gude, de apanhar fruta no pé e de lavar roupa no rio. Os pés deslizam sobre uma amarelinha de chutar pedra até o último dia da semana, pulam corda, saltam em riachos e montam em cavalos de pau. À noite se juntam em cantorias de Folia de Reis, passando de casa em casa.</desc>
+    <desc lang="pt">Debaixo de uma mangueira um mundo se faz. Crianças de três comunidades do Vale do Jequitinhonha revelam como constroem suas casinhas e todos os segredos que habitam esses cantinhos. Seus corpos vigorosos brincam de esconde-esconde pela mata, tocam o batuque em família, sobem e descem em gangorras de bambu e giram suas biorras.</desc>
   </programme>
   <programme start="20260813043000 -0300" stop="20260813044500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Repórter Rá Teen Bum</title>
@@ -19637,7 +19641,7 @@
   <programme start="20260813050000 -0300" stop="20260813053000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Qual É, Bicho?</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Cadu, Nani e Lino estão vendo um livro de sósias e se divertindo muito. A campainha toca e Ubirajara aparece. Todos ficam felizes com esta visita e fazem a maior bagunça.</desc>
+    <desc lang="pt">O primo de Camila vem do interior para prestar vestibular em São Paulo. Ele chega no zoológico para uma visita e Camila lhe mostra orgulhosamente como funciona o departamento veterinário.</desc>
   </programme>
   <programme start="20260813053000 -0300" stop="20260813055000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Pratinho da Iaiá</title>
@@ -25971,7 +25975,7 @@
   <programme start="20260812124500 -0300" stop="20260812125000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260812125000 -0300" stop="20260812132400 -0300" channel="Canal Brasil.br">
     <title lang="pt">Sr. Futebol</title>
@@ -25981,7 +25985,7 @@
   <programme start="20260812132400 -0300" stop="20260812133000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260812133000 -0300" stop="20260812134200 -0300" channel="Canal Brasil.br">
     <title lang="pt">Guaracy</title>
@@ -26001,7 +26005,7 @@
   <programme start="20260812153900 -0300" stop="20260812154500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260812154500 -0300" stop="20260812170000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Clara Estrela</title>
@@ -26016,7 +26020,7 @@
   <programme start="20260812172400 -0300" stop="20260812173000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260812173000 -0300" stop="20260812175100 -0300" channel="Canal Brasil.br">
     <title lang="pt">Cantoras Portuguesas</title>
@@ -26026,7 +26030,7 @@
   <programme start="20260812175100 -0300" stop="20260812175500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Espelho</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">A obra de bell hooks defende uma pedagogia engajada e libertadora. A autora discute temas como racismo, feminismo e classe social na sala de aula, propondo um ensino crítico que conecte corpo e mente para transformar a educação e a sociedade.</desc>
+    <desc lang="pt">A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia.</desc>
   </programme>
   <programme start="20260812175500 -0300" stop="20260812192600 -0300" channel="Canal Brasil.br">
     <title lang="pt">Vermelho Russo</title>
@@ -26035,7 +26039,7 @@
   <programme start="20260812192600 -0300" stop="20260812193000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260812193000 -0300" stop="20260812194500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Cinejornal</title>
@@ -26060,7 +26064,7 @@
   <programme start="20260812224500 -0300" stop="20260812225000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260812225000 -0300" stop="20260813001000 -0300" channel="Canal Brasil.br">
     <title lang="pt">Quando Eu me Encontrar</title>
@@ -26084,7 +26088,7 @@
   <programme start="20260813032000 -0300" stop="20260813032500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Pílulas Sangue Latino - Luiz Carlos Barreto</title>
     <category lang="pt">Art</category>
-    <desc lang="pt">O &quot;Pílulas Sangue Latino&quot; entrevista o convidado, Luiz Carlos Barreto.</desc>
+    <desc lang="pt">Relatos do cineasta brasileiro Luiz Carlos Barreto sobre o cinema e a cultura.</desc>
   </programme>
   <programme start="20260813032500 -0300" stop="20260813050500 -0300" channel="Canal Brasil.br">
     <title lang="pt">Amadas e Violentadas</title>
@@ -32337,55 +32341,26 @@
     <category lang="pt">Fórmula 1</category>
     <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
   </programme>
-  <programme start="20260813073500 -0300" stop="20260813091000 -0300" channel="SporTV 3.br">
-    <title lang="pt">GP de Barcelona-Catalunha</title>
-    <category lang="pt">Fórmula 1</category>
-    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+  <programme start="20260813073500 -0300" stop="20260813153500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
   </programme>
-  <programme start="20260813091000 -0300" stop="20260813111000 -0300" channel="SporTV 3.br">
-    <title lang="pt">GP da Hungria</title>
-    <category lang="pt">Fórmula 1</category>
-    <desc lang="pt">Todas as emoções da mais prestigiada competição de automobilismo do planeta, a Fórmula 1.</desc>
+  <programme start="20260813153500 -0300" stop="20260813233500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
   </programme>
-  <programme start="20260813111000 -0300" stop="20260813130000 -0300" channel="SporTV 3.br">
-    <title lang="pt">WSL</title>
-    <desc lang="pt">Melhores momentos das etapas do Circuito Mundial de Surfe, com os principais atletas da modalidade.</desc>
+  <programme start="20260813233500 -0300" stop="20260814042500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
   </programme>
-  <programme start="20260813130000 -0300" stop="20260813150000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260814042500 -0300" stop="20260814054000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Rio de Janeiro - Final Masculina</title>
+    <category lang="pt">SLS - Mundial de Skate Street</category>
+    <desc lang="pt">Todas as emoções da Street League Skateboarding, circuito mundial de skate street com os principais nomes da modalidade e etapas realizadas por todo o planeta.</desc>
   </programme>
-  <programme start="20260813150000 -0300" stop="20260813170000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-  </programme>
-  <programme start="20260813170000 -0300" stop="20260813190000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-  </programme>
-  <programme start="20260813190000 -0300" stop="20260813210000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-  </programme>
-  <programme start="20260813210000 -0300" stop="20260813230000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-  </programme>
-  <programme start="20260813230000 -0300" stop="20260814010000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-  </programme>
-  <programme start="20260814010000 -0300" stop="20260814030000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-  </programme>
-  <programme start="20260814030000 -0300" stop="20260814050000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
-  </programme>
-  <programme start="20260814050000 -0300" stop="20260814060000 -0300" channel="SporTV 3.br">
-    <title lang="pt">VT de Evento</title>
-    <desc lang="pt">Mini programa com os principais destaques da programação da SporTV.</desc>
+  <programme start="20260814054000 -0300" stop="20260814064000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Programação SporTV3</title>
+    <desc lang="pt">Acompanhe a programação do canal.</desc>
   </programme>
   <programme start="20260812060000 -0300" stop="20260812070000 -0300" channel="Premiere Clubes.br">
     <title lang="pt">Vitória x Athletico-PR</title>
@@ -32602,17 +32577,195 @@
     <category lang="pt">Campeonato Brasileiro</category>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
-  <programme start="20260813080000 -0300" stop="20260813160000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260813080000 -0300" stop="20260813083000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Grêmio x Fluminense</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
-  <programme start="20260813160000 -0300" stop="20260814000000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260813083000 -0300" stop="20260813090000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Palmeiras x Atlético-MG</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
-  <programme start="20260814000000 -0300" stop="20260814010000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">Programação Premiere Clubes</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260813090000 -0300" stop="20260813093000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Bragantino x Coritiba</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813093000 -0300" stop="20260813100000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Remo x Vitória</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813100000 -0300" stop="20260813110000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+  </programme>
+  <programme start="20260813110000 -0300" stop="20260813113000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Mirassol x Remo</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813113000 -0300" stop="20260813120000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Vitória x Palmeiras</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813120000 -0300" stop="20260813123000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Fluminense x Bahia</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813123000 -0300" stop="20260813130000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Corinthians x Athletico-PR</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813130000 -0300" stop="20260813133000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Coritiba x Cruzeiro</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813133000 -0300" stop="20260813143000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+  </programme>
+  <programme start="20260813143000 -0300" stop="20260813150000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Palmeiras x Internacional</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813150000 -0300" stop="20260813153000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Bahia x Vasco</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813153000 -0300" stop="20260813160000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Bragantino x Corinthians</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813160000 -0300" stop="20260813163000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Santos x Athletico-PR</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813163000 -0300" stop="20260813170000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Flamengo x Vitória</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813170000 -0300" stop="20260813173000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Grêmio x São Paulo</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813173000 -0300" stop="20260813180000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Remo x Atlético-MG</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813180000 -0300" stop="20260813183000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Coritiba x Chapecoense</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813183000 -0300" stop="20260813190000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Botafogo x Fluminense</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813190000 -0300" stop="20260813200000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+  </programme>
+  <programme start="20260813200000 -0300" stop="20260813203000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Cruzeiro x Botafogo</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813203000 -0300" stop="20260813210000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Bahia x Corinthians</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813210000 -0300" stop="20260813213000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Santos x Chapecoense</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813213000 -0300" stop="20260813220000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Vasco x Mirassol</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813220000 -0300" stop="20260813223000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Flamengo x São Paulo</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813223000 -0300" stop="20260813230000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Grêmio x Fluminense</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813230000 -0300" stop="20260813233000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Palmeiras x Atlético-MG</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260813233000 -0300" stop="20260814000000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Bragantino x Coritiba</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814000000 -0300" stop="20260814003000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Remo x Vitória</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814003000 -0300" stop="20260814013000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+  </programme>
+  <programme start="20260814013000 -0300" stop="20260814020000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Mirassol x Remo</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814020000 -0300" stop="20260814023000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Vitória x Palmeiras</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814023000 -0300" stop="20260814030000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Fluminense x Bahia</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814030000 -0300" stop="20260814033000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Corinthians x Athletico-PR</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814033000 -0300" stop="20260814040000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Coritiba x Cruzeiro</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814040000 -0300" stop="20260814050000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
+  </programme>
+  <programme start="20260814050000 -0300" stop="20260814053000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Palmeiras x Internacional</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260814053000 -0300" stop="20260814063000 -0300" channel="Premiere Clubes.br">
+    <title lang="pt">Bahia x Vasco</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
   <programme start="20260812060000 -0300" stop="20260812140000 -0300" channel="Premiere 2.br">
     <title lang="pt">Premiere 2</title>
@@ -32715,12 +32868,12 @@
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
   <programme start="20260812133000 -0300" stop="20260812213000 -0300" channel="Premiere 6 HD.br">
-    <title lang="pt">Etapa de Teahupo'o - Dia 5</title>
+    <title lang="pt">Etapa de Teahupo'o - Dia 4</title>
     <category lang="pt">WSL</category>
     <desc lang="pt">Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</desc>
   </programme>
   <programme start="20260812213000 -0300" stop="20260813010000 -0300" channel="Premiere 6 HD.br">
-    <title lang="pt">Etapa de Teahupo'o - Dia 5</title>
+    <title lang="pt">Etapa de Teahupo'o - Dia 4</title>
     <category lang="pt">WSL</category>
     <desc lang="pt">Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</desc>
   </programme>
@@ -32728,16 +32881,22 @@
     <title lang="pt">Premiere 5</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
-  <programme start="20260813060000 -0300" stop="20260813140000 -0300" channel="Premiere 6 HD.br">
+  <programme start="20260813060000 -0300" stop="20260813133000 -0300" channel="Premiere 6 HD.br">
     <title lang="pt">Premiere 6</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
-  <programme start="20260813140000 -0300" stop="20260813220000 -0300" channel="Premiere 6 HD.br">
-    <title lang="pt">Premiere 6</title>
-    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  <programme start="20260813133000 -0300" stop="20260813213000 -0300" channel="Premiere 6 HD.br">
+    <title lang="pt">Etapa de Teahupo'o - Dia 5</title>
+    <category lang="pt">WSL</category>
+    <desc lang="pt">Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</desc>
   </programme>
-  <programme start="20260813220000 -0300" stop="20260813230000 -0300" channel="Premiere 6 HD.br">
-    <title lang="pt">Premiere 6</title>
+  <programme start="20260813213000 -0300" stop="20260814010000 -0300" channel="Premiere 6 HD.br">
+    <title lang="pt">Etapa de Teahupo'o - Dia 5</title>
+    <category lang="pt">WSL</category>
+    <desc lang="pt">Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</desc>
+  </programme>
+  <programme start="20260814010000 -0300" stop="20260814020000 -0300" channel="Premiere 6 HD.br">
+    <title lang="pt">Premiere 5</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
   <programme start="20260812060000 -0300" stop="20260812140000 -0300" channel="Premiere 7 HD.br">
@@ -35344,26 +35503,6 @@
   <programme start="20260812220000 -0300" stop="20260812230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260812133000 -0300" stop="20260812163000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - WTA 1000 Toronto: Quartas-de-Final</title>
-    <category lang="pt">Esporte/Tênis Feminino</category>
-  </programme>
-  <programme start="20260812163000 -0300" stop="20260812180000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Mundial de Motovelocidade: GP da Grã Bretanha - Sprint Moto GP</title>
-    <category lang="pt">Esporte/Motociclismo</category>
-  </programme>
-  <programme start="20260812180000 -0300" stop="20260812190000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Pelas Quadras</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20260812190000 -0300" stop="20260812200000 -0300" channel="ESPN 3.br">
-    <title lang="pt">The Ocho: The Popdarts Championship</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20260812200000 -0300" stop="20260812210000 -0300" channel="ESPN 3.br">
-    <title lang="pt">WTA 1000 Toronto: Semifinal - Ao Vivo</title>
-    <category lang="pt">Esporte/Tênis Feminino</category>
-  </programme>
   <programme start="20260812210000 -0300" stop="20260813000000 -0300" channel="ESPN 3.br">
     <title lang="pt">WTA 1000 Toronto: Semifinal - Ao Vivo</title>
     <category lang="pt">Esporte/Tênis Feminino</category>
@@ -36352,18 +36491,6 @@
     <title lang="pt">Show da Rodada da EFL</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20260812122500 -0300" stop="20260812152500 -0300" channel="Combate.br">
-    <title lang="pt">Oktagon 92</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260812152500 -0300" stop="20260812173500 -0300" channel="Combate.br">
-    <title lang="pt">Boxe-  Johnson x Thorslund</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260812173500 -0300" stop="20260812193000 -0300" channel="Combate.br">
-    <title lang="pt">Power Slap 22</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260812193000 -0300" stop="20260812215500 -0300" channel="Combate.br">
     <title lang="pt">Fight Do Milhão -  Semifinais Feminino - Card Completo - São Paulo, Sp</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36779,22 +36906,6 @@
   <programme start="20260826200000 -0300" stop="20260826210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260812144500 -0300" stop="20260812172000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Mulher-Maravilha 1984</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260812172000 -0300" stop="20260812182500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20260812182500 -0300" stop="20260812192500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20260812192500 -0300" stop="20260812200000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20260812200000 -0300" stop="20260812221500 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Superman</title>
