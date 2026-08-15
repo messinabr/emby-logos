@@ -497,7 +497,12 @@
     <title lang="pt">Fórmula E</title>
     <desc lang="pt">Reprises e destaques da competição de automobilismo envolvendo veículos elétricos.</desc>
   </programme>
-  <programme start="20260817020000 -0300" stop="20260817030000 -0300" channel="Band São Paulo.br">
+  <programme start="20260817020000 -0300" stop="20260817040000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
+  <programme start="20260817040000 -0300" stop="20260817050000 -0300" channel="Band São Paulo.br">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <category lang="pt">Religious</category>
     <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
@@ -801,7 +806,7 @@
   <programme start="20260816093000 -0300" stop="20260816101000 -0300" channel="SBT.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">Após ser atropelado, Seu Madruga está em casa com a perna quebrada e ganha algumas comidas da Dona Clotilde. Então, Chaves finge que sofreu um acidente para ver se também ganha algo.</desc>
+    <desc lang="pt">A turma da vila trabalha para fazer uma grande pichorra para as festas natalinas. Mas com Chaves e Quico atrapalhando, as coisas não dão muito certo.</desc>
   </programme>
   <programme start="20260816101000 -0300" stop="20260816110000 -0300" channel="SBT.br">
     <title lang="pt">Notícias Impressionantes</title>
@@ -3514,6 +3519,8 @@
   </programme>
   <programme start="20260816173000 -0300" stop="20260816180000 -0300" channel="Globo News.br">
     <title lang="pt">GloboNews 30 Anos</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Reúne especialistas e entrevistas históricas para relembrar os acontecimentos e principais debates que marcaram as últimas três décadas.</desc>
   </programme>
   <programme start="20260816180000 -0300" stop="20260816193000 -0300" channel="Globo News.br">
     <title lang="pt">Jornal GloboNews - Edição das 18 Horas</title>
@@ -3537,6 +3544,8 @@
   </programme>
   <programme start="20260816230500 -0300" stop="20260816233500 -0300" channel="Globo News.br">
     <title lang="pt">GloboNews 30 Anos</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Reúne especialistas e entrevistas históricas para relembrar os acontecimentos e principais debates que marcaram as últimas três décadas.</desc>
   </programme>
   <programme start="20260816233500 -0300" stop="20260817023500 -0300" channel="Globo News.br">
     <title lang="pt">Fantástico</title>
@@ -5112,52 +5121,52 @@
     <category lang="pt">Temporada 3 Episódio 7 - Partindo o Pão</category>
     <desc lang="pt">Pedro chega na República Dominicana para fazer as pazes entre a família, mas piora as coisas. Winter e Jah fazem um jantar para a família para revelar que estão noivos. River decide apresentar Karen e Chantel à sua namorada.</desc>
   </programme>
-  <programme start="20260816064900 -0300" stop="20260816073800 -0300" channel="TLC.br">
+  <programme start="20260816064900 -0300" stop="20260816073600 -0300" channel="TLC.br">
     <title lang="pt">90 Dias na Cama - Chantel e Pedro em Família</title>
     <category lang="pt">Temporada 3 Episódio 7 - Partindo o Pão</category>
     <desc lang="pt">Os participantes preferidos de &quot;90 Dias para Casar&quot; comentam um episódio de &quot;Chantel e Pedro em Família&quot;. David e Annie, Dean e Rigin, Robert e Anny e Stephanie e Magda não poupam opiniões.</desc>
   </programme>
-  <programme start="20260816073800 -0300" stop="20260816082200 -0300" channel="TLC.br">
+  <programme start="20260816073600 -0300" stop="20260816081900 -0300" channel="TLC.br">
     <title lang="pt">Chantel e Pedro em Família</title>
     <category lang="pt">Temporada 3 Episódio 8 - Verdade Seja Dita</category>
     <desc lang="pt">Chantel e Karen conhecem a namorada de River. Pedro e Nicole descobrem mais sobre o passado de seu pai e a história da família. Após uma briga feia com Jah, Winter revela detalhes do relacionamento que escondia da família.</desc>
   </programme>
-  <programme start="20260816082200 -0300" stop="20260816091100 -0300" channel="TLC.br">
+  <programme start="20260816081900 -0300" stop="20260816090700 -0300" channel="TLC.br">
     <title lang="pt">90 Dias na Cama - Chantel e Pedro em Família</title>
     <category lang="pt">Temporada 3 Episódio 8 - Verdade Seja Dita</category>
     <desc lang="pt">Os participantes preferidos de &quot;90 Dias para Casar&quot; comentam um episódio de &quot;Chantel e Pedro em Família&quot;. David e Annie, Dean e Rigin, Robert e Anny e Stephanie e Magda não poupam opiniões.</desc>
   </programme>
-  <programme start="20260816091100 -0300" stop="20260816100000 -0300" channel="TLC.br">
+  <programme start="20260816090700 -0300" stop="20260816095700 -0300" channel="TLC.br">
     <title lang="pt">A Pequena Grande Família</title>
     <category lang="pt">Temporada 14 Episódio 5 - A Volta para Casa</category>
     <desc lang="pt">Matt e Amy esquecem seus problemas conjugais para lançar o novo negócio da família; Zach prova o terno feito sob medida para o casamento; Jeremy pondera seu futuro em Los Angeles.</desc>
   </programme>
-  <programme start="20260816100000 -0300" stop="20260816104800 -0300" channel="TLC.br">
+  <programme start="20260816095700 -0300" stop="20260816104600 -0300" channel="TLC.br">
     <title lang="pt">A Pequena Grande Família</title>
     <category lang="pt">Temporada 14 Episódio 6 - Corrida na Lama</category>
     <desc lang="pt">Às vésperas do casamento, a pressão sobre Zach e Tori aumenta; Amy sente a necessidade de contribuir organizando uma corrida beneficente na fazenda, mas sem a ajuda de Matt.</desc>
   </programme>
-  <programme start="20260816104800 -0300" stop="20260816111300 -0300" channel="TLC.br">
+  <programme start="20260816104600 -0300" stop="20260816111400 -0300" channel="TLC.br">
     <title lang="pt">Segredos do Meu Corpo</title>
     <category lang="pt">Temporada 1 Episódio 7 - Sharon</category>
     <desc lang="pt">Uma mulher perde a autoestima devido ao excesso de pelos faciais. Ela, talvez, precise de cirurgia a laser e do apoio de um psicoterapeuta para recuperar a feminilidade.</desc>
   </programme>
-  <programme start="20260816111300 -0300" stop="20260816113700 -0300" channel="TLC.br">
+  <programme start="20260816111400 -0300" stop="20260816113900 -0300" channel="TLC.br">
     <title lang="pt">Segredos do Meu Corpo</title>
     <category lang="pt">Temporada 1 Episódio 3 - Josh</category>
     <desc lang="pt">Há sete anos, Josh tem &quot;Foliculite Decalvante&quot;, irritações capilares que resultam em queda de cabelos.</desc>
   </programme>
-  <programme start="20260816113700 -0300" stop="20260816122600 -0300" channel="TLC.br">
+  <programme start="20260816113900 -0300" stop="20260816122800 -0300" channel="TLC.br">
     <title lang="pt">Filhinho da Mamãe</title>
     <category lang="pt">Temporada 4 Episódio 1 - Sei que Não Podemos Namorar</category>
     <desc lang="pt">Matt busca o amor com a ajuda de Kelly; Janelle equilibra filhos e sogra; Austin quer a aprovação materna; Nylah enfrenta tensão familiar.</desc>
   </programme>
-  <programme start="20260816122600 -0300" stop="20260816131000 -0300" channel="TLC.br">
+  <programme start="20260816122800 -0300" stop="20260816131100 -0300" channel="TLC.br">
     <title lang="pt">Filhinho da Mamãe</title>
     <category lang="pt">Temporada 4 Episódio 2 - Mamãe Sabe Tudo</category>
     <desc lang="pt">Nylah surpreende a mãe no jantar; Josh tenta animar o aniversário da mãe; Matt topa um encontro; Austin convida a ex para o Natal.</desc>
   </programme>
-  <programme start="20260816131000 -0300" stop="20260816140000 -0300" channel="TLC.br">
+  <programme start="20260816131100 -0300" stop="20260816140000 -0300" channel="TLC.br">
     <title lang="pt">Filhinho da Mamãe</title>
     <category lang="pt">Temporada 4 Episódio 3 - A Chegada do Príncipe</category>
     <desc lang="pt">Tash disputa atenção com Lori no casamento; Nylah tenta agradar Dia; Kelly guia Matt nos encontros; Tina estraga uma lembrança de Janelle.</desc>
@@ -5167,77 +5176,77 @@
     <category lang="pt">Temporada 4 Episódio 4 - A Gota D'água</category>
     <desc lang="pt">Janelle se cansa das reclamações de Tina e faz uma sugestão ousada; Lori interfere na escolha do vestido de noiva de Tash; Kris e Shirlene se enfrentam; Dia interrompe o encontro de Shahid e Nylah.</desc>
   </programme>
-  <programme start="20260816144900 -0300" stop="20260816154300 -0300" channel="TLC.br">
+  <programme start="20260816144900 -0300" stop="20260816154400 -0300" channel="TLC.br">
     <title lang="pt">Amor no Caribe - Rumo aos 90 Dias?</title>
     <category lang="pt">Temporada 1 Episódio 1 - Romance Tropical</category>
     <desc lang="pt">O noivo que Amber conheceu durante as férias passa por problemas financeiros; Aryanna vive um romance em um destino paradisíaco e volta para casa comprometida; Mark deseja reencontrar um amor do passado.</desc>
   </programme>
-  <programme start="20260816154300 -0300" stop="20260816163700 -0300" channel="TLC.br">
+  <programme start="20260816154400 -0300" stop="20260816163900 -0300" channel="TLC.br">
     <title lang="pt">Amor no Caribe - Rumo aos 90 Dias?</title>
     <category lang="pt">Temporada 1 Episódio 2 - Sexo na Praia</category>
     <desc lang="pt">Daniel dá uma notícia bombástica a Amber depois de uma noite incrível juntos; Aryanna está ansiosa para encontrar Sherlon na Jamaica; Mark e Key recordam os velhos tempos; Martine pressiona Steven a se comprometer.</desc>
   </programme>
-  <programme start="20260816163700 -0300" stop="20260816172600 -0300" channel="TLC.br">
+  <programme start="20260816163900 -0300" stop="20260816172800 -0300" channel="TLC.br">
     <title lang="pt">Amor na Gringa</title>
     <category lang="pt">Temporada 1 Episódio 6 - Traga uma Aliança</category>
     <desc lang="pt">Harold conhece seu segundo par; Juan dá a Susan um feedback; depois de três noivados fracassados e de ser traído duas vezes, Chad quer encontrar o amor na Colômbia; Stanika toma uma decisão importante.</desc>
   </programme>
-  <programme start="20260816172600 -0300" stop="20260816181000 -0300" channel="TLC.br">
+  <programme start="20260816172800 -0300" stop="20260816181500 -0300" channel="TLC.br">
     <title lang="pt">O Vestido Ideal América</title>
     <category lang="pt">Temporada 1 Episódio 3 - Achei o Vestido Ideal, Galera!</category>
     <desc lang="pt">Randy viaja para longe para surpreender Sammi Jo e descobre que ela está muito nervosa por escolher seu vestido sem a mãe; Raeshanda precisa de um vestido de rainha por menos de 2 mil dólares.</desc>
   </programme>
-  <programme start="20260816181000 -0300" stop="20260816185900 -0300" channel="TLC.br">
+  <programme start="20260816181500 -0300" stop="20260816190400 -0300" channel="TLC.br">
     <title lang="pt">Os Busbys + 5</title>
     <category lang="pt">Temporada 10 Episódio 5 - Canalizando o Caos</category>
     <desc lang="pt">Após participar de uma conferência, Adam e Danielle decidem se as crianças estão prontas para ter suas próprias redes sociais. Eles também buscam alguém para cuidar da casa, mas descobrem que pode ser difícil.</desc>
   </programme>
-  <programme start="20260816185900 -0300" stop="20260816195000 -0300" channel="TLC.br">
+  <programme start="20260816190400 -0300" stop="20260816195400 -0300" channel="TLC.br">
     <title lang="pt">A Família Baldwin</title>
     <category lang="pt">Temporada 1 Episódio 4 - Momento de Reflexão</category>
     <desc lang="pt">Alec e Hilaria participam de uma sessão de terapia, mas têm opiniões diferentes sobre os próximos passos. Alec reflete sobre seu futuro como ator.</desc>
   </programme>
-  <programme start="20260816195000 -0300" stop="20260816203400 -0300" channel="TLC.br">
+  <programme start="20260816195400 -0300" stop="20260816203700 -0300" channel="TLC.br">
     <title lang="pt">De Repente, Amish</title>
     <category lang="pt">Temporada 1 Episódio 2 - O Primeiro Grande Teste</category>
     <desc lang="pt">Os forasteiros encaram a dura rotina de trabalho dos Amish, enquanto um segredo do passado ameaça seu lugar na comunidade.</desc>
   </programme>
-  <programme start="20260816203400 -0300" stop="20260816212400 -0300" channel="TLC.br">
+  <programme start="20260816203700 -0300" stop="20260816212900 -0300" channel="TLC.br">
     <title lang="pt">Poliamor - A Próxima Esposa</title>
     <category lang="pt">Temporada 6 Episódio 6 - Sou Meio Básico na Cama</category>
     <desc lang="pt">Os Peraltas apresentam Jackie aos amigos. Anjelica se arrepende de uma decisão com Shanay. Reise tem seu primeiro encontro às cegas.</desc>
   </programme>
-  <programme start="20260816212400 -0300" stop="20260816221400 -0300" channel="TLC.br">
+  <programme start="20260816212900 -0300" stop="20260816221700 -0300" channel="TLC.br">
     <title lang="pt">4 Mulheres e 1 Marido</title>
     <category lang="pt">Temporada 20 Episódio 6 - Não Somos &quot;Maridos-Irmãos&quot;</category>
     <desc lang="pt">Janelle e Meri se encontram com Kody para discutir uma oferta pelo terreno de Coyote Pass.</desc>
   </programme>
-  <programme start="20260816221400 -0300" stop="20260816224700 -0300" channel="TLC.br">
+  <programme start="20260816221700 -0300" stop="20260816225100 -0300" channel="TLC.br">
     <title lang="pt">Mapa do Pop</title>
     <category lang="pt">Temporada 6 Episódio 74 - Ritmo e Poesia</category>
     <desc lang="pt">Veja um giro por São Paulo para contar um pouco da história do hip-hop no Brasil.</desc>
   </programme>
-  <programme start="20260816224700 -0300" stop="20260816231900 -0300" channel="TLC.br">
+  <programme start="20260816225100 -0300" stop="20260816232100 -0300" channel="TLC.br">
     <title lang="pt">Mapa do Pop</title>
     <category lang="pt">Temporada 6 Episódio 75 - Filmes do Sertão e do Agreste</category>
     <desc lang="pt">Carol Ribeiro viaja pelo interior do Nordeste, região que foi cenário de muitas histórias marcantes no cinema, mostrando a natureza, o povo e as tradições do sertão e do agreste, partes fundamentais da cultura brasileira.</desc>
   </programme>
-  <programme start="20260816231900 -0300" stop="20260816235200 -0300" channel="TLC.br">
+  <programme start="20260816232100 -0300" stop="20260816235200 -0300" channel="TLC.br">
     <title lang="pt">Passeio Completo</title>
     <category lang="pt">Temporada 1 Episódio 3 - Quinta da Comporta</category>
     <desc lang="pt">Com areia dourada e mar azul-turquesa, a Praia de Comporta é uma das mais chiques de Portugal e é frequentada por muitos famosos, como o designer Christian Louboutin e o ator Harrison Ford. Ana conhece a praia onde Madonna foi vista cavalgando.</desc>
   </programme>
-  <programme start="20260816235200 -0300" stop="20260817004100 -0300" channel="TLC.br">
+  <programme start="20260816235200 -0300" stop="20260817004300 -0300" channel="TLC.br">
     <title lang="pt">O Vestido Ideal</title>
     <category lang="pt">Temporada 20 Episódio 1 - Você Não Precisa Dizer Sempre Sim</category>
     <desc lang="pt">Kleinfeld pode parecer um pouco diferente, mas as noivas voltaram. Kendall Vertes tenta ajudar sua irmã, Ryleigh, a encontrar um vestido; a assistente de Randy, Daniela, recebe uma opinião de uma sinceridade brutal.</desc>
   </programme>
-  <programme start="20260817004100 -0300" stop="20260817013000 -0300" channel="TLC.br">
+  <programme start="20260817004300 -0300" stop="20260817013100 -0300" channel="TLC.br">
     <title lang="pt">Meu Grande Casamento Cigano</title>
     <category lang="pt">Temporada 2 Episódio 6 - Rivalidades e Corações Partidos</category>
     <desc lang="pt">Duas notórias famílias de ciganos, os Boswells e os Smalls, brigam há anos. Quando uma decide invadir a festa da outra, tudo pode acontecer; uma jovem cigana precisa decidir se fica ou não com o seu homem.</desc>
   </programme>
-  <programme start="20260817013000 -0300" stop="20260817021800 -0300" channel="TLC.br">
+  <programme start="20260817013100 -0300" stop="20260817021800 -0300" channel="TLC.br">
     <title lang="pt">A Pequena Grande Família</title>
     <category lang="pt">Temporada 16 Episódio 2 - Abóboras em Risco</category>
     <desc lang="pt">Matt tem alta do hospital, mas seu alívio dura pouco quando descobre um problema que pode destruir a temporada de abóboras. Zach e Tori planejam viajar para comemorar o aniversário de casamento.</desc>
@@ -5257,12 +5266,12 @@
     <category lang="pt">Temporada 16 Episódio 5 - Apocalipse Zumbi</category>
     <desc lang="pt">Matt anuncia o plano de construir um bunker pós-apocalíptico com espaço para a família inteira. Os Roloffs se unem para ajudá-lo, mas será que conseguirão passar no teste do confinamento?</desc>
   </programme>
-  <programme start="20260817044500 -0300" stop="20260817053400 -0300" channel="TLC.br">
+  <programme start="20260817044500 -0300" stop="20260817053300 -0300" channel="TLC.br">
     <title lang="pt">Jay e Pamela</title>
     <category lang="pt">Temporada 1 Episódio 4 - Comprometido e Enfurecido</category>
     <desc lang="pt">Jay finalmente sai do hospital e há muito o que fazer para se preparar para o casamento. Jay e Pamela ficam furiosos quando os pais de Jay questionam o custo e o propósito do casamento. Nada nem ninguém vai impedir Jay e Pamela de se casarem.</desc>
   </programme>
-  <programme start="20260817053400 -0300" stop="20260817063400 -0300" channel="TLC.br">
+  <programme start="20260817053300 -0300" stop="20260817063300 -0300" channel="TLC.br">
     <title lang="pt">Muquiranas</title>
     <category lang="pt">Temporada 1 Episódio 7 - Roy e Ben</category>
     <desc lang="pt">Os muquiranas Ben e Roy mostram como conseguem ter uma vida mais econômica. Ben é capaz de fazer uma festa com um orçamento de apenas quatro dólares, e Roy mostra como ele congela seus recursos.</desc>
@@ -9398,9 +9407,9 @@
     <desc lang="pt">Todas as emoções da competição de velocidade com provas disputadas em pistas de terra.</desc>
   </programme>
   <programme start="20260816023000 -0300" stop="20260816031500 -0300" channel="Band Sports.br">
-    <title lang="pt">Etapa de Jamara - Corrida 1</title>
-    <category lang="pt">Fórmula 4</category>
-    <desc lang="pt">Acompanhe a quarta categoria do principal torneio de automobilismo da FIA, com diversos talentos.</desc>
+    <title lang="pt">MX2: Suécia - Corrida 1</title>
+    <category lang="pt">Mundial de Motocross</category>
+    <desc lang="pt">Toda a disputa da principal competição de motocross do mundo, organizada pela Federação Internacional de Motociclismo, a FIM, com etapas por todo o planeta.</desc>
   </programme>
   <programme start="20260816031500 -0300" stop="20260816041500 -0300" channel="Band Sports.br">
     <title lang="pt">E-Prix de Londres - Corrida 1</title>
@@ -9728,9 +9737,9 @@
     <desc lang="pt">Veja as principais descobertas da medicina e acompanhe dicas e orientações para garantir o cuidado com a saúde e o bem-estar.</desc>
   </programme>
   <programme start="20260817050000 -0300" stop="20260817060000 -0300" channel="JOVEM PAN NEWS.br">
-    <title lang="pt">Hora H do Agro</title>
-    <category lang="pt">Agriculture</category>
-    <desc lang="pt">Acompanhe informações, análises, reportagens e entrevistas com figuras relevantes no contexto do agronegócio. Fique por dentro das principais tendências e de tudo o que há de mais importante no setor.</desc>
+    <title lang="pt">Jornal da Manhã - 1ª Edição</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">O time de comentaristas da Jovem Pan analisa os principais assuntos do dia.</desc>
   </programme>
   <programme start="20260815060000 -0300" stop="20260815093000 -0300" channel="CNN Brasil.br">
     <title lang="pt">Newsroom</title>
@@ -9763,9 +9772,9 @@
     <desc lang="pt">As principais notícias do dia transmitidas pelo canal CNN Brasil.</desc>
   </programme>
   <programme start="20260815143000 -0300" stop="20260815151500 -0300" channel="CNN Brasil.br">
-    <title lang="pt">Hot Market</title>
-    <category lang="pt">Bus./financial</category>
-    <desc lang="pt">Discussão sobre juros, contas públicas, eleições, tecnologia e mercado de trabalho do Brasil e do mundo, com entrevista com nomes de destaque do mercado.</desc>
+    <title lang="pt">CNN Viagem &amp; Gastronomia</title>
+    <category lang="pt">Travel</category>
+    <desc lang="pt">Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária.</desc>
   </programme>
   <programme start="20260815151500 -0300" stop="20260815153000 -0300" channel="CNN Brasil.br">
     <title lang="pt">Boletim Agora CNN</title>
@@ -9796,15 +9805,10 @@
     <category lang="pt">Interview</category>
     <desc lang="pt">O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados pelo apresentador e seus convidados especiais.</desc>
   </programme>
-  <programme start="20260815184500 -0300" stop="20260815192500 -0300" channel="CNN Brasil.br">
+  <programme start="20260815184500 -0300" stop="20260815193000 -0300" channel="CNN Brasil.br">
     <title lang="pt">Agora CNN</title>
     <category lang="pt">News</category>
     <desc lang="pt">Reportagens para começar o dia com as informações que importam.</desc>
-  </programme>
-  <programme start="20260815192500 -0300" stop="20260815193000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN Cast</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">Um espaço para ouvir as principais vozes dos setores mais importantes para o país.</desc>
   </programme>
   <programme start="20260815193000 -0300" stop="20260815200000 -0300" channel="CNN Brasil.br">
     <title lang="pt">CNN Sinais Vitais - Dr. Kalil Entrevista</title>
@@ -10796,137 +10800,137 @@
     <category lang="pt">Temporada 2 Episódio 3 - Pizza com Cocaína</category>
     <desc lang="pt">Um pai e um filho se unem para vender drogas na pizzaria da família; uma mãe, cansada de fraudar a contabilidade do chefe, decide roubar sua própria fatia desse bolo; um ladrão é tão bom em escapar da polícia que ganha o apelido de Homem-Aranha.</desc>
   </programme>
-  <programme start="20260816060000 -0300" stop="20260816064400 -0300" channel="Discovery Channel.br">
+  <programme start="20260816060000 -0300" stop="20260816064300 -0300" channel="Discovery Channel.br">
     <title lang="pt">Construções no Alasca</title>
     <category lang="pt">Temporada 6 Episódio 4 - Preso em Shelikof</category>
     <desc lang="pt">Nick procura madeira para sua construção e percebe como é perigoso viver no Alasca. A barcaça de Jere e Ben inicia sua viagem pela água, e a equipe de Brannon atinge um marco importante na construção do chalé.</desc>
   </programme>
-  <programme start="20260816064400 -0300" stop="20260816070600 -0300" channel="Discovery Channel.br">
+  <programme start="20260816064300 -0300" stop="20260816070300 -0300" channel="Discovery Channel.br">
     <title lang="pt">Construções Remotas - Fazenda Big Sky</title>
     <category lang="pt">Temporada 1 Episódio 1 - A Construção Começa</category>
     <desc lang="pt">Jon e Etta começam a construir uma casa e um rancho para bisões em uma área isolada de Montana.</desc>
   </programme>
-  <programme start="20260816070600 -0300" stop="20260816075600 -0300" channel="Discovery Channel.br">
+  <programme start="20260816070300 -0300" stop="20260816075000 -0300" channel="Discovery Channel.br">
     <title lang="pt">Rumo ao Desconhecido</title>
     <category lang="pt">Temporada 10 Episódio 11 - Mistérios de Moisés</category>
     <desc lang="pt">Para esclarecer dúvidas sobre a existência de Moisés e a história do Êxodo, Josh inicia uma aventura épica que começa com a abertura de uma tumba egípcia e termina em uma trilha naquele que pode ser o verdadeiro Monte Sinai.</desc>
   </programme>
-  <programme start="20260816075600 -0300" stop="20260816084600 -0300" channel="Discovery Channel.br">
+  <programme start="20260816075000 -0300" stop="20260816084200 -0300" channel="Discovery Channel.br">
     <title lang="pt">Ed Stafford, o Sobrevivente</title>
     <category lang="pt">Temporada 2 Episódio 7 - Ruanda</category>
     <desc lang="pt">A 2 mil metros de altitude, nas savanas altas de Ruanda, Ed tenta viver em harmonia com os maiores animais da África. Ele está cercado por elefantes e girafas, mas o alimento é escasso.</desc>
   </programme>
-  <programme start="20260816084600 -0300" stop="20260816093700 -0300" channel="Discovery Channel.br">
+  <programme start="20260816084200 -0300" stop="20260816093300 -0300" channel="Discovery Channel.br">
     <title lang="pt">Ed Stafford - Desafio Mortal</title>
     <category lang="pt">Temporada 1 Episódio 3 - Isolado na Mongólia</category>
     <desc lang="pt">Ed é deixado nos Montes Altai, uma cordilheira vasta e isolada na fronteira entre Mongólia, Rússia, Cazaquistão e China.</desc>
   </programme>
-  <programme start="20260816093700 -0300" stop="20260816103200 -0300" channel="Discovery Channel.br">
+  <programme start="20260816093300 -0300" stop="20260816103300 -0300" channel="Discovery Channel.br">
     <title lang="pt">Éden</title>
     <category lang="pt">Temporada 1 Episódio 4 - Galápagos - Ilhas Encantadas</category>
     <desc lang="pt">Das encostas de lava até seu centro flamejante, descubra como este lugar se tornou uma das áreas de biodiversidade mais importantes do mundo.</desc>
   </programme>
-  <programme start="20260816103200 -0300" stop="20260816112700 -0300" channel="Discovery Channel.br">
+  <programme start="20260816103300 -0300" stop="20260816113000 -0300" channel="Discovery Channel.br">
     <title lang="pt">Predadores</title>
     <category lang="pt">Temporada 1 Episódio 5 - Sem Esconderijos</category>
     <desc lang="pt">As pradarias e desertos ocupam metade dos continentes. Em habitats tão expostos, guepardos, águias-carecas e leões conseguem avistar suas presas - e vice-versa. Por isso, precisam criar oportunidades para capturá-las.</desc>
   </programme>
-  <programme start="20260816112700 -0300" stop="20260816122300 -0300" channel="Discovery Channel.br">
+  <programme start="20260816113000 -0300" stop="20260816122700 -0300" channel="Discovery Channel.br">
     <title lang="pt">Sete Mundos, um Planeta</title>
     <category lang="pt">Temporada 1 Episódio 4 - Austrália</category>
     <desc lang="pt">A Austrália se separou do continente na época dos dinossauros. Aqui, cangurus e vombates enfrentam violentas nevascas e as florestas de eucaliptos são repletas de predadores nunca observados.</desc>
   </programme>
-  <programme start="20260816122300 -0300" stop="20260816131300 -0300" channel="Discovery Channel.br">
+  <programme start="20260816122700 -0300" stop="20260816131600 -0300" channel="Discovery Channel.br">
     <title lang="pt">Instintos da Vida Selvagem</title>
     <category lang="pt">Temporada 1 Episódio 4 - Água Doce</category>
     <desc lang="pt">A água é essencial para toda a vida na Terra, mas o excesso ou a falta dela podem ser desastrosos. Os pais precisam saber o momento certo para superar as constantes mudanças da água doce e criar a próxima geração com sucesso.</desc>
   </programme>
-  <programme start="20260816131300 -0300" stop="20260816140700 -0300" channel="Discovery Channel.br">
+  <programme start="20260816131600 -0300" stop="20260816141100 -0300" channel="Discovery Channel.br">
     <title lang="pt">Planeta Azul II</title>
     <category lang="pt">Temporada 2 Episódio 6 - Litorais</category>
     <desc lang="pt">Um campo de batalha na fronteira entre dois mundos totalmente distintos. Para sobreviver nestes litorais selvagens, é preciso superar os desafios da terra e do mar com resistência e criatividade.</desc>
   </programme>
-  <programme start="20260816140700 -0300" stop="20260816145700 -0300" channel="Discovery Channel.br">
+  <programme start="20260816141100 -0300" stop="20260816150000 -0300" channel="Discovery Channel.br">
     <title lang="pt">Gladiadores da Natureza</title>
     <category lang="pt">Temporada 1 Episódio 1 - O Bebedouro</category>
     <desc lang="pt">A estação seca traz um bando de gladiadores a um bebedouro na savana africana; uma briga territorial entre um leão e um elefante; formigas atacam um cupinzeiro; um texugo-do-mel cruza o caminho de uma cobra mortal.</desc>
   </programme>
-  <programme start="20260816145700 -0300" stop="20260816160000 -0300" channel="Discovery Channel.br">
+  <programme start="20260816150000 -0300" stop="20260816160500 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados - Brasil</title>
     <category lang="pt">Temporada 1 Episódio 7 - Tão Perto e Tão Longe do Resgate</category>
     <desc lang="pt">Os participantes chegam à etapa final do desafio. Estão extremamente debilitados e as brigas são inevitáveis. No local onde estão é enorme a presença de felinos de grande porte e jacarés, tornando as noites muito perigosas.</desc>
   </programme>
-  <programme start="20260816160000 -0300" stop="20260816171700 -0300" channel="Discovery Channel.br">
+  <programme start="20260816160500 -0300" stop="20260816171900 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados - Brasil</title>
     <category lang="pt">Temporada 2 Episódio 1 - Cadê a Água?</category>
     <desc lang="pt">Os especialistas em sobrevivência passam pelo incômodo momento de conhecer seu parceiro de desafio sem roupa. Começam as jornadas e os problemas para encontrar água limpa e montar um abrigo.</desc>
   </programme>
-  <programme start="20260816171700 -0300" stop="20260816180600 -0300" channel="Discovery Channel.br">
+  <programme start="20260816171900 -0300" stop="20260816180600 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados, Pelados e Solitários</title>
     <category lang="pt">Temporada 1 Episódio 5 - Caçadora de Bagres</category>
     <desc lang="pt">Cheeny persegue outro bagre enorme; uma víbora ataca Kaila; Fernando é atormentado por dúvidas.</desc>
   </programme>
-  <programme start="20260816180600 -0300" stop="20260816185500 -0300" channel="Discovery Channel.br">
+  <programme start="20260816180600 -0300" stop="20260816185400 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados, Pelados e Solitários</title>
     <category lang="pt">Temporada 1 Episódio 6 - Na Ponta da Faca</category>
     <desc lang="pt">Um ferimento doloroso coloca em risco a participação de Shanika; a persistência de Fernando gera frutos cruciais para sua jornada.</desc>
   </programme>
-  <programme start="20260816185500 -0300" stop="20260816203400 -0300" channel="Discovery Channel.br">
+  <programme start="20260816185400 -0300" stop="20260816203400 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 18 Episódio 3 - O Retorno do Rei</category>
     <desc lang="pt">A lenda Steven Lee Hall Jr. é o parceiro de duas sobrevivencialistas novatas em uma floresta inóspita no Kentucky. As perigosas cobras cabeças-de-cobre e tempestades violentas abalam até o rei da floresta.</desc>
   </programme>
-  <programme start="20260816203400 -0300" stop="20260816221300 -0300" channel="Discovery Channel.br">
+  <programme start="20260816203400 -0300" stop="20260816221400 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 18 Episódio 10 - Sacrifício Maia</category>
     <desc lang="pt">No México, quatro pessoas encaram uma antiga floresta maia, palco de sacrifícios humanos. Lutando contra mosquitos implacáveis e tempestades torrenciais, as duas equipes precisam se unir para sobreviver durante 21 dias.</desc>
   </programme>
-  <programme start="20260816221300 -0300" stop="20260816230300 -0300" channel="Discovery Channel.br">
+  <programme start="20260816221400 -0300" stop="20260816230400 -0300" channel="Discovery Channel.br">
     <title lang="pt">Ed Stafford - Rituais Extremos</title>
     <category lang="pt">Temporada 1 Episódio 6 - Shaolin</category>
     <desc lang="pt">Para a maioria das pessoas, o kung fu Shaolin leva anos para ser dominado. Ed tem apenas alguns dias para aprender a controlar seu Qi, ou força vital, antes de lutar contra um mestre de artes marciais.</desc>
   </programme>
-  <programme start="20260816230300 -0300" stop="20260816235400 -0300" channel="Discovery Channel.br">
+  <programme start="20260816230400 -0300" stop="20260816235300 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Temporada 15 Episódio 11 - Largados e Pelados na Floresta</category>
     <desc lang="pt">A sobrevivencialista Rachel e Na'im, um rapaz do Colorado, tentam sobreviver durante 21 dias em uma região inóspita da Argentina. As temperaturas noturnas congelantes testam os limites da dupla.</desc>
   </programme>
-  <programme start="20260816235400 -0300" stop="20260817004900 -0300" channel="Discovery Channel.br">
+  <programme start="20260816235300 -0300" stop="20260817004900 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados - Brasil</title>
     <category lang="pt">Temporada 1 Episódio 6 - O Recomeço</category>
     <desc lang="pt">Entrando na reta final, multiplicam-se os deslocamentos das equipes. Rene tem dificuldades para liderar e alimentar seu grupo. Sati sofre um acidente que compromete sua continuidade no desafio.</desc>
   </programme>
-  <programme start="20260817004900 -0300" stop="20260817013700 -0300" channel="Discovery Channel.br">
+  <programme start="20260817004900 -0300" stop="20260817013900 -0300" channel="Discovery Channel.br">
     <title lang="pt">Rumo ao Desconhecido</title>
     <category lang="pt">Temporada 13 Episódio 6 - Em Busca da Atlântida Africana</category>
     <desc lang="pt">Josh mergulha no mar da Tanzânia para encontrar uma cidade perdida e os tesouros que ela esconde; em Zanzibar, Josh mergulha com uma equipe de especialistas entre os possíveis muros de uma cidade perdida.</desc>
   </programme>
-  <programme start="20260817013700 -0300" stop="20260817022400 -0300" channel="Discovery Channel.br">
+  <programme start="20260817013900 -0300" stop="20260817022800 -0300" channel="Discovery Channel.br">
     <title lang="pt">Rumo ao Desconhecido</title>
     <category lang="pt">Temporada 13 Episódio 7 - Heroínas Desaparecidas</category>
     <desc lang="pt">Nos últimos dias da Segunda Guerra Mundial, 18 norte-americanas desapareceram na Costa do Marfim. Munido de novas tecnologias e informações dos arquivos do acidente, Josh acompanha as buscas pelo avião C47 das heroínas.</desc>
   </programme>
-  <programme start="20260817022400 -0300" stop="20260817031100 -0300" channel="Discovery Channel.br">
+  <programme start="20260817022800 -0300" stop="20260817031400 -0300" channel="Discovery Channel.br">
     <title lang="pt">Rumo ao Desconhecido</title>
     <category lang="pt">Temporada 14 Episódio 4 - Os Primeiros Ladrões de Trem dos EUA</category>
     <desc lang="pt">Josh investiga a Gangue Reno, que roubou uma fortuna e foi alvo de vingança. Ele segue pistas da fortuna perdida até uma caverna.</desc>
   </programme>
-  <programme start="20260817031100 -0300" stop="20260817035900 -0300" channel="Discovery Channel.br">
+  <programme start="20260817031400 -0300" stop="20260817040100 -0300" channel="Discovery Channel.br">
     <title lang="pt">Rumo ao Desconhecido</title>
     <category lang="pt">Temporada 13 Episódio 1 - Em Busca de Alexandre, o Grande</category>
     <desc lang="pt">Em busca das maiores lendas da arqueologia, o túmulo perdido e o tesouro de Alexandre, o Grande, Josh mergulha no litoral do Egito. Um defeito na bomba d'água coloca a expedição em risco.</desc>
   </programme>
-  <programme start="20260817035900 -0300" stop="20260817044700 -0300" channel="Discovery Channel.br">
+  <programme start="20260817040100 -0300" stop="20260817044800 -0300" channel="Discovery Channel.br">
     <title lang="pt">Rumo ao Desconhecido</title>
     <category lang="pt">Temporada 13 Episódio 2 - O Túmulo Perdido de Alexandre</category>
     <desc lang="pt">José procura pistas sobre o paradeiro do túmulo e da fortuna de Alexandre, o Grande, na Europa e na África. Mais tarde, José encontra indícios de que o corpo de Alexandre pode estar na Catedral de São Marcos, em Veneza.</desc>
   </programme>
-  <programme start="20260817044700 -0300" stop="20260817053400 -0300" channel="Discovery Channel.br">
+  <programme start="20260817044800 -0300" stop="20260817053500 -0300" channel="Discovery Channel.br">
     <title lang="pt">Rumo ao Desconhecido</title>
     <category lang="pt">Temporada 14 Episódio 3 - A Busca pelo Clipper Endeavor</category>
     <desc lang="pt">Em Porto Rico, Josh busca um lendário avião desaparecido. A queda do Clipper Endeavour, da Pan Am, muda para sempre a aviação comercial. Josh e sua equipe mergulham a 600 metros de profundidade para tentar encontrá-lo.</desc>
   </programme>
-  <programme start="20260817053400 -0300" stop="20260817063400 -0300" channel="Discovery Channel.br">
+  <programme start="20260817053500 -0300" stop="20260817063500 -0300" channel="Discovery Channel.br">
     <title lang="pt">Encontro Selvagem com Coyote Peterson</title>
     <category lang="pt">Temporada 1 Episódio 11 - A Píton Gigante</category>
     <desc lang="pt">No interior da Austrália, Coiote procura a píton gigante, uma cobra não-venenosa, mas mortal.</desc>
@@ -12179,7 +12183,7 @@
   <programme start="20260815091200 -0300" stop="20260815093600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Acompanhe o trabalho de Cote, um apicultor que cuida de mais de cem colmeias na cidade de Nova York; a fazendeira urbana Annie Novak é a cofundadora de uma enorme fazenda orgânica, instalada no telhado de um armazém.</desc>
+    <desc lang="pt">Veja como a atriz Jennifer Esposito enfrentou a doença celíaca lançando uma linha de produtos sem glúten; conheça o trabalho de Sloane Miller, cujo blog se tornou referência em informações sobre alergias alimentares.</desc>
   </programme>
   <programme start="20260815093600 -0300" stop="20260815100000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12199,7 +12203,7 @@
   <programme start="20260815104800 -0300" stop="20260815111200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Acompanhe o trabalho de Cote, um apicultor que cuida de mais de cem colmeias na cidade de Nova York; a fazendeira urbana Annie Novak é a cofundadora de uma enorme fazenda orgânica, instalada no telhado de um armazém.</desc>
+    <desc lang="pt">Veja como a atriz Jennifer Esposito enfrentou a doença celíaca lançando uma linha de produtos sem glúten; conheça o trabalho de Sloane Miller, cujo blog se tornou referência em informações sobre alergias alimentares.</desc>
   </programme>
   <programme start="20260815111200 -0300" stop="20260815113600 -0300" channel="Discovery World.br">
     <title lang="pt">Paraísos pelo Mundo - Praias</title>
@@ -12224,7 +12228,7 @@
   <programme start="20260815131200 -0300" stop="20260815133600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
+    <desc lang="pt">Molly e Jordan têm a chance de testar três opções de hospedagem totalmente diferentes em Paris: um hotel de luxo, um apartamento flutuante no Rio Sena e um hotel-butique perfeito.</desc>
   </programme>
   <programme start="20260815133600 -0300" stop="20260815140000 -0300" channel="Discovery World.br">
     <title lang="pt">Sabores da América: Bacon</title>
@@ -12239,7 +12243,7 @@
   <programme start="20260815142400 -0300" stop="20260815144800 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um elevador de água a um aquário onde se pode nadar, venha mergulhar nas piscinas mais incríveis do planeta.</desc>
+    <desc lang="pt">Conheça as melhores piscinas VIP do planeta. Veja um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.</desc>
   </programme>
   <programme start="20260815144800 -0300" stop="20260815151200 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12269,7 +12273,7 @@
   <programme start="20260815164800 -0300" stop="20260815171200 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Acompanhe o trabalho de Cote, um apicultor que cuida de mais de cem colmeias na cidade de Nova York; a fazendeira urbana Annie Novak é a cofundadora de uma enorme fazenda orgânica, instalada no telhado de um armazém.</desc>
+    <desc lang="pt">Veja como a atriz Jennifer Esposito enfrentou a doença celíaca lançando uma linha de produtos sem glúten; conheça o trabalho de Sloane Miller, cujo blog se tornou referência em informações sobre alergias alimentares.</desc>
   </programme>
   <programme start="20260815171200 -0300" stop="20260815173600 -0300" channel="Discovery World.br">
     <title lang="pt">Minha Casa nas Montanhas</title>
@@ -12284,17 +12288,17 @@
   <programme start="20260815180000 -0300" stop="20260815182400 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
+    <desc lang="pt">Molly e Jordan têm a chance de testar três opções de hospedagem totalmente diferentes em Paris: um hotel de luxo, um apartamento flutuante no Rio Sena e um hotel-butique perfeito.</desc>
   </programme>
   <programme start="20260815182400 -0300" stop="20260815184800 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Acompanhe o trabalho de Cote, um apicultor que cuida de mais de cem colmeias na cidade de Nova York; a fazendeira urbana Annie Novak é a cofundadora de uma enorme fazenda orgânica, instalada no telhado de um armazém.</desc>
+    <desc lang="pt">Veja como a atriz Jennifer Esposito enfrentou a doença celíaca lançando uma linha de produtos sem glúten; conheça o trabalho de Sloane Miller, cujo blog se tornou referência em informações sobre alergias alimentares.</desc>
   </programme>
   <programme start="20260815184800 -0300" stop="20260815191200 -0300" channel="Discovery World.br">
     <title lang="pt">7 Piscinas Incríveis</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">Resorts de todo o mundo estão reinventando os momentos de lazer à beira da piscina. De um elevador de água a um aquário onde se pode nadar, venha mergulhar nas piscinas mais incríveis do planeta.</desc>
+    <desc lang="pt">Conheça as melhores piscinas VIP do planeta. Veja um dos melhores lugares para relaxar à beira da piscina em Miami, uma experiência digna de um astro de rock e uma piscina para a família inteira.</desc>
   </programme>
   <programme start="20260815191200 -0300" stop="20260815193600 -0300" channel="Discovery World.br">
     <title lang="pt">Vende-se Pântano</title>
@@ -12304,7 +12308,7 @@
   <programme start="20260815193600 -0300" stop="20260815200000 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
+    <desc lang="pt">Molly e Jordan têm a chance de testar três opções de hospedagem totalmente diferentes em Paris: um hotel de luxo, um apartamento flutuante no Rio Sena e um hotel-butique perfeito.</desc>
   </programme>
   <programme start="20260815200000 -0300" stop="20260815202400 -0300" channel="Discovery World.br">
     <title lang="pt">Você Renova</title>
@@ -12359,7 +12363,7 @@
   <programme start="20260816011200 -0300" stop="20260816013600 -0300" channel="Discovery World.br">
     <title lang="pt">O Hotel Ideal</title>
     <category lang="pt">Travel</category>
-    <desc lang="pt">AJ e Christin têm a oportunidade de testar três opções de hospedagem totalmente diferentes no México: uma pousada aconchegante, um resort isolado com spa e um hotel luxuoso com todas as refeições incluídas.</desc>
+    <desc lang="pt">Molly e Jordan têm a chance de testar três opções de hospedagem totalmente diferentes em Paris: um hotel de luxo, um apartamento flutuante no Rio Sena e um hotel-butique perfeito.</desc>
   </programme>
   <programme start="20260816013600 -0300" stop="20260816020000 -0300" channel="Discovery World.br">
     <title lang="pt">Viciados em Viagens</title>
@@ -12394,7 +12398,7 @@
   <programme start="20260816051200 -0300" stop="20260816053600 -0300" channel="Discovery World.br">
     <title lang="pt">O Poder dos Alimentos</title>
     <category lang="pt">Cooking</category>
-    <desc lang="pt">Acompanhe o trabalho de Cote, um apicultor que cuida de mais de cem colmeias na cidade de Nova York; a fazendeira urbana Annie Novak é a cofundadora de uma enorme fazenda orgânica, instalada no telhado de um armazém.</desc>
+    <desc lang="pt">Veja como a atriz Jennifer Esposito enfrentou a doença celíaca lançando uma linha de produtos sem glúten; conheça o trabalho de Sloane Miller, cujo blog se tornou referência em informações sobre alergias alimentares.</desc>
   </programme>
   <programme start="20260816053600 -0300" stop="20260816060000 -0300" channel="Discovery World.br">
     <title lang="pt">Buying Hawaii</title>
@@ -17592,8 +17596,8 @@
   </programme>
   <programme start="20260816180600 -0300" stop="20260816181700 -0300" channel="Cartoon Network.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Temporada 7 Episódio 35 - O Show de Talentos da Liga da Justiça - Batalha de Dança</category>
-    <desc lang="pt">É hora de outra competição de talentos da Liga da Justiça e Vibe se junta ao painel de juízes para criticar os movimentos das equipes de dança do universo DC.</desc>
+    <category lang="pt">Temporada 7 Episódio 35 - Atacar!</category>
+    <desc lang="pt">Robin luta para liderar os Titãs após descobrir que seu bordão foi registrado por outra equipe.</desc>
   </programme>
   <programme start="20260816181700 -0300" stop="20260816182900 -0300" channel="Cartoon Network.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -24883,102 +24887,102 @@
     <category lang="pt">Temporada 1 Episódio 7 - A Negação</category>
     <desc lang="pt">A equipe investiga o desaparecimento de Kent Nelson e Wally confronta sua descrença em magia.</desc>
   </programme>
-  <programme start="20260816062300 -0300" stop="20260816064800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816062300 -0300" stop="20260816064700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 1 Episódio 9 - Amnésia</category>
     <desc lang="pt">Os jovens super-heróis vagam pelo deserto sem lembranças uns dos outros nem dos últimos seis meses. Só Miss Marte pode salvá-los.</desc>
   </programme>
-  <programme start="20260816064800 -0300" stop="20260816071100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816064700 -0300" stop="20260816071000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Naruto</title>
     <category lang="pt">Temporada 4 Episódio 23 - Tarde Demais para Ajudar</category>
     <desc lang="pt">Moso considera terminada a missão, mas Naruto decide investigar por conta própria e descobre uma passagem secreta até a mansão do senhor feudal. As coisas se complicam e Gamakichi e Gamatatsu são enviados para ajudá-lo.</desc>
   </programme>
-  <programme start="20260816071100 -0300" stop="20260816073600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816071000 -0300" stop="20260816073400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Spy x Family</title>
     <category lang="pt">Temporada 1 Episódio 13 - Projeto Apple</category>
     <desc lang="pt">A família Forger resolve dar um cachorro de presente a Anya como recompensa pela Estrela conquistada; Loid é convocado para uma missão urgente.</desc>
   </programme>
-  <programme start="20260816073600 -0300" stop="20260816080000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816073400 -0300" stop="20260816075800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Haikyu!! To the Top</title>
     <category lang="pt">Temporada 4 Episódio 15 - Encontrar</category>
     <desc lang="pt">Sob pressão dos ataques rápidos dos irmãos Miya, o Karasuno se mantém na disputa com a consistência dos passes de Kageyama e as jogadas inteligentes de Tsukishima.</desc>
   </programme>
-  <programme start="20260816080000 -0300" stop="20260816082500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816075800 -0300" stop="20260816082300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Blue Lock</title>
     <category lang="pt">Temporada 2 Episódio 8 - Novos Genes</category>
     <desc lang="pt">Rin marca e vira o jogo, enquanto o sub-20 começa a reagir com força total.</desc>
   </programme>
-  <programme start="20260816082500 -0300" stop="20260816084700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816082300 -0300" stop="20260816084500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 1 Episódio 42 - O Cassino do Coringa</category>
     <desc lang="pt">Cameron Kaiser inaugura um cassino inspirado no Coringa chamado &quot;O Cassino do Coringa&quot;. Ao descobrir isso, o vilão, enfurecido, escapa de Arkham novamente para destruir o cassino, sem saber que esse era o plano de Kaiser o tempo todo.</desc>
   </programme>
-  <programme start="20260816084700 -0300" stop="20260816091000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816084500 -0300" stop="20260816090800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 1 Episódio 43 - Alma de Silicone</category>
     <desc lang="pt">Um imitador de Batman aparece em Gotham, e o verdadeiro homem-morcego conclui que Karl Rossum deve estar envolvido. O Batman duplicado então aparece, e uma batalha começa entre os dois.</desc>
   </programme>
-  <programme start="20260816091000 -0300" stop="20260816093300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816090800 -0300" stop="20260816093100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 1 Episódio 5 - A Escola</category>
     <desc lang="pt">A raiva de Superboy devido à sua relação problemática com o Superman está cada vez maior. Ele se recusa a treinar com Canário Negro e acaba criando problemas.</desc>
   </programme>
-  <programme start="20260816093300 -0300" stop="20260816095800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816093100 -0300" stop="20260816095500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 1 Episódio 7 - A Negação</category>
     <desc lang="pt">A equipe investiga o desaparecimento de Kent Nelson e Wally confronta sua descrença em magia.</desc>
   </programme>
-  <programme start="20260816095800 -0300" stop="20260816102100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816095500 -0300" stop="20260816101800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Harley Quinn</title>
     <category lang="pt">Temporada 2 Episódio 1 - New Gotham</category>
     <desc lang="pt">Gotham não faz mais parte dos EUA e a recém-formada Liga da Injustiça quer tomar controle da cidade.</desc>
   </programme>
-  <programme start="20260816102100 -0300" stop="20260816104500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816101800 -0300" stop="20260816104200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 85 - Um Guerreiro Triste e Corajoso</category>
     <desc lang="pt">Mime volta seu ataque contra Ikki, que assume o lugar de Shun na luta; Ikki sente algo oculto no poderoso cosmo de Mime.</desc>
   </programme>
-  <programme start="20260816104500 -0300" stop="20260816111100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816104200 -0300" stop="20260816110800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 86 - Fênix e Suas Asas Ardentes</category>
     <desc lang="pt">O Golpe Fantasma de Fênix de Ikki revela o passado de Mime, que se enfurece e desfere seu Réquiem.</desc>
   </programme>
-  <programme start="20260816111100 -0300" stop="20260816113500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816110800 -0300" stop="20260816113200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Frieren e a Jornada para o Além</title>
     <category lang="pt">Temporada 1 Episódio 18 - Exame do Primeiro Nível de Magos</category>
     <desc lang="pt">Depois de chegar à cidade mágica, Frieren e Fern fazem o difícil exame para maga de nível um na esperança de conseguir acesso ao Planalto Norte.</desc>
   </programme>
-  <programme start="20260816113500 -0300" stop="20260816115900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816113200 -0300" stop="20260816115700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">The Apothecary Diaries</title>
     <category lang="pt">Temporada 1 Episódio 2 - Chilly Apothecary</category>
     <desc lang="pt">Maomao tenta se adaptar à sua promoção como dama de companhia e provadora de comidas, mas luta para afastar o tédio e o Jinshi é excessivamente familiar. Isto é, até que ela recebe a tarefa dos seus sonhos: preparar um afrodisíaco.</desc>
   </programme>
-  <programme start="20260816115900 -0300" stop="20260816122500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816115700 -0300" stop="20260816122400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 5 Episódio 1 - Warriors of the Dead</category>
     <desc lang="pt">Goku busca treinamento com o Grande Kai no Outro Mundo, mas quando Grande Kai decide enviar um guerreiro chamado Pikkon para impedir que uma gangue de inimigos de Goku cause problemas, Goku se voluntaria para ajudar.</desc>
   </programme>
-  <programme start="20260816122500 -0300" stop="20260816124900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816122400 -0300" stop="20260816124800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 5 Episódio 2 - Tournament Begins</category>
     <desc lang="pt">Os Kais se reúnem com seus alunos e decidem realizar um torneio para determinar quem treinou melhor. Goku descobre que será treinado pelo Grande Kai se vencer o Torneio do Outro Mundo, mas primeiro deve vencer Kai do Leste em uma corrida.</desc>
   </programme>
-  <programme start="20260816124900 -0300" stop="20260816141400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816124800 -0300" stop="20260816141200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: Silêncio</title>
     <category lang="pt">Action / 2019</category>
     <desc lang="pt">O passado de Batman começa a se desenrolar e se inicia uma corrida para o Cavaleiro das Trevas solucionar os jogos mortais do silêncio.</desc>
   </programme>
-  <programme start="20260816141400 -0300" stop="20260816143600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816141200 -0300" stop="20260816143400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 4 Episódio 9 - Childrick of Mort</category>
     <desc lang="pt">A ideia de Jerry de levar a família para um acampamento é desviada quando Rick recebe a notícia de que pode ter engravidado um planeta inteiro.</desc>
   </programme>
-  <programme start="20260816143600 -0300" stop="20260816145800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816143400 -0300" stop="20260816145700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 4 Episódio 10 - Star Mort Rickturn of the Jerri</category>
     <desc lang="pt">Um incinerador de planetas patrocinado por uma empresa, duas Beths e alguns rostos do passado forçam Rick e a família a &quot;fazer uma Guerra nas Estrelas&quot; para salvar a Terra.</desc>
   </programme>
-  <programme start="20260816145800 -0300" stop="20260816152000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816145700 -0300" stop="20260816152000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Common Side Effects</title>
     <category lang="pt">Temporada 1 Episódio 10 - A Batida</category>
     <desc lang="pt">O FBI e o Órgão de Repressão às Drogas fazem uma batida no local, resultando em péssimas consequências. O destino do cogumelo é decidido.</desc>
@@ -24993,12 +24997,12 @@
     <category lang="pt">Temporada 1 Episódio 85 - Um Guerreiro Triste e Corajoso</category>
     <desc lang="pt">Mime volta seu ataque contra Ikki, que assume o lugar de Shun na luta; Ikki sente algo oculto no poderoso cosmo de Mime.</desc>
   </programme>
-  <programme start="20260816160800 -0300" stop="20260816163200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816160800 -0300" stop="20260816163100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 86 - Fênix e Suas Asas Ardentes</category>
     <desc lang="pt">O Golpe Fantasma de Fênix de Ikki revela o passado de Mime, que se enfurece e desfere seu Réquiem.</desc>
   </programme>
-  <programme start="20260816163200 -0300" stop="20260816165600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816163100 -0300" stop="20260816165600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Blue Lock</title>
     <category lang="pt">Temporada 1 Episódio 3 - Soccer's &quot;Zero&quot;</category>
     <desc lang="pt">A primeira partida no Blue Lock começa e é Time X contra o Time Z. Entretanto, a equipe não consegue fazer um bom jogo coletivo. Cada atleta só pensa em marcar seu próprio gol.</desc>
@@ -25013,42 +25017,42 @@
     <category lang="pt">Temporada 2 Episódio 6 - A Decisão da Dupla Koby-Meppo! O Coração de Pai do Vice-Almirante Garp</category>
     <desc lang="pt">Coby continua a batalhar pelo seu sonho e trabalha em uma base da Marinha com o filho de Morgan.</desc>
   </programme>
-  <programme start="20260816174700 -0300" stop="20260816181300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816174700 -0300" stop="20260816181400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">One Piece</title>
     <category lang="pt">Temporada 2 Episódio 7 - An Ancient Island!; The Shadow Hiding in Little Garden!</category>
     <desc lang="pt">Luffy lê em um jornal que Coby está em Grand Line; Garp descobre um segredo de Coby e supervisiona seu treinamento com Helmeppo.</desc>
   </programme>
-  <programme start="20260816181300 -0300" stop="20260816193900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816181400 -0300" stop="20260816193800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: Silêncio</title>
     <category lang="pt">Action / 2019</category>
     <desc lang="pt">O passado de Batman começa a se desenrolar e se inicia uma corrida para o Cavaleiro das Trevas solucionar os jogos mortais do silêncio.</desc>
   </programme>
-  <programme start="20260816193900 -0300" stop="20260816195400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816193800 -0300" stop="20260816195200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Action</category>
     <desc lang="pt">Rick Samurai e Shogun Morty enfrentam Rick Ninjas em uma homenagem a clássicos filmes japoneses.</desc>
   </programme>
-  <programme start="20260816195400 -0300" stop="20260816195900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816195200 -0300" stop="20260816195700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Action</category>
     <desc lang="pt">Rick Samurai e Shogun Morty enfrentam Rick Ninjas em uma homenagem a clássicos filmes japoneses.</desc>
   </programme>
-  <programme start="20260816195900 -0300" stop="20260816202300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816195700 -0300" stop="20260816202300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 4 Episódio 10 - Star Mort Rickturn of the Jerri</category>
     <desc lang="pt">Um incinerador de planetas patrocinado por uma empresa, duas Beths e alguns rostos do passado forçam Rick e a família a &quot;fazer uma Guerra nas Estrelas&quot; para salvar a Terra.</desc>
   </programme>
-  <programme start="20260816202300 -0300" stop="20260816203800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816202300 -0300" stop="20260816203900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
     <category lang="pt">Temporada 1 Episódio 20</category>
     <desc lang="pt">Em um episódio especial, conheça o Capitão Foguete Espacial.</desc>
   </programme>
-  <programme start="20260816203800 -0300" stop="20260816205300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816203900 -0300" stop="20260816205400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
     <category lang="pt">Temporada 1 Episódio 22</category>
     <desc lang="pt">Saiba o que realmente acontece quando um alien cai na Terra e é adotado por um casal de velhinhos.</desc>
   </programme>
-  <programme start="20260816205300 -0300" stop="20260816210700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816205400 -0300" stop="20260816210700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 3 Episódio 4 - A Maldição da Bruxa Verde de Halloween</category>
     <desc lang="pt">Os Smiling Friends são amaldiçoados por uma bruxa no Halloween.</desc>
@@ -25058,17 +25062,17 @@
     <category lang="pt">Temporada 1 Episódio 12 - O Reencontro</category>
     <desc lang="pt">Hollow, com sede de sangue, destrói o pouco que sobrou da nave; Azi e Ursula lutam para salvar a tripulação restante; conforme Kris se prepara para escapar, Barry se depara com uma decisão capaz de mudar o futuro de Vesta.</desc>
   </programme>
-  <programme start="20260816213200 -0300" stop="20260816215500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816213200 -0300" stop="20260816215400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Harley Quinn</title>
     <category lang="pt">Temporada 2 Episódio 1 - New Gotham</category>
     <desc lang="pt">Gotham não faz mais parte dos EUA e a recém-formada Liga da Injustiça quer tomar controle da cidade.</desc>
   </programme>
-  <programme start="20260816215500 -0300" stop="20260816221700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816215400 -0300" stop="20260816221600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 5 Episódio 23 - Beware the Creeper</category>
     <desc lang="pt">O Coringa joga um famoso da TV em um tanque de produtos químicos, transformando-o no vilão Creeper. Ele se torna inimigo do Coringa ao se apropriar de seu estilo louco de se vestir e senso de humor sarcástico enquanto tenta impedir o crime.</desc>
   </programme>
-  <programme start="20260816221700 -0300" stop="20260816224100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816221600 -0300" stop="20260816224100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Bravest Warriors</title>
     <category lang="pt">Adventure</category>
     <desc lang="pt">Danny é abandonado por sua namorada e precisa lidar com suas emoções dolorosas como um adulto maduro. Então, ele as vende para um Sugador de Emoções do mercado negro.</desc>
@@ -25078,102 +25082,102 @@
     <category lang="pt">Temporada 1 Episódio 6 - Fênix, o Guerreiro que Voltou do Inferno</category>
     <desc lang="pt">Na luta seguinte, Shun de Andrômeda vence Jabu de Unicórnio com sua Tempestade Nebulosa; logo em seguida, a Corrente de Andrômeda avisa que há um inimigo por perto.</desc>
   </programme>
-  <programme start="20260816230500 -0300" stop="20260816233000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816230500 -0300" stop="20260816232900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Lazarus</title>
     <category lang="pt">Temporada 1 Episódio 10 - Não Posso Contar o Porquê</category>
     <desc lang="pt">O histórico médico de Skinner fornece uma pista, mas exige que entrem em uma clínica particular. Leland leva Axel e Doug para sua casa para garantir um convite.</desc>
   </programme>
-  <programme start="20260816233000 -0300" stop="20260816235400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816232900 -0300" stop="20260816235300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rooster Fighter</title>
     <category lang="pt">Temporada 1 Episódio 11 - It Takes Two Wings To Fly</category>
     <desc lang="pt">O novo poder de Keisuke desperta quando ele testemunha a luta de Keiji contra Hikari.</desc>
   </programme>
-  <programme start="20260816235400 -0300" stop="20260817002000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260816235300 -0300" stop="20260817002000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Jujutsu Kaisen</title>
     <category lang="pt">Temporada 2 Episódio 1 - Inventário Oculto</category>
     <desc lang="pt">Utahime e Mei Mei investigam uma mansão na qual várias pessoas têm desaparecido e se perdem em seus corredores em um loop infinito.</desc>
   </programme>
-  <programme start="20260817002000 -0300" stop="20260817004500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817002000 -0300" stop="20260817004600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">JoJo's Bizarre Adventure</title>
     <category lang="pt">Temporada 2 Episódio 20 - Morte 13</category>
     <desc lang="pt">Ninguém leva a preocupação de Kakyoin com o bebê a sério, mas a verdade logo vem à tona quando eles vão parar no mundo dos pesadelos.</desc>
   </programme>
-  <programme start="20260817004500 -0300" stop="20260817011200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817004600 -0300" stop="20260817011100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">JoJo's Bizarre Adventure</title>
     <category lang="pt">Temporada 2 Episódio 21 - O Julgamento</category>
     <desc lang="pt">Jotaro e seu grupo encontram o pai de Avdol em uma ilha remota, mas o homem vive sozinho e não quer contato com ninguém; Polnareff descobre uma lâmpada estranha.</desc>
   </programme>
-  <programme start="20260817011200 -0300" stop="20260817013600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817011100 -0300" stop="20260817013500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 42 - Planeta Freeza nº 79! Vegeta se Recupera!!</category>
     <desc lang="pt">Bulma, Kuririn, Gohan e seus dois amigos Namekianos percorrem o planeta e enfrentam um desafio monumental após o outro para coletar as Esferas do Dragão.</desc>
   </programme>
-  <programme start="20260817013600 -0300" stop="20260817020200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817013500 -0300" stop="20260817020100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 43 - As Esferas do Dragão Foram Todas Encontradas! O Sr. Piccolo Também Voltará à Vida</category>
     <desc lang="pt">Bulma, Gohan e Kuririn continuam a enfrentar obstáculos enquanto coletam as Esferas do Dragão, mas seu maior desafio surge quando forças manipuladoras se revelam; Vegeta define um curso para Namekusei.</desc>
   </programme>
-  <programme start="20260817020200 -0300" stop="20260817022600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817020100 -0300" stop="20260817022600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 44 - Um Novo Grande Inimigo! Freeza, Imperador do Universo</category>
     <desc lang="pt">Os alienígenas revelam suas verdadeiras intenções e Bulma, Gohan e Kuririn precisam detê-los antes que escapem na nave de Kami ou fiquem presos em um mundo desolado; Vegeta encontra as forças de Freeza reunindo as Esferas do Dragão em Namekusei.</desc>
   </programme>
-  <programme start="20260817022600 -0300" stop="20260817024800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817022600 -0300" stop="20260817024900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Common Side Effects</title>
     <category lang="pt">Temporada 1 Episódio 10 - A Batida</category>
     <desc lang="pt">O FBI e o Órgão de Repressão às Drogas fazem uma batida no local, resultando em péssimas consequências. O destino do cogumelo é decidido.</desc>
   </programme>
-  <programme start="20260817024800 -0300" stop="20260817025900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817024900 -0300" stop="20260817030000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Robot Chicken</title>
     <category lang="pt">Temporada 10 Episódio 19 - Babe Hollytree in: I Wish One Person Had Died</category>
     <desc lang="pt">Os Pomsies vieram para dominar o mundo; as crianças de Hogwarts podem ver os reais medos uns dos outros; descobrimos que a Alexa nunca para de ouvir e que isso só pode levar ao... Apocalipse.</desc>
   </programme>
-  <programme start="20260817025900 -0300" stop="20260817031000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817030000 -0300" stop="20260817031100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Robot Chicken</title>
     <category lang="pt">Temporada 10 Episódio 20 - Endgame</category>
     <desc lang="pt">A equipe de Frango Robô revela tudo sobre o experimento com a galinha, a cadeira e as televisões.</desc>
   </programme>
-  <programme start="20260817031000 -0300" stop="20260817032100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817031100 -0300" stop="20260817032200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 3 Episódio 2 - A Viagem Incrível de Monsieur Grenouille</category>
     <desc lang="pt">Um sapo falante muda vidas e reconecta cérebros.</desc>
   </programme>
-  <programme start="20260817032100 -0300" stop="20260817033200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817032200 -0300" stop="20260817033400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 3 Episódio 6 - A Volta do Squim Não Foram</category>
     <desc lang="pt">Após comprar um espelho mágico, Pim conhece Squim; Charlie começa a pesquisar a fundo e se envolve com umas coisas bem ruins na internet.</desc>
   </programme>
-  <programme start="20260817033200 -0300" stop="20260817035800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817033400 -0300" stop="20260817035900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Clone High</title>
     <category lang="pt">Temporada 2 Episódio 2 - Você Não Entende? O Esporte É Tendência Nessa Cidade</category>
     <desc lang="pt">Décadas depois de deixar as competições de mergulho de forma vergonhosa, Scudworth toma Frida como pupila, que precisa escolher entre uma carreira lucrativa no esporte ou um futuro como artista pobre.</desc>
   </programme>
-  <programme start="20260817035800 -0300" stop="20260817042100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817035900 -0300" stop="20260817042200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Primal</title>
     <category lang="pt">Temporada 2 Episódio 8 - O Colossaeus</category>
     <desc lang="pt">Spear e Fang são usados como instrumentos de guerra pela Rainha tirânica de um formidável navio de guerra, o Colossaeus.</desc>
   </programme>
-  <programme start="20260817042100 -0300" stop="20260817044400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817042200 -0300" stop="20260817044400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Samurai Jack</title>
     <category lang="pt">Temporada 5 Episódio 1 - XCII</category>
     <desc lang="pt">Depois de 50 anos lutando com Abu, Samurai Jack começa a perder a razão e percebe que a sua própria mente tem se tornado o seu pior inimigo.</desc>
   </programme>
-  <programme start="20260817044400 -0300" stop="20260817045500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817044400 -0300" stop="20260817045600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Mike Tyson Mysteries</title>
     <category lang="pt">Temporada 1 Episódio 5 - Ácaros de Pássaros</category>
     <desc lang="pt">Mike descobre que as picadas que causam coceira em todo seu corpo são provavelmente causadas pelos ácaros das aves e, relutantemente, diz ao Pombo que ele tem que se mudar.</desc>
   </programme>
-  <programme start="20260817045500 -0300" stop="20260817050600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817045600 -0300" stop="20260817050700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Mike Tyson Mysteries</title>
     <category lang="pt">Temporada 1 Episódio 7 - Sequestrada</category>
     <desc lang="pt">Pombo não consegue pagar uma dívida de jogo e Gregor, o gângster, pega a filha de Mike como caução.</desc>
   </programme>
-  <programme start="20260817050600 -0300" stop="20260817051800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817050700 -0300" stop="20260817051900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Space Ghost de Costa a Costa</title>
     <category lang="pt">Temporada 1 Episódio 5 - Bobcat</category>
     <desc lang="pt">Durante uma entrevista com o comediante Bobcat Goldthwait, Zorak revela a identidade secreta de Space Ghost, Tad Ghostal.</desc>
   </programme>
-  <programme start="20260817051800 -0300" stop="20260817053000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817051900 -0300" stop="20260817053000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Space Ghost de Costa a Costa</title>
     <category lang="pt">Temporada 1 Episódio 6 - Banjo</category>
     <desc lang="pt">Space Ghost explora seu lado paterno com um bichinho de estimação especial, Banjo, o macaco marinho. Zorak sabota a entrevista de Space Ghost com o artista de rap Schooly D controlando por hipnose a mente do apresentador.</desc>
@@ -26499,12 +26503,12 @@
     <category lang="pt">Talk</category>
     <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
-  <programme start="20260816060900 -0300" stop="20260816062000 -0300" channel="TNT.br">
+  <programme start="20260816060900 -0300" stop="20260816061900 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
     <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
   </programme>
-  <programme start="20260816062000 -0300" stop="20260816070000 -0300" channel="TNT.br">
+  <programme start="20260816061900 -0300" stop="20260816070000 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
     <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
@@ -27782,12 +27786,12 @@
   <programme start="20260816060500 -0300" stop="20260816063500 -0300" channel="Studio Universal.br">
     <title lang="pt">Hollywood em Destaque</title>
     <category lang="pt">Entertainment</category>
-    <desc lang="pt">Os bastidores de três grandes filmes: &quot;A Grande Muralha&quot;, &quot;LEGO Batman - O Filme&quot; e &quot;Corra!&quot;.</desc>
+    <desc lang="pt">Bastidores de &quot;Dunkirk&quot;, &quot;Atômica&quot; e &quot;Annabelle 2: A Criação do Mal&quot;.</desc>
   </programme>
   <programme start="20260816063500 -0300" stop="20260816070500 -0300" channel="Studio Universal.br">
     <title lang="pt">Hollywood em Destaque</title>
     <category lang="pt">Entertainment</category>
-    <desc lang="pt">Os bastidores de três grandes filmes: &quot;A Grande Muralha&quot;, &quot;LEGO Batman - O Filme&quot; e &quot;Corra!&quot;.</desc>
+    <desc lang="pt">Bastidores de &quot;Dunkirk&quot;, &quot;Atômica&quot; e &quot;Annabelle 2: A Criação do Mal&quot;.</desc>
   </programme>
   <programme start="20260816070500 -0300" stop="20260816083500 -0300" channel="Studio Universal.br">
     <title lang="pt">A Família Addams</title>
@@ -27847,7 +27851,7 @@
   <programme start="20260817051500 -0300" stop="20260817061500 -0300" channel="Studio Universal.br">
     <title lang="pt">Hollywood em Destaque</title>
     <category lang="pt">Entertainment</category>
-    <desc lang="pt">Os bastidores de três grandes filmes: &quot;A Grande Muralha&quot;, &quot;LEGO Batman - O Filme&quot; e &quot;Corra!&quot;.</desc>
+    <desc lang="pt">Bastidores de &quot;Dunkirk&quot;, &quot;Atômica&quot; e &quot;Annabelle 2: A Criação do Mal&quot;.</desc>
   </programme>
   <programme start="20260815060000 -0300" stop="20260815060200 -0300" channel="TCM.br">
     <title lang="pt">TNT Buzz</title>
@@ -32455,7 +32459,7 @@
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
   <programme start="20260816173000 -0300" stop="20260816210000 -0300" channel="Premiere 2.br">
-    <title lang="pt">Charla no Premiere: Vitória x Bahia</title>
+    <title lang="pt">Charla no Premiere: Vitória x Botafogo</title>
     <category lang="pt">Campeonato Brasileiro</category>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
@@ -35127,30 +35131,6 @@
   <programme start="20260815220000 -0300" stop="20260815230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260815100000 -0300" stop="20260815110000 -0300" channel="ESPN 3.br">
-    <title lang="pt">ESPN League</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20260815110000 -0300" stop="20260815130000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - Sport x Londrina</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20260815130000 -0300" stop="20260815133000 -0300" channel="ESPN 3.br">
-    <title lang="pt">F1: The Inside Line</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-  </programme>
-  <programme start="20260815133000 -0300" stop="20260815140000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Show da Rodada da Copa da Liga</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20260815140000 -0300" stop="20260815150000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Golfe: FedEx St. Jude Championship: Terceira Rodada - Ao Vivo</title>
-    <category lang="pt">Esporte/Golfe</category>
-  </programme>
-  <programme start="20260815150000 -0300" stop="20260815160000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Golfe: FedEx St. Jude Championship: Terceira Rodada - Ao Vivo</title>
-    <category lang="pt">Esporte/Golfe</category>
-  </programme>
   <programme start="20260815160000 -0300" stop="20260815190000 -0300" channel="ESPN 3.br">
     <title lang="pt">Golfe: FedEx St. Jude Championship: Terceira Rodada - Ao Vivo</title>
     <category lang="pt">Esporte/Golfe</category>
@@ -36203,18 +36183,6 @@
     <title lang="pt">MLB: Milwaukee Brewers x Los Angeles Dodgers - Ao Vivo</title>
     <category lang="pt">Esporte/Beisebol</category>
   </programme>
-  <programme start="20260815085500 -0300" stop="20260815120000 -0300" channel="Combate.br">
-    <title lang="pt">Oktagon 92</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260815120000 -0300" stop="20260815150000 -0300" channel="Combate.br">
-    <title lang="pt">One Fight Night 46</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260815150000 -0300" stop="20260815160000 -0300" channel="Combate.br">
-    <title lang="pt">Boxe : Conceiçao x Muratalla</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260815160000 -0300" stop="20260815170000 -0300" channel="Combate.br">
     <title lang="pt">Brasil x Alemanha - Por Equipes</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36654,26 +36622,6 @@
   <programme start="20260829200000 -0300" stop="20260829210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260815102500 -0300" stop="20260815124000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Shazam! Fúria dos Deuses</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260815124000 -0300" stop="20260815134500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20260815134500 -0300" stop="20260815144500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20260815144500 -0300" stop="20260815154000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20260815154000 -0300" stop="20260815163500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
   </programme>
   <programme start="20260815163500 -0300" stop="20260815174000 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Watchmen</title>
