@@ -147,7 +147,7 @@
   <programme start="20260815141000 -0300" stop="20260815144000 -0300" channel="Globo São Paulo HD.br">
     <title lang="pt">Além do Tempo - Edição Especial</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Melissa e Lívia antipatizam uma com a outra no primeiro encontro. Ariel chega a Bellarosa e confessa que não consegue entender os desígnios divinos. Emília trama algo contra Vitória. Felipe e Lívia se encontram na festa em Bellarosa.</desc>
+    <desc lang="pt">A história de amor de Lívia e Felipe, que perdura por gerações, na cidade de Campobello.</desc>
   </programme>
   <programme start="20260815144000 -0300" stop="20260815151500 -0300" channel="Globo São Paulo HD.br">
     <title lang="pt">Paulistar</title>
@@ -311,12 +311,7 @@
     <category lang="pt">News</category>
     <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
   </programme>
-  <programme start="20260815060000 -0300" stop="20260815063000 -0300" channel="Band São Paulo.br">
-    <title lang="pt">Vendo na TV</title>
-    <category lang="pt">Consumer</category>
-    <desc lang="pt">Entrevistas com profissionais renomados de várias áreas e ofertas de produtos e serviços diversos.</desc>
-  </programme>
-  <programme start="20260815063000 -0300" stop="20260815070000 -0300" channel="Band São Paulo.br">
+  <programme start="20260815060000 -0300" stop="20260815070000 -0300" channel="Band São Paulo.br">
     <title lang="pt">Os Chocolix</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
@@ -843,19 +838,20 @@
     <category lang="pt">News</category>
     <desc lang="pt">Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.</desc>
   </programme>
-  <programme start="20260815050000 -0300" stop="20260815063000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Jornal da Cultura</title>
-    <category lang="pt">News</category>
-    <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  <programme start="20260815060000 -0300" stop="20260815063000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Energia</title>
+    <category lang="pt">Exercise</category>
+    <desc lang="pt">Atualmente, a vida corrida e agitada, fruto do excesso de trabalho, tem feito com que a maioria das pessoas subestime sua qualidade de vida. Acompanhe aulas com meia hora de duração cada e dicas de como cuidar melhor do corpo.</desc>
   </programme>
   <programme start="20260815063000 -0300" stop="20260815070000 -0300" channel="TV Cultura.br">
     <title lang="pt">Vamos Pedalar</title>
+    <category lang="pt">Temporada 6 Episódio 11</category>
     <desc lang="pt">Eduardo Gasperini mostra, com interpretação em libras, o cotidiano de quem usa bicicletas, incentivando a mobilidade urbana e a conscientização de ciclistas.</desc>
   </programme>
   <programme start="20260815070000 -0300" stop="20260815071500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Peppa</title>
+    <title lang="pt">Peppa Pig</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Peppa e seus amigos brincam de restaurante e assumem diferentes papéis, como cozinheiros e garçons. Depois que a comida de mentirinha fica pronta, eles se divertem servindo seus pais.</desc>
+    <desc lang="pt">Na escolinha, Madame Gazela ensina jogos divertidos com papel a Peppa e seus amigos. Com uma folha, ela transforma um chapéu em um barco.</desc>
   </programme>
   <programme start="20260815071500 -0300" stop="20260815072000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
@@ -864,8 +860,8 @@
   </programme>
   <programme start="20260815072000 -0300" stop="20260815073000 -0300" channel="TV Cultura.br">
     <title lang="pt">Planeta Palavra</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.</desc>
+    <category lang="pt">Temporada 1 Episódio 16 - Bem-Vindo, Mico</category>
+    <desc lang="pt">Onça e Vaca querem pendurar uma faixa onde se lê &quot;Bem-vindo, Mico&quot; para a recepção do amigo, que volta de férias. No entanto, elas se atrapalham, caem e a ponte de entrada do sítio se parte, perdendo o &quot;P&quot; e transformando a ponte em uma fonte.</desc>
   </programme>
   <programme start="20260815073000 -0300" stop="20260815074000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bino e Fino</title>
@@ -874,13 +870,13 @@
   </programme>
   <programme start="20260815074000 -0300" stop="20260815074500 -0300" channel="TV Cultura.br">
     <title lang="pt">Parquinho Jurássico</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Ágata, Enzo, Helena e Kauê são dinossauros que viveram no Brasil há mais de 70 milhões de anos. Juntos, os quatro vivem aventuras conduzidas com muita música e descobertas sobre a cultura brasileira e os dinossauros que aqui viveram.</desc>
+    <category lang="pt">Temporada 1 Episódio 14 - Dino do Interior</category>
+    <desc lang="pt">Os dinossauros brasileiros foram majoritariamente encontrados no interior do país. Neste episódio que mistura a estética de Anita Malfatti e faz referência o cinema brasileiro, o escritor Dino de Andrade conta uma longa história, que evoca o passado.</desc>
   </programme>
   <programme start="20260815074500 -0300" stop="20260815080000 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Kazu encontra um arbusto com uma textura peluda que faz cócegas. Os palaloos tentam brincar com ele, mas o arbusto sai correndo; o trio encontra vários pisos de alturas diferentes no chão. Eles brincam de subir e descer nos pisos.</desc>
+    <desc lang="pt">Kazu, Pico e Bao Bao encontram Epa e Opa, que estão tristes porque seus bolinhos ficaram horríveis, pois eles perderam a receita. Juntos, os Palaloos partem em uma missão divertida para encontrar a página perdida no armário de receitas.</desc>
   </programme>
   <programme start="20260815080000 -0300" stop="20260815081500 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó Conta Clássicos</title>
@@ -889,28 +885,28 @@
   </programme>
   <programme start="20260815081500 -0300" stop="20260815083000 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Fazenda Cocoricó, localizada na cidade de Cocoricolândia.</desc>
+    <category lang="pt">Temporada 4 Episódio 13 - Sucesso de Público</category>
+    <desc lang="pt">Júlio leva João, seu primo da cidade, para passear pela fazenda.</desc>
   </programme>
   <programme start="20260815083000 -0300" stop="20260815084000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Mundo Bita</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <title lang="pt">Mundo Bita - Imagine-se</title>
+    <category lang="pt">Temporada 1 Episódio 6 - Cada Coisa em Seu Lugar</category>
+    <desc lang="pt">No Mundo da Imaginação, a nave de Bita pifa, e ele guia as crianças em uma aventura; no planeta Terra, Lila, Dan e Tito tentam montar um quebra-cabeça.</desc>
   </programme>
   <programme start="20260815084000 -0300" stop="20260815084500 -0300" channel="TV Cultura.br">
     <title lang="pt">Paramigos Imparáveis</title>
-    <category lang="pt">Educational</category>
-    <desc lang="pt">Uma equipe de heróis com deficiência têm a missão de impedir o fim dos recursos minerais do planeta.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - Cidade Seca</category>
+    <desc lang="pt">Os Nina e Narciso estão preocupadas com a seca que assola São Paulo quando são avisados que Dona Tella está esgotando a água da cidade, e buscam impedi-la.</desc>
   </programme>
   <programme start="20260815084500 -0300" stop="20260815090000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bing</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Bing ama brincar com seus amigos. Ele adora experimentar coisas novas e descobrir tudo sobre a vida. Bing é curioso, positivo e sincero e como ele é muito novinho, está vivendo várias coisas pela primeira vez.</desc>
+    <category lang="pt">Temporada 1 Episódio 4 - Blocos</category>
+    <desc lang="pt">Bing está construindo uma torre arco-íris com seus blocos e quer que ela fique tão alta quanto ele. Mas quando Jojo chega e quer os blocos para fazer seu próprio arco-íris e Charlie quer o bloco vermelho para brincar, eles vão ter que dividir.</desc>
   </programme>
   <programme start="20260815090000 -0300" stop="20260815091000 -0300" channel="TV Cultura.br">
     <title lang="pt">Milo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, cantar e dançar. Cada dia guarda uma surpresa diferente.</desc>
+    <category lang="pt">Temporada 1 Episódio 10 - Milo, o Carteiro</category>
+    <desc lang="pt">O funcionário dos correios Raymond é responsável por entregar a correspondência da cidade. Milo, Lofty e Lark estão ansiosos para ajudá-lo, mas uma tempestade se aproxima.</desc>
   </programme>
   <programme start="20260815091000 -0300" stop="20260815092500 -0300" channel="TV Cultura.br">
     <title lang="pt">PJ Masks - Heróis de Pijama</title>
@@ -920,7 +916,7 @@
   <programme start="20260815092500 -0300" stop="20260815094000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bluey</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">As aventuras de Bluey, uma filhote que vive com sua mãe, pai e irmã. Sua energia e espírito adorável geram todos os tipos de situações divertidas e imprevisíveis.</desc>
+    <desc lang="pt">Bluey e Bingo decidem fazer pizzas de lama e entregar para os adultos, mas a roda do carrinho cai o tempo todo; com apenas cinco minutos para brincarem, Bluey e Mamãe correm contra o relógio para comprar leite para um hóspede rabugento.</desc>
   </programme>
   <programme start="20260815094000 -0300" stop="20260815095500 -0300" channel="TV Cultura.br">
     <title lang="pt">Ninhos em Movimento</title>
@@ -929,7 +925,7 @@
   </programme>
   <programme start="20260815095500 -0300" stop="20260815100500 -0300" channel="TV Cultura.br">
     <title lang="pt">Os Óculos Mágicos de Charlotte</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 1 - Presente para as Fadas</category>
     <desc lang="pt">A pequena Charlotte, uma menina de sete anos, ganha óculos mágicos de presente da fada do dente que permite que ela veja o mundo como ele deveria ser.</desc>
   </programme>
   <programme start="20260815100500 -0300" stop="20260815101500 -0300" channel="TV Cultura.br">
@@ -939,13 +935,13 @@
   </programme>
   <programme start="20260815101500 -0300" stop="20260815103000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Show da Luna!</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Ao observar a Terra, Luna, Júpiter e Cláudio ficam impressionados com as correntes de vento e mais ainda ao descobrir que o vento pode ser transformado em energia. Eles querem muito saber como isso acontece.</desc>
+    <category lang="pt">Temporada 7 Episódio 3 - Formigonautas!</category>
+    <desc lang="pt">Durante uma brincadeira, Luna, Júpiter e Cláudio encontram um pequeno formigueiro e decidem investigar a casa das formigas. Depois de alguns experimentos, o trio encara uma transformação divertida para entender como um formigueiro é por dentro.</desc>
   </programme>
   <programme start="20260815103000 -0300" stop="20260815104000 -0300" channel="TV Cultura.br">
     <title lang="pt">Turbossauros</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Dinossauros capazes de se transformar em máquinas potentes ajudam seus amigos Katie e Peter a resolver problemas grandes e pequenos.</desc>
+    <category lang="pt">Temporada 1 Episódio 11 - Problema no Lago</category>
+    <desc lang="pt">O local de pesca favorito das crianças está poluído, e Katie, sendo uma verdadeira protetora do meio ambiente, quer salvá-lo. Ela e Peter estão chamando os Turbossauros para ajudar.</desc>
   </programme>
   <programme start="20260815104000 -0300" stop="20260815104500 -0300" channel="TV Cultura.br">
     <title lang="pt">Godofredo</title>
@@ -954,33 +950,33 @@
   </programme>
   <programme start="20260815104500 -0300" stop="20260815110000 -0300" channel="TV Cultura.br">
     <title lang="pt">Iuri &amp; Udi</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 11 - Amigos, Amigos - Meu Voto, a Parte!!</category>
     <desc lang="pt">Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inventos, se transformando em grandes e poderosas máquinas.</desc>
   </programme>
   <programme start="20260815110000 -0300" stop="20260815111000 -0300" channel="TV Cultura.br">
     <title lang="pt">Mistérios Animais</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Os agentes especiais Sam e Kit viajam pelo globo para investigar fatos científicos e desvendar mistérios do mundo animal usando equipamentos muito legais.</desc>
+    <category lang="pt">Temporada 1 Episódio 2 - Rinocerontes em Fúria; Confusão</category>
+    <desc lang="pt">Há um grande mistério no Clube Bolsões d'Água: os rinocerontes, sempre gentis, enlouqueceram; o Esquadrongo desaparece no Ártico.</desc>
   </programme>
   <programme start="20260815111000 -0300" stop="20260815111500 -0300" channel="TV Cultura.br">
     <title lang="pt">Morgana &amp; Celeste</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">A poderosa bruxa Morgana, de &quot;Castelo Rá-Tim-Bum&quot;, relembra grandes momentos da história da humanidade testemunhados por ela. Ao lado, com os ouvidos sempre atentos, está a cobra mais curiosa e desbocada de todos os tempos, Celeste.</desc>
+    <category lang="pt">Temporada 1 Episódio 16 - Thor e o Fim do Mundo</category>
+    <desc lang="pt">Morgana tenta pregar alguns quadros na parede com seu velho martelo.</desc>
   </programme>
   <programme start="20260815111500 -0300" stop="20260815113500 -0300" channel="TV Cultura.br">
     <title lang="pt">Weme e a Natureza</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 9 - Cidades</category>
     <desc lang="pt">Crianças ao redor do mundo falam sobre meio ambiente destacando diferentes elementos da natureza.</desc>
   </programme>
   <programme start="20260815113500 -0300" stop="20260815114500 -0300" channel="TV Cultura.br">
     <title lang="pt">Turma da Mônica</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da turminha participam de várias aventuras.</desc>
+    <category lang="pt">Temporada 1 Episódio 13 - Amarra ou Larga do Pé do Cebolinha</category>
+    <desc lang="pt">Mônica acha que encontrou a solução perfeita para acabar com os planos infalíveis do Cebolinha. Porém, ela se esquece com quem está lidando e as coisas sempre podem piorar quando se trata dele.</desc>
   </programme>
   <programme start="20260815114500 -0300" stop="20260815120000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Quintal da Cultura</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Os irmãos Ludovico e Doroteia, o amigo Osório e sua tia Ofélia brincam e se divertem aprendendo coisas novas ao lado de um jabuti chamado Quelônio e da minhoca Minhoquias.</desc>
+    <title lang="pt">Quintal da Cultura na Missão do Dia</title>
+    <category lang="pt">Adventure</category>
+    <desc lang="pt">Cacá recebe um pedido de ajuda da Agência de Lendas, Mistérios e Aventuras, um clube de aventureiros que realiza as mais rocambólicas missões. Para ajudá-los, o agente Osório deve interromper o seu dia de folga e procurar um ser guardião da floresta.</desc>
   </programme>
   <programme start="20260815120000 -0300" stop="20260815123000 -0300" channel="TV Cultura.br">
     <title lang="pt">Opinião</title>
@@ -988,9 +984,9 @@
     <desc lang="pt">Os principais fatos da política e do cotidiano da região de Cuiabá, em debates onde se discute temas polêmicos com a participação do público.</desc>
   </programme>
   <programme start="20260815123000 -0300" stop="20260815124500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Peppa</title>
+    <title lang="pt">Peppa Pig</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Peppa e seus amigos brincam de restaurante e assumem diferentes papéis, como cozinheiros e garçons. Depois que a comida de mentirinha fica pronta, eles se divertem servindo seus pais.</desc>
+    <desc lang="pt">Na escolinha, Madame Gazela ensina jogos divertidos com papel a Peppa e seus amigos. Com uma folha, ela transforma um chapéu em um barco.</desc>
   </programme>
   <programme start="20260815124500 -0300" stop="20260815130000 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó Conta Clássicos</title>
@@ -999,13 +995,13 @@
   </programme>
   <programme start="20260815130000 -0300" stop="20260815131500 -0300" channel="TV Cultura.br">
     <title lang="pt">Cocoricó</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Júlio é um menino de cidade grande que adora tocar gaita. Nas férias, ele vai para a casa dos seus avós e fica encantado com a Fazenda Cocoricó, localizada na cidade de Cocoricolândia.</desc>
+    <category lang="pt">Temporada 4 Episódio 13 - Sucesso de Público</category>
+    <desc lang="pt">Júlio leva João, seu primo da cidade, para passear pela fazenda.</desc>
   </programme>
   <programme start="20260815131500 -0300" stop="20260815132500 -0300" channel="TV Cultura.br">
     <title lang="pt">Palaloos</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Kazu encontra um arbusto com uma textura peluda que faz cócegas. Os palaloos tentam brincar com ele, mas o arbusto sai correndo; o trio encontra vários pisos de alturas diferentes no chão. Eles brincam de subir e descer nos pisos.</desc>
+    <desc lang="pt">Kazu, Pico e Bao Bao encontram Epa e Opa, que estão tristes porque seus bolinhos ficaram horríveis, pois eles perderam a receita. Juntos, os Palaloos partem em uma missão divertida para encontrar a página perdida no armário de receitas.</desc>
   </programme>
   <programme start="20260815132500 -0300" stop="20260815133000 -0300" channel="TV Cultura.br">
     <title lang="pt">Léo - O Caminhão</title>
@@ -1014,8 +1010,8 @@
   </programme>
   <programme start="20260815133000 -0300" stop="20260815134000 -0300" channel="TV Cultura.br">
     <title lang="pt">Planeta Palavra</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.</desc>
+    <category lang="pt">Temporada 1 Episódio 16 - Bem-Vindo, Mico</category>
+    <desc lang="pt">Onça e Vaca querem pendurar uma faixa onde se lê &quot;Bem-vindo, Mico&quot; para a recepção do amigo, que volta de férias. No entanto, elas se atrapalham, caem e a ponte de entrada do sítio se parte, perdendo o &quot;P&quot; e transformando a ponte em uma fonte.</desc>
   </programme>
   <programme start="20260815134000 -0300" stop="20260815135000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bino e Fino</title>
@@ -1024,18 +1020,23 @@
   </programme>
   <programme start="20260815135000 -0300" stop="20260815140000 -0300" channel="TV Cultura.br">
     <title lang="pt">Milo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Milo é um gatinho curioso que vive grandes aventuras com seus melhores amigos. De explorar galáxias e mundos fantásticos, a cozinhar, cantar e dançar. Cada dia guarda uma surpresa diferente.</desc>
+    <category lang="pt">Temporada 1 Episódio 10 - Milo, o Carteiro</category>
+    <desc lang="pt">O funcionário dos correios Raymond é responsável por entregar a correspondência da cidade. Milo, Lofty e Lark estão ansiosos para ajudá-lo, mas uma tempestade se aproxima.</desc>
   </programme>
   <programme start="20260815140000 -0300" stop="20260815141500 -0300" channel="TV Cultura.br">
     <title lang="pt">Meu AmigãoZão</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Matt aprende a tocar com os outros em vez de tentar se destacar sozinho durante uma aula de música.</desc>
   </programme>
-  <programme start="20260815141500 -0300" stop="20260815143000 -0300" channel="TV Cultura.br">
+  <programme start="20260815141500 -0300" stop="20260815142000 -0300" channel="TV Cultura.br">
     <title lang="pt">Contos Assustadores da Masha</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Masha ensina como se livrar dos medos, explicando o que causa cada um e o que fazer quando eles aparecem, usando histórias e jogos divertidos.</desc>
+    <category lang="pt">Temporada 1 Episódio 7 - A Triste História do Menino-Repelente</category>
+    <desc lang="pt">Para onde Semushka olha, ele vê tétano, rubéola e outros tipos de doenças contagiosas. Com isso, ele fica tão apavorado que começa a assoar o nariz cada vez mais forte.</desc>
+  </programme>
+  <programme start="20260815142000 -0300" stop="20260815143000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <category lang="pt">Temporada 1 Episódio 9 - A Excruciante História da Avó e seu Neto</category>
+    <desc lang="pt">Conheça a história da avó que tinha medo de perturbar o neto com comidas que ele poderia não gostar.</desc>
   </programme>
   <programme start="20260815143000 -0300" stop="20260815144500 -0300" channel="TV Cultura.br">
     <title lang="pt">Ninhos em Movimento</title>
@@ -1044,7 +1045,7 @@
   </programme>
   <programme start="20260815144500 -0300" stop="20260815150000 -0300" channel="TV Cultura.br">
     <title lang="pt">Sol em Dó Ré Mi</title>
-    <category lang="pt">Children</category>
+    <category lang="pt">Temporada 1 Episódio 3 - O Som da Comida; Alimentação Saudável</category>
     <desc lang="pt">A menina Sol, de seis anos, tem um segredo: ela conhece uma melodia secreta que abre um portal que a leva até o mundo Dó Ré Mi. Lá, ela aprende lições importantes com seus amigos instrumentos para enfrentar desafios no seu próprio mundo.</desc>
   </programme>
   <programme start="20260815150000 -0300" stop="20260815151500 -0300" channel="TV Cultura.br">
@@ -1055,46 +1056,71 @@
   <programme start="20260815151500 -0300" stop="20260815153000 -0300" channel="TV Cultura.br">
     <title lang="pt">Bluey</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">As aventuras de Bluey, uma filhote que vive com sua mãe, pai e irmã. Sua energia e espírito adorável geram todos os tipos de situações divertidas e imprevisíveis.</desc>
+    <desc lang="pt">Bluey e Bingo decidem fazer pizzas de lama e entregar para os adultos, mas a roda do carrinho cai o tempo todo; com apenas cinco minutos para brincarem, Bluey e Mamãe correm contra o relógio para comprar leite para um hóspede rabugento.</desc>
   </programme>
-  <programme start="20260815153000 -0300" stop="20260815163000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Shaun, o Carneiro - As Lhamas do Fazendeiro</title>
+  <programme start="20260815153000 -0300" stop="20260815160000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro: Aventura de Natal</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Shaun convence o fazendeiro a comprar três lhamas exóticas em um leilão de animais. Elas parecem muito divertidas, mas logo começam a provocar confusões na fazenda.</desc>
+    <desc lang="pt">Shaun se mete em uma grande encrenca durante os preparativos para o Natal, e a fazenda inteira acaba embarcando em uma aventura com direito a trenó e tudo.</desc>
+  </programme>
+  <programme start="20260815160000 -0300" stop="20260815163000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Shaun é um carneiro extremamente inteligente e bastante criativo que vive em uma pequena fazenda. Ele é o líder do rebanho e sempre se envolve em muitas confusões com seus amigos.</desc>
   </programme>
   <programme start="20260815163000 -0300" stop="20260815164500 -0300" channel="TV Cultura.br">
     <title lang="pt">Quintal da Cultura na Missão do Dia</title>
     <category lang="pt">Adventure</category>
     <desc lang="pt">Cacá recebe um pedido de ajuda da Agência de Lendas, Mistérios e Aventuras, um clube de aventureiros que realiza as mais rocambólicas missões. Para ajudá-los, o agente Osório deve interromper o seu dia de folga e procurar um ser guardião da floresta.</desc>
   </programme>
-  <programme start="20260815164500 -0300" stop="20260815171500 -0300" channel="TV Cultura.br">
+  <programme start="20260815164500 -0300" stop="20260815165500 -0300" channel="TV Cultura.br">
     <title lang="pt">Turma da Mônica</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da turminha participam de várias aventuras.</desc>
   </programme>
+  <programme start="20260815165500 -0300" stop="20260815170500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Turma da Mônica</title>
+    <category lang="pt">Temporada 1 Episódio 36 - Cuidado com o Apagão</category>
+    <desc lang="pt">Cascão adora tecnologia e está sempre fazendo diversas coisas ao mesmo tempo. Porém, como a maioria das crianças, o resto da turma também está sempre plugado, e é aí que as coisas complicam.</desc>
+  </programme>
+  <programme start="20260815170500 -0300" stop="20260815171500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Turma da Mônica</title>
+    <category lang="pt">Temporada 1 Episódio 31 - Depois do Banho</category>
+    <desc lang="pt">A turminha fica muito feliz com Cascão, pois ele finalmente tomou um banho e adorou. Porém, o próprio Cascão não consegue lembrar de maneira alguma quando e se este evento horrível aconteceu realmente com ele.</desc>
+  </programme>
   <programme start="20260815171500 -0300" stop="20260815173000 -0300" channel="TV Cultura.br">
     <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Um garoto tímido e sem nome é sempre chamado de irmão do Jorel. Sendo quase sempre ofuscado pela fama e popularidade de seu irmão mais velho, ele tenta ganhar sua própria identidade e ser alguém importante na família.</desc>
+    <category lang="pt">Temporada 3 Episódio 14 - Jornal do Quintal Urgente</category>
+    <desc lang="pt">Professora Adelaide diz para turma que não vai ter aula por motivo de caos absoluto no planeta e pânico generalizado; Irmão do Jorel e Seu Edson fazem uma edição extraordinária do &quot;Jornal do Quintal&quot; para internet.</desc>
   </programme>
   <programme start="20260815173000 -0300" stop="20260815180000 -0300" channel="TV Cultura.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Rosa vai buscar Juliana no balé, enquanto Orlando não está em casa; Carolina precisa ir ao ginecologista, mas não tem com quem deixar Lucas, então decide levá-lo ao hospital. Lucas reclama, achando a visita chata, mas não tem outra opção.</desc>
+    <desc lang="pt">Lucas Silva e Silva faz dez anos e ganha um gravador de seu avô, Orlando. Em meio aos problemas da passagem da infância para a adolescência, ele registra no aparelho histórias cheias de imaginação de como ele gostaria que as coisas acontecessem.</desc>
   </programme>
   <programme start="20260815180000 -0300" stop="20260815183000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Mundo de Beakman</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">O excêntrico cientista Beakman, por meio de experimentos químicos bizarros e divertidos, ilustra conceitos básicos da ciência e da natureza.</desc>
+    <category lang="pt">Temporada 4 Episódio 9 - Borracha, Beakmania e Cabelo</category>
+    <desc lang="pt">Beakman e sua equipe falam sobre características da borracha e explicam como o cabelo cresce.</desc>
   </programme>
-  <programme start="20260815183000 -0300" stop="20260815190000 -0300" channel="TV Cultura.br">
+  <programme start="20260815183000 -0300" stop="20260815184000 -0300" channel="TV Cultura.br">
     <title lang="pt">Shaun, o Carneiro</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Shaun é um carneiro extremamente inteligente e bastante criativo que vive em uma pequena fazenda. Ele é o líder do rebanho e sempre se envolve em muitas confusões com seus amigos.</desc>
+    <category lang="pt">Temporada 4 Episódio 1 - O Caminhão de Sorvete</category>
+    <desc lang="pt">O rebanho bola um plano para atrair um caminhão de sorvete para a fazenda.</desc>
+  </programme>
+  <programme start="20260815184000 -0300" stop="20260815185000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Temporada 1 Episódio 36 - Uma Visita de Outro Mundo</category>
+    <desc lang="pt">Quando uma estranha nave espacial aterrissa na fazenda, Shaun e o rebanho ajudam seu verde e simpático ocupante a conseguir colocar a nave para voar outra vez.</desc>
+  </programme>
+  <programme start="20260815185000 -0300" stop="20260815190000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Temporada 4 Episódio 3 - Feliz Aniversário Timmy</category>
+    <desc lang="pt">O rebanho decide fazer uma festa de aniversário para Timmy, mas acaba se distraindo.</desc>
   </programme>
   <programme start="20260815190000 -0300" stop="20260815193000 -0300" channel="TV Cultura.br">
     <title lang="pt">Antimatéria - Energia Geek</title>
-    <category lang="pt">Gaming</category>
+    <category lang="pt">Temporada 1 Episódio 282</category>
     <desc lang="pt">Cultura pop, animes, games, filmes e séries tokusatsu.</desc>
   </programme>
   <programme start="20260815193000 -0300" stop="20260815200000 -0300" channel="TV Cultura.br">
@@ -1114,13 +1140,13 @@
   </programme>
   <programme start="20260815220000 -0300" stop="20260815223000 -0300" channel="TV Cultura.br">
     <title lang="pt">Vitrine</title>
-    <category lang="pt">Public affairs</category>
-    <desc lang="pt">O programa analisa as redefinições na comunicação impulsionadas pela tecnologia, além de visitar os bastidores das produções atuais e do acervo do canal.</desc>
+    <category lang="pt">Temporada 2 Episódio 7</category>
+    <desc lang="pt">Fernando Meirelles e Ernesto Solis investigam como o cinema, a Inteligência Artificial e as redes sociais estão moldando a forma como a sociedade enxerga a crise climática. A atração mostra também como o MapBiomas usa imagens de satélite e I.A. para acompanhar transformações no território brasileiro, como o desmatamento e a expansão da agropecuária.</desc>
   </programme>
   <programme start="20260815223000 -0300" stop="20260815233000 -0300" channel="TV Cultura.br">
     <title lang="pt">Arena dos Saberes</title>
     <category lang="pt">Interview</category>
-    <desc lang="pt">O educador Gabriel Chalita conversa com grandes nomes da cultura nacional e personalidades de diversas áreas que compartilham com o público suas ideias e impressões sobre temas contemporâneos.</desc>
+    <desc lang="pt">Gabriel Chalita recebe Thales Bretas, médico dermatologista e pai do Gael e do Romeu, juntamente com o humorista Paulo Gustavo. Eles conversam sobre a importância da figura paterna, como filho e como pai.</desc>
   </programme>
   <programme start="20260815233000 -0300" stop="20260816010000 -0300" channel="TV Cultura.br">
     <title lang="pt">Fotografação</title>
@@ -2150,7 +2176,7 @@
   <programme start="20260815123000 -0300" stop="20260815130000 -0300" channel="Futura.br">
     <title lang="pt">Manual de Sobrevivência para o Século 21</title>
     <category lang="pt">Entertainment</category>
-    <desc lang="pt">Marcos visita escolas com projetos sustentáveis, aprende sobre moda ecológica, abelhas e fraldas verdes. A educação transforma.</desc>
+    <desc lang="pt">Soluções criativas para os problemas do século XXI que já são praticadas com sucesso em diversas comunidades do Brasil.</desc>
   </programme>
   <programme start="20260815130000 -0300" stop="20260815133000 -0300" channel="Futura.br">
     <title lang="pt">Da Nascente à Foz</title>
@@ -2265,7 +2291,7 @@
   <programme start="20260816015500 -0300" stop="20260816022500 -0300" channel="Futura.br">
     <title lang="pt">Manual de Sobrevivência para o Século 21</title>
     <category lang="pt">Entertainment</category>
-    <desc lang="pt">Marcos visita escolas com projetos sustentáveis, aprende sobre moda ecológica, abelhas e fraldas verdes. A educação transforma.</desc>
+    <desc lang="pt">Soluções criativas para os problemas do século XXI que já são praticadas com sucesso em diversas comunidades do Brasil.</desc>
   </programme>
   <programme start="20260816022500 -0300" stop="20260816030000 -0300" channel="Futura.br">
     <title lang="pt">A Trilha Transcarioca</title>
@@ -4379,22 +4405,22 @@
   <programme start="20260815061200 -0300" stop="20260815071200 -0300" channel="Viva.br">
     <title lang="pt">Amor à Vida</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Jacques elogia Pilar, que fica lisonjeada; Félix e Paloma discutem; Bruno vai embora apressado da casa de Aline; Rinaldo ajuda Márcia a vender seus hot dogs; Félix fala para Eron que Atílio investigará as contas do hospital.</desc>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
   </programme>
   <programme start="20260815071200 -0300" stop="20260815080800 -0300" channel="Viva.br">
     <title lang="pt">Belíssima</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">O médico diz a Júlia que ela precisa repousar; Alberto decide apressar o processo da guarda do filho de Mônica; Cemil briga com Mônica por ciúmes.</desc>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
   </programme>
   <programme start="20260815080800 -0300" stop="20260815085300 -0300" channel="Viva.br">
     <title lang="pt">O Profeta</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Arnaldo finge ser o delegado e descobre uma pista da filha de Teresa; Clóvis ameaça parar de pagar o tratamento de Piragibe caso Sônia conte algo a alguém; Lia recebe uma ligação.</desc>
+    <desc lang="pt">Clóvis descobre que Natália é filha de Dedé; Arnaldo alerta Marcos e ele decide desmascarar Rúbia; Gisele beija Tainha; Ester diz a Francisco que um espírito persegue Henrique.</desc>
   </programme>
   <programme start="20260815085300 -0300" stop="20260815093500 -0300" channel="Viva.br">
     <title lang="pt">Vale Tudo</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Odete se interessa por César; Afonso e Fátima brigam; Ivan descobre que a Paladar pode falir após rompimento com a TCA e enfrenta Odete; Celina faz intriga e Fátima procura Solange.</desc>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
   </programme>
   <programme start="20260815093500 -0300" stop="20260815102700 -0300" channel="Viva.br">
     <title lang="pt">Minha Menina</title>
@@ -4409,37 +4435,37 @@
   <programme start="20260815111900 -0300" stop="20260815120400 -0300" channel="Viva.br">
     <title lang="pt">O Rei do Gado</title>
     <category lang="pt">Drama</category>
-    <desc lang="pt">Liliana cobra uma resposta da mãe; Luana continua a trabalhar na lavoura.</desc>
+    <desc lang="pt">Suzane procura Léa e faz uma proposta; Mezenga descobre que Geremias viajou para a Itália.</desc>
   </programme>
   <programme start="20260815120400 -0300" stop="20260815125000 -0300" channel="Viva.br">
     <title lang="pt">Anjo Mau</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">A denúncia de Otávio contra Rui é publicada no jornal; Rodrigo volta para casa e todos o acusam de ter traído Nice; Fátima confessa ao delegado que foi obrigada por Rui a mentir.</desc>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
   </programme>
   <programme start="20260815125000 -0300" stop="20260815135400 -0300" channel="Viva.br">
     <title lang="pt">Belíssima</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">O médico diz a Júlia que ela precisa repousar; Alberto decide apressar o processo da guarda do filho de Mônica; Cemil briga com Mônica por ciúmes.</desc>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
   </programme>
   <programme start="20260815135400 -0300" stop="20260815143900 -0300" channel="Viva.br">
     <title lang="pt">Vale Tudo</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Odete se interessa por César; Afonso e Fátima brigam; Ivan descobre que a Paladar pode falir após rompimento com a TCA e enfrenta Odete; Celina faz intriga e Fátima procura Solange.</desc>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
   </programme>
   <programme start="20260815143900 -0300" stop="20260815152700 -0300" channel="Viva.br">
     <title lang="pt">O Profeta</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Arnaldo finge ser o delegado e descobre uma pista da filha de Teresa; Clóvis ameaça parar de pagar o tratamento de Piragibe caso Sônia conte algo a alguém; Lia recebe uma ligação.</desc>
+    <desc lang="pt">Clóvis descobre que Natália é filha de Dedé; Arnaldo alerta Marcos e ele decide desmascarar Rúbia; Gisele beija Tainha; Ester diz a Francisco que um espírito persegue Henrique.</desc>
   </programme>
   <programme start="20260815152700 -0300" stop="20260815161500 -0300" channel="Viva.br">
     <title lang="pt">Rock Story</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Yasmin decide ajudar a banda e Zac fica intrigado. Eva pede para o garçom avisá-la quando Gordo estiver no restaurante. Geraldo chega na van de Léo com instrumentos para emprestar à banda 4.4. Diana exige falar com Gui.</desc>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
   </programme>
   <programme start="20260815161500 -0300" stop="20260815171500 -0300" channel="Viva.br">
     <title lang="pt">Amor à Vida</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Jacques elogia Pilar, que fica lisonjeada; Félix e Paloma discutem; Bruno vai embora apressado da casa de Aline; Rinaldo ajuda Márcia a vender seus hot dogs; Félix fala para Eron que Atílio investigará as contas do hospital.</desc>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
   </programme>
   <programme start="20260815171500 -0300" stop="20260815180700 -0300" channel="Viva.br">
     <title lang="pt">Minha Menina</title>
@@ -4454,17 +4480,17 @@
   <programme start="20260815183400 -0300" stop="20260815192000 -0300" channel="Viva.br">
     <title lang="pt">Anjo Mau</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">A denúncia de Otávio contra Rui é publicada no jornal; Rodrigo volta para casa e todos o acusam de ter traído Nice; Fátima confessa ao delegado que foi obrigada por Rui a mentir.</desc>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
   </programme>
   <programme start="20260815192000 -0300" stop="20260815200800 -0300" channel="Viva.br">
     <title lang="pt">O Rei do Gado</title>
     <category lang="pt">Drama</category>
-    <desc lang="pt">Liliana cobra uma resposta da mãe; Luana continua a trabalhar na lavoura.</desc>
+    <desc lang="pt">Suzane procura Léa e faz uma proposta; Mezenga descobre que Geremias viajou para a Itália.</desc>
   </programme>
   <programme start="20260815200800 -0300" stop="20260815210200 -0300" channel="Viva.br">
     <title lang="pt">Rock Story</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Yasmin decide ajudar a banda e Zac fica intrigado. Eva pede para o garçom avisá-la quando Gordo estiver no restaurante. Geraldo chega na van de Léo com instrumentos para emprestar à banda 4.4. Diana exige falar com Gui.</desc>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
   </programme>
   <programme start="20260815210200 -0300" stop="20260815214900 -0300" channel="Viva.br">
     <title lang="pt">Minha Vida Perfeita</title>
@@ -4479,22 +4505,22 @@
   <programme start="20260815224000 -0300" stop="20260815233500 -0300" channel="Viva.br">
     <title lang="pt">Amor à Vida</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Jacques elogia Pilar, que fica lisonjeada; Félix e Paloma discutem; Bruno vai embora apressado da casa de Aline; Rinaldo ajuda Márcia a vender seus hot dogs; Félix fala para Eron que Atílio investigará as contas do hospital.</desc>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
   </programme>
   <programme start="20260815233500 -0300" stop="20260816003500 -0300" channel="Viva.br">
     <title lang="pt">Belíssima</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">O médico diz a Júlia que ela precisa repousar; Alberto decide apressar o processo da guarda do filho de Mônica; Cemil briga com Mônica por ciúmes.</desc>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
   </programme>
   <programme start="20260816003500 -0300" stop="20260816011900 -0300" channel="Viva.br">
     <title lang="pt">O Profeta</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Arnaldo finge ser o delegado e descobre uma pista da filha de Teresa; Clóvis ameaça parar de pagar o tratamento de Piragibe caso Sônia conte algo a alguém; Lia recebe uma ligação.</desc>
+    <desc lang="pt">Clóvis descobre que Natália é filha de Dedé; Arnaldo alerta Marcos e ele decide desmascarar Rúbia; Gisele beija Tainha; Ester diz a Francisco que um espírito persegue Henrique.</desc>
   </programme>
   <programme start="20260816011900 -0300" stop="20260816020000 -0300" channel="Viva.br">
     <title lang="pt">Vale Tudo</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Odete se interessa por César; Afonso e Fátima brigam; Ivan descobre que a Paladar pode falir após rompimento com a TCA e enfrenta Odete; Celina faz intriga e Fátima procura Solange.</desc>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
   </programme>
   <programme start="20260816020000 -0300" stop="20260816024700 -0300" channel="Viva.br">
     <title lang="pt">Minha Vida Perfeita</title>
@@ -4504,12 +4530,12 @@
   <programme start="20260816024700 -0300" stop="20260816032900 -0300" channel="Viva.br">
     <title lang="pt">Anjo Mau</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">A denúncia de Otávio contra Rui é publicada no jornal; Rodrigo volta para casa e todos o acusam de ter traído Nice; Fátima confessa ao delegado que foi obrigada por Rui a mentir.</desc>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
   </programme>
   <programme start="20260816032900 -0300" stop="20260816041500 -0300" channel="Viva.br">
     <title lang="pt">Rock Story</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">Yasmin decide ajudar a banda e Zac fica intrigado. Eva pede para o garçom avisá-la quando Gordo estiver no restaurante. Geraldo chega na van de Léo com instrumentos para emprestar à banda 4.4. Diana exige falar com Gui.</desc>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
   </programme>
   <programme start="20260816041500 -0300" stop="20260816050200 -0300" channel="Viva.br">
     <title lang="pt">Minha Vida Perfeita</title>
@@ -4524,7 +4550,7 @@
   <programme start="20260816054800 -0300" stop="20260816063100 -0300" channel="Viva.br">
     <title lang="pt">Anjo Mau</title>
     <category lang="pt">Soap</category>
-    <desc lang="pt">A denúncia de Otávio contra Rui é publicada no jornal; Rodrigo volta para casa e todos o acusam de ter traído Nice; Fátima confessa ao delegado que foi obrigada por Rui a mentir.</desc>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
   </programme>
   <programme start="20260816063100 -0300" stop="20260816071200 -0300" channel="Viva.br">
     <title lang="pt">Anjo Mau</title>
@@ -14773,7 +14799,7 @@
   <programme start="20260817003000 -0300" stop="20260817010000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Vera e o Reino do Arco-Íris</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Vera e Bartleby tentam animar o morador mais solitário e triste do Reino do Arco-Íris, mas a tristeza dele é contagiante e coloca em risco a celebração do Dia dos Corações Felizes.</desc>
+    <desc lang="pt">A destemida Vera tem oito anos e a incrível habilidade de usar a Árvore dos Desejos para ajudar a proteger os cidadãos da terra colorida do Reino do Arco-Íris.</desc>
   </programme>
   <programme start="20260817010000 -0300" stop="20260817011000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Milo</title>
@@ -15510,172 +15536,172 @@
     <category lang="pt">Temporada 1 Episódio 25 - Myo 2.0</category>
     <desc lang="pt">Devido a uma nova atualização no software de Myo, ela é desprogramada e perde sua musicalidade. Wat e Fuz precisam ensiná-la a voltar a ser um baby rocker.</desc>
   </programme>
-  <programme start="20260816063900 -0300" stop="20260816065000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816063900 -0300" stop="20260816064900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
     <category lang="pt">Temporada 1 Episódio 36 - Os Reis do Refeitório</category>
     <desc lang="pt">O Sr. Brick decidiu cozinhar alguns dos pratos de sua infância que sua mãe fazia e compartilhá-los com as crianças da escola.</desc>
   </programme>
-  <programme start="20260816065000 -0300" stop="20260816070300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816064900 -0300" stop="20260816070300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
     <category lang="pt">Temporada 1 Episódio 38 - Um Futuro Brilhante</category>
     <desc lang="pt">Sam decide fazer um estágio de três dias no local de trabalho de seu pai, Percy.</desc>
   </programme>
-  <programme start="20260816070300 -0300" stop="20260816071400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816070300 -0300" stop="20260816071500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Topo Gigio</title>
     <category lang="pt">Temporada 2 Episódio 19 - Cadê Você, Bonsai?</category>
     <desc lang="pt">Mamãe incumbe Gigio de cuidar de um bonsai. Mas depois de uma soneca reparadora, o bonsai parece ter desaparecido.</desc>
   </programme>
-  <programme start="20260816071400 -0300" stop="20260816072700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816071500 -0300" stop="20260816072900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Topo Gigio</title>
     <category lang="pt">Temporada 2 Episódio 21 - O Segredo do Vovô</category>
     <desc lang="pt">Gigio e Zoe descobrem que o vovô Martin acabou de chegar para uma visita, mas logo descobrem que ele está agindo de forma estranha.</desc>
   </programme>
-  <programme start="20260816072700 -0300" stop="20260816073200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816072900 -0300" stop="20260816073400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 8 Episódio 38 - Dia de Ação de Graças</category>
     <desc lang="pt">A irmã da Mamãe Pig, a Tia Dotty, viaja de longe para o jantar de Ação de Graças. É um momento para agradecer com aqueles que se ama e compartilhar muita comida. Toda a família se reúne para celebrar e comer tortas de abóbora.</desc>
   </programme>
-  <programme start="20260816073200 -0300" stop="20260816075600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816073400 -0300" stop="20260816075700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Peppa e seus amigos brincam de restaurante e assumem diferentes papéis, como cozinheiros e garçons. Depois que a comida de mentirinha fica pronta, eles se divertem servindo seus pais.</desc>
   </programme>
-  <programme start="20260816075600 -0300" stop="20260816080700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816075700 -0300" stop="20260816080800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mundo do Barney</title>
     <category lang="pt">Temporada 1 Episódio 39 - Dia das Mães É Todo Dia</category>
     <desc lang="pt">David e Liam querem fazer algo especial para sua mãe no Dia das Mães. Barney os ajuda a descobrir como observar o que os outros precisam e como cuidar de sua irmãzinha para que sua mãe possa realmente relaxar é o melhor presente de todos.</desc>
   </programme>
-  <programme start="20260816080700 -0300" stop="20260816081800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816080800 -0300" stop="20260816081900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mundo do Barney</title>
     <category lang="pt">Temporada 1 Episódio 41 - Nonna Não Para</category>
     <desc lang="pt">Enquanto se diverte com a vovó Nonna, Vivie percebe que ela está com dificuldades de locomoção. Nonna e Barney ajudam Vivie a descobrir como cuidar da vovó fazendo pequenos ajustes que permitem que elas continuem se divertindo de um jeito diferente.</desc>
   </programme>
-  <programme start="20260816081800 -0300" stop="20260816084200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816081900 -0300" stop="20260816084300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">George, o Curioso</title>
     <category lang="pt">Temporada 14 Episódio 5 - Os Sons do George; Borboleteando</category>
     <desc lang="pt">George ajuda o chef Pisghetti a relaxar para que ele possa se lembrar da combinação que desbloqueará sua receita de cannoli; George e o Homem do Chapéu Amarelo assistem à migração das borboletas.</desc>
   </programme>
-  <programme start="20260816084200 -0300" stop="20260816084900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816084300 -0300" stop="20260816085100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">WeeBoom</title>
     <category lang="pt">Temporada 2 Episódio 2 - Leva um Casaquinho</category>
     <desc lang="pt">Você precisa lidar com sua mãe superprotetora para conseguir fazer volcano boarding em um vulcão na Nicarágua e capturar um Boomie.</desc>
   </programme>
-  <programme start="20260816084900 -0300" stop="20260816085600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816085100 -0300" stop="20260816085800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">WeeBoom</title>
     <category lang="pt">Temporada 2 Episódio 4 - Missão Intercontinental</category>
     <desc lang="pt">Um mal-entendido leva Wee e Boom para continentes diferentes, e, agora, terão que trabalhar separados para capturar um boomie congelante.</desc>
   </programme>
-  <programme start="20260816085600 -0300" stop="20260816090800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816085800 -0300" stop="20260816091000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 1 Episódio 23 - O Gato Super Herói</category>
     <desc lang="pt">Os Buffycats são grandes fãs do gato mascarado, sempre salvando gatinhos em perigo, mas quando o super-herói fica preso, os Buffycats têm que substituí-lo.</desc>
   </programme>
-  <programme start="20260816090800 -0300" stop="20260816092200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816091000 -0300" stop="20260816092400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 1 Episódio 25 - O Grande Estilista</category>
     <desc lang="pt">Todo mundo está emocionado porque Ambrogio, o gato estilista, vai passar na cidade. Mas ele chega e age de maneira tímida e ranzinza, pois perdeu totalmente sua inspiração.</desc>
   </programme>
-  <programme start="20260816092200 -0300" stop="20260816093400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816092400 -0300" stop="20260816093600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 1 Episódio 26 - O Novo Amigo de Pilou</category>
     <desc lang="pt">Como os outros Buffycats estão ocupados, Pilou está procurando por alguém para brincar.</desc>
   </programme>
-  <programme start="20260816093400 -0300" stop="20260816094500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816093600 -0300" stop="20260816094700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
     <category lang="pt">Temporada 1 Episódio 6 - Se Dormir, Você Perde</category>
     <desc lang="pt">Ben passa a noite em claro tentando se comunicar com o OVO e não consegue ficar acordado durante as missões.</desc>
   </programme>
-  <programme start="20260816094500 -0300" stop="20260816095800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816094700 -0300" stop="20260816100100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Talking Tom Heroes - Amigos com Superpoderes</title>
     <category lang="pt">Temporada 1 Episódio 7 - Invasão Alienígena</category>
     <desc lang="pt">Peak City sofre uma invasão alienígena, e todo mundo está pronto para lutar, menos Tom, que está com muito medo.</desc>
   </programme>
-  <programme start="20260816095800 -0300" stop="20260816100900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816100100 -0300" stop="20260816101200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Bubble's Hotel</title>
     <category lang="pt">Temporada 1 Episódio 33 - Perdido em um Livro</category>
     <desc lang="pt">Bubble cria um mundo de conto de fadas para sua tímida hóspede Paige, para ajudá-la a se tornar heroína de sua própria história.</desc>
   </programme>
-  <programme start="20260816100900 -0300" stop="20260816102000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816101200 -0300" stop="20260816102400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Bubble's Hotel</title>
     <category lang="pt">Temporada 1 Episódio 34 - O Descanso da Rainha</category>
     <desc lang="pt">Bubble e Nabi estão determinadas a dar à Rainha um tratamento digno da realeza em seu dia de folga. Mas quando Nabi fica doente, Bubble precisa entreter a alteza real sozinha.</desc>
   </programme>
-  <programme start="20260816102000 -0300" stop="20260816104500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816102400 -0300" stop="20260816104800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Peppa e seus amigos brincam de restaurante e assumem diferentes papéis, como cozinheiros e garçons. Depois que a comida de mentirinha fica pronta, eles se divertem servindo seus pais.</desc>
   </programme>
-  <programme start="20260816104500 -0300" stop="20260816110800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816104800 -0300" stop="20260816111100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Peppa e seus amigos brincam de restaurante e assumem diferentes papéis, como cozinheiros e garçons. Depois que a comida de mentirinha fica pronta, eles se divertem servindo seus pais.</desc>
   </programme>
-  <programme start="20260816110800 -0300" stop="20260816111900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816111100 -0300" stop="20260816112200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 8 Episódio 5 - O Grande Segredo</category>
     <desc lang="pt">Luna, Júpiter e Cláudio encontram uma caixa misteriosa cheia de surpresas no aniversário de Luna.</desc>
   </programme>
-  <programme start="20260816111900 -0300" stop="20260816113000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816112200 -0300" stop="20260816113300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 7 Episódio 20 - Será que Vai Chover?</category>
     <desc lang="pt">Luna, Júpiter e Cláudio recebem uma importante missão vinda da Terra: descobrir se vai chover no dia do piquenique de aniversário de Alice. O trio aceita a missão e flutua ao lado de balões meteorológicos em um céu sujeito a ventanias e trovoadas.</desc>
   </programme>
-  <programme start="20260816113000 -0300" stop="20260816114100 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816113300 -0300" stop="20260816114400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 7 Episódio 14 - O Gigante dos Planetas</category>
     <desc lang="pt">Júpiter está chateado porque acha que está demorando para crescer. Luna o anima dizendo que seu xará, o planeta Júpiter, é enorme. O menino fica animado e, na companhia de Luna e Cláudio, se diverte em um faz de conta interplanetário.</desc>
   </programme>
-  <programme start="20260816114100 -0300" stop="20260816115400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816114400 -0300" stop="20260816115700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 8 Episódio 24 - Super Poderosos!</category>
     <desc lang="pt">Luna, Júpiter e Cláudio se inspiram na roupa de apicultora da Vovó para fazer uma investigação divertida sobre roupas com superpoderes. Eles descobrem diversos tipos de tecnologias usadas em roupas e acessórios.</desc>
   </programme>
-  <programme start="20260816115400 -0300" stop="20260816120500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816115700 -0300" stop="20260816120800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 7 Episódio 19 - Astronomicamente Incrível</category>
     <desc lang="pt">Luna, Júpiter, Cláudio e Sorin começam a se perguntar o tamanho do Sol enquanto brincam no lago. Após investigar um pouco, eles estão ainda mais confusos do que antes.</desc>
   </programme>
-  <programme start="20260816120500 -0300" stop="20260816121600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816120800 -0300" stop="20260816121900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 8 Episódio 8 - Voa ou Não Voa?</category>
     <desc lang="pt">Luna, Júpiter e Cláudio querem saber sobre a origem da pipa e viajam para China para descobrir.</desc>
   </programme>
-  <programme start="20260816121600 -0300" stop="20260816122700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816121900 -0300" stop="20260816123000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 8 Episódio 16 - Iniciar Jogo!</category>
     <desc lang="pt">Luna, Júpiter e Cláudio fingem ser personagens de um videogame antigo, descobrem tudo sobre essa invenção e aprendem a trabalhar em equipe.</desc>
   </programme>
-  <programme start="20260816122700 -0300" stop="20260816124100 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816123000 -0300" stop="20260816124300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 8 Episódio 2 - Aspira! Inspira!</category>
     <desc lang="pt">Luna, Júpiter e Cláudio criam uma invenção durante uma brincadeira de pega-pega.</desc>
   </programme>
-  <programme start="20260816124100 -0300" stop="20260816125200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816124300 -0300" stop="20260816125400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 3 Episódio 13 - Cresce que Cresce</category>
     <desc lang="pt">Júpiter e Luna reencontram Jorge, seu amigo de férias, e ficam espantados ao ver como ele de repente ficou grande. Para descobrir como ele cresceu tanto, Luna, Júpiter e Cláudio participam de um faz de conta muito divertido.</desc>
   </programme>
-  <programme start="20260816125200 -0300" stop="20260816130300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816125400 -0300" stop="20260816130500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 7 Episódio 14 - O Gigante dos Planetas</category>
     <desc lang="pt">Júpiter está chateado porque acha que está demorando para crescer. Luna o anima dizendo que seu xará, o planeta Júpiter, é enorme. O menino fica animado e, na companhia de Luna e Cláudio, se diverte em um faz de conta interplanetário.</desc>
   </programme>
-  <programme start="20260816130300 -0300" stop="20260816131400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816130500 -0300" stop="20260816131700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 3 Episódio 22 - Doces Frutas</category>
     <desc lang="pt">Luna, Júpiter e Cláudio percebem diferença na aparência das frutas. Ao experimentar algumas laranjas, sentem que umas estão muito mais doces do que as outras, e por isso tentam entender se esse fato vale para todas as frutas.</desc>
   </programme>
-  <programme start="20260816131400 -0300" stop="20260816132600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816131700 -0300" stop="20260816132800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 7 Episódio 26 - Decolando!</category>
     <desc lang="pt">Luna, Júpiter e Cláudio estão muito animados porque o Vovô e a Vovó vão visitá-los em uma viagem para a Estação Espacial em um foguete novo. O trio começa a tentar entender como os foguetes funcionam por meio de um faz de conta espacial.</desc>
   </programme>
-  <programme start="20260816132600 -0300" stop="20260816133700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816132800 -0300" stop="20260816133900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 7 Episódio 16 - Super Veloz</category>
     <desc lang="pt">É dia de sessão de cinema na Estação Espacial e Luna e seus amigos querem chegar lá o mais rápido possível. Para isso, eles fazem de conta que são super-heróis velozes e descobrem qual é a coisa mais rápida do universo.</desc>
   </programme>
-  <programme start="20260816133700 -0300" stop="20260816135100 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816133900 -0300" stop="20260816135100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 8 Episódio 10 - Luzes, Câmera, Ação!</category>
     <desc lang="pt">Luna, Júpiter e Cláudio vão ao cinema e se perguntam quem inventou essa maravilha. Para descobrir a resposta, eles viajam no tempo e participam do primeiro filme do mundo.</desc>
@@ -15690,267 +15716,267 @@
     <category lang="pt">Temporada 8 Episódio 19 - Uma Aventura Bem Gelada</category>
     <desc lang="pt">A geladeira do rancho quebra e Luna, Júpiter e Cláudio tentam fazer um experimento para guardar a comida. Mas o teste não funciona e eles vão para um local gélido de fantasia para investigar o mundo e a história dos refrigeradores.</desc>
   </programme>
-  <programme start="20260816141300 -0300" stop="20260816142400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816141300 -0300" stop="20260816142500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 8 Episódio 23 - Massa Macarrão</category>
     <desc lang="pt">A vovó e o vovô estão ocupados preparando um macarrão caseiro. E o trio se pergunta de onde uma comida tão extraordinária pode surgir. Eles partem em um faz de contas onde uma competição de culinária surpreendente os leva a inesperadas descobertas.</desc>
   </programme>
-  <programme start="20260816142400 -0300" stop="20260816143800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816142500 -0300" stop="20260816143900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 3 Episódio 3 - Bons Sonhos, Cavalinhos</category>
     <desc lang="pt">Luna, Júpiter e Cláudio ficam curiosos com o sono dos cavalos e notam que alguns deles estão em pé. O trio parte para uma pesquisa sobre os animais e se surpreende com as descobertas sobre o sono dos cavalos.</desc>
   </programme>
-  <programme start="20260816143800 -0300" stop="20260816144900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816143900 -0300" stop="20260816145100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 3 Episódio 15 - O Galo Cantou!</category>
     <desc lang="pt">Luna, Júpiter e Cláudio estão cuidando das galinhas e se surpreendem ao verem que o galo está cantando. Eles resolvem fazer um experimento para saber se os galos realmente só cantam quando o sol nasce.</desc>
   </programme>
-  <programme start="20260816144900 -0300" stop="20260816150000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816145100 -0300" stop="20260816150200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 3 Episódio 25 - Seco Até Debaixo d'Água</category>
     <desc lang="pt">Quando fazem um piquenique com George no lago, Luna e Júpiter percebem que os patos que estão nadando e mergulhando não parecem estar molhados.</desc>
   </programme>
-  <programme start="20260816150000 -0300" stop="20260816163200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816150200 -0300" stop="20260816163500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Como Treinar o Seu Dragão 2</title>
     <category lang="pt">Children / 2014</category>
     <desc lang="pt">Cinco anos se passaram desde que Soluço estabeleceu a paz com os dragões e vive em harmonia, na Ilha de Berk, com Banguela. Eles voam, apostam corridas e se divertem muito. Em uma destas aventuras, descobrem uma caverna secreta cheia de dragões. Agora, a dupla luta para proteger Berk de um guerreiro perigoso, chamado Drago Bludvist, que deseja controlar todos os dragões existentes.</desc>
   </programme>
-  <programme start="20260816163200 -0300" stop="20260816164300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816163500 -0300" stop="20260816164700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Topo Gigio</title>
     <category lang="pt">Temporada 2 Episódio 23 - O Furacão de Dança</category>
     <desc lang="pt">Gemma J. lança um desafio de dança na Internet, mas Zoe não é boa dançarina. Com isso, Gigio tenta ensinar-lhe uma coreografia fantástica.</desc>
   </programme>
-  <programme start="20260816164300 -0300" stop="20260816165400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816164700 -0300" stop="20260816165800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Topo Gigio</title>
     <category lang="pt">Temporada 2 Episódio 24 - O Convite de Tatum</category>
     <desc lang="pt">Tatum quer convidar Julia para tomar um lanche com ele, mas é muito tímido. Por sorte, Zoe, Gigio e Bob estão prontos para ajudá-lo.</desc>
   </programme>
-  <programme start="20260816165400 -0300" stop="20260816170500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816165800 -0300" stop="20260816170900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Topo Gigio</title>
     <category lang="pt">Temporada 2 Episódio 2 - O Pequeno Amigo</category>
     <desc lang="pt">Gigio, sem saber, traz para casa um caruncho de uma viagem ao campo. Porém, a criaturinha pode comer toda a madeira da casa.</desc>
   </programme>
-  <programme start="20260816170500 -0300" stop="20260816171600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816170900 -0300" stop="20260816172000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Topo Gigio</title>
     <category lang="pt">Temporada 2 Episódio 4 - Missão Anti-Hibernação</category>
     <desc lang="pt">Zoe se arrepende de ir a uma festa com suas amigas e só quer dormir. Mas Gigio tem medo de que ela hiberne e tenta salvá-la.</desc>
   </programme>
-  <programme start="20260816171600 -0300" stop="20260816173800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816172000 -0300" stop="20260816174200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mermicorno - A Queda das Estrelas</title>
     <category lang="pt">Temporada 1 Episódio 12 - Sob Pressão da Água</category>
     <desc lang="pt">Os Mermicornos encontram uma criatura que mexe com suas ansiedades. Sawtooth tenta drenar a última estrela caída.</desc>
   </programme>
-  <programme start="20260816173800 -0300" stop="20260816175100 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816174200 -0300" stop="20260816175500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Hello Kitty: Super Style!</title>
     <category lang="pt">Temporada 3 Episódio 2 - O Ingrediente Secreto</category>
     <desc lang="pt">Está faltando um ingrediente para Nori conseguir fazer seu mega bolo, e a Chef Kitty ajuda seu amigo a chegar ao topo da Montanha da Cereja para conseguir o ingrediente que precisa.</desc>
   </programme>
-  <programme start="20260816175100 -0300" stop="20260816180200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816175500 -0300" stop="20260816180600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Hello Kitty: Super Style!</title>
     <category lang="pt">Temporada 4 Episódio 3 - A Chegada da Primavera</category>
     <desc lang="pt">Zing fica competitiva demais e cria uma flor gigante que ameaça Cherry Town e os amigos de Kitty.</desc>
   </programme>
-  <programme start="20260816180200 -0300" stop="20260816180700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816180600 -0300" stop="20260816181100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 1 Episódio 7 - Frankenfraldas</category>
     <desc lang="pt">Os Baby Rockers ganham de Dolores fraldas coloridas, mas eles não sabem que é um truque para que ela possa controlá-los. Os bebês dançam ao som do swing para desativar as fraldas.</desc>
   </programme>
-  <programme start="20260816180700 -0300" stop="20260816181200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816181100 -0300" stop="20260816181600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 31 - O Tambor Falante</category>
     <desc lang="pt">Carlos chega na creche com um novo instrumento: um tambor falante. Para a surpresa de todos, o tambor ganha vida e faz com que o bebê se afaste dos amigos. Quando vê Carlos triste por perder os amigos, o tambor volta a uni-los com seu ritmo.</desc>
   </programme>
-  <programme start="20260816181200 -0300" stop="20260816181700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816181600 -0300" stop="20260816182000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 32 - Uma Canção para Mamãe</category>
     <desc lang="pt">Carlos chega na creche Arco-Íris com novos instrumentos africanos porque quer tocar uma música muito especial para sua mãe. Infelizmente, Fuz e Wat não conseguem dominar esses instrumentos, o que frustra a todos.</desc>
   </programme>
-  <programme start="20260816181700 -0300" stop="20260816182300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816182000 -0300" stop="20260816182600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 33 - Um Sentimento Mariachi</category>
     <desc lang="pt">Bebê Mariachi chega à creche e revela um poder incrível: ela consegue controlar as emoções dos Mini Beats por meio da música. A bebê mostra que para transformar tristeza em alegria e frustração em diversão é só tocar as notas corretas.</desc>
   </programme>
-  <programme start="20260816182300 -0300" stop="20260816182800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816182600 -0300" stop="20260816183000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Children</category>
     <desc lang="pt">As aventuras cheias de ritmo de um improvável grupo de bebês músicos em uma creche.</desc>
   </programme>
-  <programme start="20260816182800 -0300" stop="20260816183300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816183000 -0300" stop="20260816183500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 35 - Dolores Contra a Areia</category>
     <desc lang="pt">Dolores vai à praia, mas quando pisa na areia quente, percebe que se esqueceu dos chinelos. A única forma de chegar à água será juntando coragem para correr sobre a areia quente. Para a surpresa de todos, isso revela um talento vocal de Dolores.</desc>
   </programme>
-  <programme start="20260816183300 -0300" stop="20260816183800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816183500 -0300" stop="20260816184000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 36 - A Equipe da Tuba</category>
     <desc lang="pt">Os Mini Beat Power Rockers saem para passear com Jay, e Dolores acaba tendo uma grande surpresa.</desc>
   </programme>
-  <programme start="20260816183800 -0300" stop="20260816184900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816184000 -0300" stop="20260816185100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Zouk a Bruxinha</title>
     <category lang="pt">Temporada 1 Episódio 43 - Sem Medo e sem Abóbora</category>
     <desc lang="pt">É noite de Halloween e Jojo está pronto para assustar Zouk dessa vez, mas a bruxinha não se assombra facilmente. Vampiros, ogros e fantasmas são os melhores amigos dela. Como ela está curiosa, deixa o Azar e o Senhor Abóbora a levarem.</desc>
   </programme>
-  <programme start="20260816184900 -0300" stop="20260816190000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816185100 -0300" stop="20260816190200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Zouk a Bruxinha</title>
     <category lang="pt">Temporada 1 Episódio 45 - Uma Boa Piada</category>
     <desc lang="pt">É o dia da Pegadinha Fantástica e, para o terror da Zouk, do Senhor Abóbora e do Nono, Azar só pensa nisso. Zouk está cansada das travessuras do gato, e ela mesma quer pregar uma pegadinha em sua família.</desc>
   </programme>
-  <programme start="20260816190000 -0300" stop="20260816190500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816190200 -0300" stop="20260816190700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 8 Episódio 40 - Larenzo Leão</category>
     <desc lang="pt">Mamãe e Peppa estão no zoológico e conhecem Lorenzo Leão, que mora lá. Ele ajuda seu pai, o Sr. Leão, a cuidar do zoológico. Lorenzo mostra seu zoológico de brinquedo para Peppa, mas ele continua perdendo seus animais de madeira em seus dois quartos.</desc>
   </programme>
-  <programme start="20260816190500 -0300" stop="20260816191000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816190700 -0300" stop="20260816191200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 8 Episódio 41 - Dinossauros Vivos</category>
     <desc lang="pt">O grupo visita o zoológico. O senhor Leão mostra a eles um lagarto gigante e menciona que ele será solto na natureza. Todas as crianças acreditam que é um dinossauro e a notícia se espalha. O senhor Leão explica que é um lagarto.</desc>
   </programme>
-  <programme start="20260816191000 -0300" stop="20260816191500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816191200 -0300" stop="20260816191700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 8 Episódio 42 - Sendo Bebês</category>
     <desc lang="pt">Peppa e Rebecca fingem ser bebês para chamar a atenção da Mamãe Coelha. A Mamãe Coelha brinca até elas admitirem que não são bebês de verdade.</desc>
   </programme>
-  <programme start="20260816191500 -0300" stop="20260816194000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816191700 -0300" stop="20260816194200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Peppa e seus amigos brincam de restaurante e assumem diferentes papéis, como cozinheiros e garçons. Depois que a comida de mentirinha fica pronta, eles se divertem servindo seus pais.</desc>
   </programme>
-  <programme start="20260816194000 -0300" stop="20260816194500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816194200 -0300" stop="20260816194700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 8 Episódio 43 - O Café do Senhor Gato</category>
     <desc lang="pt">Peppa brinca com Candy no Café do Senhor Gato. Candy mostra ao Senhor Gato os desenhos que fizeram e ele os pendura para todos verem.</desc>
   </programme>
-  <programme start="20260816194500 -0300" stop="20260816195000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816194700 -0300" stop="20260816195200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 8 Episódio 44 - Esconderijo de Almofadas</category>
     <desc lang="pt">Em um dia frio, papai sugere que eles construam uma toca até mamãe terminar o trabalho. Após um dia duro de trabalho, a sala de almofadas é o lugar perfeito para assistir TV juntos.</desc>
   </programme>
-  <programme start="20260816195000 -0300" stop="20260816195500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816195200 -0300" stop="20260816195700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 8 Episódio 45 - Acordada até Tarde</category>
     <desc lang="pt">A Tia, o Tio Pig e a prima Chloe vêm jantar e, depois de fazerem várias tarefas, a Peppa também pode ir. Ela tem muito orgulho de ficar acordada até tarde, até mesmo mais do que os papais.</desc>
   </programme>
-  <programme start="20260816195500 -0300" stop="20260816201800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816195700 -0300" stop="20260816202000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Peppa e seus amigos brincam de restaurante e assumem diferentes papéis, como cozinheiros e garçons. Depois que a comida de mentirinha fica pronta, eles se divertem servindo seus pais.</desc>
   </programme>
-  <programme start="20260816201800 -0300" stop="20260816204300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816202000 -0300" stop="20260816204400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa Pig</title>
     <category lang="pt">Children</category>
     <desc lang="pt">Na escolinha, Madame Gazela ensina jogos divertidos com papel a Peppa e seus amigos. Com uma folha, ela transforma um chapéu em um barco.</desc>
   </programme>
-  <programme start="20260816204300 -0300" stop="20260816210600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816204400 -0300" stop="20260816210700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa Pig</title>
     <category lang="pt">Temporada 6 Episódio 2 - O Ano Novo Chinês</category>
     <desc lang="pt">Madame Gazela conversa com as crianças sobre o Ano Novo Chinês. Elas aprendem as tradições chinesas e fazem uma fantasia de dragão para desfilar durante a queima de fogos.</desc>
   </programme>
-  <programme start="20260816210600 -0300" stop="20260816212900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816210700 -0300" stop="20260816213000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa Pig</title>
     <category lang="pt">Temporada 6 Episódio 3</category>
     <desc lang="pt">Durante um passeio, Peppa e sua família vão à floresta, à praia e ao parquinho. Enquanto Peppa se diverte nas poças de lama, seus pais a incentivam a dar nome a cada uma delas e analisar suas diferenças.</desc>
   </programme>
-  <programme start="20260816212900 -0300" stop="20260816215400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816213000 -0300" stop="20260816215500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa Pig</title>
     <category lang="pt">Temporada 6 Episódio 4 - A Ratinha Mandy</category>
     <desc lang="pt">Peppa e seus amigos recebem uma nova colega no grupo de brincadeiras: Mandy, uma ratinha que anda em uma cadeira de rodas. As crianças se divertem muito brincando com Mandy, que adora esportes e jogos.</desc>
   </programme>
-  <programme start="20260816215400 -0300" stop="20260816221700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816215500 -0300" stop="20260816221800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa Pig</title>
     <category lang="pt">Temporada 6 Episódio 5 - Flautas</category>
     <desc lang="pt">Os alunos de Madame Gazela aprendem a usar um gravador durante a aula de música. Após ensaiar bastante em casa, as crianças fazem uma apresentação emocionante para os pais.</desc>
   </programme>
-  <programme start="20260816221700 -0300" stop="20260816222200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816221800 -0300" stop="20260816222200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 25 - Fazendo Múúsica</category>
     <desc lang="pt">Jay aparece na creche com animais de fazenda: vacas, ovelhas, galinhas e até um cachorrinho. Os Mini Beat se divertem brincando com os animais, mas Dolores está com medo da bagunça.</desc>
   </programme>
-  <programme start="20260816222200 -0300" stop="20260816222600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816222200 -0300" stop="20260816222700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 2 Episódio 9 - Nascido para o Rock</category>
     <desc lang="pt">Após tomar um leite muito rico em proteínas, os bebês crescem até se tornarem adolescentes. Resta saber o que acabará antes, seu grande show ou o crescimento acelerado.</desc>
   </programme>
-  <programme start="20260816222600 -0300" stop="20260816223000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816222700 -0300" stop="20260816223200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 28 - A Caixa Musical</category>
     <desc lang="pt">Os Mini Beats encontram uma antiga caixinha de música com uma bailarina peculiar. Eles tentam tocar música para que ela dance, mas a bailarina só segue o ritmo da caixinha, que está quebrada. Os bebês a consertam para descobrir seus misteriosos sons.</desc>
   </programme>
-  <programme start="20260816223000 -0300" stop="20260816223700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816223200 -0300" stop="20260816223900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 29 - Batalha de Bandas</category>
     <desc lang="pt">O Bebê Empresário chega à creche com uma grande ideia: criar uma banda de meninos com Fuz e Carlos. Quando Dolores percebe isso, decide criar uma banda de meninas com Wat e Myo, dando início a uma competição para descobrir qual banda é melhor.</desc>
   </programme>
-  <programme start="20260816223700 -0300" stop="20260816224200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816223900 -0300" stop="20260816224300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 31 - O Tambor Falante</category>
     <desc lang="pt">Carlos chega na creche com um novo instrumento: um tambor falante. Para a surpresa de todos, o tambor ganha vida e faz com que o bebê se afaste dos amigos. Quando vê Carlos triste por perder os amigos, o tambor volta a uni-los com seu ritmo.</desc>
   </programme>
-  <programme start="20260816224200 -0300" stop="20260816224600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816224300 -0300" stop="20260816224800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 32 - Uma Canção para Mamãe</category>
     <desc lang="pt">Carlos chega na creche Arco-Íris com novos instrumentos africanos porque quer tocar uma música muito especial para sua mãe. Infelizmente, Fuz e Wat não conseguem dominar esses instrumentos, o que frustra a todos.</desc>
   </programme>
-  <programme start="20260816224600 -0300" stop="20260816225100 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816224800 -0300" stop="20260816225300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Children</category>
     <desc lang="pt">As aventuras cheias de ritmo de um improvável grupo de bebês músicos em uma creche.</desc>
   </programme>
-  <programme start="20260816225100 -0300" stop="20260816225500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816225300 -0300" stop="20260816225800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mini Beat Power Rockers</title>
     <category lang="pt">Temporada 4 Episódio 35 - Dolores Contra a Areia</category>
     <desc lang="pt">Dolores vai à praia, mas quando pisa na areia quente, percebe que se esqueceu dos chinelos. A única forma de chegar à água será juntando coragem para correr sobre a areia quente. Para a surpresa de todos, isso revela um talento vocal de Dolores.</desc>
   </programme>
-  <programme start="20260816225500 -0300" stop="20260816230700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816225800 -0300" stop="20260816231000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 2 Episódio 13 - Sushi, a Cachorrinha Viajante</category>
     <desc lang="pt">Vovó Pina está prestes a voltar de uma viagem e os gatos decidem surpreendê-la preparando um prato especial. Eles contam com a ajuda da cachorrinha de Isotta, Sushi, que sugere que eles preparem sushi.</desc>
   </programme>
-  <programme start="20260816230700 -0300" stop="20260816231900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816231000 -0300" stop="20260816232200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 2 Episódio 14 - O Desafio Canino</category>
     <desc lang="pt">Bucky, Zoe, Terry e Sushi começam a discutir e decidem organizar um jogo para provar quem é o melhor cachorro. Os gatos mostram aos cãezinhos que só dá para se divertir quando todos se divertem.</desc>
   </programme>
-  <programme start="20260816231900 -0300" stop="20260816233400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816232200 -0300" stop="20260816233600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 2 Episódio 16 - AIDA, a Gata Robô</category>
     <desc lang="pt">Para ajudar a Vovó a manter a casa arrumada, os gatinhos pedem a ajuda de Edison, o gato inventor. Reciclando vários objetos, Edison inventa AIDA, uma gata robô que faz todos os trabalhos domésticos.</desc>
   </programme>
-  <programme start="20260816233400 -0300" stop="20260816234600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816233600 -0300" stop="20260816234800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 2 Episódio 17 - Almôndega, o Gato Carteiro</category>
     <desc lang="pt">Almôndega leva a correspondência para Vovó Pina e, como sempre, ganha carinhos e petiscos. Quando a Vovó encontra um envelope que não é endereçado a ela, Almôndega decide levá-lo ao legítimo dono para ganhar mais petiscos.</desc>
   </programme>
-  <programme start="20260816234600 -0300" stop="20260816235700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260816234800 -0300" stop="20260817000000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os agentes protegem os humanos quando eles decidem passar a noite fora, em uma barraca no quintal. A missão se complica quando mosquitos aparecem por toda parte.</desc>
+    <desc lang="pt">Gordon inventa uma engenhoca para proteger a estação contra ataques alienígenas. Binky fica com um pouco de inveja do talento de Gordon, mas a máquina apresenta um defeito e decola com Loo.</desc>
   </programme>
-  <programme start="20260816235700 -0300" stop="20260817000900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817000000 -0300" stop="20260817001100 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os agentes protegem os humanos quando eles decidem passar a noite fora, em uma barraca no quintal. A missão se complica quando mosquitos aparecem por toda parte.</desc>
+    <desc lang="pt">Gordon inventa uma engenhoca para proteger a estação contra ataques alienígenas. Binky fica com um pouco de inveja do talento de Gordon, mas a máquina apresenta um defeito e decola com Loo.</desc>
   </programme>
-  <programme start="20260817000900 -0300" stop="20260817002100 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817001100 -0300" stop="20260817002300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os agentes protegem os humanos quando eles decidem passar a noite fora, em uma barraca no quintal. A missão se complica quando mosquitos aparecem por toda parte.</desc>
+    <desc lang="pt">Gordon inventa uma engenhoca para proteger a estação contra ataques alienígenas. Binky fica com um pouco de inveja do talento de Gordon, mas a máquina apresenta um defeito e decola com Loo.</desc>
   </programme>
-  <programme start="20260817002100 -0300" stop="20260817003300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817002300 -0300" stop="20260817003400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Quando Dog e Misty visitam a avó de Misty e os amigos dela, a magia de Pony transforma os jovens em idosos e rejuvenesce os idosos.</desc>
+    <desc lang="pt">Dog faz novos amigos caninos, deixando Pony com ciúme. Ele então começa a questionar se sua amizade com Dog é realmente especial.</desc>
   </programme>
-  <programme start="20260817003300 -0300" stop="20260817004500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817003400 -0300" stop="20260817004600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">The Dog &amp; Pony Show</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Quando Dog e Misty visitam a avó de Misty e os amigos dela, a magia de Pony transforma os jovens em idosos e rejuvenesce os idosos.</desc>
+    <desc lang="pt">Dog faz novos amigos caninos, deixando Pony com ciúme. Ele então começa a questionar se sua amizade com Dog é realmente especial.</desc>
   </programme>
-  <programme start="20260817004500 -0300" stop="20260817010700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817004600 -0300" stop="20260817010800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">100% Lobo - O Livro de Hath</title>
     <category lang="pt">Temporada 2 Episódio 25 - Magia sob Encomenda</category>
     <desc lang="pt">Após ficar preso no passado por uma semana, Freddy volta a Milford e descobre que Hath vendeu sua magia aos cidadãos e a cidade se voltou contra ele. A alcateia precisa se esconder e criar um plano para derrotar Hath.</desc>
   </programme>
-  <programme start="20260817010700 -0300" stop="20260817011800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817010800 -0300" stop="20260817011800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
     <category lang="pt">Temporada 1 Episódio 3 - O Sonho do Hammy</category>
     <desc lang="pt">Sam quer provar para JC que seu hamster, Hammy, consegue fazer os mesmos truques que outros bichinhos na internet e concorda em gravar um vídeo antes do fim do dia.</desc>
@@ -15960,42 +15986,42 @@
     <category lang="pt">Temporada 1 Episódio 4 - Os Perigos das Espinhas</category>
     <desc lang="pt">Mo vai interpretar o papel principal ao lado de Stella na peça de Sam.</desc>
   </programme>
-  <programme start="20260817012900 -0300" stop="20260817014000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817012900 -0300" stop="20260817013900 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
     <category lang="pt">Temporada 1 Episódio 5 - O Caso do Cristal</category>
     <desc lang="pt">Wanda dá a Mo e Sam um estranho cristal e Sam mantém o cristal no armário da escola.</desc>
   </programme>
-  <programme start="20260817014000 -0300" stop="20260817015100 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817013900 -0300" stop="20260817015000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Meio-Irmãos, Meio-Heróis</title>
     <category lang="pt">Temporada 1 Episódio 6 - Mira Perfeita</category>
     <desc lang="pt">Sam fica chateado quando Stella começa a passar mais tempo com Janelle porque ambas amam esportes.</desc>
   </programme>
-  <programme start="20260817015100 -0300" stop="20260817020300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817015000 -0300" stop="20260817020200 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 1 Episódio 49 - Fazendeiros por Um Dia</category>
     <desc lang="pt">Sem ingredientes para preparar sua torta de maçã, Vovó Pina sai para buscá-los na fazenda com os Buffycats. Com a ajuda de Corney, o gato fazendeiro, eles precisam espantar pássaros famintos enquanto colhem os ingredientes.</desc>
   </programme>
-  <programme start="20260817020300 -0300" stop="20260817021500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817020200 -0300" stop="20260817021400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 1 Episódio 50 - O Rolo de Massa da Vovó</category>
     <desc lang="pt">Vovó Pina está praticando golpes de caratê quando seu rolo de massa quebra. Com a ajuda de Neko, os Buffycats encontram uma solução, mas precisam seguir instruções especiais.</desc>
   </programme>
-  <programme start="20260817021500 -0300" stop="20260817022700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817021400 -0300" stop="20260817022600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">44 Gatos</title>
     <category lang="pt">Temporada 1 Episódio 51 - Pilou, a Babá de Filhotes</category>
     <desc lang="pt">Sem Vovó Pina, Lampo, Milady e Almôndega passam o dia ocupados. Pilou sai para passear com Kelly, mas quando chega em casa, descobre que a boneca desapareceu e um gato está em seu carrinho.</desc>
   </programme>
-  <programme start="20260817022700 -0300" stop="20260817023800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817022600 -0300" stop="20260817023700 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Ba Da Bean</title>
     <category lang="pt">Temporada 1 Episódio 32 - Escassez Escarlate</category>
     <desc lang="pt">York descobre que está sem estoque de tinta vermelha justamente quando inicia a sua fase artística nesta cor. Ele embarca em uma aventura com Bean em busca de uma antiga fonte de tinta em um subsolo.</desc>
   </programme>
-  <programme start="20260817023800 -0300" stop="20260817024900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817023700 -0300" stop="20260817024800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Ba Da Bean</title>
     <category lang="pt">Temporada 1 Episódio 33 - Desdobramentos Radicais</category>
     <desc lang="pt">No dia mais quente do Mesão, um livro gigante de origami cai aberto sobre a biblioteca de Kami.</desc>
   </programme>
-  <programme start="20260817024900 -0300" stop="20260817030000 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817024800 -0300" stop="20260817030000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Topo Gigio</title>
     <category lang="pt">Temporada 1 Episódio 48 - A Super Serenata</category>
     <desc lang="pt">Gigio se apaixona por uma cantora famosa, que faz seus shows vestida de rato, e decide conquistar seu coração. Ele prepara uma serenata pública para declarar seu amor à ratinha de seus sonhos.</desc>
@@ -16020,60 +16046,60 @@
     <category lang="pt">Temporada 1 Episódio 35 - O Jogo de Tabuleiro</category>
     <desc lang="pt">Tee Zeng passa o dia pensando em um plano para resgatar Hao. Para animá-la, Min e Abelhudo a presenteiam com um jogo de tabuleiro de aventuras espaciais, comprado em uma loja de antiguidades.</desc>
   </programme>
-  <programme start="20260817034400 -0300" stop="20260817035500 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817034400 -0300" stop="20260817035400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Kung Fu Wa</title>
     <category lang="pt">Temporada 1 Episódio 37 - O Lago de Lótus</category>
     <desc lang="pt">Para espairecer, a turma visita o famoso lago de lótus da Ilha Estrelada.</desc>
   </programme>
-  <programme start="20260817035500 -0300" stop="20260817040600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817035400 -0300" stop="20260817040500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly quer impressionar Jake, então ela convida a elefanta celebridade para a grande festa de Littleton. Quando a elefanta desaparece depois que Polly a deixa pequenininha, eles precisam encontrá-la.</desc>
+    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
   </programme>
-  <programme start="20260817040600 -0300" stop="20260817041700 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817040500 -0300" stop="20260817041600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Polly Pocket</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Polly quer impressionar Jake, então ela convida a elefanta celebridade para a grande festa de Littleton. Quando a elefanta desaparece depois que Polly a deixa pequenininha, eles precisam encontrá-la.</desc>
+    <desc lang="pt">Polly e sua família se preparam para abrir um novo centro de adoção de animais de estimação. Polly descobre um coelho-dragão mítico e indisciplinado que ela promete que irá cuidar sozinha.</desc>
   </programme>
-  <programme start="20260817041700 -0300" stop="20260817042800 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817041600 -0300" stop="20260817042800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 3 Episódio 10 - Estica e Puxa</category>
     <desc lang="pt">Em mais um dia de férias no Bagre Azul, Luna, Júpiter e Cláudio descobrem que é possível fazer queijo. Depois de experimentar uma receita que não dá certo, o trio mergulha em um faz de conta que termina em uma Tarantela e três peças de mussarela.</desc>
   </programme>
-  <programme start="20260817042800 -0300" stop="20260817043900 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817042800 -0300" stop="20260817044000 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">O Show da Luna!</title>
     <category lang="pt">Temporada 3 Episódio 12 - Nas Nuvens</category>
     <desc lang="pt">Durante um divertido voo, Luna e Júpiter se perguntam se é possível andar sobre as nuvens. Depois de um experimento com muita espuma, Luna, Júpiter e Cláudio se transformam em patos-selvagens e voam entre as nuvens à procura de uma resposta.</desc>
   </programme>
-  <programme start="20260817043900 -0300" stop="20260817050200 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817044000 -0300" stop="20260817050300 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Peppa</title>
     <category lang="pt">Temporada 7 Episódio 4 - Hollywood</category>
     <desc lang="pt">Peppa e sua família chegam a Hollywood e têm que encontrar o Senhor Batata para gravar um filme. Eles se perdem, mas Dona Coelha diz para seguirem as estrelas da calçada. Eles acham o Senhor Batata e se vestem de brócolis.</desc>
   </programme>
-  <programme start="20260817050200 -0300" stop="20260817051300 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817050300 -0300" stop="20260817051400 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mundo do Barney</title>
     <category lang="pt">Temporada 1 Episódio 21 - Fazendo Mágica</category>
     <desc lang="pt">Barney fica frustrado quando sua mágica dá errado. As crianças mostram a ele que estão lá para apoiá-lo, aconteça o que acontecer. Brincando, Barney descobre que a alegria o ajuda a enxergar e resolver os problemas de uma maneira totalmente nova.</desc>
   </programme>
-  <programme start="20260817051300 -0300" stop="20260817052400 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817051400 -0300" stop="20260817052500 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mundo do Barney</title>
     <category lang="pt">Temporada 1 Episódio 23 - Rodas Maiores</category>
     <desc lang="pt">David não consegue se desfazer de sua bicicleta, mesmo tendo crescido. Barney leva as crianças em uma aventura, onde David ajuda um caranguejo eremita a encontrar uma concha que lhe sirva melhor, além de aceitar que é hora de uma nova bicicleta.</desc>
   </programme>
-  <programme start="20260817052400 -0300" stop="20260817053600 -0300" channel="Discovery Kids HD.br">
+  <programme start="20260817052500 -0300" stop="20260817053600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os agentes protegem os humanos quando eles decidem passar a noite fora, em uma barraca no quintal. A missão se complica quando mosquitos aparecem por toda parte.</desc>
+    <desc lang="pt">Gordon inventa uma engenhoca para proteger a estação contra ataques alienígenas. Binky fica com um pouco de inveja do talento de Gordon, mas a máquina apresenta um defeito e decola com Loo.</desc>
   </programme>
   <programme start="20260817053600 -0300" stop="20260817054800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os agentes protegem os humanos quando eles decidem passar a noite fora, em uma barraca no quintal. A missão se complica quando mosquitos aparecem por toda parte.</desc>
+    <desc lang="pt">Gordon inventa uma engenhoca para proteger a estação contra ataques alienígenas. Binky fica com um pouco de inveja do talento de Gordon, mas a máquina apresenta um defeito e decola com Loo.</desc>
   </programme>
   <programme start="20260817054800 -0300" stop="20260817064800 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Agente Binky ao Resgate!</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Os agentes protegem os humanos quando eles decidem passar a noite fora, em uma barraca no quintal. A missão se complica quando mosquitos aparecem por toda parte.</desc>
+    <desc lang="pt">Gordon inventa uma engenhoca para proteger a estação contra ataques alienígenas. Binky fica com um pouco de inveja do talento de Gordon, mas a máquina apresenta um defeito e decola com Loo.</desc>
   </programme>
   <programme start="20260815053300 -0300" stop="20260815060200 -0300" channel="Gloob HD.br">
     <title lang="pt">Bugados</title>
@@ -18217,17 +18243,17 @@
   <programme start="20260815173000 -0300" stop="20260815173300 -0300" channel="Cartoonito.br">
     <title lang="pt">Mundo Bita</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <desc lang="pt">Acompanhe uma canção sobre os lares das pessoas e todas as diferenças que eles podem ter.</desc>
   </programme>
   <programme start="20260815173300 -0300" stop="20260815173600 -0300" channel="Cartoonito.br">
     <title lang="pt">Mundo Bita</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <desc lang="pt">Acompanhe uma canção sobre os lares das pessoas e todas as diferenças que eles podem ter.</desc>
   </programme>
   <programme start="20260815173600 -0300" stop="20260815173900 -0300" channel="Cartoonito.br">
     <title lang="pt">Mundo Bita</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <desc lang="pt">Acompanhe uma canção sobre os lares das pessoas e todas as diferenças que eles podem ter.</desc>
   </programme>
   <programme start="20260815173900 -0300" stop="20260815175000 -0300" channel="Cartoonito.br">
     <title lang="pt">Meekah</title>
@@ -19062,17 +19088,17 @@
   <programme start="20260816173100 -0300" stop="20260816173400 -0300" channel="Cartoonito.br">
     <title lang="pt">Mundo Bita</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <desc lang="pt">Acompanhe uma canção sobre os lares das pessoas e todas as diferenças que eles podem ter.</desc>
   </programme>
   <programme start="20260816173400 -0300" stop="20260816173800 -0300" channel="Cartoonito.br">
     <title lang="pt">Mundo Bita</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <desc lang="pt">Acompanhe uma canção sobre os lares das pessoas e todas as diferenças que eles podem ter.</desc>
   </programme>
   <programme start="20260816173800 -0300" stop="20260816174000 -0300" channel="Cartoonito.br">
     <title lang="pt">Mundo Bita</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Seja do jeito que for, a família é o ninho que precisamos para crescer rodeados de amor. Neste clipe protagonizado por tantos personagens, o Mundo Bita mostra que, independente da forma, o conteúdo é sempre o mais importante.</desc>
+    <desc lang="pt">Acompanhe uma canção sobre os lares das pessoas e todas as diferenças que eles podem ter.</desc>
   </programme>
   <programme start="20260816174000 -0300" stop="20260816175600 -0300" channel="Cartoonito.br">
     <title lang="pt">Meekah</title>
@@ -19587,7 +19613,7 @@
   <programme start="20260815090000 -0300" stop="20260815092500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Nesse episódio crianças de Acupe nos apresentam o Nego Fugido, festa popular onde adultos e crianças representam os escravos fujões que são caçados no mato e trazidos de volta ao rei. A vibração dos tambores e a catártica manifestação envolve a cidade inteira, aos domingos de julho.</desc>
+    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
   </programme>
   <programme start="20260815092500 -0300" stop="20260815093000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Morgana &amp; Celeste</title>
@@ -19686,8 +19712,8 @@
   </programme>
   <programme start="20260815125000 -0300" stop="20260815130000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
-    <category lang="pt">Educational</category>
-    <desc lang="pt">Valentim faz uma descoberta intrigante na praia, um pequeno montinho de areia que desperta sua curiosidade. Valentim reúne Duquesa, Fiufiu e Baiá para uma investigação sobre o monte de areia e as pegadas misteriosas que apareceram ao seu redor.</desc>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Um time de amigos une força, coragem e inteligência para cumprir missões de salvamento e exploração nos mares. A turma viaja entre águas rasas e profundas em jornadas de amizade e empatia.</desc>
   </programme>
   <programme start="20260815130000 -0300" stop="20260815131500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Meu AmigãoZão</title>
@@ -19796,8 +19822,8 @@
   </programme>
   <programme start="20260815183000 -0300" stop="20260815184000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esquadrão do Mar Azul</title>
-    <category lang="pt">Educational</category>
-    <desc lang="pt">Valentim faz uma descoberta intrigante na praia, um pequeno montinho de areia que desperta sua curiosidade. Valentim reúne Duquesa, Fiufiu e Baiá para uma investigação sobre o monte de areia e as pegadas misteriosas que apareceram ao seu redor.</desc>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Um time de amigos une força, coragem e inteligência para cumprir missões de salvamento e exploração nos mares. A turma viaja entre águas rasas e profundas em jornadas de amizade e empatia.</desc>
   </programme>
   <programme start="20260815184000 -0300" stop="20260815184500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Esse É o Bicho!</title>
@@ -19822,7 +19848,7 @@
   <programme start="20260815192000 -0300" stop="20260815193000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Ofélia convida Doroteia a conhecer bonecos e brincadeiras de outras culturas.</desc>
+    <desc lang="pt">Após visitar o Museu do Ipiranga, Doroteia encontra uma figura histórica muito conhecida: Dom Pedro I. Vindo diretamente do passado, o imperador aceita sua ajuda para procurar um objeto pessoal que ele perdeu séculos atrás.</desc>
   </programme>
   <programme start="20260815193000 -0300" stop="20260815200000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Musical Rá Tim Bum - Vai Ter Show do Badulaque</title>
@@ -19842,7 +19868,7 @@
   <programme start="20260815203000 -0300" stop="20260815205500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Nesse episódio crianças de Acupe nos apresentam o Nego Fugido, festa popular onde adultos e crianças representam os escravos fujões que são caçados no mato e trazidos de volta ao rei. A vibração dos tambores e a catártica manifestação envolve a cidade inteira, aos domingos de julho.</desc>
+    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
   </programme>
   <programme start="20260815205500 -0300" stop="20260815210000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Morgana &amp; Celeste</title>
@@ -19852,17 +19878,17 @@
   <programme start="20260815210000 -0300" stop="20260815213000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Rosa vai buscar Juliana no balé, enquanto Orlando não está em casa; Carolina precisa ir ao ginecologista, mas não tem com quem deixar Lucas, então decide levá-lo ao hospital. Lucas reclama, achando a visita chata, mas não tem outra opção.</desc>
+    <desc lang="pt">Lucas Silva e Silva faz dez anos e ganha um gravador de seu avô, Orlando. Em meio aos problemas da passagem da infância para a adolescência, ele registra no aparelho histórias cheias de imaginação de como ele gostaria que as coisas acontecessem.</desc>
   </programme>
   <programme start="20260815213000 -0300" stop="20260815220000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Rosa vai buscar Juliana no balé, enquanto Orlando não está em casa; Carolina precisa ir ao ginecologista, mas não tem com quem deixar Lucas, então decide levá-lo ao hospital. Lucas reclama, achando a visita chata, mas não tem outra opção.</desc>
+    <desc lang="pt">Lucas Silva e Silva faz dez anos e ganha um gravador de seu avô, Orlando. Em meio aos problemas da passagem da infância para a adolescência, ele registra no aparelho histórias cheias de imaginação de como ele gostaria que as coisas acontecessem.</desc>
   </programme>
   <programme start="20260815220000 -0300" stop="20260815223000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Mundo da Lua</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Rosa vai buscar Juliana no balé, enquanto Orlando não está em casa; Carolina precisa ir ao ginecologista, mas não tem com quem deixar Lucas, então decide levá-lo ao hospital. Lucas reclama, achando a visita chata, mas não tem outra opção.</desc>
+    <desc lang="pt">Lucas Silva e Silva faz dez anos e ganha um gravador de seu avô, Orlando. Em meio aos problemas da passagem da infância para a adolescência, ele registra no aparelho histórias cheias de imaginação de como ele gostaria que as coisas acontecessem.</desc>
   </programme>
   <programme start="20260815223000 -0300" stop="20260815234500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal da Cultura na Missão do Dia</title>
@@ -19912,7 +19938,7 @@
   <programme start="20260816020000 -0300" stop="20260816023000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Nesse episódio crianças de Acupe nos apresentam o Nego Fugido, festa popular onde adultos e crianças representam os escravos fujões que são caçados no mato e trazidos de volta ao rei. A vibração dos tambores e a catártica manifestação envolve a cidade inteira, aos domingos de julho.</desc>
+    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
   </programme>
   <programme start="20260816023000 -0300" stop="20260816024500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Yoga com Histórias</title>
@@ -19947,7 +19973,7 @@
   <programme start="20260816035000 -0300" stop="20260816040000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Quintal no Museu</title>
     <category lang="pt">Educational</category>
-    <desc lang="pt">Ofélia convida Doroteia a conhecer bonecos e brincadeiras de outras culturas.</desc>
+    <desc lang="pt">Após visitar o Museu do Ipiranga, Doroteia encontra uma figura histórica muito conhecida: Dom Pedro I. Vindo diretamente do passado, o imperador aceita sua ajuda para procurar um objeto pessoal que ele perdeu séculos atrás.</desc>
   </programme>
   <programme start="20260816040000 -0300" stop="20260816041000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Paramigos Imparáveis</title>
@@ -28815,7 +28841,7 @@
   <programme start="20260815124200 -0300" stop="20260815144500 -0300" channel="HBO.br">
     <title lang="pt">Mortal Kombat 2</title>
     <category lang="pt">Action / 2026</category>
-    <desc lang="pt">Os lutadores favoritos, incluindo Johnny Cage, enfrentam-se na batalha final contra o regime sombrio de Shao Kahn que ameaça destruir o Reino da Terra e seus guardiões.</desc>
+    <desc lang="pt">Escolha o seu lutador. Karl Urban se junta a Lewis Tan, Adeline Rudolph, Jessica McNamee e Hiroyuki Sanada nesta sangrenta sequência de ação e artes marciais, baseada no famoso videogame de mesmo nome. Ao sobreviverem à emboscada mortal de Shang Tsung, os campeões do Plano Terreno, com a ajuda do carismático lutador de Hollywood Johnny Cage (Urban), viajam à Exoterra para enfrentar a ameaça do malvado imperador Shao Kahn e impedir seus planos de invasão.</desc>
   </programme>
   <programme start="20260815144500 -0300" stop="20260815155500 -0300" channel="HBO.br">
     <title lang="pt">A Casa do Dragão</title>
@@ -28847,27 +28873,27 @@
     <category lang="pt">Temporada 3 Episódio 6 - Homens sem Rosto</category>
     <desc lang="pt">Enquanto Rhaenyra e Daemon se concentram na melhor forma de lidar com Ormund, as tensões entre seus aliados relegados aumentam. Alys oferece a Aemond uma nova visão do futuro. Gwayne chega a Tumbleton e descobre que a situação é tão precária quanto a do campo de batalha.</desc>
   </programme>
-  <programme start="20260815213400 -0300" stop="20260815225000 -0300" channel="HBO.br">
+  <programme start="20260815213400 -0300" stop="20260815224900 -0300" channel="HBO.br">
     <title lang="pt">A Casa do Dragão</title>
     <category lang="pt">Temporada 3 Episódio 8 - As Traições em Tumbleton</category>
     <desc lang="pt">Rhaenyra e Aegon disputam o controle. Traição, profecia e conflito afetam o destino de Westeros.</desc>
   </programme>
-  <programme start="20260815225000 -0300" stop="20260816000500 -0300" channel="HBO.br">
+  <programme start="20260815224900 -0300" stop="20260816000500 -0300" channel="HBO.br">
     <title lang="pt">A Casa do Dragão</title>
     <category lang="pt">Temporada 3 Episódio 8 - As Traições em Tumbleton</category>
     <desc lang="pt">Rhaenyra e Aegon disputam o controle. Traição, profecia e conflito afetam o destino de Westeros.</desc>
   </programme>
-  <programme start="20260816000500 -0300" stop="20260816020000 -0300" channel="HBO.br">
+  <programme start="20260816000500 -0300" stop="20260816015900 -0300" channel="HBO.br">
     <title lang="pt">Premonição 6 - Laços de Sangue</title>
     <category lang="pt">Horror / 2025</category>
     <desc lang="pt">Atormentada por um pesadelo violento e recorrente, uma estudante universitária volta para casa em busca da única pessoa que pode ser capaz de quebrar o ciclo de morte e salvar sua família do terrível destino que inevitavelmente os aguarda.</desc>
   </programme>
-  <programme start="20260816020000 -0300" stop="20260816034000 -0300" channel="HBO.br">
+  <programme start="20260816015900 -0300" stop="20260816033900 -0300" channel="HBO.br">
     <title lang="pt">A Seita</title>
     <category lang="pt">Drama / 2024</category>
     <desc lang="pt">O psicólogo social americano Ben Monroe investiga um culto local em Berlim que está ligado a um evento perturbador, enquanto sua filha é atraída para o mundo de um garoto misterioso.</desc>
   </programme>
-  <programme start="20260816034000 -0300" stop="20260816060000 -0300" channel="HBO.br">
+  <programme start="20260816033900 -0300" stop="20260816060000 -0300" channel="HBO.br">
     <title lang="pt">Christy - Um Novo Round</title>
     <category lang="pt">Biography / 2025</category>
     <desc lang="pt">Christy Martin jamais imaginou a vida além de suas raízes em uma pequena cidade da Virgínia Ocidental, até descobrir seu talento para brigas. Impulsionada por garra, determinação e um desejo inabalável de vencer, ela mergulha no mundo do boxe sob a tutela de seu treinador e empresário, que se tornou seu marido, Jim. Ostentando uma personalidade impetuosa no ringue, suas batalhas mais difíceis começam a se desenrolar fora dele.</desc>
@@ -30336,15 +30362,25 @@
     <category lang="pt">Science</category>
     <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
   </programme>
-  <programme start="20260815010000 -0300" stop="20260815061000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Cine Canal</title>
-    <category lang="pt">Western</category>
-    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
+  <programme start="20260815050000 -0300" stop="20260815061000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Bandas Show</title>
+    <category lang="pt">Music</category>
+    <desc lang="pt">Conheça bons artistas e bandas e confira entrevistas com convidados.</desc>
   </programme>
-  <programme start="20260815061000 -0300" stop="20260815073000 -0300" channel="Canal do Boi.br">
+  <programme start="20260815061000 -0300" stop="20260815063000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260815063000 -0300" stop="20260815070000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Genética BR</title>
     <category lang="pt">Special</category>
     <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260815070000 -0300" stop="20260815073000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
   <programme start="20260815073000 -0300" stop="20260815083000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Conexão Rural Germipasto</title>
@@ -30352,94 +30388,215 @@
     <desc lang="pt">Acompanhe notícias, informações de mercado e oportunidades do setor.</desc>
   </programme>
   <programme start="20260815083000 -0300" stop="20260815090000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">La Región - Agropecuária</title>
+    <title lang="pt">Terralmo Negócios Rurais</title>
     <category lang="pt">Agriculture</category>
-    <desc lang="pt">Direto de Santa Cruz de La Sierra, na Bolívia, o programa traz informações e atualizações sobre o agronegócio da região e de países vizinhos.</desc>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
-  <programme start="20260815090000 -0300" stop="20260815100000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Programa Ruminar</title>
-    <category lang="pt">Shopping</category>
-    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
-  </programme>
-  <programme start="20260815100000 -0300" stop="20260815140000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual Qualidade Total</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Oferta de 1.500 animais, leilão promovido pela Central Leilões.</desc>
-  </programme>
-  <programme start="20260815140000 -0300" stop="20260815200000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual Central Pantanal Coxim</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Oferta de 1.500 animais, leilão promovido pela Central Leilões.</desc>
-  </programme>
-  <programme start="20260815200000 -0300" stop="20260816000000 -0300" channel="Canal do Boi.br">
+  <programme start="20260815090000 -0300" stop="20260815093000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Genética BR</title>
     <category lang="pt">Special</category>
     <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
   </programme>
-  <programme start="20260816000000 -0300" stop="20260816050000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Cine Canal</title>
-    <category lang="pt">Western</category>
-    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
+  <programme start="20260815093000 -0300" stop="20260815100000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
-  <programme start="20260816050000 -0300" stop="20260816060000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Programa Ruminar</title>
-    <category lang="pt">Shopping</category>
-    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
+  <programme start="20260815100000 -0300" stop="20260815140000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Semana de Genética Katayama - 27º Leilão</title>
+  </programme>
+  <programme start="20260815140000 -0300" stop="20260815180000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Semana de Genética Katayama - 27º Leilão</title>
+  </programme>
+  <programme start="20260815180000 -0300" stop="20260815200000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Semana de Genética Katayama - 27º Leilão</title>
+  </programme>
+  <programme start="20260815200000 -0300" stop="20260815203000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260815203000 -0300" stop="20260815210000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260815210000 -0300" stop="20260815213000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260815213000 -0300" stop="20260815220000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260815220000 -0300" stop="20260815223000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260815223000 -0300" stop="20260815230000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260815230000 -0300" stop="20260815233000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260815233000 -0300" stop="20260816000000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260816000000 -0300" stop="20260816021200 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Rio Vermelho</title>
+    <category lang="pt">Western / 1948</category>
+    <desc lang="pt">Headstrong Thomas Dunson começa uma próspera fazenda de gado no Texas com a ajuda de seu fiel ajudante Groot e seu protegido Matt Garth, um órfão que Dunson tomou sob sua asa quando ele era um menino. Ao precisar de dinheiro após a Guerra Civil, Dunson e Matt levam uma boiada para o Missouri, onde eles conseguem um preço melhor do que o local, mas o velho excêntrico e seu jovem parceiro voluntário começam a discutir durante a viagem.</desc>
+  </programme>
+  <programme start="20260816021200 -0300" stop="20260816035200 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Love Story - Uma História de Amor</title>
+    <desc lang="pt">Oliver Barrett IV, um estudante de direito de Harvard, conhece Jenny Cavilleri, uma aluna de música de Radcliffe. É amor à primeira vista, e eles decidem se casar. No entanto, o pai de Oliver, um multimilionário, não aceita tal união e deserda o filho. Jenny não consegue engravidar e descobre que está muito doente.</desc>
+  </programme>
+  <programme start="20260816035200 -0300" stop="20260816050000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Guarda-Costa Alerta</title>
+    <category lang="pt">Adventure / 1937</category>
+  </programme>
+  <programme start="20260816050000 -0300" stop="20260816053000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260816053000 -0300" stop="20260816060000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
   <programme start="20260816060000 -0300" stop="20260816063000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Caminhos do Brasil</title>
     <category lang="pt">Fishing</category>
     <desc lang="pt">Veja as mais diferentes regiões do país com imagens documentais, costumes, receitas e culturas.</desc>
   </programme>
-  <programme start="20260816063000 -0300" stop="20260816073000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Programa Ruminar</title>
-    <category lang="pt">Shopping</category>
-    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.</desc>
+  <programme start="20260816063000 -0300" stop="20260816070000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260816070000 -0300" stop="20260816073000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
   </programme>
   <programme start="20260816073000 -0300" stop="20260816080000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Domingão do Carlão</title>
     <category lang="pt">Agriculture</category>
     <desc lang="pt">Acompanhe entrevistas com personagens importantes do setor agropecuário.</desc>
   </programme>
-  <programme start="20260816080000 -0300" stop="20260816093000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Show Raízes</title>
-    <category lang="pt">Music</category>
-    <desc lang="pt">Acompanhe o programa com música e entrevistas com profissionais liberais, empresários e autoridades.</desc>
+  <programme start="20260816080000 -0300" stop="20260816083000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
   </programme>
-  <programme start="20260816093000 -0300" stop="20260816100000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Terra Pecuária</title>
+  <programme start="20260816083000 -0300" stop="20260816090000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
     <category lang="pt">Agriculture</category>
-    <desc lang="pt">Fique por dentro do que há de melhor no agronegócio e aproveite para conhecer mais sobre a vida do agricultor e do criador que investem em grandes projetos de melhoramento genético.</desc>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
-  <programme start="20260816100000 -0300" stop="20260816140000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual MB Leilões</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Venda de animais para cria, recria e engorda.</desc>
+  <programme start="20260816090000 -0300" stop="20260816091500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
   </programme>
-  <programme start="20260816140000 -0300" stop="20260816200000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilão Virtual de Corte</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">Oferta de 1.500 animais de corte.</desc>
-  </programme>
-  <programme start="20260816200000 -0300" stop="20260817000000 -0300" channel="Canal do Boi.br">
+  <programme start="20260816091500 -0300" stop="20260816093000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Genética BR</title>
     <category lang="pt">Special</category>
     <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
   </programme>
-  <programme start="20260817000000 -0300" stop="20260817053000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Cine Canal</title>
-    <category lang="pt">Western</category>
-    <desc lang="pt">Acompanhe a sessão de filmes com o melhor do faroeste e do cinema de todos os tempos.</desc>
-  </programme>
-  <programme start="20260817053000 -0300" stop="20260817054500 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Genética BR</title>
-    <category lang="pt">Special</category>
-    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
-  </programme>
-  <programme start="20260817054500 -0300" stop="20260817064500 -0300" channel="Canal do Boi.br">
+  <programme start="20260816093000 -0300" stop="20260816094500 -0300" channel="Canal do Boi.br">
     <title lang="pt">Grandes Criatórios</title>
     <category lang="pt">Agriculture</category>
     <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260816094500 -0300" stop="20260816100000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260816100000 -0300" stop="20260816140000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">559° Leilão Virtual de Corte MB Leilões</title>
+    <category lang="pt">Special</category>
+  </programme>
+  <programme start="20260816140000 -0300" stop="20260816180000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Semana de Genética Katayama - 27º Leilão</title>
+  </programme>
+  <programme start="20260816180000 -0300" stop="20260816200000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Semana de Genética Katayama - 27º Leilão</title>
+  </programme>
+  <programme start="20260816200000 -0300" stop="20260816203000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260816203000 -0300" stop="20260816210000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260816210000 -0300" stop="20260816213000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260816213000 -0300" stop="20260816220000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260816220000 -0300" stop="20260816223000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Grandes Criatórios</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Veja reportagens e informações sobre criatórios de animais no Brasil.</desc>
+  </programme>
+  <programme start="20260816223000 -0300" stop="20260816230000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Genética BR</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O programa oferta material genético de destaque no cenário brasileiro.</desc>
+  </programme>
+  <programme start="20260816230000 -0300" stop="20260816233000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
+  </programme>
+  <programme start="20260816233000 -0300" stop="20260817000000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Leilões em Destaque</title>
+    <category lang="pt">Auction</category>
+    <desc lang="pt">Informações sobre os leilões com transmissão ao vivo do SBA, Canal do Boi e Agro Canal, onde os grandes negócios do Agro acontecem.</desc>
+  </programme>
+  <programme start="20260817000000 -0300" stop="20260817014200 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Inspetor Geral</title>
+    <category lang="pt">Musical comedy / 1949</category>
+    <desc lang="pt">Georgi trabalha em um show itinerante de charlatães, quando chega a uma pequena cidade. Devido a um mal-entendido, os cidadãos mais importantes acreditam que ele é um inspetor fiscal viajando sob identidade falsa, e por isso ele é bem recebido.</desc>
+  </programme>
+  <programme start="20260817014200 -0300" stop="20260817032700 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Exército de Cinco Homens</title>
+    <category lang="pt">Western / 1969</category>
+    <desc lang="pt">Na Revolução de 1914, bandido e sua gangue atacam o trem de carga cheio de ouro de general mexicano.</desc>
+  </programme>
+  <programme start="20260817032700 -0300" stop="20260817053000 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Goodbye America</title>
+    <desc lang="pt">Em 1992, a Marinha norte-americana fecha sua base em Subic Bay. Um trio de fuzileiros navais está envolvido com mulheres da ilha. Hawk, um idealista, o amável Bladon, que está apaixonado por uma prostituta, e o cada vez mais desequilibrado Stryzack.</desc>
+  </programme>
+  <programme start="20260817053000 -0300" stop="20260817054500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Agenda de Leilões</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Acompanhe a agenda de leilões transmitidos pelo canal.</desc>
+  </programme>
+  <programme start="20260817054500 -0300" stop="20260817064500 -0300" channel="Canal do Boi.br">
+    <title lang="pt">Terralmo Negócios Rurais</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Programa conecta investidores às melhores propriedades rurais do mercado, com curadoria, descrições detalhadas e negociações.</desc>
   </programme>
   <programme start="20260815033000 -0300" stop="20260815070000 -0300" channel="Rede Gospel HD.br">
     <title lang="pt">Renascer</title>
@@ -32058,27 +32215,81 @@
     <title lang="pt">WSL</title>
     <desc lang="pt">Melhores momentos das etapas do Circuito Mundial de Surfe, com os principais atletas da modalidade.</desc>
   </programme>
-  <programme start="20260816044000 -0300" stop="20260816111500 -0300" channel="SporTV 3.br">
+  <programme start="20260816044000 -0300" stop="20260816051500 -0300" channel="SporTV 3.br">
     <title lang="pt">Programação SporTV3</title>
     <desc lang="pt">Acompanhe a programação do canal.</desc>
   </programme>
-  <programme start="20260816111500 -0300" stop="20260816134500 -0300" channel="SporTV 3.br">
-    <title lang="pt">Campeonato Sul-Americano de Futsal Sub-17 2026</title>
+  <programme start="20260816051500 -0300" stop="20260816070000 -0300" channel="SporTV 3.br">
+    <title lang="pt">WSL</title>
+    <desc lang="pt">Melhores momentos das etapas do Circuito Mundial de Surfe, com os principais atletas da modalidade.</desc>
+  </programme>
+  <programme start="20260816070000 -0300" stop="20260816080000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Malmö, Suécia - Semifinal</title>
+    <category lang="pt">Grand Smash de Tênis de Mesa</category>
+    <desc lang="pt">Cobertura da maior competição de tênis de mesa da temporada, com prêmio de três milhões de dólares.</desc>
+  </programme>
+  <programme start="20260816080000 -0300" stop="20260816090000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Malmö, Suécia - Semifinal</title>
+    <category lang="pt">Grand Smash de Tênis de Mesa</category>
+    <desc lang="pt">Cobertura da maior competição de tênis de mesa da temporada, com prêmio de três milhões de dólares.</desc>
+  </programme>
+  <programme start="20260816090000 -0300" stop="20260816100000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Malmö, Suécia - Semifinal</title>
+    <category lang="pt">Grand Smash de Tênis de Mesa</category>
+    <desc lang="pt">Cobertura da maior competição de tênis de mesa da temporada, com prêmio de três milhões de dólares.</desc>
+  </programme>
+  <programme start="20260816100000 -0300" stop="20260816110000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Malmö, Suécia - Semifinal</title>
+    <category lang="pt">Grand Smash de Tênis de Mesa</category>
+    <desc lang="pt">Cobertura da maior competição de tênis de mesa da temporada, com prêmio de três milhões de dólares.</desc>
+  </programme>
+  <programme start="20260816110000 -0300" stop="20260816114000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Amazing Riders</title>
+    <category lang="pt">Action sports</category>
+    <desc lang="pt">O &quot;wing suiter&quot; Gabriel Lott salta de um helicóptero a mais de 1000 metros de altura e, em pleno voo, passa por baixo de Caio Afeto se equilibrando em uma fita de highline entre duas montanhas da serra de Mimoso do Sul, no Espírito Santo.</desc>
+  </programme>
+  <programme start="20260816114000 -0300" stop="20260816134500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Décima Primeira Etapa - Londres, Inglaterra</title>
+    <category lang="pt">Diamond League</category>
+    <desc lang="pt">Os principais nomes do atletismo mundial se reúnem em uma série anual de competições disputada em diversas etapas pelo planeta.</desc>
+  </programme>
+  <programme start="20260816134500 -0300" stop="20260816160000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Disputa de Terceiro Lugar</title>
     <category lang="pt">Campeonato Sul-Americano de Futsal Sub-17 2026</category>
     <desc lang="pt">Cobertura do maior torneio sub-17 das Américas da temporada. Do Complexo CONMEBOL SUMA, em Luque.</desc>
   </programme>
-  <programme start="20260816134500 -0300" stop="20260816170000 -0300" channel="SporTV 3.br">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260816160000 -0300" stop="20260816170000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Finais Clássicas</title>
+    <desc lang="pt">Relembre o primeiro ouro do futebol masculino do Brasil em Olimpíadas.</desc>
   </programme>
   <programme start="20260816170000 -0300" stop="20260816190000 -0300" channel="SporTV 3.br">
     <title lang="pt">Lima, Peru - Finais</title>
     <category lang="pt">Grand Prix de Judô</category>
     <desc lang="pt">Todas as emoções dos torneios que valem pontos para o ranking da Federação Internacional de Judô.</desc>
   </programme>
-  <programme start="20260816190000 -0300" stop="20260817000000 -0300" channel="SporTV 3.br">
-    <title lang="pt">Programação SporTV3</title>
-    <desc lang="pt">Acompanhe a programação do canal.</desc>
+  <programme start="20260816190000 -0300" stop="20260816213000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Lima, Peru - Finais</title>
+    <category lang="pt">Grand Prix de Judô</category>
+    <desc lang="pt">Todas as emoções dos torneios que valem pontos para o ranking da Federação Internacional de Judô.</desc>
+  </programme>
+  <programme start="20260816213000 -0300" stop="20260816221500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Ippon - Os Bastidores do Judô</title>
+    <category lang="pt">Martial arts</category>
+    <desc lang="pt">Os bastidores, personagens e desafios do judô brasileiro ao longo do ciclo olímpico rumo a Los Angeles 2028. Em uma jornada que vai além das competições, os principais nomes da modalidade no País encaram treinos intensos e desafios fora do tatame.</desc>
+  </programme>
+  <programme start="20260816221500 -0300" stop="20260816230000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Ippon - Os Bastidores do Judô</title>
+    <category lang="pt">Martial arts</category>
+    <desc lang="pt">Os bastidores, personagens e desafios do judô brasileiro ao longo do ciclo olímpico rumo a Los Angeles 2028. Em uma jornada que vai além das competições, os principais nomes da modalidade no País encaram treinos intensos e desafios fora do tatame.</desc>
+  </programme>
+  <programme start="20260816230000 -0300" stop="20260816234500 -0300" channel="SporTV 3.br">
+    <title lang="pt">Ippon - Os Bastidores do Judô</title>
+    <category lang="pt">Martial arts</category>
+    <desc lang="pt">Os bastidores, personagens e desafios do judô brasileiro ao longo do ciclo olímpico rumo a Los Angeles 2028. Em uma jornada que vai além das competições, os principais nomes da modalidade no País encaram treinos intensos e desafios fora do tatame.</desc>
+  </programme>
+  <programme start="20260816234500 -0300" stop="20260817000000 -0300" channel="SporTV 3.br">
+    <title lang="pt">Galeria SporTV</title>
+    <desc lang="pt">Grandes momentos do esporte brasileiro e mundial, com exibição da história de atletas de diversas modalidades e matérias jornalísticas sobre os principais assuntos envolvendo o mundo esportivo.</desc>
   </programme>
   <programme start="20260817000000 -0300" stop="20260817003500 -0300" channel="SporTV 3.br">
     <title lang="pt">Meu Nome É João Chianca</title>
@@ -35131,26 +35342,6 @@
   <programme start="20260815220000 -0300" stop="20260815230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260815160000 -0300" stop="20260815190000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Golfe: FedEx St. Jude Championship: Terceira Rodada - Ao Vivo</title>
-    <category lang="pt">Esporte/Golfe</category>
-  </programme>
-  <programme start="20260815190000 -0300" stop="20260815203000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - DTM: Etapa de Nürburgring: Corrida 1</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-  </programme>
-  <programme start="20260815203000 -0300" stop="20260815210000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Premier League Stories</title>
-    <category lang="pt">Documentário/Esportivo</category>
-  </programme>
-  <programme start="20260815210000 -0300" stop="20260815213000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Encontro Sem Fronteiras - Kaká</title>
-    <category lang="pt">Documentário/Esportivo</category>
-  </programme>
-  <programme start="20260815213000 -0300" stop="20260815223000 -0300" channel="ESPN 3.br">
-    <title lang="pt">ESPN KnockOut: Kaye Scott x Claressa Shields - Ao Vivo</title>
-    <category lang="pt">Esporte/Boxe</category>
-  </programme>
   <programme start="20260815223000 -0300" stop="20260816010000 -0300" channel="ESPN 3.br">
     <title lang="pt">ESPN KnockOut: Kaye Scott x Claressa Shields - Ao Vivo</title>
     <category lang="pt">Esporte/Boxe</category>
@@ -36183,18 +36374,6 @@
     <title lang="pt">MLB: Milwaukee Brewers x Los Angeles Dodgers - Ao Vivo</title>
     <category lang="pt">Esporte/Beisebol</category>
   </programme>
-  <programme start="20260815160000 -0300" stop="20260815170000 -0300" channel="Combate.br">
-    <title lang="pt">Brasil x Alemanha - Por Equipes</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260815170000 -0300" stop="20260815190000 -0300" channel="Combate.br">
-    <title lang="pt">Grand Prix De Judô - Finais - Lima, Peru</title>
-    <category lang="pt">Esporte/Judô</category>
-  </programme>
-  <programme start="20260815190000 -0300" stop="20260815210000 -0300" channel="Combate.br">
-    <title lang="pt">Finais - Lima,  Peru - Ao Vivo</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260815210000 -0300" stop="20260815230000 -0300" channel="Combate.br">
     <title lang="pt">Power Slap 22</title>
     <category lang="pt">Esporte/Luta</category>
@@ -36622,26 +36801,6 @@
   <programme start="20260829200000 -0300" stop="20260829210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260815163500 -0300" stop="20260815174000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20260815174000 -0300" stop="20260815184500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20260815184500 -0300" stop="20260815194500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20260815194500 -0300" stop="20260815205000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20260815205000 -0300" stop="20260815220000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Watchmen</title>
-    <category lang="pt">Séries/Ação</category>
   </programme>
   <programme start="20260815220000 -0300" stop="20260816001500 -0300" channel="HBO Plus HD.br">
     <title lang="pt">A Hora do Mal</title>
