@@ -301,6 +301,88 @@
     <category lang="pt">News</category>
     <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.</desc>
   </programme>
+  <programme start="20260816060000 -0300" stop="20260816080000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Os Chocolix</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplêndido Reino de Chocolândia. Dona Branca, Don Cacau e seus filhos Chocomark e Chocholyne vivem grandes aventuras e ensinam conceitos de amizade e a importância da família.</desc>
+  </programme>
+  <programme start="20260816080000 -0300" stop="20260816103000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">O Diário de Mika</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Mika, uma menina de quatro anos muito curiosa, aprende a lidar com tudo que o mundo tem para oferecer. Junto de seus brinquedos, Puquê, Blablá, Bru, Javô, Abelhuda e Lilá, ela aprende sobre o mundo, vivendo incríveis aventuras e novas experiências.</desc>
+  </programme>
+  <programme start="20260816103000 -0300" stop="20260816110000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">A Virada de Chave</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">O programa visa realizar o sonho de acessibilidade, mobilidade e conforto para seus telespectadores.</desc>
+  </programme>
+  <programme start="20260816110000 -0300" stop="20260816120000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Viva Sorte</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Concorra a uma casa própria e prêmios em dinheiro com o título de capitalização Viva Sorte.</desc>
+  </programme>
+  <programme start="20260816120000 -0300" stop="20260816130000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O programa traz o gol mais bonito, aquele lance polêmico da rodada, resultados e melhores momentos dos principais jogos. Isso tudo com hilários esquetes de humor, games divertidos e muitos convidados: atletas, famosos, cantores e técnicos.</desc>
+  </programme>
+  <programme start="20260816130000 -0300" stop="20260816153000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">GP de Markham</title>
+    <category lang="pt">Fórmula Indy</category>
+    <desc lang="pt">Toda a disputa da IndyCar, ou Fórmula Indy, uma das principais competições de automobilismo do mundo. Com os famosos circuitos ovais e também corridas de rua, as etapas do calendário são disputadas em diversas cidades pelos Estados Unidos.</desc>
+  </programme>
+  <programme start="20260816153000 -0300" stop="20260816160000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O programa traz o gol mais bonito, aquele lance polêmico da rodada, resultados e melhores momentos dos principais jogos. Isso tudo com hilários esquetes de humor, games divertidos e muitos convidados: atletas, famosos, cantores e técnicos.</desc>
+  </programme>
+  <programme start="20260816160000 -0300" stop="20260816173000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Kung Fusão</title>
+    <category lang="pt">Action / 2004</category>
+    <desc lang="pt">Ao tentarem enganar os residentes de Pig Sty Alley, fingindo ser de uma gangue, o estranho Sing e seu amigo idiota Bones são surpreendidos pelos verdadeiros bandidos. Ameaçados, são defendidos por um grande mestre em artes marciais.</desc>
+  </programme>
+  <programme start="20260816173000 -0300" stop="20260816200000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Planeta Selvagem</title>
+    <category lang="pt">Nature</category>
+    <desc lang="pt">Série de documentários apresenta as paisagens mais perigosas e selvagens do nosso planeta.</desc>
+  </programme>
+  <programme start="20260816200000 -0300" stop="20260816220000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Perrengue na Band</title>
+    <category lang="pt">Entertainment</category>
+    <desc lang="pt">Os mais divertidos quadros e reportagens por um grupo de amigos engraçados e debochados.</desc>
+  </programme>
+  <programme start="20260816220000 -0300" stop="20260816230000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Som dos Oceanos</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Eri Johnson entrevista artistas e mostra os bastidores de diferentes cruzeiros ao redor do Brasil.</desc>
+  </programme>
+  <programme start="20260816230000 -0300" stop="20260817000000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Canal Livre</title>
+    <category lang="pt">Interview</category>
+    <desc lang="pt">Entrevistas com personalidades nacionais e internacionais, chefes de estado, lideranças da política e expoentes das áreas econômica, empresarial, cultural, esportiva e científica.</desc>
+  </programme>
+  <programme start="20260817000000 -0300" stop="20260817003000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Encontra Arte 1</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Gisele Kato, encontra artistas de diferentes áreas em seus espaços de criação. Por meio de uma conversa intimista sobre rotina de trabalho, o programa propõe um retrato inédito de cada um deles.</desc>
+  </programme>
+  <programme start="20260817003000 -0300" stop="20260817010000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Economia pra Você</title>
+    <category lang="pt">Bus./financial</category>
+    <desc lang="pt">Saiba tudo, e de forma simples, sobre os principais assuntos que mexem com a economia brasileira.</desc>
+  </programme>
+  <programme start="20260817010000 -0300" stop="20260817013000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">+ Info</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Reportagens especiais sobre assuntos variados do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260817013000 -0300" stop="20260817020000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Fórmula E</title>
+    <desc lang="pt">Reprises e destaques da competição de automobilismo envolvendo veículos elétricos.</desc>
+  </programme>
+  <programme start="20260817020000 -0300" stop="20260817040000 -0300" channel="Band São Paulo.br">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus.</desc>
+  </programme>
   <programme start="20260817040000 -0300" stop="20260817080000 -0300" channel="Band São Paulo.br">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
     <category lang="pt">Religious</category>
@@ -602,7 +684,7 @@
   <programme start="20260816093000 -0300" stop="20260816101000 -0300" channel="SBT.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">A turma da vila trabalha para fazer uma grande pichorra para as festas natalinas. Mas com Chaves e Quico atrapalhando, as coisas não dão muito certo.</desc>
+    <desc lang="pt">Peterete tem uma ideia para não pagar a conta do restaurante; na vila, é Natal e toda a vizinhança se reúne para comemorar a data na casa de Dona Florinda.</desc>
   </programme>
   <programme start="20260816101000 -0300" stop="20260816110000 -0300" channel="SBT.br">
     <title lang="pt">Notícias Impressionantes</title>
@@ -876,6 +958,339 @@
     <title lang="pt">Balaio</title>
     <category lang="pt">Music</category>
     <desc lang="pt">Pai e filho são os anfitriões desse verdadeiro balaio de sonoridades, ritmos e parcerias repleto de encontros. Cada papo, conversa, entrevista, tem a finalidade de levar para uma viagem musical pela diversidade dos ritmos e estilos.</desc>
+  </programme>
+  <programme start="20260817060000 -0300" stop="20260817063000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Energia</title>
+    <category lang="pt">Exercise</category>
+    <desc lang="pt">Atualmente, a vida corrida e agitada, fruto do excesso de trabalho, tem feito com que a maioria das pessoas subestime sua qualidade de vida. Acompanhe aulas com meia hora de duração cada e dicas de como cuidar melhor do corpo.</desc>
+  </programme>
+  <programme start="20260817063000 -0300" stop="20260817070000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Agrocultura</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">Uma viagem por todo o Brasil, conhecendo o universo do homem do campo por meio de suas tradições locais e trabalho nas áreas relacionadas à agricultura, pecuária e ao agronegócio.</desc>
+  </programme>
+  <programme start="20260817070000 -0300" stop="20260817071500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Peppa Pig</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Na escolinha, Madame Gazela ensina jogos divertidos com papel a Peppa e seus amigos. Com uma folha, ela transforma um chapéu em um barco.</desc>
+  </programme>
+  <programme start="20260817071500 -0300" stop="20260817072000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Léo - O Caminhão</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a empilhadeira e Scoop a escavadeira, constroem juntos novos modelos.</desc>
+  </programme>
+  <programme start="20260817072000 -0300" stop="20260817073000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Planeta Palavra</title>
+    <category lang="pt">Temporada 1 Episódio 17 - Oficina de Reciclagem</category>
+    <desc lang="pt">Jacaré tem a ideia de fazer uma oficina de reciclagem com a turma e misturar letras de palavras já conhecidas para criar novas palavras. Onça se anima com a ideia e vai com ele em busca de materiais usados.</desc>
+  </programme>
+  <programme start="20260817073000 -0300" stop="20260817074000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Bino e Fino</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Os irmãos Bino e Fino vivem na África com sua família. Com a ajuda de sua amiga Zeena, a borboleta mágica, os dois aprendem sobre a cultura e beleza do lugar.</desc>
+  </programme>
+  <programme start="20260817074000 -0300" stop="20260817074500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Parquinho Jurássico</title>
+    <category lang="pt">Temporada 1 Episódio 15 - Pescoçudo</category>
+    <desc lang="pt">É noite quente no Parque do Ibirapuera, clima perfeito para uma apresentação. Enzo demonstra para as crianças que parte dos dinossauros evolui para as aves e que seu grande pescoço ajuda a alcançar as folhas mais altas das árvores.</desc>
+  </programme>
+  <programme start="20260817074500 -0300" stop="20260817080000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Palaloos</title>
+    <category lang="pt">Educational</category>
+    <desc lang="pt">Kazu, Pico e Bao Bao encontram Epa e Opa, que estão tristes porque seus bolinhos ficaram horríveis, pois eles perderam a receita. Juntos, os Palaloos partem em uma missão divertida para encontrar a página perdida no armário de receitas.</desc>
+  </programme>
+  <programme start="20260817080000 -0300" stop="20260817081500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Cocoricó na Cidade</title>
+    <category lang="pt">Temporada 2 Episódio 14 - Cafubira</category>
+    <desc lang="pt">Na fazenda, a turma do paiol está com uma coceira esquisita e decidem chamar o veterinário. Por medo de tomar injeção, Caco esconde de todos que também está com a doença. Ao ver que tudo se resolve com um simples spray, Caco revela a mentira.</desc>
+  </programme>
+  <programme start="20260817081500 -0300" stop="20260817083000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Cocoricó</title>
+    <category lang="pt">Temporada 4 Episódio 14 - Medo Aqui, Medo Lá, e uma Mosca pra te Contar</category>
+    <desc lang="pt">Sem que as avós saibam, João e Júlio saem de casa para observar os hábitos noturnos dos sapos na lagoa. Martelo fica feliz com a chance de fazer novos amigos, mas o Pato Torquato o amedronta, dizendo que João quer fazer experiências científicas.</desc>
+  </programme>
+  <programme start="20260817083000 -0300" stop="20260817084000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Mundo Bita - Imagine-se</title>
+    <category lang="pt">Temporada 1 Episódio 7 - Tem Hora pra Tudo</category>
+    <desc lang="pt">No Mundo Bita, Pipa pega o álbum de figurinhas de Pepe; no planeta Terra, Tina, Lila e Tito acionam os bigodes mágicos para tirar Dan do videogame; no Mundo da Imaginação, Dan precisa passar por um circuito tecnológico.</desc>
+  </programme>
+  <programme start="20260817084000 -0300" stop="20260817084500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Paramigos Imparáveis</title>
+    <category lang="pt">Temporada 1 Episódio 5 - Missão Marinha</category>
+    <desc lang="pt">Os Paramigos Imparáveis precisam ir a Sydney para impedir que Zé Madeira capture as tartarugas antes que possam botar seus ovos. Desta vez, Nina e Narciso são os escolhidos.</desc>
+  </programme>
+  <programme start="20260817084500 -0300" stop="20260817090000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Bing</title>
+    <category lang="pt">Temporada 1 Episódio 5 - Patos</category>
+    <desc lang="pt">Bing e Sula vão ao parque alimentar os patos. Sula é ótima em ficar parada como estátua e dar aos patos só um tiquinho de comida. Já o Bing decide jogar toda a sua comida na água e chama a atenção de um ganso guloso que está a fim de comer tudo.</desc>
+  </programme>
+  <programme start="20260817090000 -0300" stop="20260817091000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Milo</title>
+    <category lang="pt">Temporada 1 Episódio 11 - Milo, o Mecânico</category>
+    <desc lang="pt">O trabalho do mecânico Dave parece muito divertido. Milo, Lofty e Lark se juntam a ele em sua garagem e mal podem esperar para consertarem as coisas.</desc>
+  </programme>
+  <programme start="20260817091000 -0300" stop="20260817092500 -0300" channel="TV Cultura.br">
+    <title lang="pt">PJ Masks - Heróis de Pijama</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Connor, Amaya e Greg são vizinhos e grandes amigos. Durante o dia, eles vão à escola e brincam juntos. À noite, eles se transformam em Menino Gato, Corujita e Lagartixo, os super-heróis PJ Masks.</desc>
+  </programme>
+  <programme start="20260817092500 -0300" stop="20260817094000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Bluey</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Bluey e Bingo decidem fazer pizzas de lama e entregar para os adultos, mas a roda do carrinho cai o tempo todo; com apenas cinco minutos para brincarem, Bluey e Mamãe correm contra o relógio para comprar leite para um hóspede rabugento.</desc>
+  </programme>
+  <programme start="20260817094000 -0300" stop="20260817095500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Ninhos em Movimento</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Série documental sobre crianças migrantes e refugiadas que vivem no Brasil.</desc>
+  </programme>
+  <programme start="20260817095500 -0300" stop="20260817100500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Os Óculos Mágicos de Charlotte</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Charlotte na Festa Junina</category>
+    <desc lang="pt">A pequena Charlotte, uma menina de sete anos, ganha óculos mágicos de presente da fada do dente que permite que ela veja o mundo como ele deveria ser.</desc>
+  </programme>
+  <programme start="20260817100500 -0300" stop="20260817101500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Histórias Atrás da Porta</title>
+    <category lang="pt">Adventure</category>
+    <desc lang="pt">Anita se muda para a casa da avó e descobre que sua família tem o poder de viajar no tempo. Agora, com seus dois melhores amigos, ela precisa reescrever a história e resgatar sua ancestralidade para salvar sua família e o mundo inteiro.</desc>
+  </programme>
+  <programme start="20260817101500 -0300" stop="20260817103000 -0300" channel="TV Cultura.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 7 Episódio 4 - De Outro Mundo</category>
+    <desc lang="pt">Luna, Júpiter e Cláudio brincam de ser alienígenas e começam a se perguntar se há vida extraterrestre. Em sua investigação científica, eles descobrem a importância da água para a vida.</desc>
+  </programme>
+  <programme start="20260817103000 -0300" stop="20260817104000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Turbossauros</title>
+    <category lang="pt">Temporada 1 Episódio 12 - Bebê Fugitivo!</category>
+    <desc lang="pt">Jo se oferece para cuidar de Florian, enquanto Peter e Katie vão assistir ao último episódio de seu desenho animado favorito; Jo brinca com Florian, mas, de repente, o bebê desaparece; as crianças precisam encontrar Florian antes que a vovó volte.</desc>
+  </programme>
+  <programme start="20260817104000 -0300" stop="20260817104500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Godofredo</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Godofredo é um ogro verde e desajeitado, que mora em uma floresta repleta de árvores, frutos e flores exuberantes. Ingênuo e muito curioso, ele vive xeretando tudo o que está em sua volta.</desc>
+  </programme>
+  <programme start="20260817104500 -0300" stop="20260817110000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Iuri &amp; Udi</title>
+    <category lang="pt">Temporada 1 Episódio 12 - Um Submarino Fora D'Água!</category>
+    <desc lang="pt">Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inventos, se transformando em grandes e poderosas máquinas.</desc>
+  </programme>
+  <programme start="20260817110000 -0300" stop="20260817111000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Mistérios Animais</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Rinocerontes em Fúria; Confusão</category>
+    <desc lang="pt">Há um grande mistério no Clube Bolsões d'Água: os rinocerontes, sempre gentis, enlouqueceram; o Esquadrongo desaparece no Ártico.</desc>
+  </programme>
+  <programme start="20260817111000 -0300" stop="20260817111500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Morgana &amp; Celeste</title>
+    <category lang="pt">Temporada 1 Episódio 17 - A Espada na Pedra do Rei Arthur</category>
+    <desc lang="pt">Morgana procura por sua vassoura atrás de uma estante, mas acaba encontrando uma misteriosa espada.</desc>
+  </programme>
+  <programme start="20260817111500 -0300" stop="20260817113500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Weme e a Natureza</title>
+    <category lang="pt">Temporada 1 Episódio 5 - Neve</category>
+    <desc lang="pt">A neve em diferentes partes do mundo. Munkhtemyylen, da Mongólia, ouve a neve com atenção. Levi, da Suécia, faz um boneco de neve. Stella e sua irmã, da Alemanha, pintam a neve. E Regina, do Quirguistão, descobre os detalhes da neve.</desc>
+  </programme>
+  <programme start="20260817113500 -0300" stop="20260817114500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Turma da Mônica</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Arte na Praça</category>
+    <desc lang="pt">Marina quer expor sua arte na praça para que todos possam ver, e Mônica vai ajudá-la para nada dar errado. Mas o que elas não esperavam era encontrar a concorrência acirrada do seu pequeno amigo que só busca a fama, Cebolinha.</desc>
+  </programme>
+  <programme start="20260817114500 -0300" stop="20260817120000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Quintal da Cultura</title>
+    <category lang="pt">Temporada 8 Episódio 39 - Quatro Continentes (Animalia Park)</category>
+    <desc lang="pt">Os irmãos Ludovico e Doroteia, o amigo Osório e sua tia Ofélia brincam e se divertem aprendendo coisas novas ao lado de um jabuti chamado Quelônio e da minhoca Minhoquias.</desc>
+  </programme>
+  <programme start="20260817120000 -0300" stop="20260817124500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As primeiras notícias do dia de forma objetiva e imparcial. No Jornal da Tarde você acompanha tudo sobre as discussões e votações nas Comissões da Casa. Fique por dentro da agenda da tarde e dos assuntos que serão destaque no Plenário.</desc>
+  </programme>
+  <programme start="20260817124500 -0300" stop="20260817130000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Cocoricó na Cidade</title>
+    <category lang="pt">Temporada 2 Episódio 14 - Cafubira</category>
+    <desc lang="pt">Na fazenda, a turma do paiol está com uma coceira esquisita e decidem chamar o veterinário. Por medo de tomar injeção, Caco esconde de todos que também está com a doença. Ao ver que tudo se resolve com um simples spray, Caco revela a mentira.</desc>
+  </programme>
+  <programme start="20260817130000 -0300" stop="20260817131500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Cocoricó</title>
+    <category lang="pt">Temporada 4 Episódio 14 - Medo Aqui, Medo Lá, e uma Mosca pra te Contar</category>
+    <desc lang="pt">Sem que as avós saibam, João e Júlio saem de casa para observar os hábitos noturnos dos sapos na lagoa. Martelo fica feliz com a chance de fazer novos amigos, mas o Pato Torquato o amedronta, dizendo que João quer fazer experiências científicas.</desc>
+  </programme>
+  <programme start="20260817131500 -0300" stop="20260817132500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Palaloos</title>
+    <category lang="pt">Educational</category>
+    <desc lang="pt">Kazu, Pico e Bao Bao encontram Epa e Opa, que estão tristes porque seus bolinhos ficaram horríveis, pois eles perderam a receita. Juntos, os Palaloos partem em uma missão divertida para encontrar a página perdida no armário de receitas.</desc>
+  </programme>
+  <programme start="20260817132500 -0300" stop="20260817133000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Léo - O Caminhão</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Léo é um caminhão inteligente e cheio de dúvidas porque quer aprender coisas novas. Ele e os seus melhores amigos, Lifty a empilhadeira e Scoop a escavadeira, constroem juntos novos modelos.</desc>
+  </programme>
+  <programme start="20260817133000 -0300" stop="20260817134000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Planeta Palavra</title>
+    <category lang="pt">Temporada 1 Episódio 17 - Oficina de Reciclagem</category>
+    <desc lang="pt">Jacaré tem a ideia de fazer uma oficina de reciclagem com a turma e misturar letras de palavras já conhecidas para criar novas palavras. Onça se anima com a ideia e vai com ele em busca de materiais usados.</desc>
+  </programme>
+  <programme start="20260817134000 -0300" stop="20260817135000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Bino e Fino</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Os irmãos Bino e Fino vivem na África com sua família. Com a ajuda de sua amiga Zeena, a borboleta mágica, os dois aprendem sobre a cultura e beleza do lugar.</desc>
+  </programme>
+  <programme start="20260817135000 -0300" stop="20260817140000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Milo</title>
+    <category lang="pt">Temporada 1 Episódio 11 - Milo, o Mecânico</category>
+    <desc lang="pt">O trabalho do mecânico Dave parece muito divertido. Milo, Lofty e Lark se juntam a ele em sua garagem e mal podem esperar para consertarem as coisas.</desc>
+  </programme>
+  <programme start="20260817140000 -0300" stop="20260817141500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Meu AmigãoZão</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Matt aprende a tocar com os outros em vez de tentar se destacar sozinho durante uma aula de música.</desc>
+  </programme>
+  <programme start="20260817141500 -0300" stop="20260817142000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <category lang="pt">Temporada 1 Episódio 8 - A Arrepiante História da Menina que Tinha Medo de Animais</category>
+    <desc lang="pt">Uma garota tem tanto medo de animais que está sempre pronta para escalar árvores a fim de escapar.</desc>
+  </programme>
+  <programme start="20260817142000 -0300" stop="20260817143000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Contos Assustadores da Masha</title>
+    <category lang="pt">Temporada 1 Episódio 10 - Um Mito Cheio de Angústia e Desespero sobre um Erro Histórico</category>
+    <desc lang="pt">Conheça a história de Arkasha, que temia aulas de história na escola.</desc>
+  </programme>
+  <programme start="20260817143000 -0300" stop="20260817144500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Ninhos em Movimento</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Série documental sobre crianças migrantes e refugiadas que vivem no Brasil.</desc>
+  </programme>
+  <programme start="20260817144500 -0300" stop="20260817150000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Sol em Dó Ré Mi</title>
+    <category lang="pt">Temporada 1 Episódio 5 - O Canto da Baleia; Medo</category>
+    <desc lang="pt">Sol enfrenta seu maior desafio quando começa a sentir medo do escuro e dos misteriosos ruídos que ouve à noite. Com a ajuda de seus amigos e a doce melodia de uma baleia amiga, Sol embarca em uma aventura submarina onde descobre que os sons assustadores podem, na verdade, ser algo belo e tranquilizador. Ao enfrentar seus medos, Sol aprende que, às vezes, o que parece assustador no início pode se transformar em uma canção encantadora. Uma história inspiradora sobre coragem e como superar o medo.</desc>
+  </programme>
+  <programme start="20260817150000 -0300" stop="20260817151500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Gildo</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">As aventuras diárias do curioso e corajoso menino elefante Gildo.</desc>
+  </programme>
+  <programme start="20260817151500 -0300" stop="20260817153000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Bluey</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Bluey e Bingo decidem fazer pizzas de lama e entregar para os adultos, mas a roda do carrinho cai o tempo todo; com apenas cinco minutos para brincarem, Bluey e Mamãe correm contra o relógio para comprar leite para um hóspede rabugento.</desc>
+  </programme>
+  <programme start="20260817153000 -0300" stop="20260817154500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Iuri &amp; Udi</title>
+    <category lang="pt">Temporada 1 Episódio 12 - Um Submarino Fora D'Água!</category>
+    <desc lang="pt">Iuri é um garoto hiperativo que vive consertando ou inventando aparelhos. O seu jabuti, Udi, tem o poder de se fundir a esses inventos, se transformando em grandes e poderosas máquinas.</desc>
+  </programme>
+  <programme start="20260817154500 -0300" stop="20260817160000 -0300" channel="TV Cultura.br">
+    <title lang="pt">O Show da Luna!</title>
+    <category lang="pt">Temporada 7 Episódio 4 - De Outro Mundo</category>
+    <desc lang="pt">Luna, Júpiter e Cláudio brincam de ser alienígenas e começam a se perguntar se há vida extraterrestre. Em sua investigação científica, eles descobrem a importância da água para a vida.</desc>
+  </programme>
+  <programme start="20260817160000 -0300" stop="20260817162000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Weme e a Natureza</title>
+    <category lang="pt">Temporada 1 Episódio 5 - Neve</category>
+    <desc lang="pt">A neve em diferentes partes do mundo. Munkhtemyylen, da Mongólia, ouve a neve com atenção. Levi, da Suécia, faz um boneco de neve. Stella e sua irmã, da Alemanha, pintam a neve. E Regina, do Quirguistão, descobre os detalhes da neve.</desc>
+  </programme>
+  <programme start="20260817162000 -0300" stop="20260817163000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Turma da Mônica</title>
+    <category lang="pt">Temporada 1 Episódio 2 - Arte na Praça</category>
+    <desc lang="pt">Marina quer expor sua arte na praça para que todos possam ver, e Mônica vai ajudá-la para nada dar errado. Mas o que elas não esperavam era encontrar a concorrência acirrada do seu pequeno amigo que só busca a fama, Cebolinha.</desc>
+  </programme>
+  <programme start="20260817163000 -0300" stop="20260817164500 -0300" channel="TV Cultura.br">
+    <title lang="pt">Quintal da Cultura</title>
+    <category lang="pt">Temporada 8 Episódio 39 - Quatro Continentes (Animalia Park)</category>
+    <desc lang="pt">Os irmãos Ludovico e Doroteia, o amigo Osório e sua tia Ofélia brincam e se divertem aprendendo coisas novas ao lado de um jabuti chamado Quelônio e da minhoca Minhoquias.</desc>
+  </programme>
+  <programme start="20260817164500 -0300" stop="20260817171500 -0300" channel="TV Cultura.br">
+    <title lang="pt">O Cerrado e Outros Bichos</title>
+    <category lang="pt">Temporada 2 Episódio 2</category>
+    <desc lang="pt">Enquanto o grupo conversa com o Curupira na horta, ele é sequestrado por uma mão gigante e eles encontram um hippie que conhece Nonda; em Dubai, Mall Corp celebra a prisão do Curupira.</desc>
+  </programme>
+  <programme start="20260817171500 -0300" stop="20260817173000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Irmão do Jorel</title>
+    <category lang="pt">Temporada 3 Episódio 15 - A Vida É Muito Curta pra Gostar de Futebol</category>
+    <desc lang="pt">Irmão do Jorel aprende a jogar futebol enquanto dança.</desc>
+  </programme>
+  <programme start="20260817173000 -0300" stop="20260817180000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Mundo da Lua</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Lucas Silva e Silva faz dez anos e ganha um gravador de seu avô, Orlando. Em meio aos problemas da passagem da infância para a adolescência, ele registra no aparelho histórias cheias de imaginação de como ele gostaria que as coisas acontecessem.</desc>
+  </programme>
+  <programme start="20260817180000 -0300" stop="20260817183000 -0300" channel="TV Cultura.br">
+    <title lang="pt">O Mundo de Beakman</title>
+    <category lang="pt">Temporada 4 Episódio 25 - Camelos, Beakmania e Densidade</category>
+    <desc lang="pt">Beakman e sua equipe falam sobre camelos e dromedários, a densidade dos gases e o Mar Morto.</desc>
+  </programme>
+  <programme start="20260817183000 -0300" stop="20260817184000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Temporada 4 Episódio 4 - O Gênio</category>
+    <desc lang="pt">Shaun sonha com outra vida. Ele pisa em cima de algo que poderia tornar seu sonho em realidade e não acredita no que vê. O único obstáculo que está em seu caminho é o resto do rebanho.</desc>
+  </programme>
+  <programme start="20260817184000 -0300" stop="20260817185000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Temporada 4 Episódio 5 - A Nova TV</category>
+    <desc lang="pt">O fazendeiro está muito animado com sua nova aquisição. Ele pede para Bitzer configurar sua nova TV enquanto se prepara para assistir tudo em 3D. Para sua surpresa, 3D é mais real do que ele jamais poderia ter imaginado.</desc>
+  </programme>
+  <programme start="20260817185000 -0300" stop="20260817190000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <category lang="pt">Temporada 4 Episódio 6 - O Fazendeiro Fedorento</category>
+    <desc lang="pt">A higiene pessoal do fazendeiro deixa muito a desejar. Shaun, Bitzer e Flock decidem que precisam fazer alguma coisa. Eles bolam um plano para dar um banho completo no fazendeiro.</desc>
+  </programme>
+  <programme start="20260817190000 -0300" stop="20260817200000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Antimatéria - Energia Geek</title>
+    <category lang="pt">Temporada 1 Episódio 283</category>
+    <desc lang="pt">Cultura pop, animes, games, filmes e séries tokusatsu.</desc>
+  </programme>
+  <programme start="20260817200000 -0300" stop="20260817210000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Cartão Verde</title>
+    <desc lang="pt">Valdir Lemos e os comentaristas Vitor Birner, Celso Unzelte e Roberto Rivellino se unem a convidados para um bate-papo semanal sobre o futebol nacional. Acompanhe essas análises sempre inteligentes e bem-humoradas.</desc>
+  </programme>
+  <programme start="20260817210000 -0300" stop="20260817220000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Jornal da Cultura</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  </programme>
+  <programme start="20260817220000 -0300" stop="20260817233000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Roda Viva</title>
+    <category lang="pt">Interview</category>
+    <desc lang="pt">A cada programa, uma personalidade notória é posicionada no centro de uma roda, um espaço plural para a apresentação de ideias, conceitos e análises sobre temas de interesse da população. Ela então responde a perguntas dos entrevistadores convidados.</desc>
+  </programme>
+  <programme start="20260817233000 -0300" stop="20260818000000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Metrópolis</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Metrópolis recorre el particular universo de la artista performer conocida como Miss Beige. En un mundo saturado de ruido, filtros y &quot;likes&quot;, Ana Esmith decidió vestirse de beige, enfundarse unos guantes y salir a la calle con un bolso y un martillo.</desc>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818010000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Persona</title>
+    <category lang="pt">Interview</category>
+    <desc lang="pt">Os aspectos da vida pessoal e da carreira de personalidades do teatro, bem como as suas impressões sobre o ofício. As entrevistas são conduzidas por pessoas ligadas ao artista e ainda uma plateia formada por estudantes e jovens atores.</desc>
+  </programme>
+  <programme start="20260818010000 -0300" stop="20260818013000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Metrópolis</title>
+    <category lang="pt">Art</category>
+    <desc lang="pt">Metrópolis recorre el particular universo de la artista performer conocida como Miss Beige. En un mundo saturado de ruido, filtros y &quot;likes&quot;, Ana Esmith decidió vestirse de beige, enfundarse unos guantes y salir a la calle con un bolso y un martillo.</desc>
+  </programme>
+  <programme start="20260818013000 -0300" stop="20260818020000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Futurando</title>
+    <category lang="pt">Educational</category>
+    <desc lang="pt">Conheça projetos inovadores desenvolvidos ao redor do mundo e as pessoas que estão por trás dessas iniciativas. Os temas são variados: pesquisas espaciais, inovações da medicina e esforços para criar metrópoles sustentáveis.</desc>
+  </programme>
+  <programme start="20260818020000 -0300" stop="20260818030000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Jornal da Cultura</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  </programme>
+  <programme start="20260818030000 -0300" stop="20260818040000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Cartão Verde</title>
+    <desc lang="pt">Valdir Lemos e os comentaristas Vitor Birner, Celso Unzelte e Roberto Rivellino se unem a convidados para um bate-papo semanal sobre o futebol nacional. Acompanhe essas análises sempre inteligentes e bem-humoradas.</desc>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818050000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Inglês com Música</title>
+    <category lang="pt">Educational</category>
+    <desc lang="pt">Programa incentiva o aprendizado da língua inglesa de uma forma descontraída, por meio de letras de músicas e jogos entre equipes formadas por estudantes.</desc>
+  </programme>
+  <programme start="20260818050000 -0300" stop="20260818060000 -0300" channel="TV Cultura.br">
+    <title lang="pt">Jornal da Cultura</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
   </programme>
   <programme start="20260816060000 -0300" stop="20260816070000 -0300" channel="Record TV.br">
     <title lang="pt">Programa do Templo</title>
@@ -2282,12 +2697,12 @@
   <programme start="20260816115100 -0300" stop="20260816121900 -0300" channel="OFF HD.br">
     <title lang="pt">Crowd Selvagem</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Com o intuito de ajudar novos surfistas a conviverem em harmonia dentro do mar, a jornalista Érica Prado com outros nomes do surfe explicam as principais regras do surfe.</desc>
+    <desc lang="pt">Surfar pipeline é o sonho de qualquer surfista. A onda é conhecida por ser uma das mais perigosas e disputada do mundo. São centenas de surfistas que se aglomeram em um pequeno trecho de mar em busca da onda dos sonhos.</desc>
   </programme>
   <programme start="20260816121900 -0300" stop="20260816124600 -0300" channel="OFF HD.br">
     <title lang="pt">Crowd Selvagem</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Com o intuito de ajudar novos surfistas a conviverem em harmonia dentro do mar, a jornalista Érica Prado com outros nomes do surfe explicam as principais regras do surfe.</desc>
+    <desc lang="pt">Surfar pipeline é o sonho de qualquer surfista. A onda é conhecida por ser uma das mais perigosas e disputada do mundo. São centenas de surfistas que se aglomeram em um pequeno trecho de mar em busca da onda dos sonhos.</desc>
   </programme>
   <programme start="20260816124600 -0300" stop="20260816131300 -0300" channel="OFF HD.br">
     <title lang="pt">Nalu e Zay pelo Mundo</title>
@@ -2382,12 +2797,12 @@
   <programme start="20260816204100 -0300" stop="20260816210900 -0300" channel="OFF HD.br">
     <title lang="pt">Crowd Selvagem</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Com o intuito de ajudar novos surfistas a conviverem em harmonia dentro do mar, a jornalista Érica Prado com outros nomes do surfe explicam as principais regras do surfe.</desc>
+    <desc lang="pt">Surfar pipeline é o sonho de qualquer surfista. A onda é conhecida por ser uma das mais perigosas e disputada do mundo. São centenas de surfistas que se aglomeram em um pequeno trecho de mar em busca da onda dos sonhos.</desc>
   </programme>
   <programme start="20260816210900 -0300" stop="20260816213700 -0300" channel="OFF HD.br">
     <title lang="pt">Crowd Selvagem</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Com o intuito de ajudar novos surfistas a conviverem em harmonia dentro do mar, a jornalista Érica Prado com outros nomes do surfe explicam as principais regras do surfe.</desc>
+    <desc lang="pt">Surfar pipeline é o sonho de qualquer surfista. A onda é conhecida por ser uma das mais perigosas e disputada do mundo. São centenas de surfistas que se aglomeram em um pequeno trecho de mar em busca da onda dos sonhos.</desc>
   </programme>
   <programme start="20260816213700 -0300" stop="20260816220500 -0300" channel="OFF HD.br">
     <title lang="pt">Mar e Música</title>
@@ -2447,7 +2862,7 @@
   <programme start="20260817024400 -0300" stop="20260817031100 -0300" channel="OFF HD.br">
     <title lang="pt">Crowd Selvagem</title>
     <category lang="pt">Adventure</category>
-    <desc lang="pt">Com o intuito de ajudar novos surfistas a conviverem em harmonia dentro do mar, a jornalista Érica Prado com outros nomes do surfe explicam as principais regras do surfe.</desc>
+    <desc lang="pt">Surfar pipeline é o sonho de qualquer surfista. A onda é conhecida por ser uma das mais perigosas e disputada do mundo. São centenas de surfistas que se aglomeram em um pequeno trecho de mar em busca da onda dos sonhos.</desc>
   </programme>
   <programme start="20260817031100 -0300" stop="20260817033800 -0300" channel="OFF HD.br">
     <title lang="pt">Os Donos do Havaí</title>
@@ -2978,6 +3393,106 @@
     <title lang="pt">Athletico-PR x Bragantino</title>
     <category lang="pt">Campeonato Brasileiro</category>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260816060000 -0300" stop="20260816062000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 6 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">As principais notícias, agenda política, previsão do tempo e informações para ficar bem-informado.</desc>
+  </programme>
+  <programme start="20260816062000 -0300" stop="20260816070000 -0300" channel="Globo News.br">
+    <title lang="pt">Globo Repórter</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260816070000 -0300" stop="20260816080000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 7 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe os principais fatos que acontecem no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20260816080000 -0300" stop="20260816100000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 8 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe os principais fatos que acontecem no Brasil e no mundo.</desc>
+  </programme>
+  <programme start="20260816100000 -0300" stop="20260816110000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 10 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Fique por dentro das notícias da manhã, assista a debates interativos, confira a previsão do tempo e tire proveito da prestação de serviços, como colunas do consumidor, tecnologia, profissões, cultura e datas marcantes.</desc>
+  </programme>
+  <programme start="20260816110000 -0300" stop="20260816123000 -0300" channel="Globo News.br">
+    <title lang="pt">Globo Rural</title>
+    <category lang="pt">Agriculture</category>
+    <desc lang="pt">As principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.</desc>
+  </programme>
+  <programme start="20260816123000 -0300" stop="20260816142000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição do Meio-Dia</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe os principais fatos que acontecem no Brasil e no mundo.</desc>
+  </programme>
+  <programme start="20260816142000 -0300" stop="20260816150000 -0300" channel="Globo News.br">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <category lang="pt">Bus./financial</category>
+    <desc lang="pt">Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.</desc>
+  </programme>
+  <programme start="20260816150000 -0300" stop="20260816173000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 15 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe os principais fatos que acontecem no Brasil e no mundo.</desc>
+  </programme>
+  <programme start="20260816173000 -0300" stop="20260816180000 -0300" channel="Globo News.br">
+    <title lang="pt">GloboNews 30 Anos</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Reúne especialistas e entrevistas históricas para relembrar os acontecimentos e principais debates que marcaram as últimas três décadas.</desc>
+  </programme>
+  <programme start="20260816180000 -0300" stop="20260816193000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 18 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Natuza Nery apresenta a cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no mundo, e um time de comentaristas analisa os principais acontecimentos do momento.</desc>
+  </programme>
+  <programme start="20260816193000 -0300" stop="20260816200000 -0300" channel="Globo News.br">
+    <title lang="pt">GloboNews Internacional</title>
+    <category lang="pt">Interview</category>
+    <desc lang="pt">Guga Chacra, Marcelo Lins e um time de convidados colocam em perspectiva o que é notícia no mundo e os temas de grande impacto internacional.</desc>
+  </programme>
+  <programme start="20260816200000 -0300" stop="20260816220000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 18 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Natuza Nery apresenta a cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no mundo, e um time de comentaristas analisa os principais acontecimentos do momento.</desc>
+  </programme>
+  <programme start="20260816220000 -0300" stop="20260816230500 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias.</desc>
+  </programme>
+  <programme start="20260816230500 -0300" stop="20260816233500 -0300" channel="Globo News.br">
+    <title lang="pt">GloboNews 30 Anos</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Reúne especialistas e entrevistas históricas para relembrar os acontecimentos e principais debates que marcaram as últimas três décadas.</desc>
+  </programme>
+  <programme start="20260816233500 -0300" stop="20260817023500 -0300" channel="Globo News.br">
+    <title lang="pt">Fantástico</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência.</desc>
+  </programme>
+  <programme start="20260817023500 -0300" stop="20260817032000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 2 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe os principais fatos que acontecem no Brasil e no Mundo.</desc>
+  </programme>
+  <programme start="20260817032000 -0300" stop="20260817040000 -0300" channel="Globo News.br">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <category lang="pt">Bus./financial</category>
+    <desc lang="pt">Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.</desc>
+  </programme>
+  <programme start="20260817040000 -0300" stop="20260817050000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal das Dez</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias.</desc>
+  </programme>
+  <programme start="20260817050000 -0300" stop="20260817060000 -0300" channel="Globo News.br">
+    <title lang="pt">Jornal GloboNews - Edição das 5 Horas</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Os principais fatos que acontecem no Brasil e no mundo.</desc>
   </programme>
   <programme start="20260817060000 -0300" stop="20260817063000 -0300" channel="Globo News.br">
     <title lang="pt">Jornal GloboNews - Edição das 6 Horas</title>
@@ -3645,7 +4160,7 @@
   <programme start="20260817070000 -0300" stop="20260817072900 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">A turma da vila trabalha para fazer uma grande pichorra para as festas natalinas. Mas com Chaves e Quico atrapalhando, as coisas não dão muito certo.</desc>
+    <desc lang="pt">Peterete tem uma ideia para não pagar a conta do restaurante; na vila, é Natal e toda a vizinhança se reúne para comemorar a data na casa de Dona Florinda.</desc>
   </programme>
   <programme start="20260817072900 -0300" stop="20260817075300 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -3685,7 +4200,7 @@
   <programme start="20260817104500 -0300" stop="20260817111700 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">A turma da vila trabalha para fazer uma grande pichorra para as festas natalinas. Mas com Chaves e Quico atrapalhando, as coisas não dão muito certo.</desc>
+    <desc lang="pt">Peterete tem uma ideia para não pagar a conta do restaurante; na vila, é Natal e toda a vizinhança se reúne para comemorar a data na casa de Dona Florinda.</desc>
   </programme>
   <programme start="20260817111700 -0300" stop="20260817114500 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -3825,12 +4340,12 @@
   <programme start="20260818015700 -0300" stop="20260818022100 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">A turma da vila trabalha para fazer uma grande pichorra para as festas natalinas. Mas com Chaves e Quico atrapalhando, as coisas não dão muito certo.</desc>
+    <desc lang="pt">Peterete tem uma ideia para não pagar a conta do restaurante; na vila, é Natal e toda a vizinhança se reúne para comemorar a data na casa de Dona Florinda.</desc>
   </programme>
   <programme start="20260818022100 -0300" stop="20260818025200 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">A turma da vila trabalha para fazer uma grande pichorra para as festas natalinas. Mas com Chaves e Quico atrapalhando, as coisas não dão muito certo.</desc>
+    <desc lang="pt">Peterete tem uma ideia para não pagar a conta do restaurante; na vila, é Natal e toda a vizinhança se reúne para comemorar a data na casa de Dona Florinda.</desc>
   </programme>
   <programme start="20260818025200 -0300" stop="20260818031900 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -3840,7 +4355,7 @@
   <programme start="20260818031900 -0300" stop="20260818034800 -0300" channel="Multishow.br">
     <title lang="pt">Chaves</title>
     <category lang="pt">Sitcom</category>
-    <desc lang="pt">A turma da vila trabalha para fazer uma grande pichorra para as festas natalinas. Mas com Chaves e Quico atrapalhando, as coisas não dão muito certo.</desc>
+    <desc lang="pt">Peterete tem uma ideia para não pagar a conta do restaurante; na vila, é Natal e toda a vizinhança se reúne para comemorar a data na casa de Dona Florinda.</desc>
   </programme>
   <programme start="20260818034800 -0300" stop="20260818041300 -0300" channel="Multishow.br">
     <title lang="pt">Chapolin</title>
@@ -3861,6 +4376,151 @@
     <title lang="pt">Atenção para o Refrão</title>
     <category lang="pt">Temporada 1 Episódio 5 - Volta por Cima</category>
     <desc lang="pt">Sarah Oliveira explora refrões, versos e memórias que transformam quedas em força, reacendem a esperança e inspiram recomeços na vida.</desc>
+  </programme>
+  <programme start="20260816054800 -0300" stop="20260816063100 -0300" channel="Viva.br">
+    <title lang="pt">Anjo Mau</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
+  </programme>
+  <programme start="20260816063100 -0300" stop="20260816071200 -0300" channel="Viva.br">
+    <title lang="pt">Anjo Mau</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
+  </programme>
+  <programme start="20260816071200 -0300" stop="20260816075200 -0300" channel="Viva.br">
+    <title lang="pt">Anjo Mau</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
+  </programme>
+  <programme start="20260816075200 -0300" stop="20260816083500 -0300" channel="Viva.br">
+    <title lang="pt">Anjo Mau</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
+  </programme>
+  <programme start="20260816083500 -0300" stop="20260816091600 -0300" channel="Viva.br">
+    <title lang="pt">Anjo Mau</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
+  </programme>
+  <programme start="20260816091600 -0300" stop="20260816095800 -0300" channel="Viva.br">
+    <title lang="pt">Anjo Mau</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Nice agradece a Fátima por ajudar a incriminar Rui; Rui se prepara para fugir quando a polícia chega para prendê-lo; Goreti assina a separação dela e de Américo.</desc>
+  </programme>
+  <programme start="20260816095800 -0300" stop="20260816104400 -0300" channel="Viva.br">
+    <title lang="pt">Rock Story</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
+  </programme>
+  <programme start="20260816104400 -0300" stop="20260816112900 -0300" channel="Viva.br">
+    <title lang="pt">Rock Story</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
+  </programme>
+  <programme start="20260816112900 -0300" stop="20260816121400 -0300" channel="Viva.br">
+    <title lang="pt">Rock Story</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
+  </programme>
+  <programme start="20260816121400 -0300" stop="20260816130000 -0300" channel="Viva.br">
+    <title lang="pt">Rock Story</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
+  </programme>
+  <programme start="20260816130000 -0300" stop="20260816134800 -0300" channel="Viva.br">
+    <title lang="pt">Rock Story</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
+  </programme>
+  <programme start="20260816134800 -0300" stop="20260816143400 -0300" channel="Viva.br">
+    <title lang="pt">Rock Story</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Gui decide falar com Diana e Júlia ouve a conversa escondida. Marisa pede dinheiro para aceitar ajudar Alex. Luana se surpreende ao ver que Nicolau passou a noite ao seu lado. Lázaro consegue convencer Rogê a continuar gravando o clipe da banda 4.4.</desc>
+  </programme>
+  <programme start="20260816143400 -0300" stop="20260816153600 -0300" channel="Viva.br">
+    <title lang="pt">Belíssima</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
+  </programme>
+  <programme start="20260816153600 -0300" stop="20260816164000 -0300" channel="Viva.br">
+    <title lang="pt">Belíssima</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
+  </programme>
+  <programme start="20260816164000 -0300" stop="20260816173500 -0300" channel="Viva.br">
+    <title lang="pt">Belíssima</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
+  </programme>
+  <programme start="20260816173500 -0300" stop="20260816183800 -0300" channel="Viva.br">
+    <title lang="pt">Belíssima</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
+  </programme>
+  <programme start="20260816183800 -0300" stop="20260816193400 -0300" channel="Viva.br">
+    <title lang="pt">Belíssima</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
+  </programme>
+  <programme start="20260816193400 -0300" stop="20260816203400 -0300" channel="Viva.br">
+    <title lang="pt">Belíssima</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">André manda Nikos não falar mais com Júlia; Pascoal diz a Vitória que conseguiu o dinheiro para ajudá-la; Alberto se declara para Mônica; Katina descobre que Murat esteve com Bia.</desc>
+  </programme>
+  <programme start="20260816203400 -0300" stop="20260816213700 -0300" channel="Viva.br">
+    <title lang="pt">Amor à Vida</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
+  </programme>
+  <programme start="20260816213700 -0300" stop="20260816223800 -0300" channel="Viva.br">
+    <title lang="pt">Amor à Vida</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
+  </programme>
+  <programme start="20260816223800 -0300" stop="20260816231800 -0300" channel="Viva.br">
+    <title lang="pt">Amor à Vida</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
+  </programme>
+  <programme start="20260816231800 -0300" stop="20260817002600 -0300" channel="Viva.br">
+    <title lang="pt">Amor à Vida</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
+  </programme>
+  <programme start="20260817002600 -0300" stop="20260817012600 -0300" channel="Viva.br">
+    <title lang="pt">Amor à Vida</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
+  </programme>
+  <programme start="20260817012600 -0300" stop="20260817022100 -0300" channel="Viva.br">
+    <title lang="pt">Amor à Vida</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Pilar discute com Aline, e César se enfurece com a ex-mulher; Ordália pede que Bruno se afaste da esposa de seu sogro; Aline se faz de vítima para César e beija Bruno novamente; Aline combina com Mariah os detalhes do plano contra César.</desc>
+  </programme>
+  <programme start="20260817022100 -0300" stop="20260817030700 -0300" channel="Viva.br">
+    <title lang="pt">Vale Tudo</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
+  </programme>
+  <programme start="20260817030700 -0300" stop="20260817035000 -0300" channel="Viva.br">
+    <title lang="pt">Vale Tudo</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
+  </programme>
+  <programme start="20260817035000 -0300" stop="20260817043000 -0300" channel="Viva.br">
+    <title lang="pt">Vale Tudo</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
+  </programme>
+  <programme start="20260817043000 -0300" stop="20260817051300 -0300" channel="Viva.br">
+    <title lang="pt">Vale Tudo</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
+  </programme>
+  <programme start="20260817051300 -0300" stop="20260817055100 -0300" channel="Viva.br">
+    <title lang="pt">Vale Tudo</title>
+    <category lang="pt">Soap</category>
+    <desc lang="pt">Fátima procura Afonso no apartamento de Solange; Consuelo discute com André, porque ele passou a noite com Aldeíde; Leila comenta com Fátima que Solange está grávida e Fátima fica preocupada; Raquel vai à TCA, assinar sua rescisão de contrato.</desc>
   </programme>
   <programme start="20260817055100 -0300" stop="20260817062800 -0300" channel="Viva.br">
     <title lang="pt">Vale Tudo</title>
@@ -13150,17 +13810,17 @@
   <programme start="20260817073000 -0300" stop="20260817073600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817073600 -0300" stop="20260817074200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817074200 -0300" stop="20260817075000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817075000 -0300" stop="20260817080000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -13350,17 +14010,17 @@
   <programme start="20260817122000 -0300" stop="20260817122600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817122600 -0300" stop="20260817123200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817123200 -0300" stop="20260817124000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817124000 -0300" stop="20260817125000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Alice &amp; Lewis</title>
@@ -13765,17 +14425,17 @@
   <programme start="20260817230000 -0300" stop="20260817230600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817230600 -0300" stop="20260817231200 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817231200 -0300" stop="20260817232000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">As Aventuras do Bob Zoom</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Dois priminhos de Bob Zoom chegam para passar o dia, ficam entusiasmados ao saber do Clube de Aventuras e querem participar, mas são ainda muito pequenos. Em uma aventura diferente, Bob percebe que cuidar dos pequeninos não é tão fácil assim.</desc>
+    <desc lang="pt">A formiguinha azul Bob Zoom e seus amigos cantam músicas que estimulam a imaginação das crianças de maneira sensível e lúdica com as mais envolventes canções da infância.</desc>
   </programme>
   <programme start="20260817232000 -0300" stop="20260817232600 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Leo, o Guarda da Floresta</title>
@@ -15577,10 +16237,385 @@
     <category lang="pt">Temporada 6 Episódio 4 - O Bug das Bisavós</category>
     <desc lang="pt">Carol herda um colar da bisavó que guarda um grande segredo; Tyron, Mig e Glinda têm certeza que Dona Olga só pode ser uma vampira.</desc>
   </programme>
-  <programme start="20260817054200 -0300" stop="20260817064200 -0300" channel="Gloob HD.br">
+  <programme start="20260817054200 -0300" stop="20260817061400 -0300" channel="Gloob HD.br">
     <title lang="pt">Bugados</title>
     <category lang="pt">Temporada 6 Episódio 5 - O Bug do Neo</category>
     <desc lang="pt">O supervilão Storm está pronto para usar os Bugados para voltar para a vida real e com a ajuda da professora Rebeca ele tem a sua primeira vítima: Neo.</desc>
+  </programme>
+  <programme start="20260817061400 -0300" stop="20260817063700 -0300" channel="Gloob HD.br">
+    <title lang="pt">Saúdem Todos o Rei Julien</title>
+    <category lang="pt">Temporada 3 Episódio 7 - Contatos Imediatos no Estilo Mork</category>
+    <desc lang="pt">Os alienígenas adoram abduzir Mort, deixando Julien com ciúmes. Será que Clover e a turma conseguirão organizar um encontro entre o rei e os ETs para evitar uma invasão?</desc>
+  </programme>
+  <programme start="20260817063700 -0300" stop="20260817070000 -0300" channel="Gloob HD.br">
+    <title lang="pt">Saúdem Todos o Rei Julien</title>
+    <category lang="pt">Temporada 3 Episódio 6 - A Guerra das Borboletas</category>
+    <desc lang="pt">Julien inicia uma guerra falsa contra as borboletas para estimular o patriotismo, mas o orgulho lêmure é colocado à prova quando os insetos contra-atacam para valer.</desc>
+  </programme>
+  <programme start="20260817070000 -0300" stop="20260817071100 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817071100 -0300" stop="20260817072300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817072300 -0300" stop="20260817073400 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817073400 -0300" stop="20260817074600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817074600 -0300" stop="20260817075700 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817075700 -0300" stop="20260817080900 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817080900 -0300" stop="20260817082100 -0300" channel="Gloob HD.br">
+    <title lang="pt">Denver</title>
+    <category lang="pt">Temporada 1 Episódio 21 - Da Frigideira para o Fogo</category>
+    <desc lang="pt">Harry convida um famoso crítico gastronômico, mas percebe que se trata do terrível Sr. Roquet.</desc>
+  </programme>
+  <programme start="20260817082100 -0300" stop="20260817083300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Denver</title>
+    <category lang="pt">Temporada 1 Episódio 52 - As Primeiras Palavras</category>
+    <desc lang="pt">Depois de vestir uma coleira especial, Denver começa a poder falar.</desc>
+  </programme>
+  <programme start="20260817083300 -0300" stop="20260817085600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Saúdem Todos o Rei Julien</title>
+    <category lang="pt">Temporada 2 Episódio 8 - Papai Julien</category>
+    <desc lang="pt">Crente de que Mort é seu filho, Julien decide mudar o nome do lêmure e inscrevê-lo em um concurso infantil.</desc>
+  </programme>
+  <programme start="20260817085600 -0300" stop="20260817091900 -0300" channel="Gloob HD.br">
+    <title lang="pt">Saúdem Todos o Rei Julien</title>
+    <category lang="pt">Temporada 2 Episódio 9 - Isso É Tããão o Rob</category>
+    <desc lang="pt">Um antigo amigo de Julien reaparece para tentar convencê-lo a retomar a vida de curtição.</desc>
+  </programme>
+  <programme start="20260817091900 -0300" stop="20260817093100 -0300" channel="Gloob HD.br">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Temporada 1 Episódio 20 - Dividindo o Vento</category>
+    <desc lang="pt">Riff tenta provar que é o melhor mensageiro cortando em dois uma coluna de vento elementar.</desc>
+  </programme>
+  <programme start="20260817093100 -0300" stop="20260817094300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Temporada 1 Episódio 21 - Queda Livre</category>
+    <desc lang="pt">Cryptus e os seus soldados tentam sabotar o Castelo do Vento, e os mensageiros precisam impedi-los antes que ele desmorone.</desc>
+  </programme>
+  <programme start="20260817094300 -0300" stop="20260817095500 -0300" channel="Gloob HD.br">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Temporada 1 Episódio 22 - A Defesa da Torre</category>
+    <desc lang="pt">A Torre é danificada, e os mensageiros devem se aventurar pelas diversas salas secretas antes que Gredd a destrua.</desc>
+  </programme>
+  <programme start="20260817095500 -0300" stop="20260817100600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Temporada 1 Episódio 23 - O Jeito do Fogo</category>
+    <desc lang="pt">Os mensageiros são capturados pela irmã do Riff, Finna, crendo que sejam aliados dos Darkans.</desc>
+  </programme>
+  <programme start="20260817100600 -0300" stop="20260817102700 -0300" channel="Gloob HD.br">
+    <title lang="pt">Pokémon, a Série: Sol e Lua - Ultralendas</title>
+    <category lang="pt">Temporada 22 Episódio 7 - Sabemos para Onde Está Indo, Eevee!</category>
+    <desc lang="pt">Um Eevee apaixonado pelo mar inicia uma aventura épica no oceano em direção a Alola. Ele acaba vivendo diversos encontros, incluindo um com a Equipe Skull, mas fica exaltado quando encontra os heróis.</desc>
+  </programme>
+  <programme start="20260817102700 -0300" stop="20260817103900 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 20 - A Coragem de Sheeba</category>
+    <desc lang="pt">Sheeba tem um temperamento medroso, o que preocupa Xandiar e a Imperatriz.</desc>
+  </programme>
+  <programme start="20260817103900 -0300" stop="20260817105100 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 21 - A Floresta Élfica</category>
+    <desc lang="pt">Os heróis ficam preocupados com a reação do professor quando Mani Duncan tem uma ideia.</desc>
+  </programme>
+  <programme start="20260817105100 -0300" stop="20260817110300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 22 - A Poção</category>
+    <desc lang="pt">O grupo de heróis se divide para encontrar os ingredientes de uma poção para curar os doentes.</desc>
+  </programme>
+  <programme start="20260817110300 -0300" stop="20260817112600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 4 Episódio 18 - Família Querida</category>
+    <desc lang="pt">É o Dia do Crepe e a família Dupain-Cheng está toda reunida; Marinette ganha um presente bem estranho de sua avó; Tikki está agindo de forma bem estranha ultimamente.</desc>
+  </programme>
+  <programme start="20260817112600 -0300" stop="20260817114900 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 4 Episódio 19 - Efêmero</category>
+    <desc lang="pt">O Guardião Celestial dos Miraculous volta para dizer a Ladybug que ela precisa saber a identidade de Cat Noir, porque o Miraculous não pode ficar com um desconhecido.</desc>
+  </programme>
+  <programme start="20260817114900 -0300" stop="20260817121200 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 4 Episódio 22</category>
+    <desc lang="pt">Ladybug consegue montar um time incrível de super-heróis agora que é Guardiã dos Miraculous, mas Cat Noir está se sentindo excluído e decide abrir mão de seu miraculous. Ladybug agora precisa entregar o Miraculous do Gato para outra pessoa.</desc>
+  </programme>
+  <programme start="20260817121200 -0300" stop="20260817123500 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 4 Episódio 23 - Penaltime</category>
+    <desc lang="pt">Na escola, Marinette ama jogar futebol e faz de tudo para o seu time vencer. Infelizmente, Chloe está jogando também e vai fazer de tudo para que seu time todo seja akumatizado.</desc>
+  </programme>
+  <programme start="20260817123500 -0300" stop="20260817125900 -0300" channel="Gloob HD.br">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <category lang="pt">Temporada 22 Episódio 8 - Efeito Colateral</category>
+    <desc lang="pt">Rúbia, Berta e Theobaldo tentam fechar o portal. O feitiço nas mães piora e Madame Persilia se torna ainda mais autoritária, incomodando os moradores.</desc>
+  </programme>
+  <programme start="20260817125900 -0300" stop="20260817130400 -0300" channel="Gloob HD.br">
+    <title lang="pt">Boletim Extraordinário do Tobby</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">O bruxo Tobby descobre as coisas extraordinárias do mundo dos ordinários, os humanos sem magia.</desc>
+  </programme>
+  <programme start="20260817130400 -0300" stop="20260817133000 -0300" channel="Gloob HD.br">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <category lang="pt">Temporada 20 Episódio 14 - O Pedido de Casamento</category>
+    <desc lang="pt">Brisa procura pelo fantasma Tibério enquanto Corola, disfarçada de Leocádia, faz aulas de dança com Theobaldo, sob o olhar atento de Túlio, um professor estranho; Theobaldo percebe que seu anel sumiu e os detetives precisam investigar esse caso.</desc>
+  </programme>
+  <programme start="20260817133000 -0300" stop="20260817145300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Cegonhas - A História que Não te Contaram</title>
+    <category lang="pt">Children / 2016</category>
+    <desc lang="pt">As cegonhas que entregavam bebês agora trabalham com pacotes. Um pedido para entregar um bebê é aprovado acidentalmente e Junior, a menor cegonha mensageira, e Tulipa, a única humana em toda a empresa, fazem o impossível para entregar o delicado pacote antes que seu chefe perceba o erro.</desc>
+  </programme>
+  <programme start="20260817145300 -0300" stop="20260817150300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Temporada 1 Episódio 23 - O Jeito do Fogo</category>
+    <desc lang="pt">Os mensageiros são capturados pela irmã do Riff, Finna, crendo que sejam aliados dos Darkans.</desc>
+  </programme>
+  <programme start="20260817150300 -0300" stop="20260817151500 -0300" channel="Gloob HD.br">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Temporada 1 Episódio 24 - O Rei Riff</category>
+    <desc lang="pt">Riff percebe que a Tribo do Fogo não tem Rei, e decide provar que deve assumir o poder.</desc>
+  </programme>
+  <programme start="20260817151500 -0300" stop="20260817152600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Gormiti</title>
+    <category lang="pt">Temporada 1 Episódio 25 - A Batalha por Elestar</category>
+    <desc lang="pt">Os mensageiros acreditam na vitória quando finalmente recuperam o último fragmento da Elestar.</desc>
+  </programme>
+  <programme start="20260817152600 -0300" stop="20260817153800 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817153800 -0300" stop="20260817154900 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817154900 -0300" stop="20260817160100 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817160100 -0300" stop="20260817161200 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817161200 -0300" stop="20260817162400 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260817162400 -0300" stop="20260817163600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 35 - A Corrida</category>
+    <desc lang="pt">Angelica e Fafnir competem em uma corrida sem magia, mas é uma corrida de revezamento. Eles têm que cooperar para vencer.</desc>
+  </programme>
+  <programme start="20260817163600 -0300" stop="20260817164800 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 36 - O Outro Raposim</category>
+    <desc lang="pt">Raposim é acusado de roubo e preso. Cal e seus amigos devem investigar para provar sua inocência e revelar o verdadeiro culpado.</desc>
+  </programme>
+  <programme start="20260817164800 -0300" stop="20260817170000 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 37 - O Diário do Mestre Chem</category>
+    <desc lang="pt">Um novo aluno chega na aula do mestre Chem, mas ele rouba o livro de feitiços do dragão. Os heróis têm que ser magicamente criativos para interceptá-lo.</desc>
+  </programme>
+  <programme start="20260817170000 -0300" stop="20260817171200 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 38 - A Volta de Lady Kali</category>
+    <desc lang="pt">Lady Kali voltou ao palácio, mas está se comportando estranhamente. Preocupado, os heróis descobrem que alguém roubou sua identidade e investiga para resgatá-la.</desc>
+  </programme>
+  <programme start="20260817171200 -0300" stop="20260817172400 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 39 - A Troca</category>
+    <desc lang="pt">Tentando um novo feitiço, Tara muda os corpos do mestre Chem e Cal. Apenas uma pena de harpia, um ingrediente muito difícil de obter, pode reverter o feitiço.</desc>
+  </programme>
+  <programme start="20260817172400 -0300" stop="20260817174600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 5 Episódio 3 - Destruição</category>
+    <desc lang="pt">Saiba se Hawk Moth pode forçar os kwamis, que conhecem o endereço de Ladybug, a levá-lo até ela - e se Marinette Dupain-Cheng seria capaz de escapar de Hawk Moth caso ele aparecesse na casa dela.</desc>
+  </programme>
+  <programme start="20260817174600 -0300" stop="20260817180900 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 5 Episódio 4 - Júbilo</category>
+    <desc lang="pt">Marinette fica surpresa ao descobrir que uma ex-colega de escola, Jacqueline, está se passando por Ladybug; ela tenta dissuadi-la de se arriscar dessa forma, mas Monarch está de olho nela.</desc>
+  </programme>
+  <programme start="20260817180900 -0300" stop="20260817183300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 5 Episódio 8 - Ilusão</category>
+    <desc lang="pt">Mesmo sem seu Miraculous para ajudar os heróis da cidade, Nino quer continuar ajudando Ladybug e Cat Noir. Ele decide criar uma Rede de Resistência na escola.</desc>
+  </programme>
+  <programme start="20260817183300 -0300" stop="20260817190000 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 6 Episódio 15 - Noe</category>
+    <desc lang="pt">Um filme está sendo produzido, com um roteiro que tira a credibilidade da Ladybug e Cat Noir. Se a cidade tiver essas mentiras como verdade, esse filme pode mudar tudo.</desc>
+  </programme>
+  <programme start="20260817190000 -0300" stop="20260817192100 -0300" channel="Gloob HD.br">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <category lang="pt">Temporada 22 Episódio 9 - Formigas me Mordam</category>
+    <desc lang="pt">Madame Persília irrita os moradores com multas. Os detetives criam uma criatura assustadora ao tentar desfazer o feitiço de obediência, enquanto Brisa e Berta se preocupam com Rúbia.</desc>
+  </programme>
+  <programme start="20260817192100 -0300" stop="20260817192500 -0300" channel="Gloob HD.br">
+    <title lang="pt">Vlog da Sol</title>
+    <category lang="pt">Temporada 1 Episódio 3 - Show Time (É Hora do Show)</category>
+    <desc lang="pt">Sol está se preparando para uma peça que vai rolar em sua escola, mas ela não leva muito jeito para trabalhos manuais. Por isso, ela chama Bento para ajudá-la.</desc>
+  </programme>
+  <programme start="20260817192500 -0300" stop="20260817195100 -0300" channel="Gloob HD.br">
+    <title lang="pt">D.P.A. - Detetives do Prédio Azul</title>
+    <category lang="pt">Temporada 20 Episódio 15 - O Hamster</category>
+    <desc lang="pt">Leocádia disse &quot;sim&quot;. Mas Theobaldo não sabe que sua prometida de verdade está presa no porão - e que Corola está disfarçada de síndica e tem mais um plano para encontrar o portal.</desc>
+  </programme>
+  <programme start="20260817195100 -0300" stop="20260817201400 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 4 Episódio 3 - A Gangue dos Segredos</category>
+    <desc lang="pt">Marinette anda muito quieta e misteriosa, deixando todas as suas amigas preocupadas, inclusive Alya. Ela não sabe até quando vai aguentar esconder seu maior segredo de sua melhor amiga.</desc>
+  </programme>
+  <programme start="20260817201400 -0300" stop="20260817203700 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 1 Episódio 6 - Sr. Pombo</category>
+    <desc lang="pt">O Sr. Pombo quer devolver Paris aos pombos, transformando a capital em uma enorme reserva natural para essas aves. Ele sequestra todos os inimigos dos pombos, os guardas do parque e decreta toque de recolher.</desc>
+  </programme>
+  <programme start="20260817203700 -0300" stop="20260817210000 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 4 Episódio 21 - Psicomédia</category>
+    <desc lang="pt">Um comediante famoso é akumatizado, se tornando o Psicomédia. Agora, capaz de impor qualquer emoção a qualquer um, ele quer tirar o sorriso do rosto de todos, começando com Ladybug e Cat Noir.</desc>
+  </programme>
+  <programme start="20260817210000 -0300" stop="20260817223800 -0300" channel="Gloob HD.br">
+    <title lang="pt">Zathura - Uma Aventura Espacial</title>
+    <category lang="pt">Children / 2005</category>
+    <desc lang="pt">Dois irmãos sob cuidados da irmã mais velha encontram o jogo de tabuleiro Zathura, que transporta sua casa para o espaço. Com perigos reais a cada jogada e ajuda de um misterioso astronauta, eles precisam terminar a partida para retornar à Terra.</desc>
+  </programme>
+  <programme start="20260817223800 -0300" stop="20260817230000 -0300" channel="Gloob HD.br">
+    <title lang="pt">Pokémon, a Série: Sol e Lua - Ultralendas</title>
+    <category lang="pt">Temporada 22 Episódio 7 - Sabemos para Onde Está Indo, Eevee!</category>
+    <desc lang="pt">Um Eevee apaixonado pelo mar inicia uma aventura épica no oceano em direção a Alola. Ele acaba vivendo diversos encontros, incluindo um com a Equipe Skull, mas fica exaltado quando encontra os heróis.</desc>
+  </programme>
+  <programme start="20260817230000 -0300" stop="20260817231200 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 9 - O Reino dos Centauros</category>
+    <desc lang="pt">Mestre Chem apresenta a equipe dos centauros para os heróis. Acreditando que isso pode ajudá-la a transformar seu avô em um humano, Tara cai em uma armadilha.</desc>
+  </programme>
+  <programme start="20260817231200 -0300" stop="20260817232400 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 10 - A Anã Guerreira</category>
+    <desc lang="pt">Xandiar, o capitão dos guardas, desafia Cal. O aprendiz tem a ideia de pedir ajuda a Fafnir, um gnomo com uma personalidade forte, que se juntará ao grupo da magia.</desc>
+  </programme>
+  <programme start="20260817232400 -0300" stop="20260817233600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 11 - Conhecendo os Ídolos</category>
+    <desc lang="pt">Os Magicazes estão passando por Tingal. Tara e seus amigos estão tão empolgados em receber os músicos no palácio, mas o show não vai como planejado.</desc>
+  </programme>
+  <programme start="20260817233600 -0300" stop="20260817235900 -0300" channel="Gloob HD.br">
+    <title lang="pt">Saúdem Todos o Rei Julien</title>
+    <category lang="pt">Temporada 2 Episódio 8 - Papai Julien</category>
+    <desc lang="pt">Crente de que Mort é seu filho, Julien decide mudar o nome do lêmure e inscrevê-lo em um concurso infantil.</desc>
+  </programme>
+  <programme start="20260817235900 -0300" stop="20260818002200 -0300" channel="Gloob HD.br">
+    <title lang="pt">Saúdem Todos o Rei Julien</title>
+    <category lang="pt">Temporada 2 Episódio 9 - Isso É Tããão o Rob</category>
+    <desc lang="pt">Um antigo amigo de Julien reaparece para tentar convencê-lo a retomar a vida de curtição.</desc>
+  </programme>
+  <programme start="20260818002200 -0300" stop="20260818003300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Alvinnn!!! E os Esquilos</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">Com seus irmãos Simon e Theodore, e as esquiletes, Alvin está pronto para novas aventuras cheias de música e muita gargalhada.</desc>
+  </programme>
+  <programme start="20260818003300 -0300" stop="20260818005700 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 6 Episódio 23 - Titãs Acorrentados</category>
+    <desc lang="pt">Com medo de que o relacionamento de Marinette e Adrien esteja mal, Nino sugere torná-los assistentes de Carapace e Rena Rouge.</desc>
+  </programme>
+  <programme start="20260818005700 -0300" stop="20260818012100 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 6 Episódio 18 - Lady Caos</category>
+    <desc lang="pt">Adrien decide produzir um documentário sobre seu pai, Gabriel Agreste, e Marinette faz o seu melhor para proteger seus segredos.</desc>
+  </programme>
+  <programme start="20260818012100 -0300" stop="20260818014500 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 6 Episódio 19 - Frianansi</category>
+    <desc lang="pt">Irmã de Alya, Nora, e o colega, Twig, têm sentimentos um pelo outro. Porém, eles são tímidos para admitirem.</desc>
+  </programme>
+  <programme start="20260818014500 -0300" stop="20260818020800 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 6 Episódio 24 - Rainha do Domo do Medo</category>
+    <desc lang="pt">Ao descobrir que Chloé voltou a Paris, Marinette teme pior. Enquanto Sabrina acredita que ela mudou.</desc>
+  </programme>
+  <programme start="20260818020800 -0300" stop="20260818023100 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 2 Episódio 1 - Ladybug e o Natal</category>
+    <desc lang="pt">O Natal está chegando e Adrien está deprimido devido a seus problemas familiares. Ele conhece um Papai Noel na rua que melhora seu astral, mas um mal-entendido gera grande confusão.</desc>
+  </programme>
+  <programme start="20260818023100 -0300" stop="20260818025300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 2 Episódio 2 - O Colecionador</category>
+    <desc lang="pt">Ladybug tenta revelar a identidade secreta de Hawk Moth, Gabriel Agreste, o pai de Adrien, é akumatizado e se transforma no Colecionador.</desc>
+  </programme>
+  <programme start="20260818025300 -0300" stop="20260818031600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <category lang="pt">Temporada 2 Episódio 4 - Rainha Repórter</category>
+    <desc lang="pt">A repórter Nadia Chamack é akumatizada e se transforma na Rainha Repórter. Ela tenta fazer com que Ladybug e Cat Noir admitam, ao vivo, que eles estão apaixonados.</desc>
+  </programme>
+  <programme start="20260818031600 -0300" stop="20260818032800 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 19 - Um Tornado de Emoções</category>
+    <desc lang="pt">Tara e seus amigos tentam ajudar uma jovem sereia quando ela provoca um tornado.</desc>
+  </programme>
+  <programme start="20260818032800 -0300" stop="20260818034000 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 20 - A Coragem de Sheeba</category>
+    <desc lang="pt">Sheeba tem um temperamento medroso, o que preocupa Xandiar e a Imperatriz.</desc>
+  </programme>
+  <programme start="20260818034000 -0300" stop="20260818035200 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 21 - A Floresta Élfica</category>
+    <desc lang="pt">Os heróis ficam preocupados com a reação do professor quando Mani Duncan tem uma ideia.</desc>
+  </programme>
+  <programme start="20260818035200 -0300" stop="20260818040400 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 22 - A Poção</category>
+    <desc lang="pt">O grupo de heróis se divide para encontrar os ingredientes de uma poção para curar os doentes.</desc>
+  </programme>
+  <programme start="20260818040400 -0300" stop="20260818041600 -0300" channel="Gloob HD.br">
+    <title lang="pt">Tara Duncan</title>
+    <category lang="pt">Temporada 1 Episódio 23 - O Retrato das Duas Irmãs</category>
+    <desc lang="pt">Tara e seus amigos procuram um Feiticeiro para devolver Mani à sua forma humana.</desc>
+  </programme>
+  <programme start="20260818041600 -0300" stop="20260818044000 -0300" channel="Gloob HD.br">
+    <title lang="pt">Escola de Gênios</title>
+    <category lang="pt">Temporada 6 Episódio 7 - Surra de Likes</category>
+    <desc lang="pt">Ivy divulga uma pintura de Tesla sem autorização e ela não gosta nada disso. Algo está fazendo Margot perder o sono. Bruno e Otto ficam em apuros ao tentar esconder Jorginho dos tutores.</desc>
+  </programme>
+  <programme start="20260818044000 -0300" stop="20260818050500 -0300" channel="Gloob HD.br">
+    <title lang="pt">Escola de Gênios</title>
+    <category lang="pt">Temporada 6 Episódio 8 - Infinitas Surpresas</category>
+    <desc lang="pt">Isaac decepciona Maju para se aproximar de Tesla. Fídias ganha uma promoção, mas o prêmio vira um pesadelo. Margot e Ivy entram em uma disputa acirrada sobre o verdadeiro inventor do avião. É treta.</desc>
+  </programme>
+  <programme start="20260818050500 -0300" stop="20260818053300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Bugados</title>
+    <category lang="pt">Temporada 6 Episódio 6 - O Bug dos Pais</category>
+    <desc lang="pt">Os pais de Carol e Mig vão ao Pirandello para assinar a transferência dos irmãos; Glinda convence os alunos a fingir que o Pirandello é de nível Nobel.</desc>
+  </programme>
+  <programme start="20260818053300 -0300" stop="20260818063300 -0300" channel="Gloob HD.br">
+    <title lang="pt">Bugados</title>
+    <category lang="pt">Temporada 6 Episódio 7 - O Bug do Fantoche</category>
+    <desc lang="pt">Glinda joga um poder no fantoche de Mig e dá vida a Miguelito, um boneco incontrolável.</desc>
   </programme>
   <programme start="20260816060000 -0300" stop="20260816061200 -0300" channel="Cartoon Network.br">
     <title lang="pt">Summer Memories</title>
@@ -18370,7 +19405,7 @@
   <programme start="20260816090000 -0300" stop="20260816092500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
+    <desc lang="pt">Na periferia paulistana, as pipas ganham céu e oferecem a imensidão para as crianças. Inventar seus jogos e brinquedos, preparar bolos de terra ou se tornar um exímio escalador de muros. Tudo isso é comum para as crianças da cidade.</desc>
   </programme>
   <programme start="20260816092500 -0300" stop="20260816093000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Morgana &amp; Celeste</title>
@@ -18625,7 +19660,7 @@
   <programme start="20260816203000 -0300" stop="20260816205500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
+    <desc lang="pt">Na periferia paulistana, as pipas ganham céu e oferecem a imensidão para as crianças. Inventar seus jogos e brinquedos, preparar bolos de terra ou se tornar um exímio escalador de muros. Tudo isso é comum para as crianças da cidade.</desc>
   </programme>
   <programme start="20260816205500 -0300" stop="20260816210000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Morgana &amp; Celeste</title>
@@ -18695,7 +19730,7 @@
   <programme start="20260817020000 -0300" stop="20260817023000 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Me Liga na Lata</title>
     <category lang="pt">Children</category>
-    <desc lang="pt">Crianças maranhenses falam sobre suas experiências e histórias de vida. Elas falam da festa do Bumba meu Boi, celebração que conhecem bem e participam desde muito cedo. A vida no mangue é apresentada por brincadeiras de navegar barquinhos feitos da raiz do araticum e quilhas de chumbo derretido, além da tradicional prancha de tampa de geladeira. Na comunidade quilombola de Entre Rios, o babaçu é matéria-prima para fazer pião, cata-vento e adereços.</desc>
+    <desc lang="pt">Na periferia paulistana, as pipas ganham céu e oferecem a imensidão para as crianças. Inventar seus jogos e brinquedos, preparar bolos de terra ou se tornar um exímio escalador de muros. Tudo isso é comum para as crianças da cidade.</desc>
   </programme>
   <programme start="20260817023000 -0300" stop="20260817024500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Yoga com Histórias</title>
@@ -23724,327 +24759,327 @@
     <category lang="pt">Temporada 1 Episódio 1 - Tradigital</category>
     <desc lang="pt">Animação digital desenhada à mão para acalmar a mente.</desc>
   </programme>
-  <programme start="20260817060000 -0300" stop="20260817062300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817060000 -0300" stop="20260817062400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 1 Episódio 21 - Imagens</category>
     <desc lang="pt">Uma operação contra Abelha-Rainha força Miss Marte a enfrentar seus piores medos e maiores segredos.</desc>
   </programme>
-  <programme start="20260817062300 -0300" stop="20260817064800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817062400 -0300" stop="20260817064900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 1 Episódio 23 - Insegurança</category>
     <desc lang="pt">O retorno do Arqueiro Vermelho afeta a confiança de Artemis quando a perseguição ao Mestre dos Esportes ameaça expor seus segredos.</desc>
   </programme>
-  <programme start="20260817064800 -0300" stop="20260817071100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817064900 -0300" stop="20260817071100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Naruto</title>
     <category lang="pt">Temporada 1 Episódio 41 - Explosão Kunoichi: As Rivais se Enfrentam</category>
     <desc lang="pt">O próximo combate será entre Kankuro e Misumi. Pouco depois do começo da batalha, Misumi captura Kankuro e tenta deslocar suas articulações. Mas o que Misumi captura, na verdade, é um boneco: uma marionete controlada por Kankuro.</desc>
   </programme>
-  <programme start="20260817071100 -0300" stop="20260817073500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817071100 -0300" stop="20260817073600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Haikyu!!</title>
     <category lang="pt">Temporada 3 Episódio 5 - Indivíduos vs. Números</category>
     <desc lang="pt">O Karasuno tenta manter o ritmo no terceiro set, mas o habilidoso levantador Shirabu é um obstáculo; Ushijima tem algo a dizer para Hinata.</desc>
   </programme>
-  <programme start="20260817073500 -0300" stop="20260817080000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817073600 -0300" stop="20260817080200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Blue Lock</title>
     <category lang="pt">Temporada 1 Episódio 4 - Premonition and Intuition</category>
     <desc lang="pt">O Time Z finalmente consegue se unir mais e jogar como uma equipe coesa e se prepara para sua próxima partida contra o Time Y. Entretanto, apesar das melhorias, ainda terão outro obstáculo pela frente.</desc>
   </programme>
-  <programme start="20260817080000 -0300" stop="20260817082400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817080200 -0300" stop="20260817082600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 33 - As Lágrimas do Dragão Cego</category>
     <desc lang="pt">Na China, os olhos de Shiryu não parecem se recuperar, apesar dos esforços de Shunrei, seu amigo de infância; um dia, seu rival Ohko aparece.</desc>
   </programme>
-  <programme start="20260817082400 -0300" stop="20260817084800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817082600 -0300" stop="20260817085200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Harley Quinn</title>
     <category lang="pt">Temporada 1 Episódio 11 - Harley Quinn Highway</category>
     <desc lang="pt">Harley precisa resgatar Hera Venenosa das garras do Espantalho, que tenta colher seus feromônios para fazer uma super toxina que transforma plantas em monstros.</desc>
   </programme>
-  <programme start="20260817084800 -0300" stop="20260817091300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817085200 -0300" stop="20260817091700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">One Piece</title>
     <category lang="pt">Temporada 1 Episódio 1 - Eu Sou o Luffy! O Futuro Rei dos Piratas!</category>
     <desc lang="pt">O jovem Monkey D. Luffy se perde dos outros piratas durante uma invasão a um cruzeiro. Ainda bem que ele tem o poder da borracha.</desc>
   </programme>
-  <programme start="20260817091300 -0300" stop="20260817093900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817091700 -0300" stop="20260817094300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">One Piece</title>
     <category lang="pt">Temporada 1 Episódio 2 - O Grande Espadachim! O Caçador de Piratas, Roronoa Zoro!</category>
     <desc lang="pt">Coby e Luffy chegam à cidade para recrutar Zoro. Por cima de um muro, eles veem uma garota e um homem abordarem o caçador de recompensas que tinha sido capturado.</desc>
   </programme>
-  <programme start="20260817093900 -0300" stop="20260817100100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817094300 -0300" stop="20260817100400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 3 Episódio 4 - A Bonequinha</category>
     <desc lang="pt">Uma atriz amargurada que sofre de uma condição que impede que corpo cresça até a idade adulta, sequestra seus colegas atores, que levavam uma vida mais feliz do que ela, e os mantém prisioneiros no estúdio abandonado de seu antigo programa de TV.</desc>
   </programme>
-  <programme start="20260817100100 -0300" stop="20260817102500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817100400 -0300" stop="20260817102700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 3 Episódio 6 - O Feriado da Arlequina</category>
     <desc lang="pt">Harley Quinn é liberada do manicômio após ter provado ser sã, mas depois de uma confusão em uma loja de roupas, a situação começa a sair do controle.</desc>
   </programme>
-  <programme start="20260817102500 -0300" stop="20260817104700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817102700 -0300" stop="20260817104900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 5 Episódio 10 - Rickmurai Jack</category>
     <desc lang="pt">Rick vive sua melhor vida de anime fazendo novos amigos e derrubando novos inimigos pelo caminho.</desc>
   </programme>
-  <programme start="20260817104700 -0300" stop="20260817110900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817104900 -0300" stop="20260817111200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 6 Episódio 1 - À Deriva no Espaço</category>
     <desc lang="pt">Os Smiths lidam com as consequências da temporada passada; Rick e Morty ficam presos no espaço flutuando nos restos da cidadela.</desc>
   </programme>
-  <programme start="20260817110900 -0300" stop="20260817113300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817111200 -0300" stop="20260817113600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 68 - Um Maravilhoso Guerreiro: Afrodite</category>
     <desc lang="pt">Para Seiya chegar aos aposentos do Mestre, Shun luta sozinho contra Afrodite de Peixes, o último guardião das 12 Casas.</desc>
   </programme>
-  <programme start="20260817113300 -0300" stop="20260817115900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817113600 -0300" stop="20260817120200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 69 - Doce Aroma de Morte</category>
     <desc lang="pt">Afrodite revela ter sido responsável pela morte do mestre de Shun, Albiore; o cosmo de Shun se incendeia com a oportunidade de vingar seu professor.</desc>
   </programme>
-  <programme start="20260817115900 -0300" stop="20260817122300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817120200 -0300" stop="20260817122600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Spy x Family</title>
     <category lang="pt">Temporada 1 Episódio 6 - Esquema de Amizade</category>
     <desc lang="pt">Loid se encontra com sua supervisora; Anya se empolga ao receber o uniforme da escola.</desc>
   </programme>
-  <programme start="20260817122300 -0300" stop="20260817124700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817122600 -0300" stop="20260817125100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 230 - The Long Awaited Fight</category>
     <desc lang="pt">Os participantes do torneio lidam com as consequências da ira de Vegeta; os Super Saiyajins se enfrentam enquanto Goku e Vegeta não se retraem; Gohan e Supreme Kai lutam para chegar ao coração da espaçonave de Babidi e impedir que Majin Buu surja.</desc>
   </programme>
-  <programme start="20260817124700 -0300" stop="20260817131300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817125100 -0300" stop="20260817131700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 231 - Magic Ball of Buu</category>
     <desc lang="pt">Gohan e o Supremo Kai confrontam Babidi e Dabura nas profundezas da nave espacial. Vegeta choca Goku ao revelar o motivo pelo qual sucumbiu ao controle de Babidi.</desc>
   </programme>
-  <programme start="20260817131300 -0300" stop="20260817132500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817131700 -0300" stop="20260817132800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 1 Episódio 5 - Quem Matou Simon S. Salty Violentamente?</category>
     <desc lang="pt">Descubra quem é o famoso magnata da comida Simon S. Salty e por quais motivos ele foi brutalmente assassinado em seu próprio restaurante.</desc>
   </programme>
-  <programme start="20260817132500 -0300" stop="20260817133800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817132800 -0300" stop="20260817134200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Haha You Clowns</title>
     <category lang="pt">Temporada 1 Episódio 1 - Movie Night</category>
     <desc lang="pt">Os meninos tentam descobrir por que o papai não consegue ficar acordado durante a noite do filme.</desc>
   </programme>
-  <programme start="20260817133800 -0300" stop="20260817134900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817134200 -0300" stop="20260817135300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Robot Chicken</title>
     <category lang="pt">Temporada 11 Episódio 10 - May Cause Your Dad to Come Back With That Gallon of Milk He Went Out for 10 Years Ago</category>
     <desc lang="pt">O amor de Peppa Pig por poças lamacentas; Frango Robô diz sim; Smaug encontra outra utilidade para os hobbits; Fievel descobre que ser um cidadão americano traz responsabilidades chocantes.</desc>
   </programme>
-  <programme start="20260817134900 -0300" stop="20260817141300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817135300 -0300" stop="20260817141700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 81 - A Batalha Mortal de Fréya</category>
     <desc lang="pt">Hyoga tenta convencer Hagen a entregar sua safira, mas uma nova arena dá vantagem ao adversário.</desc>
   </programme>
-  <programme start="20260817141300 -0300" stop="20260817143900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817141700 -0300" stop="20260817144300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Blue Lock</title>
     <category lang="pt">Temporada 1 Episódio 4 - Premonition and Intuition</category>
     <desc lang="pt">O Time Z finalmente consegue se unir mais e jogar como uma equipe coesa e se prepara para sua próxima partida contra o Time Y. Entretanto, apesar das melhorias, ainda terão outro obstáculo pela frente.</desc>
   </programme>
-  <programme start="20260817143900 -0300" stop="20260817150300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817144300 -0300" stop="20260817150700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Haikyu!!</title>
     <category lang="pt">Temporada 3 Episódio 5 - Indivíduos vs. Números</category>
     <desc lang="pt">O Karasuno tenta manter o ritmo no terceiro set, mas o habilidoso levantador Shirabu é um obstáculo; Ushijima tem algo a dizer para Hinata.</desc>
   </programme>
-  <programme start="20260817150300 -0300" stop="20260817152700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817150700 -0300" stop="20260817153100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">My Hero Academia</title>
     <category lang="pt">Temporada 2 Episódio 17 - Climax</category>
     <desc lang="pt">Todoroki se junta à luta contra Stain ao lado de Iida e Izuku, que descobre o poder de Stain. Mesmo juntos, os alunos continuam em desvantagem.</desc>
   </programme>
-  <programme start="20260817152700 -0300" stop="20260817155200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817153100 -0300" stop="20260817155400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 2 Episódio 5 - Abaixo</category>
     <desc lang="pt">Besouro Azul corre para encontrar seu amigo Tye enquanto Batgirl, Mulher Maravilha, Miss Marte e Abelha descobrem um plano de Psimon.</desc>
   </programme>
-  <programme start="20260817155200 -0300" stop="20260817161500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817155400 -0300" stop="20260817161700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 2 Episódio 6 - Linhagem Sanguínea</category>
     <desc lang="pt">Dizendo vir do futuro e ser neto de Flash, um jovem chamado Impulso aparece no Monte Justiça a tempo de combater Neutron.</desc>
   </programme>
-  <programme start="20260817161500 -0300" stop="20260817163100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817161700 -0300" stop="20260817163200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
     <category lang="pt">Temporada 1 Episódio 17</category>
     <desc lang="pt">Opticus descobre que é bem mais humano do que imaginava; conheça o Pochete Violeta.</desc>
   </programme>
-  <programme start="20260817163100 -0300" stop="20260817164700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817163200 -0300" stop="20260817164800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
     <category lang="pt">Temporada 1 Episódio 19</category>
     <desc lang="pt">Descubra por que o Vigilante Noturno não tira a vida dos vilões de Megalopolisville.</desc>
   </programme>
-  <programme start="20260817164700 -0300" stop="20260817171100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817164800 -0300" stop="20260817171100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 5 Episódio 10 - O Demônio Inferior</category>
     <desc lang="pt">Klarion assume o controle de Etrigan, o Demônio, e Batman e Robin devem parar suas ações maléficas.</desc>
   </programme>
-  <programme start="20260817171100 -0300" stop="20260817173300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817171100 -0300" stop="20260817173200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 5 Episódio 11 - À Beira do Abismo</category>
     <desc lang="pt">Durante uma briga com o Espantalho, Batgirl é emboscada em um telhado e cai do edifício. Acreditando que sua filha está morta, o Comissário Gordon culpa Batman pelo destino dela.</desc>
   </programme>
-  <programme start="20260817173300 -0300" stop="20260817175900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817173200 -0300" stop="20260817175800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">DAN DA DAN</title>
     <category lang="pt">Temporada 2 Episódio 7 - Feeling Kinda Gloomy</category>
     <desc lang="pt">Ayase Momo, estudante do ensino médio, e seu colega de classe Okult, visitam um hospital abandonado.</desc>
   </programme>
-  <programme start="20260817175900 -0300" stop="20260817182300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817175800 -0300" stop="20260817182200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 73 - Amigos, Reunam-se com Atena</category>
     <desc lang="pt">Salva pelo escudo de Atena, Saori vai aos aposentos do Mestre; após descobrir o plano maligno do Cavaleiro de Gêmeos, os Cavaleiros de Ouro a seguem.</desc>
   </programme>
-  <programme start="20260817182300 -0300" stop="20260817184700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817182200 -0300" stop="20260817184600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Frieren e a Jornada para o Além</title>
     <category lang="pt">Temporada 1 Episódio 19 - Plano Elaborado</category>
     <desc lang="pt">O grupo de Frieren bolou um plano para capturar um Stille. Fern e seu grupo conseguem pegar um, mas outra equipe tenta pegá-lo à força.</desc>
   </programme>
-  <programme start="20260817184700 -0300" stop="20260817191200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817184600 -0300" stop="20260817191100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">The Apothecary Diaries</title>
     <category lang="pt">Temporada 1 Episódio 6 - The Garden Party</category>
     <desc lang="pt">Maomao tenta lidar com as complexas situações sociais da festa no jardim, incluindo o encontro com outras concubinas. Mas, assim que se acomoda para fazer seu trabalho como provadora de comida, descobre uma surpresa em uma tigela de sopa.</desc>
   </programme>
-  <programme start="20260817191200 -0300" stop="20260817193600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817191100 -0300" stop="20260817193600 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 244 - Race to Capsule Corp.</category>
     <desc lang="pt">Trunks fica impaciente com Goten enquanto seu treinamento de fusão continua. Babidi e Majin Boo descobrem onde Trunks mora e ameaçam destruir a Capsule Corporation, forçando Goku a intervir.</desc>
   </programme>
-  <programme start="20260817193600 -0300" stop="20260817200300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817193600 -0300" stop="20260817200200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 1 Episódio 245 - Super Saiyan 3?!</category>
     <desc lang="pt">Goku aumenta seu poder para um novo nível de Super Saiyajin, esperando poder impedir Majin Boo de destruir a Cidade do Oeste, mas sua transformação ameaça o tempo que lhe resta na Terra. Trunks procura o Radar do Dragão na Capsule Corporation.</desc>
   </programme>
-  <programme start="20260817200300 -0300" stop="20260817202500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817200200 -0300" stop="20260817202400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 5 Episódio 10 - Rickmurai Jack</category>
     <desc lang="pt">Rick vive sua melhor vida de anime fazendo novos amigos e derrubando novos inimigos pelo caminho.</desc>
   </programme>
-  <programme start="20260817202500 -0300" stop="20260817205000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817202400 -0300" stop="20260817204900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 6 Episódio 1 - À Deriva no Espaço</category>
     <desc lang="pt">Os Smiths lidam com as consequências da temporada passada; Rick e Morty ficam presos no espaço flutuando nos restos da cidadela.</desc>
   </programme>
-  <programme start="20260817205000 -0300" stop="20260817211500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817204900 -0300" stop="20260817211300 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Primal</title>
     <category lang="pt">Temporada 1 Episódio 6 - Cheiro de Presa</category>
     <desc lang="pt">Spear se empenha em cuidar de Fang e escapar dos caçadores do mundo primordial.</desc>
   </programme>
-  <programme start="20260817211500 -0300" stop="20260817213000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817211300 -0300" stop="20260817212800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
     <category lang="pt">Temporada 1 Episódio 1</category>
     <desc lang="pt">Veja por que levar um homem de colante para a guerra.</desc>
   </programme>
-  <programme start="20260817213000 -0300" stop="20260817214700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817212800 -0300" stop="20260817214500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
     <category lang="pt">Temporada 1 Episódio 2</category>
     <desc lang="pt">Jonathan e Samantha fazem de tudo para tentar salvar o mundo da própria salvação.</desc>
   </programme>
-  <programme start="20260817214700 -0300" stop="20260817221200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817214500 -0300" stop="20260817220900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Common Side Effects</title>
     <category lang="pt">Temporada 1 Episódio 7 - Baiacu</category>
     <desc lang="pt">Marshall é salvo por outro preso e passa a dever um favor a ele. Desesperado para sair da cadeia, ele cria um plano arriscado onde ele encontra um aliado inesperado; Frances lida com um evento que muda a sua vida.</desc>
   </programme>
-  <programme start="20260817221200 -0300" stop="20260817222300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817220900 -0300" stop="20260817222100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 3 Episódio 4 - A Maldição da Bruxa Verde de Halloween</category>
     <desc lang="pt">Os Smiling Friends são amaldiçoados por uma bruxa no Halloween.</desc>
   </programme>
-  <programme start="20260817222300 -0300" stop="20260817223700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817222100 -0300" stop="20260817223400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Robot Chicken</title>
     <category lang="pt">Temporada 8 Episódio 1 - Garbage Sushi</category>
     <desc lang="pt">Godzilla luta contra Jason; Bob, o Construtor, é rival de Manny Mãozinhas; o Trem dos Dinossauros é fantástico; a Pequena Vendedora de Fósforos encontra um uso mortal para suas habilidades.</desc>
   </programme>
-  <programme start="20260817223700 -0300" stop="20260817230100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817223400 -0300" stop="20260817225800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Rick and Morty</title>
     <category lang="pt">Temporada 5 Episódio 8 - Rick, o Salvador</category>
     <desc lang="pt">Rick precisa desempenhar o papel de salvador quando um amigo querido fica em perigo.</desc>
   </programme>
-  <programme start="20260817230100 -0300" stop="20260817232300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817225800 -0300" stop="20260817232000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">President Curtis</title>
     <category lang="pt">Temporada 1 Episódio 4 - Purchase</category>
     <desc lang="pt">Após descobrir um adendo no recibo da Compra da Louisiana, Curtis e sua equipe precisam correr contra o tempo, enfrentando antigos inimigos e amigos, para manter o controle do território adquirido.</desc>
   </programme>
-  <programme start="20260817232300 -0300" stop="20260817234800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817232000 -0300" stop="20260817234500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Harley Quinn</title>
     <category lang="pt">Temporada 1 Episódio 11 - Harley Quinn Highway</category>
     <desc lang="pt">Harley precisa resgatar Hera Venenosa das garras do Espantalho, que tenta colher seus feromônios para fazer uma super toxina que transforma plantas em monstros.</desc>
   </programme>
-  <programme start="20260817234800 -0300" stop="20260818001100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260817234500 -0300" stop="20260818000800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Justiça Jovem</title>
     <category lang="pt">Temporada 1 Episódio 21 - Imagens</category>
     <desc lang="pt">Uma operação contra Abelha-Rainha força Miss Marte a enfrentar seus piores medos e maiores segredos.</desc>
   </programme>
-  <programme start="20260818001100 -0300" stop="20260818003300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818000800 -0300" stop="20260818003000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Batman: The Animated Series</title>
     <category lang="pt">Temporada 1 Episódio 25 - A Conspiração da Capa e do Capuz</category>
     <desc lang="pt">O barão Jozek, irritado com Batman por envergonhá-lo em uma festa, contrata Josiah Wormwood para prender o homem morcego e lhe trazer sua capa e seu capuz.</desc>
   </programme>
-  <programme start="20260818003300 -0300" stop="20260818005700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818003000 -0300" stop="20260818005500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">DAN DA DAN</title>
     <category lang="pt">Temporada 2 Episódio 7 - Feeling Kinda Gloomy</category>
     <desc lang="pt">Ayase Momo, estudante do ensino médio, e seu colega de classe Okult, visitam um hospital abandonado.</desc>
   </programme>
-  <programme start="20260818005700 -0300" stop="20260818012300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818005500 -0300" stop="20260818012000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Os Cavaleiros do Zodíaco</title>
     <category lang="pt">Temporada 1 Episódio 61 - Renda-se ou Morrerá!</category>
     <desc lang="pt">Ao acordar, Hyoga deixa Shun com Seiya e Shiryu e fica para enfrentar Milo; Saori é abordada por uma horda de soldados.</desc>
   </programme>
-  <programme start="20260818012300 -0300" stop="20260818014700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818012000 -0300" stop="20260818014400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Jujutsu Kaisen</title>
     <category lang="pt">Temporada 3 Episódio 2 - One More Time</category>
     <desc lang="pt">Yuta Okkotsu continua perseguindo Yuji, enquanto Naoya não dá trégua na luta contra Choso.</desc>
   </programme>
-  <programme start="20260818014700 -0300" stop="20260818021300 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818014400 -0300" stop="20260818021100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Black Clover</title>
     <category lang="pt">Temporada 1 Episódio 34 - Magia de Luz vs. Magia das Sombras</category>
     <desc lang="pt">Licht, o líder do Olho do Sol da Meia-Noite, chega na caverna para terminar o que Sally e Baro começaram; Asta luta para acompanhar os ataques rápidos de Licht.</desc>
   </programme>
-  <programme start="20260818021300 -0300" stop="20260818023700 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818021100 -0300" stop="20260818023500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Dragon Ball Z</title>
     <category lang="pt">Temporada 5 Episódio 3 - Water Fight</category>
     <desc lang="pt">O Torneio do Outro Mundo avança para as quartas de final. Goku luta contra Aqua, um dos guerreiros de Kai do Leste. Olibu e Pikkon lutam, deslumbrando a multidão com suas proezas e níveis de poder.</desc>
   </programme>
-  <programme start="20260818023700 -0300" stop="20260818025900 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818023500 -0300" stop="20260818025700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Common Side Effects</title>
     <category lang="pt">Temporada 1 Episódio 1 - Pilot</category>
     <desc lang="pt">Marshall Cuso aparece em Nova York com um cogumelo que pode curar qualquer doença ou ferimento; sua antiga colega de classe, Frances, o conhece por acaso, mas mantém segredo de que trabalha para a Reutical, uma empresa farmacêutica.</desc>
   </programme>
-  <programme start="20260818025900 -0300" stop="20260818031000 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818025700 -0300" stop="20260818030800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Robot Chicken</title>
     <category lang="pt">Temporada 10 Episódio 1 - Ginger Hill in: Bursting Pipes</category>
     <desc lang="pt">Os roteiristas de &quot;Frango Robô&quot; revelam o que pode vencer as Tartarugas Ninja; Popeye e a equipe se preparam para se adaptar ao público moderno; Bitch Pudding assume o papel de uma empregada.</desc>
   </programme>
-  <programme start="20260818031000 -0300" stop="20260818032100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818030800 -0300" stop="20260818031900 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 1 Episódio 5 - Quem Matou Simon S. Salty Violentamente?</category>
     <desc lang="pt">Descubra quem é o famoso magnata da comida Simon S. Salty e por quais motivos ele foi brutalmente assassinado em seu próprio restaurante.</desc>
   </programme>
-  <programme start="20260818032100 -0300" stop="20260818033200 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818031900 -0300" stop="20260818033100 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Smiling Friends</title>
     <category lang="pt">Temporada 1 Episódio 7 - Amigos da Cara Fechada</category>
     <desc lang="pt">Para desgraça do chefe, uma empresa concorrente se muda para o outro lado da rua.</desc>
   </programme>
-  <programme start="20260818033200 -0300" stop="20260818035800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818033100 -0300" stop="20260818035700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Clone High</title>
     <category lang="pt">Temporada 2 Episódio 3 - Os Esfrega Bíblia: Um Necessário Retiro de Oração</category>
     <desc lang="pt">Scudworth planeja transformar o Colégio Clone em uma escola religiosa; JFK busca absolvição junto a um grupo de oração por seu estilo de vida galanteador; cheia de culpa após seu encontro com Toussaint, Harriet pede conselhos a Joana.</desc>
   </programme>
-  <programme start="20260818035800 -0300" stop="20260818042100 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818035700 -0300" stop="20260818042000 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Primal</title>
     <category lang="pt">Temporada 2 Episódio 9 - O Colossaeus</category>
     <desc lang="pt">Spear, Fang e Mira fazem de tudo para escapar do Colossaeus e da Rainha, que quer destruí-los.</desc>
   </programme>
-  <programme start="20260818042100 -0300" stop="20260818044400 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818042000 -0300" stop="20260818044200 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Samurai Jack</title>
     <category lang="pt">Temporada 5 Episódio 2 - XCIII</category>
     <desc lang="pt">A vontade de sobreviver de Jack é levada ao limite depois que um inimigo inicia um ataque surpresa.</desc>
   </programme>
-  <programme start="20260818044400 -0300" stop="20260818045500 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818044200 -0300" stop="20260818045400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Mike Tyson Mysteries</title>
     <category lang="pt">Temporada 1 Episódio 9 - Movimentos Noturnos</category>
     <desc lang="pt">Mike e a turma tentam resolver o mistério do porquê Andrew nunca consegue um segundo encontro e Yung Hee descobre uma possível causa da pior forma.</desc>
   </programme>
-  <programme start="20260818045500 -0300" stop="20260818050600 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818045400 -0300" stop="20260818050500 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Mike Tyson Mysteries</title>
     <category lang="pt">Temporada 2 Episódio 1 - O Que É Este Barulho</category>
     <desc lang="pt">Uma mãe sobrecarregada vive atormentada por um barulho que vem de algum lugar dentro de sua minivan.</desc>
   </programme>
-  <programme start="20260818050600 -0300" stop="20260818051800 -0300" channel="Adult Swim HD.br">
+  <programme start="20260818050500 -0300" stop="20260818051800 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Space Ghost de Costa a Costa</title>
     <category lang="pt">Temporada 4 Episódio 1 - Rehearsal</category>
     <desc lang="pt">Este episódio em flashback transporta os espectadores a um ensaio, dois dias antes da estreia de Space Ghost De Costa a Costa, em abril de 1994.</desc>
@@ -25252,22 +26287,22 @@
   <programme start="20260816060000 -0300" stop="20260816060900 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260816060900 -0300" stop="20260816061900 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260816061900 -0300" stop="20260816070000 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260816070000 -0300" stop="20260816073900 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260816073900 -0300" stop="20260816092300 -0300" channel="TNT.br">
     <title lang="pt">Nanny McPhee - A Babá Encantada</title>
@@ -25376,7 +26411,7 @@
   <programme start="20260817055000 -0300" stop="20260817060000 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260817060000 -0300" stop="20260817061000 -0300" channel="TNT.br">
     <title lang="pt">Hollywood One on One</title>
@@ -25863,8 +26898,8 @@
   </programme>
   <programme start="20260817190800 -0300" stop="20260817195500 -0300" channel="SPACE.br">
     <title lang="pt">CSI: Miami</title>
-    <category lang="pt">Temporada 4 Episódio 2 - Sangue na Água</category>
-    <desc lang="pt">A filha de um casal rico morre quando a família está presa em um iate queimando em águas infestadas de tubarões.</desc>
+    <category lang="pt">Temporada 4 Episódio 2 - Blood in the Water</category>
+    <desc lang="pt">A rich couple's daughter dies when the family is trapped on a burning yacht in shark-infested waters.</desc>
   </programme>
   <programme start="20260817195500 -0300" stop="20260817204200 -0300" channel="SPACE.br">
     <title lang="pt">CSI Investigação Criminal</title>
@@ -25883,8 +26918,8 @@
   </programme>
   <programme start="20260817221300 -0300" stop="20260817230000 -0300" channel="SPACE.br">
     <title lang="pt">CSI: Miami</title>
-    <category lang="pt">Temporada 6 Episódio 1 - Filho Perigoso</category>
-    <desc lang="pt">A equipe CSI investiga o assassinato de um policial da condicional e uma situação com reféns. Fatos levam Horácio a acreditar que um dos suspeitos pode ser seu próprio filho.</desc>
+    <category lang="pt">Temporada 6 Episódio 1 - Dangerous Son</category>
+    <desc lang="pt">A hostage situation turns into murder; Horatio thinks one of the suspects may be his son.</desc>
   </programme>
   <programme start="20260817230000 -0300" stop="20260817232700 -0300" channel="SPACE.br">
     <title lang="pt">Operação Fronteira - Brasil</title>
@@ -25933,23 +26968,23 @@
   </programme>
   <programme start="20260818050400 -0300" stop="20260818054800 -0300" channel="SPACE.br">
     <title lang="pt">CSI: Miami</title>
-    <category lang="pt">Temporada 4 Episódio 2 - Sangue na Água</category>
-    <desc lang="pt">A filha de um casal rico morre quando a família está presa em um iate queimando em águas infestadas de tubarões.</desc>
+    <category lang="pt">Temporada 4 Episódio 2 - Blood in the Water</category>
+    <desc lang="pt">A rich couple's daughter dies when the family is trapped on a burning yacht in shark-infested waters.</desc>
   </programme>
   <programme start="20260818054800 -0300" stop="20260818064800 -0300" channel="SPACE.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260816060000 -0300" stop="20260816063400 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260816063400 -0300" stop="20260816064900 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260816064900 -0300" stop="20260816071600 -0300" channel="CINEMAX HD.br">
     <title lang="pt">A Novíssima Roupa do Imperador</title>
@@ -26034,7 +27069,7 @@
   <programme start="20260817054800 -0300" stop="20260817055600 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Hollywood One on One</title>
     <category lang="pt">Talk</category>
-    <desc lang="pt">Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!</desc>
+    <desc lang="pt">Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.</desc>
   </programme>
   <programme start="20260817055600 -0300" stop="20260817060000 -0300" channel="CINEMAX HD.br">
     <title lang="pt">TNT Buzz</title>
@@ -28845,8 +29880,8 @@
   </programme>
   <programme start="20260817000000 -0300" stop="20260817002000 -0300" channel="Rede Vida.br">
     <title lang="pt">Conta Comigo</title>
-    <category lang="pt">Children</category>
-    <desc lang="pt">Todo mundo sabe que as crianças adoram correr, pular e brincar. O que nem todos sabem é que, enquanto as crianças se divertem, elas estão experimentando, descobrindo e percebendo a matemática.</desc>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe esse programa repleto de espiritualidade, oração, esperança e fé. Aproveite esse momento especial para buscar uma luz que ilumine seus passos e receber um bom conselho de Dalcides na hora de tomar uma decisão.</desc>
   </programme>
   <programme start="20260817002000 -0300" stop="20260817010000 -0300" channel="Rede Vida.br">
     <title lang="pt">O Pão Nosso</title>
@@ -29232,6 +30267,161 @@
     <desc lang="pt">Receitas recheadas de histórias de famílias e devotos. Quadros com dicas e curiosidades da gastronomia de quermesses, paróquias e mosteiros. Sempre mostrando as relações afetivas do ato de cozinhar em família e entre amigos.</desc>
   </programme>
   <programme start="20260817050000 -0300" stop="20260817060000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Ciência sem Limites</title>
+    <category lang="pt">Science</category>
+    <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
+  </programme>
+  <programme start="20260817060000 -0300" stop="20260817061500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Devotos Mirins Show</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">A Turminha dos Devotos Mirins apresenta histórias e desenhos de temática religiosa, em sintonia com o projeto Família dos Devotos do Santuário Nacional de Aparecida.</desc>
+  </programme>
+  <programme start="20260817061500 -0300" stop="20260817064500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Terço de Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Oração mariana que apresenta a vida de Jesus em cada mistério meditado e contemplado.</desc>
+  </programme>
+  <programme start="20260817064500 -0300" stop="20260817073500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Santuário Nacional de Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos e missas direto do Santuário Nacional de Aparecida.</desc>
+  </programme>
+  <programme start="20260817073500 -0300" stop="20260817085000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Bênção da Manhã</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Comece muito bem o seu dia, rezando, agradecendo a Deus e pedindo a proteção de Nossa Senhora Aparecida. Além das orações, acompanhe momentos de catequese e reflexões para a renovação da fé.</desc>
+  </programme>
+  <programme start="20260817085000 -0300" stop="20260817090000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Ao Redor do Altar</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Momento em preparação para a Santa Missa, direto do Santuário Nacional, em que é possível colocar as intenções no altar.</desc>
+  </programme>
+  <programme start="20260817090000 -0300" stop="20260817100000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Santuário Nacional de Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos e missas direto do Santuário Nacional de Aparecida.</desc>
+  </programme>
+  <programme start="20260817100000 -0300" stop="20260817113000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Família dos Devotos</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Programa voltado aos devotos de Nossa Senhora Aparecida que ajudam a construir, manter e cuidar do Santuário Nacional, trazendo formação para o crescimento espiritual e pessoal, reflexões e quadros dedicados à família.</desc>
+  </programme>
+  <programme start="20260817113000 -0300" stop="20260817113500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Diálogos - Qual Caminho Seguir?</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Em sintonia com o magistério da Igreja, o programa pretende ajudar a estruturar consciências, formando pessoas comprometidas com a vida, a liberdade e a cidadania.</desc>
+  </programme>
+  <programme start="20260817113500 -0300" stop="20260817115500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Aparecida Interessa ao Brasil</title>
+    <category lang="pt">Newsmagazine</category>
+    <desc lang="pt">Acompanhe essa revista eletrônica comandada por um time de apresentadores de primeira linha e saiba tudo sobre os principais assuntos da semana e o que acontece na Igreja Católica do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260817115500 -0300" stop="20260817120000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Mensagem de Fé</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O arcebispo de Aparecida, dom Orlando Brandes, faz uma pequena reflexão da Palavra de Deus.</desc>
+  </programme>
+  <programme start="20260817120000 -0300" stop="20260817124500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Santuário Nacional de Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos e missas direto do Santuário Nacional de Aparecida.</desc>
+  </programme>
+  <programme start="20260817124500 -0300" stop="20260817130000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Devotos Mirins Show</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">A Turminha dos Devotos Mirins apresenta histórias e desenhos de temática religiosa, em sintonia com o projeto Família dos Devotos do Santuário Nacional de Aparecida.</desc>
+  </programme>
+  <programme start="20260817130000 -0300" stop="20260817140000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Sabor de Vida</title>
+    <category lang="pt">Cooking</category>
+    <desc lang="pt">Receitas recheadas de histórias de famílias e devotos. Quadros com dicas e curiosidades da gastronomia de quermesses, paróquias e mosteiros. Sempre mostrando as relações afetivas do ato de cozinhar em família e entre amigos.</desc>
+  </programme>
+  <programme start="20260817140000 -0300" stop="20260817150000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Faça Você Mesmo</title>
+    <category lang="pt">Arts/crafts</category>
+    <desc lang="pt">Criar com as próprias mãos variadas peças de artesanato é a principal proposta do programa. Rogério Chiaravalli oferece aos apaixonados pelas artes manuais conteúdos que contribuem com a autonomia e a criatividade.</desc>
+  </programme>
+  <programme start="20260817150000 -0300" stop="20260817153000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Basílica Histórica de Nossa Senhora Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos religiosos direto da Basílica Histórica em Aparecida do Norte, São Paulo.</desc>
+  </programme>
+  <programme start="20260817153000 -0300" stop="20260817164500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Viva a Tarde</title>
+    <category lang="pt">Variety</category>
+    <desc lang="pt">Mix de informação e entretenimento, combinando notícias, dicas e assuntos variados em formato descontraído. Com apresentação alegre e credível, aborda temas relevantes para todos os membros da família.</desc>
+  </programme>
+  <programme start="20260817164500 -0300" stop="20260817175000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">TJ Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe as principais notícias da igreja, do Brasil e do mundo.</desc>
+  </programme>
+  <programme start="20260817175000 -0300" stop="20260817175500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Escola de Maria</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O arcebispo de Aparecida, Dom Orlando Brandes, reflete e fala sobre Maria.</desc>
+  </programme>
+  <programme start="20260817175500 -0300" stop="20260817180000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Mensagem de Fé</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O arcebispo de Aparecida, dom Orlando Brandes, faz uma pequena reflexão da Palavra de Deus.</desc>
+  </programme>
+  <programme start="20260817180000 -0300" stop="20260817190000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Basílica Histórica de Nossa Senhora Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos religiosos direto da Basílica Histórica em Aparecida do Norte, São Paulo.</desc>
+  </programme>
+  <programme start="20260817190000 -0300" stop="20260817193000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Terço de Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Oração mariana que apresenta a vida de Jesus em cada mistério meditado e contemplado.</desc>
+  </programme>
+  <programme start="20260817193000 -0300" stop="20260817220000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Aparecida Sertaneja</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O programa é ideal para quem gosta da boa música sertaneja e grandes clássicos, com espaço para as mulheres mostrarem também os seus talentos na música.</desc>
+  </programme>
+  <programme start="20260817220000 -0300" stop="20260817230000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Viagem Cultural</title>
+    <category lang="pt">Travel</category>
+    <desc lang="pt">Confira dicas de turismo, veja uma abordagem cultural das regiões e iniciativas ambientais.</desc>
+  </programme>
+  <programme start="20260817230000 -0300" stop="20260817231500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Devotos Mirins Show</title>
+    <category lang="pt">Children</category>
+    <desc lang="pt">A Turminha dos Devotos Mirins apresenta histórias e desenhos de temática religiosa, em sintonia com o projeto Família dos Devotos do Santuário Nacional de Aparecida.</desc>
+  </programme>
+  <programme start="20260817231500 -0300" stop="20260817232000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Diálogos - Qual Caminho Seguir?</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Em sintonia com o magistério da Igreja, o programa pretende ajudar a estruturar consciências, formando pessoas comprometidas com a vida, a liberdade e a cidadania.</desc>
+  </programme>
+  <programme start="20260817232000 -0300" stop="20260817232500 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Escola de Maria</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">O arcebispo de Aparecida, Dom Orlando Brandes, reflete e fala sobre Maria.</desc>
+  </programme>
+  <programme start="20260817232500 -0300" stop="20260817233000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Mensagem de Fé</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O arcebispo de Aparecida, dom Orlando Brandes, faz uma pequena reflexão da Palavra de Deus.</desc>
+  </programme>
+  <programme start="20260817233000 -0300" stop="20260818030000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Medalhão.com</title>
+    <category lang="pt">Shopping</category>
+    <desc lang="pt">Acompanhe as vendas de especialidades em joias, tapetes persas, obras de arte e artesanato iraniano.</desc>
+  </programme>
+  <programme start="20260818030000 -0300" stop="20260818033000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Terço de Aparecida</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Oração mariana que apresenta a vida de Jesus em cada mistério meditado e contemplado.</desc>
+  </programme>
+  <programme start="20260818033000 -0300" stop="20260818050000 -0300" channel="TV Aparecida (aberta).br">
+    <title lang="pt">Família dos Devotos</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Programa voltado aos devotos de Nossa Senhora Aparecida que ajudam a construir, manter e cuidar do Santuário Nacional, trazendo formação para o crescimento espiritual e pessoal, reflexões e quadros dedicados à família.</desc>
+  </programme>
+  <programme start="20260818050000 -0300" stop="20260818060000 -0300" channel="TV Aparecida (aberta).br">
     <title lang="pt">Ciência sem Limites</title>
     <category lang="pt">Science</category>
     <desc lang="pt">O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp.</desc>
@@ -29956,10 +31146,215 @@
     <category lang="pt">Religious</category>
     <desc lang="pt">Novena dos Filhos do Pai Eterno.</desc>
   </programme>
-  <programme start="20260817053000 -0300" stop="20260817063000 -0300" channel="Tv Pai Eterno">
+  <programme start="20260817053000 -0300" stop="20260817060000 -0300" channel="Tv Pai Eterno">
     <title lang="pt">Catequese em Movimento</title>
     <category lang="pt">Religious</category>
     <desc lang="pt">Acompanhe o programa que fala especialmente aos catequistas de todo o Brasil.</desc>
+  </programme>
+  <programme start="20260817060000 -0300" stop="20260817063000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Família de Amor</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O Padre Jadeilson acolhe, ouve os espectadores, faz orações e louva a Deus.</desc>
+  </programme>
+  <programme start="20260817063000 -0300" stop="20260817064000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Mãe Maria</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe um momento de profunda reflexão e oração à luz do Evangelho.</desc>
+  </programme>
+  <programme start="20260817064000 -0300" stop="20260817065500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena do Espírito Santo</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Padre José Ulysses prepara os corações dos fiéis para a celebração da Festa de Pentecostes.</desc>
+  </programme>
+  <programme start="20260817065500 -0300" stop="20260817074500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Santuário Basílica do Divino Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos do Santuário do Divino Pai Eterno em Trindade, Goiás, que vem se tornando uma das basílicas mais importantes do Brasil.</desc>
+  </programme>
+  <programme start="20260817074500 -0300" stop="20260817080000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena ao Sagrado Coração de Jesus</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">A Novena traz reflexões, intenções, bênçãos e orações abordando os temas: fé, humildade, perdão, pureza, cura, alimento, cruz, mãe e perseverança. É uma oportunidade de refletir sobre o sagrado coração de Jesus.</desc>
+  </programme>
+  <programme start="20260817080000 -0300" stop="20260817090000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Santo Café</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Acompanhe as matérias sobre assuntos importantes da atualidade.</desc>
+  </programme>
+  <programme start="20260817090000 -0300" stop="20260817093000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe ao vivo as orações e reflexões direto do Santuário Basílica do Divino Pai Eterno, em Trindade, no estado de Goiás.</desc>
+  </programme>
+  <programme start="20260817093000 -0300" stop="20260817094500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O programa sobre a devoção ao Divino Pai Eterno.</desc>
+  </programme>
+  <programme start="20260817094500 -0300" stop="20260817100000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Palavra da Salvação</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Palavras que elevam e também agradecem os milagres de nosso Pai eterno.</desc>
+  </programme>
+  <programme start="20260817100000 -0300" stop="20260817103000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Novena dos Filhos do Pai Eterno.</desc>
+  </programme>
+  <programme start="20260817103000 -0300" stop="20260817114500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Família de Amor</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O Padre Jadeilson acolhe, ouve os espectadores, faz orações e louva a Deus.</desc>
+  </programme>
+  <programme start="20260817114500 -0300" stop="20260817120000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Testemunha da Luz</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Arcebispo João Justino faz reflexões sobre a Santa Bíblia.</desc>
+  </programme>
+  <programme start="20260817120000 -0300" stop="20260817123000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Novena dos Filhos do Pai Eterno.</desc>
+  </programme>
+  <programme start="20260817123000 -0300" stop="20260817130000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Receita do Padre</title>
+    <category lang="pt">Cooking</category>
+    <desc lang="pt">Aprenda a fazer receitas deliciosas, temperadas de esperança e fé.</desc>
+  </programme>
+  <programme start="20260817130000 -0300" stop="20260817131500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Ultra Vie</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços.</desc>
+  </programme>
+  <programme start="20260817131500 -0300" stop="20260817132000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Diálogos</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Um programa em sintonia com o Magistério da Igreja, a fé e a palavra de Deus.</desc>
+  </programme>
+  <programme start="20260817132000 -0300" stop="20260817143000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Aqui em Casa</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Catequese, saúde, entrevistas, o trabalho social da Igreja, histórias de fé, oração e meditação. Além disso, veja dicas de decoração, receitas culinárias, humor e cultura.</desc>
+  </programme>
+  <programme start="20260817143000 -0300" stop="20260817150000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe ao vivo as orações e reflexões direto do Santuário Basílica do Divino Pai Eterno, em Trindade, no estado de Goiás.</desc>
+  </programme>
+  <programme start="20260817150000 -0300" stop="20260817152000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Santuário de Bom Jesus da Lapa</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Missas e eventos realizados no Santuário de Bom Jesus da Lapa, na Bahia.</desc>
+  </programme>
+  <programme start="20260817152000 -0300" stop="20260817153500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O programa sobre a devoção ao Divino Pai Eterno.</desc>
+  </programme>
+  <programme start="20260817153500 -0300" stop="20260817164500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Pai, Passa na Frente</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Marcus e Caíza trazem mensagens de fé e esperança e rezam pelas intenções enviadas pelos devotos.</desc>
+  </programme>
+  <programme start="20260817164500 -0300" stop="20260817171500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Novena dos Filhos do Pai Eterno.</desc>
+  </programme>
+  <programme start="20260817171500 -0300" stop="20260817180000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Santuário Basílica do Divino Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos do Santuário do Divino Pai Eterno em Trindade, Goiás, que vem se tornando uma das basílicas mais importantes do Brasil.</desc>
+  </programme>
+  <programme start="20260817180000 -0300" stop="20260817190000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Pautas da Igreja</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Keissiane Seabra comenta as principais notícias da igreja católica no Brasil.</desc>
+  </programme>
+  <programme start="20260817190000 -0300" stop="20260817200000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Santuário Basílica do Divino Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Eventos do Santuário do Divino Pai Eterno em Trindade, Goiás, que vem se tornando uma das basílicas mais importantes do Brasil.</desc>
+  </programme>
+  <programme start="20260817200000 -0300" stop="20260817210000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Boa Noite, Meu Pai</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O programa traz um momento de música, oração, alegria e interatividade com os devotos de todo o Brasil por telefone e redes sociais.</desc>
+  </programme>
+  <programme start="20260817210000 -0300" stop="20260817213000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Novena dos Filhos do Pai Eterno.</desc>
+  </programme>
+  <programme start="20260817213000 -0300" stop="20260817220000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Jovem Romeiro</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Um programa para juventude cristã para bater-papo, trocar experiências e solucionar dúvidas.</desc>
+  </programme>
+  <programme start="20260817220000 -0300" stop="20260817223000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">A Redenção</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe reflexões baseadas nos textos de Santo Afonso Maria de Ligório, fundador da Congregação do Santíssimo Redentor, bispo e doutor da Igreja.</desc>
+  </programme>
+  <programme start="20260817223000 -0300" stop="20260817230000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena do Perpétuo Socorro</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Acompanhe ao vivo as orações e reflexões direto do Santuário Basílica do Divino Pai Eterno, em Trindade, no estado de Goiás.</desc>
+  </programme>
+  <programme start="20260817230000 -0300" stop="20260818020000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Joias Vip</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Encontre lindas joias e relógios e peças em prata, com preços que cabem no seu bolso.</desc>
+  </programme>
+  <programme start="20260818020000 -0300" stop="20260818021500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena do Espírito Santo</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Padre José Ulysses prepara os corações dos fiéis para a celebração da Festa de Pentecostes.</desc>
+  </programme>
+  <programme start="20260818021500 -0300" stop="20260818023000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O programa sobre a devoção ao Divino Pai Eterno.</desc>
+  </programme>
+  <programme start="20260818023000 -0300" stop="20260818030000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Novena dos Filhos do Pai Eterno.</desc>
+  </programme>
+  <programme start="20260818030000 -0300" stop="20260818031500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Santuário de Bom Jesus da Lapa</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Missas e eventos realizados no Santuário de Bom Jesus da Lapa, na Bahia.</desc>
+  </programme>
+  <programme start="20260818031500 -0300" stop="20260818041500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Pautas da Igreja</title>
+    <category lang="pt">News</category>
+    <desc lang="pt">Keissiane Seabra comenta as principais notícias da igreja católica no Brasil.</desc>
+  </programme>
+  <programme start="20260818041500 -0300" stop="20260818043000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena ao Sagrado Coração de Jesus</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">A Novena traz reflexões, intenções, bênçãos e orações abordando os temas: fé, humildade, perdão, pureza, cura, alimento, cruz, mãe e perseverança. É uma oportunidade de refletir sobre o sagrado coração de Jesus.</desc>
+  </programme>
+  <programme start="20260818043000 -0300" stop="20260818044500 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">O programa sobre a devoção ao Divino Pai Eterno.</desc>
+  </programme>
+  <programme start="20260818044500 -0300" stop="20260818050000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Palavra da Salvação</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Palavras que elevam e também agradecem os milagres de nosso Pai eterno.</desc>
+  </programme>
+  <programme start="20260818050000 -0300" stop="20260818053000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Novena dos Filhos do Pai Eterno</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Novena dos Filhos do Pai Eterno.</desc>
+  </programme>
+  <programme start="20260818053000 -0300" stop="20260818063000 -0300" channel="Tv Pai Eterno">
+    <title lang="pt">Jovem Romeiro</title>
+    <category lang="pt">Religious</category>
+    <desc lang="pt">Um programa para juventude cristã para bater-papo, trocar experiências e solucionar dúvidas.</desc>
   </programme>
   <programme start="20260816060000 -0300" stop="20260816062200 -0300" channel="TNT Novelas.br">
     <title lang="pt">Matches</title>
@@ -31410,6 +32805,27 @@
     <category lang="pt">Campeonato Brasileiro</category>
     <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
+  <programme start="20260816060000 -0300" stop="20260816140000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260816140000 -0300" stop="20260816173000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260816173000 -0300" stop="20260816210000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Charla no Premiere: Vitória x Botafogo</title>
+    <category lang="pt">Campeonato Brasileiro</category>
+    <desc lang="pt">Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme start="20260816210000 -0300" stop="20260817050000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260817050000 -0300" stop="20260817060000 -0300" channel="Premiere 2.br">
+    <title lang="pt">Premiere 2</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
   <programme start="20260817060000 -0300" stop="20260817140000 -0300" channel="Premiere 2.br">
     <title lang="pt">Premiere 2</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
@@ -31449,6 +32865,18 @@
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
   <programme start="20260817050000 -0300" stop="20260817060000 -0300" channel="PREMIERE 3 HD.br">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260817060000 -0300" stop="20260817140000 -0300" channel="PREMIERE 3 HD.br">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260817140000 -0300" stop="20260817220000 -0300" channel="PREMIERE 3 HD.br">
+    <title lang="pt">Premiere 3</title>
+    <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
+  </programme>
+  <programme start="20260817220000 -0300" stop="20260817230000 -0300" channel="PREMIERE 3 HD.br">
     <title lang="pt">Premiere 3</title>
     <desc lang="pt">Acompanhe a programação pay-per-view.</desc>
   </programme>
@@ -34096,22 +35524,6 @@
   <programme start="20260816220000 -0300" stop="20260816230000 -0300" channel="LIKE.br">
     <title lang="pt">Todas as Novidades da Sua TV Por Assinatura</title>
   </programme>
-  <programme start="20260816103000 -0300" stop="20260816115500 -0300" channel="ESPN 3.br">
-    <title lang="pt">Indycar: GP de Markham: Classificação</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-  </programme>
-  <programme start="20260816115500 -0300" stop="20260816140000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Burnley x West Ham - Ao Vivo</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20260816140000 -0300" stop="20260816150000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Golfe: FedEx St. Jude Championship: Rodada Final - Ao Vivo</title>
-    <category lang="pt">Esporte/Golfe</category>
-  </programme>
-  <programme start="20260816150000 -0300" stop="20260816160000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Golfe: FedEx St. Jude Championship: Rodada Final - Ao Vivo</title>
-    <category lang="pt">Esporte/Golfe</category>
-  </programme>
   <programme start="20260816160000 -0300" stop="20260816190000 -0300" channel="ESPN 3.br">
     <title lang="pt">Golfe: FedEx St. Jude Championship: Rodada Final - Ao Vivo</title>
     <category lang="pt">Esporte/Golfe</category>
@@ -35168,18 +36580,6 @@
     <title lang="pt">Sportscenter Americano - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20260816102500 -0300" stop="20260816105000 -0300" channel="Combate.br">
-    <title lang="pt">Lições De Combate - Boxe</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260816105000 -0300" stop="20260816131500 -0300" channel="Combate.br">
-    <title lang="pt">Fight Do Milhão -  Semifinais Feminino - Card Completo - São Paulo, Sp</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20260816131500 -0300" stop="20260816161500 -0300" channel="Combate.br">
-    <title lang="pt">Oktagon 92</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20260816161500 -0300" stop="20260816165500 -0300" channel="Combate.br">
     <title lang="pt">Ippon Tokio Ep 1</title>
     <category lang="pt">Esporte/Luta</category>
@@ -35667,22 +37067,6 @@
   <programme start="20260830200000 -0300" stop="20260830210000 -0300" channel="Combate.br">
     <title lang="pt">Programação Combate</title>
     <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260816100500 -0300" stop="20260816112500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">A Casa do Dragão</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20260816112500 -0300" stop="20260816133000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Hellboy</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20260816133000 -0300" stop="20260816144500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20260816144500 -0300" stop="20260816154500 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Pinguim</title>
-    <category lang="pt">Séries/Drama</category>
   </programme>
   <programme start="20260816154500 -0300" stop="20260816165000 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Pinguim</title>
