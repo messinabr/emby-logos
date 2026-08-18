@@ -7,12 +7,12 @@
   <channel id="Premiere 8 HD.br"><display-name>Premiere 8</display-name></channel>
   <channel id="Sabor &amp; Arte.br"><display-name>Sabor E Arte</display-name></channel>
   <channel id="Tv Pai Eterno"><display-name>Tv Pai Eterno</display-name></channel>
+  <channel id="National Geographic.br"><display-name>National Geographic Wild</display-name></channel>
   <channel id="LIKE.br"><display-name>LIKE</display-name></channel>
   <channel id="Modo Viagem.br"><display-name>Modo Viagem</display-name></channel>
   <channel id="Canal Brasil.br"><display-name>Canal Brasil</display-name></channel>
   <channel id="Canal do Boi.br"><display-name>Canal do Boi</display-name></channel>
   <channel id="Eurochannel.br"><display-name>EuroChannel</display-name></channel>
-  <channel id="National Geographic.br"><display-name>National Geographic Wild</display-name></channel>
   <channel id="TV5 MONDE.br"><display-name>TV5 Monde</display-name></channel>
   <channel id="A&amp;E HD.br"><display-name>A&amp;E</display-name></channel>
   <channel id="AMC Brasil.br"><display-name>AMC</display-name></channel>
@@ -2909,6 +2909,341 @@
     <title lang="pt">Ponto 3</title>
     <category lang="pt">Newsmagazine</category>
     <desc lang="pt">Diversos convidados debatem os temas mais relevantes da atualidade.</desc>
+  </programme>
+  <programme start="20260818060000 -0300" stop="20260818062000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260818062000 -0300" stop="20260818064000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260818064000 -0300" stop="20260818070000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260818070000 -0300" stop="20260818072500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260818072500 -0300" stop="20260818075000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260818075000 -0300" stop="20260818081500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260818081500 -0300" stop="20260818084000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260818084000 -0300" stop="20260818091000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260818091000 -0300" stop="20260818093500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260818093500 -0300" stop="20260818100000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260818100000 -0300" stop="20260818110000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260818110000 -0300" stop="20260818115500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260818115500 -0300" stop="20260818124500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260818124500 -0300" stop="20260818134000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivendo no Alasca</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Pessoas que recentemente deixaram seu estilo de vida para trás encaram uma nova realidade no Alasca.</desc>
+  </programme>
+  <programme start="20260818134000 -0300" stop="20260818143500 -0300" channel="National Geographic.br">
+    <title lang="pt">Celebridades à Prova de Tudo - O Desafio</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Bear Grylls eleva o nível ao ensinar a seus convidados habilidades essenciais de sobrevivência que eles têm que dominar e depois provar que podem usar em uma situação de alto estresse.</desc>
+  </programme>
+  <programme start="20260818143500 -0300" stop="20260818153000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.</desc>
+  </programme>
+  <programme start="20260818153000 -0300" stop="20260818161500 -0300" channel="National Geographic.br">
+    <title lang="pt">Africa's Deadliest</title>
+    <category lang="pt">Animals</category>
+    <desc lang="pt">A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação.</desc>
+  </programme>
+  <programme start="20260818161500 -0300" stop="20260818172000 -0300" channel="National Geographic.br">
+    <title lang="pt">SOS Cobra</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas.</desc>
+  </programme>
+  <programme start="20260818172000 -0300" stop="20260818181500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260818181500 -0300" stop="20260818184500 -0300" channel="National Geographic.br">
+    <title lang="pt">Livres no Rio de Janeiro</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acompanhe os voluntários do Instituto Vida Livre enquanto trabalham no Livres no Rio de Janeiro. Desde 2015, eles reabilitam e liberam animais que foram vítimas do comércio brasileiro de animais silvestres.</desc>
+  </programme>
+  <programme start="20260818184500 -0300" stop="20260818191000 -0300" channel="National Geographic.br">
+    <title lang="pt">Livres no Rio de Janeiro</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acompanhe os voluntários do Instituto Vida Livre enquanto trabalham no Livres no Rio de Janeiro. Desde 2015, eles reabilitam e liberam animais que foram vítimas do comércio brasileiro de animais silvestres.</desc>
+  </programme>
+  <programme start="20260818191000 -0300" stop="20260818201500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Colômbia</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Acompanhe a polícia aeroportuária em sua luta contra o tráfico de drogas.</desc>
+  </programme>
+  <programme start="20260818201500 -0300" stop="20260818210000 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Colômbia</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Acompanhe a polícia aeroportuária em sua luta contra o tráfico de drogas.</desc>
+  </programme>
+  <programme start="20260818210000 -0300" stop="20260818220000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Anunciar</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Programação a ser anunciada.</desc>
+  </programme>
+  <programme start="20260818220000 -0300" stop="20260818225500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Anunciar</title>
+    <category lang="pt">Special</category>
+    <desc lang="pt">Programação a ser anunciada.</desc>
+  </programme>
+  <programme start="20260818225500 -0300" stop="20260818235000 -0300" channel="National Geographic.br">
+    <title lang="pt">Tesouros Perdidos de Roma</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Uma equipe internacional de arqueólogos enfrenta o fascinante desafio de trazer à luz os segredos perdidos do Império Romano.</desc>
+  </programme>
+  <programme start="20260818235000 -0300" stop="20260819005000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260819005000 -0300" stop="20260819015000 -0300" channel="National Geographic.br">
+    <title lang="pt">Celebridades à Prova de Tudo - O Desafio</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Bear Grylls eleva o nível ao ensinar a seus convidados habilidades essenciais de sobrevivência que eles têm que dominar e depois provar que podem usar em uma situação de alto estresse.</desc>
+  </programme>
+  <programme start="20260819015000 -0300" stop="20260819024000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260819024000 -0300" stop="20260819032500 -0300" channel="National Geographic.br">
+    <title lang="pt">Cidades Desvendadas com Albert Lin</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.</desc>
+  </programme>
+  <programme start="20260819032500 -0300" stop="20260819041000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel - Rio Mekong</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Hazen Audel começa uma aventura de sobrevivência épica no alto das montanhas do Laos.</desc>
+  </programme>
+  <programme start="20260819041000 -0300" stop="20260819045500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Peru</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.</desc>
+  </programme>
+  <programme start="20260819045500 -0300" stop="20260819053500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Peru</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.</desc>
+  </programme>
+  <programme start="20260819053500 -0300" stop="20260819060000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260819060000 -0300" stop="20260819062000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260819062000 -0300" stop="20260819064000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260819064000 -0300" stop="20260819070000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260819070000 -0300" stop="20260819072500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260819072500 -0300" stop="20260819075000 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260819075000 -0300" stop="20260819081500 -0300" channel="National Geographic.br">
+    <title lang="pt">Eco-Eye - Soluções Sustentáveis</title>
+    <category lang="pt">Environment</category>
+    <desc lang="pt">Fique por dentro das questões ambientais críticas que impactam todo o mundo.</desc>
+  </programme>
+  <programme start="20260819081500 -0300" stop="20260819084000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260819084000 -0300" stop="20260819091000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas</title>
+    <category lang="pt">Consumer</category>
+    <desc lang="pt">Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.</desc>
+  </programme>
+  <programme start="20260819091000 -0300" stop="20260819093500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260819093500 -0300" stop="20260819100000 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
+  </programme>
+  <programme start="20260819100000 -0300" stop="20260819110000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sabores Extremos com Gordon Ramsay</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.</desc>
+  </programme>
+  <programme start="20260819110000 -0300" stop="20260819115500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260819115500 -0300" stop="20260819124500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260819124500 -0300" stop="20260819134000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivendo Abaixo de Zero - Sabedoria Nativa</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Alasca, povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais.</desc>
+  </programme>
+  <programme start="20260819134000 -0300" stop="20260819143500 -0300" channel="National Geographic.br">
+    <title lang="pt">Celebridades à Prova de Tudo</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Bear Grylls, o aventureiro global e renomado especialista em sobrevivência, leva uma celebridade para um inesquecível fim de semana de aventura na natureza. Os convidados incluem Ben Stiller, Channing Tatum, Zac Efron, Kate Hudson e Kate Winslet.</desc>
+  </programme>
+  <programme start="20260819143500 -0300" stop="20260819153000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.</desc>
+  </programme>
+  <programme start="20260819153000 -0300" stop="20260819161500 -0300" channel="National Geographic.br">
+    <title lang="pt">Predadores Africanos</title>
+    <category lang="pt">Animals</category>
+    <desc lang="pt">A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação.</desc>
+  </programme>
+  <programme start="20260819161500 -0300" stop="20260819172000 -0300" channel="National Geographic.br">
+    <title lang="pt">SOS Cobra</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas.</desc>
+  </programme>
+  <programme start="20260819172000 -0300" stop="20260819181500 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260819181500 -0300" stop="20260819191000 -0300" channel="National Geographic.br">
+    <title lang="pt">Brasil Selvagem</title>
+    <category lang="pt">Nature</category>
+    <desc lang="pt">Aventure-se nos exuberantes limites dos maiores brasileiros, que hospedam uma variedade de criaturas incomuns com hábitos igualmente estranhos.</desc>
+  </programme>
+  <programme start="20260819191000 -0300" stop="20260819201500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Peru</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.</desc>
+  </programme>
+  <programme start="20260819201500 -0300" stop="20260819210000 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Peru</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.</desc>
+  </programme>
+  <programme start="20260819210000 -0300" stop="20260819220000 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260819220000 -0300" stop="20260819225500 -0300" channel="National Geographic.br">
+    <title lang="pt">Especial de Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260819225500 -0300" stop="20260819235000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260819235000 -0300" stop="20260820005000 -0300" channel="National Geographic.br">
+    <title lang="pt">Inferno Submerso</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Conheça alguns dos melhores submarinos da 2ª Guerra Mundial e as batalhas que eles travaram.</desc>
+  </programme>
+  <programme start="20260820005000 -0300" stop="20260820015000 -0300" channel="National Geographic.br">
+    <title lang="pt">Inferno Submerso</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Conheça alguns dos melhores submarinos da 2ª Guerra Mundial e as batalhas que eles travaram.</desc>
+  </programme>
+  <programme start="20260820015000 -0300" stop="20260820024000 -0300" channel="National Geographic.br">
+    <title lang="pt">Mayday! Desastres Aéreos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.</desc>
+  </programme>
+  <programme start="20260820024000 -0300" stop="20260820032500 -0300" channel="National Geographic.br">
+    <title lang="pt">Cidades Desvendadas com Albert Lin</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.</desc>
+  </programme>
+  <programme start="20260820032500 -0300" stop="20260820041000 -0300" channel="National Geographic.br">
+    <title lang="pt">Sobrevivente Primitivo com Hazen Audel</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.</desc>
+  </programme>
+  <programme start="20260820041000 -0300" stop="20260820045500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260820045500 -0300" stop="20260820053500 -0300" channel="National Geographic.br">
+    <title lang="pt">Aeroporto - Madri</title>
+    <category lang="pt">Reality</category>
+    <desc lang="pt">Saiba mais sobre os crimes no aeroporto Madri-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.</desc>
+  </programme>
+  <programme start="20260820053500 -0300" stop="20260820063500 -0300" channel="National Geographic.br">
+    <title lang="pt">A Fábrica de Comidas: Estados Unidos</title>
+    <category lang="pt">Documentary</category>
+    <desc lang="pt">Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.</desc>
   </programme>
   <programme start="20260818000000 -0300" stop="20260818060000 -0300" channel="LIKE.br">
     <title lang="pt">Dicas do Que Assistir? Aqui Tem!</title>
@@ -28038,9 +28373,6 @@
   <programme start="20260824210000 -0300" stop="20260824220000 -0300" channel="MEGAPIX HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260818110100 -0300" stop="20260818113000 -0300" channel="Multishow.br">
-    <title lang="pt">Chapolin</title>
-  </programme>
   <programme start="20260818113000 -0300" stop="20260818121600 -0300" channel="Multishow.br">
     <title lang="pt">Vai Que Cola</title>
   </programme>
@@ -28841,9 +29173,6 @@
   </programme>
   <programme start="20260824210000 -0300" stop="20260824220000 -0300" channel="Multishow.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260818104000 -0300" stop="20260818113000 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Trindade Nordestina</title>
   </programme>
   <programme start="20260818113000 -0300" stop="20260818120000 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Jukebox (videoclipes)</title>
@@ -34638,9 +34967,6 @@
   <programme start="20260824193000 -0300" stop="20260824203000 -0300" channel="Premiere Clubes.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260818110000 -0300" stop="20260818113000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">O Baldio Som de Deus</title>
-  </programme>
   <programme start="20260818113000 -0300" stop="20260818120000 -0300" channel="Prime Box Brazil HD.br">
     <title lang="pt">Territórios Negros</title>
   </programme>
@@ -35033,9 +35359,6 @@
   </programme>
   <programme start="20260820235500 -0300" stop="20260821005500 -0300" channel="Prime Box Brazil HD.br">
     <title lang="pt">Box Brazil Play News</title>
-  </programme>
-  <programme start="20260818095000 -0300" stop="20260818113000 -0300" channel="Record TV.br">
-    <title lang="pt">Hoje em Dia</title>
   </programme>
   <programme start="20260818113000 -0300" stop="20260818123000 -0300" channel="Record TV.br">
     <title lang="pt">Balanço Geral - SP</title>
@@ -35486,9 +35809,6 @@
   </programme>
   <programme start="20260824210000 -0300" stop="20260824220000 -0300" channel="Record TV.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260818100000 -0300" stop="20260818113000 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">De Bem Com a Vida</title>
   </programme>
   <programme start="20260818113000 -0300" stop="20260818133000 -0300" channel="Rede Gospel HD.br">
     <title lang="pt">Renascer</title>
@@ -35963,9 +36283,6 @@
   </programme>
   <programme start="20260824220000 -0300" stop="20260824230000 -0300" channel="Rede Gospel HD.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260818103000 -0300" stop="20260818113000 -0300" channel="Rede TV.br">
-    <title lang="pt">Fica Com a Gente</title>
   </programme>
   <programme start="20260818113000 -0300" stop="20260818120000 -0300" channel="Rede TV.br">
     <title lang="pt">RedeTV! Notícias - 1ª Edição</title>
@@ -38487,9 +38804,6 @@
   <programme start="20260824210000 -0300" stop="20260824220000 -0300" channel="Studio Universal.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260818104000 -0300" stop="20260818113000 -0300" channel="Syfy HD.br">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
   <programme start="20260818113000 -0300" stop="20260818122000 -0300" channel="Syfy HD.br">
     <title lang="pt">Blue Bloods</title>
   </programme>
@@ -40695,9 +41009,6 @@
   <programme start="20260820235300 -0300" stop="20260821005300 -0300" channel="TNT.br">
     <title lang="pt">Todo Mundo Odeia o Chris : Todo Mundo Odeia O Dia Da Terra</title>
   </programme>
-  <programme start="20260818100000 -0300" stop="20260818113000 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">Família dos Devotos</title>
-  </programme>
   <programme start="20260818113000 -0300" stop="20260818113500 -0300" channel="TV Aparecida (aberta).br">
     <title lang="pt">Diálogos - Qual Caminho Seguir?</title>
   </programme>
@@ -42771,9 +43082,6 @@
   <programme start="20260820234000 -0300" stop="20260821004000 -0300" channel="Telecine Action.br">
     <title lang="pt">Rogue - O Assassino</title>
   </programme>
-  <programme start="20260818095500 -0300" stop="20260818113000 -0300" channel="Telecine Cult.br">
-    <title lang="pt">Tempos Modernos</title>
-  </programme>
   <programme start="20260818113000 -0300" stop="20260818131000 -0300" channel="Telecine Cult.br">
     <title lang="pt">Rambo - Programado para Matar</title>
   </programme>
@@ -44405,9 +44713,6 @@
   </programme>
   <programme start="20260824211500 -0300" stop="20260824221500 -0300" channel="Travel Box Brazil.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260818104000 -0300" stop="20260818113000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Chicago Fire</title>
   </programme>
   <programme start="20260818113000 -0300" stop="20260818122000 -0300" channel="Universal Channel.br">
     <title lang="pt">Chicago P.D.</title>
