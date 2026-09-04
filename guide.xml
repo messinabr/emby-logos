@@ -3399,38 +3399,6 @@
   <programme start="20260903231900 -0300" stop="20260904001900 -0300" channel="Modo Viagem.br">
     <title lang="pt">A Vida É Uma Passagem</title>
   </programme>
-  <programme start="20260903152700 -0300" stop="20260903155200 -0300" channel="Canal Brasil.br">
-    <title lang="pt">Maratona The Beat Diáspora - Reggaeton</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260903155200 -0300" stop="20260903161300 -0300" channel="Canal Brasil.br">
-    <title lang="pt">Maratona The Beat Diáspora - Dancehall</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260903161300 -0300" stop="20260903163700 -0300" channel="Canal Brasil.br">
-    <title lang="pt">Maratona The Beat Diáspora - Bahia Eletrônica</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260903163700 -0300" stop="20260903170400 -0300" channel="Canal Brasil.br">
-    <title lang="pt">Maratona The Beat Diáspora - Afrobeats</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20260903170400 -0300" stop="20260903171000 -0300" channel="Canal Brasil.br">
-    <title lang="pt">Inéditas, Dispersas E Animadas</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20260903171000 -0300" stop="20260903181500 -0300" channel="Canal Brasil.br">
-    <title lang="pt">Augusto Boal E O Teatro Do Oprimido</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903181500 -0300" stop="20260903193000 -0300" channel="Canal Brasil.br">
-    <title lang="pt">É Tudo Verdade: Toquinho: Encontros E Um Violão</title>
-    <category lang="pt">Filme/Documentário</category>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903204500 -0300" channel="Canal Brasil.br">
-    <title lang="pt">Buenosaires</title>
-    <category lang="pt">Filme/Documentário</category>
-  </programme>
   <programme start="20260903204500 -0300" stop="20260903223000 -0300" channel="Canal Brasil.br">
     <title lang="pt">A Terra Negra Dos Kawa</title>
     <category lang="pt">Filme/Drama</category>
@@ -4670,54 +4638,6 @@
   <programme start="20260917231100 -0300" stop="20260918001100 -0300" channel="Canal Brasil.br">
     <title lang="pt">Maratona João Sem Deus - A Queda De Abadiânia - Carmem</title>
     <category lang="pt">Séries/Ficção</category>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903154500 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilões Em Destaque</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903154500 -0300" stop="20260903160000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Terralmo Negócios Rurais</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903163000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Agricultura BR 3ª Edição</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903164500 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Fala Carlão</title>
-    <category lang="pt">Variedades/Entrevista</category>
-  </programme>
-  <programme start="20260903164500 -0300" stop="20260903165000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Agroclima</title>
-    <category lang="pt">Variedades/Informativo</category>
-  </programme>
-  <programme start="20260903165000 -0300" stop="20260903191000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Mais Pecuária</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20260903191000 -0300" stop="20260903192000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilões Em Destaque</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903192000 -0300" stop="20260903193000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Terralmo Negócios Rurais</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Na Batida do Martelo</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Terralmo Negócios Rurais</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Genética BR</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="Canal do Boi.br">
-    <title lang="pt">Leilões Em Destaque</title>
-    <category lang="pt">Variedades/Diversos</category>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="Canal do Boi.br">
     <title lang="pt">Terralmo Negócios Rurais</title>
@@ -6899,22 +6819,6 @@
     <title lang="pt">Homens Que São Feras</title>
     <category lang="pt">Filme/Western</category>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903155000 -0300" channel="Eurochannel.br">
-    <title lang="pt">Sombras do Passado</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260903155000 -0300" stop="20260903174000 -0300" channel="Eurochannel.br">
-    <title lang="pt">Fúria</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260903174000 -0300" stop="20260903192500 -0300" channel="Eurochannel.br">
-    <title lang="pt">Selvagem</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260903192500 -0300" stop="20260903210500 -0300" channel="Eurochannel.br">
-    <title lang="pt">Morte na Alma</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
   <programme start="20260903210500 -0300" stop="20260903224500 -0300" channel="Eurochannel.br">
     <title lang="pt">Vila das Sombras</title>
     <category lang="pt">Filme/Suspense</category>
@@ -7742,46 +7646,6 @@
   <programme start="20260917232000 -0300" stop="20260918002000 -0300" channel="Eurochannel.br">
     <title lang="pt">Enterrados</title>
     <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20260903152300 -0300" stop="20260903154500 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Les Bienvenu... Ou Presque</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903154500 -0300" stop="20260903160700 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Les Bienvenu... Ou Presque</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903160700 -0300" stop="20260903163300 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Les Bienvenu... Ou Presque</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903163300 -0300" stop="20260903170000 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Ligue 1 Mcdonald's - Avant-matchs</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903172700 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Le Journal De La RTS</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20260903172700 -0300" stop="20260903180000 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Slam</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Le Journal Afrique</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190000 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Magazine</title>
-    <category lang="pt">Jornalismo/Informativo</category>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903200000 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Les 100 Lieux Qu'il Faut Voir</title>
-    <category lang="pt">Variedades/Diversos</category>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203100 -0300" channel="TV5 MONDE.br">
-    <title lang="pt">Le Journal de France 2</title>
-    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
   <programme start="20260903203100 -0300" stop="20260903224300 -0300" channel="TV5 MONDE.br">
     <title lang="pt">100% Logique - La Réponse Est Sous Vos Yeux</title>
@@ -9935,30 +9799,6 @@
     <title lang="pt">Corps Noirs</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20260903152000 -0300" stop="20260903154500 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Polícia em Ação</title>
-  </programme>
-  <programme start="20260903154500 -0300" stop="20260903164300 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Bosch : As Quatro Últimas Coisas</title>
-  </programme>
-  <programme start="20260903164300 -0300" stop="20260903174300 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Bosch : Deus Vê</title>
-  </programme>
-  <programme start="20260903174300 -0300" stop="20260903183300 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Caçadores de Fugitivos : Problemas no Paraíso</title>
-  </programme>
-  <programme start="20260903183300 -0300" stop="20260903184900 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Rota - A Polícia de Elite</title>
-  </programme>
-  <programme start="20260903184900 -0300" stop="20260903190500 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Rota - A Polícia de Elite</title>
-  </programme>
-  <programme start="20260903190500 -0300" stop="20260903200000 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Operação Policial : Mandados de Prisão</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903205500 -0300" channel="A&amp;E HD.br">
-    <title lang="pt">Operação Policial : Vítima Baleada</title>
-  </programme>
   <programme start="20260903205500 -0300" stop="20260903220000 -0300" channel="A&amp;E HD.br">
     <title lang="pt">Linha de Combate</title>
   </programme>
@@ -10202,15 +10042,6 @@
   <programme start="20260905234000 -0300" stop="20260906004000 -0300" channel="A&amp;E HD.br">
     <title lang="pt">Segredos das Celebridades - Sex Tapes : Pamela Anderson e Tommy Lee</title>
   </programme>
-  <programme start="20260903135000 -0300" stop="20260903160500 -0300" channel="AMC Brasil.br">
-    <title lang="pt">Caça-Fantasmas</title>
-  </programme>
-  <programme start="20260903160500 -0300" stop="20260903180500 -0300" channel="AMC Brasil.br">
-    <title lang="pt">Qual Seu Número?</title>
-  </programme>
-  <programme start="20260903180500 -0300" stop="20260903193500 -0300" channel="AMC Brasil.br">
-    <title lang="pt">Fora de Cena</title>
-  </programme>
   <programme start="20260903193500 -0300" stop="20260903220000 -0300" channel="AMC Brasil.br">
     <title lang="pt">Creed</title>
   </programme>
@@ -10348,27 +10179,6 @@
   </programme>
   <programme start="20260905220000 -0300" stop="20260905230000 -0300" channel="AMC Brasil.br">
     <title lang="pt">Encontro Explosivo</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903162000 -0300" channel="AXN.br">
-    <title lang="pt">CSI: Miami : 10-7</title>
-  </programme>
-  <programme start="20260903162000 -0300" stop="20260903171000 -0300" channel="AXN.br">
-    <title lang="pt">CSI: Miami : From the Grave</title>
-  </programme>
-  <programme start="20260903171000 -0300" stop="20260903180000 -0300" channel="AXN.br">
-    <title lang="pt">CSI: Miami : Blood in the Water</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903185000 -0300" channel="AXN.br">
-    <title lang="pt">Hawaii Five-0 : Ma&amp;#039;ema&amp;#039;e</title>
-  </programme>
-  <programme start="20260903185000 -0300" stop="20260903194000 -0300" channel="AXN.br">
-    <title lang="pt">Hawaii Five-0 : Ka Hakaka Maika&amp;#039;i</title>
-  </programme>
-  <programme start="20260903194000 -0300" stop="20260903203000 -0300" channel="AXN.br">
-    <title lang="pt">S.W.A.T. : Pilot</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903212000 -0300" channel="AXN.br">
-    <title lang="pt">S.W.A.T. : Cuchillo</title>
   </programme>
   <programme start="20260903212000 -0300" stop="20260903221000 -0300" channel="AXN.br">
     <title lang="pt">Hudson &amp; Rex : Mansion on a Hill</title>
@@ -10546,54 +10356,6 @@
   </programme>
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="AXN.br">
     <title lang="pt">Perícia Lab : Massacre no Cinema</title>
-  </programme>
-  <programme start="20260903152700 -0300" stop="20260903155200 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Justiça Jovem : Alvos</title>
-  </programme>
-  <programme start="20260903155200 -0300" stop="20260903161500 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Justiça Jovem : Gêmeos do Terror</title>
-  </programme>
-  <programme start="20260903161500 -0300" stop="20260903163100 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Sociedade da Virtude</title>
-  </programme>
-  <programme start="20260903163100 -0300" stop="20260903164700 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Sociedade da Virtude</title>
-  </programme>
-  <programme start="20260903164700 -0300" stop="20260903171100 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Batman: The Animated Series : Tempo Esgotado</title>
-  </programme>
-  <programme start="20260903171100 -0300" stop="20260903173300 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Batman: The Animated Series : O Feriado da Arlequina</title>
-  </programme>
-  <programme start="20260903173300 -0300" stop="20260903175900 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">DAN DA DAN : Ela Tá Meio Bolada</title>
-  </programme>
-  <programme start="20260903175900 -0300" stop="20260903182300 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Os Cavaleiros do Zodíaco : Fênix e Suas Asas Ardentes</title>
-  </programme>
-  <programme start="20260903182300 -0300" stop="20260903184700 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Frieren e a Jornada para o Além : A Terra Onde Descansam as Almas</title>
-  </programme>
-  <programme start="20260903184700 -0300" stop="20260903191200 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Diários de uma Apotecária : Ophiocordyceps Sapiens</title>
-  </programme>
-  <programme start="20260903191200 -0300" stop="20260903193600 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Dragon Ball Z : Rip in the Universe</title>
-  </programme>
-  <programme start="20260903193600 -0300" stop="20260903200300 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Dragon Ball Z : Vegito ... Downsized</title>
-  </programme>
-  <programme start="20260903200300 -0300" stop="20260903202500 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Rick and Morty : Foi um Crio que Parickssou em Morty Vida</title>
-  </programme>
-  <programme start="20260903202500 -0300" stop="20260903205000 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Rick and Morty : Maior que a Rickção</title>
-  </programme>
-  <programme start="20260903205000 -0300" stop="20260903211500 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Primal : O Colossaeus</title>
-  </programme>
-  <programme start="20260903211500 -0300" stop="20260903213100 -0300" channel="Adult Swim HD.br">
-    <title lang="pt">Sociedade da Virtude</title>
   </programme>
   <programme start="20260903213100 -0300" stop="20260903214700 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Sociedade da Virtude</title>
@@ -11006,27 +10768,6 @@
   <programme start="20260905234400 -0300" stop="20260906004400 -0300" channel="Adult Swim HD.br">
     <title lang="pt">Jujutsu Kaisen : E É Assim</title>
   </programme>
-  <programme start="20260903153300 -0300" stop="20260903162600 -0300" channel="Animal Planet.br">
-    <title lang="pt">Batalha de Tubarões</title>
-  </programme>
-  <programme start="20260903162600 -0300" stop="20260903171900 -0300" channel="Animal Planet.br">
-    <title lang="pt">Monstro da Flórida</title>
-  </programme>
-  <programme start="20260903171900 -0300" stop="20260903180900 -0300" channel="Animal Planet.br">
-    <title lang="pt">River Monsters : Traíra Gigante</title>
-  </programme>
-  <programme start="20260903180900 -0300" stop="20260903185900 -0300" channel="Animal Planet.br">
-    <title lang="pt">Monstros do Rio : Raia-de-Água-Doce</title>
-  </programme>
-  <programme start="20260903185900 -0300" stop="20260903195000 -0300" channel="Animal Planet.br">
-    <title lang="pt">Pesca Mortal : Fogo no Mar: Parte 1</title>
-  </programme>
-  <programme start="20260903195000 -0300" stop="20260903204100 -0300" channel="Animal Planet.br">
-    <title lang="pt">Pesca Mortal : Fogo no Mar: Parte 2</title>
-  </programme>
-  <programme start="20260903204100 -0300" stop="20260903213400 -0300" channel="Animal Planet.br">
-    <title lang="pt">O Aquário : Pinguim Ferido</title>
-  </programme>
   <programme start="20260903213400 -0300" stop="20260903222400 -0300" channel="Animal Planet.br">
     <title lang="pt">Veterinário das Montanhas : Cuidar e Amar</title>
   </programme>
@@ -11194,27 +10935,6 @@
   </programme>
   <programme start="20260905231500 -0300" stop="20260906001500 -0300" channel="Animal Planet.br">
     <title lang="pt">Monstros do Rio : Piranha</title>
-  </programme>
-  <programme start="20260903141500 -0300" stop="20260903170000 -0300" channel="Arte 1.br">
-    <title lang="pt">The Square - A Arte da Discórdia</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903173000 -0300" channel="Arte 1.br">
-    <title lang="pt">Um Olhar Estrangeiro da Arte Brasileira : Oskar Metsavaht</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903180000 -0300" channel="Arte 1.br">
-    <title lang="pt">Compondo Futuros : Dia a Dia</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="Arte 1.br">
-    <title lang="pt">Fábricas de Sonho : Lina Bo Bardi</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="Arte 1.br">
-    <title lang="pt">Especial Arte 1 : Walter Hugo Mãe</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903203000 -0300" channel="Arte 1.br">
-    <title lang="pt">Arte Brasileira Quadro a Quadro : Um Novo Realismo</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903213000 -0300" channel="Arte 1.br">
-    <title lang="pt">Arquitetos Brasileiros : Angelo Bucci</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="Arte 1.br">
     <title lang="pt">Arte 1 em Movimento</title>
@@ -11386,39 +11106,6 @@
   </programme>
   <programme start="20260905230000 -0300" stop="20260906000000 -0300" channel="Arte 1.br">
     <title lang="pt">A Arte dos Museus : Museu Solomon R. Guggenheim, Nova York</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903160000 -0300" channel="BBC News.br">
-    <title lang="pt">The World Today with Maryam Moshiri</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903163000 -0300" channel="BBC News.br">
-    <title lang="pt">The Context USA</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903170000 -0300" channel="BBC News.br">
-    <title lang="pt">The Context USA</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903173000 -0300" channel="BBC News.br">
-    <title lang="pt">The Context</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903180000 -0300" channel="BBC News.br">
-    <title lang="pt">The Context</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="BBC News.br">
-    <title lang="pt">BBC World News America</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190000 -0300" channel="BBC News.br">
-    <title lang="pt">Newsnight</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903200000 -0300" channel="BBC News.br">
-    <title lang="pt">BBC World News America</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="BBC News.br">
-    <title lang="pt">BBC News</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="BBC News.br">
-    <title lang="pt">Newscast</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="BBC News.br">
-    <title lang="pt">BBC News</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="BBC News.br">
     <title lang="pt">Tech Now</title>
@@ -11729,21 +11416,6 @@
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="BBC News.br">
     <title lang="pt">AI Decoded</title>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903170000 -0300" channel="Band News.br">
-    <title lang="pt">Tarde BandNews</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903180000 -0300" channel="Band News.br">
-    <title lang="pt">Expresso BandNews</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903193000 -0300" channel="Band News.br">
-    <title lang="pt">O É da Coisa</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903203000 -0300" channel="Band News.br">
-    <title lang="pt">Panorama Bandnews</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903213000 -0300" channel="Band News.br">
-    <title lang="pt">Jornal da Band</title>
-  </programme>
   <programme start="20260903213000 -0300" stop="20260903233000 -0300" channel="Band News.br">
     <title lang="pt">Edição da Noite</title>
   </programme>
@@ -11906,7 +11578,7 @@
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="Band News.br">
     <title lang="pt">Descobrindo os Tesouros do Brasil</title>
   </programme>
-  <programme start="20260903153000 -0300" stop="20260903220000 -0300" channel="Band Sports.br">
+  <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="Band Sports.br">
     <title lang="pt">The Outdoor Sport Show</title>
   </programme>
   <programme start="20260903220000 -0300" stop="20260903233000 -0300" channel="Band Sports.br">
@@ -12196,18 +11868,6 @@
   </programme>
   <programme start="20260909221500 -0300" stop="20260909231500 -0300" channel="Band Sports.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903143000 -0300" stop="20260903160000 -0300" channel="Band São Paulo.br">
-    <title lang="pt">Melhor da Tarde</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903192000 -0300" channel="Band São Paulo.br">
-    <title lang="pt">Brasil Urgente</title>
-  </programme>
-  <programme start="20260903192000 -0300" stop="20260903203000 -0300" channel="Band São Paulo.br">
-    <title lang="pt">Jornal da Band</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903205500 -0300" channel="Band São Paulo.br">
-    <title lang="pt">Horário Político</title>
   </programme>
   <programme start="20260903205500 -0300" stop="20260903215000 -0300" channel="Band São Paulo.br">
     <title lang="pt">Guerra das Rosas</title>
@@ -12571,66 +12231,6 @@
   </programme>
   <programme start="20260909205500 -0300" stop="20260909215500 -0300" channel="Band São Paulo.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903145800 -0300" stop="20260903155700 -0300" channel="Bis.br">
-    <title lang="pt">Sting: Live At The Olympia Paris</title>
-  </programme>
-  <programme start="20260903155700 -0300" stop="20260903165800 -0300" channel="Bis.br">
-    <title lang="pt">Pet Shop Boys - Inner Sanctum: The Super Tour Live At Royal Opera House London</title>
-  </programme>
-  <programme start="20260903165800 -0300" stop="20260903175800 -0300" channel="Bis.br">
-    <title lang="pt">Jeff Beck: Live At The Hollywood Bowl</title>
-  </programme>
-  <programme start="20260903175800 -0300" stop="20260903183000 -0300" channel="Bis.br">
-    <title lang="pt">Além Da Rima</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903183300 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903183300 -0300" stop="20260903183600 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903183600 -0300" stop="20260903183900 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903183900 -0300" stop="20260903184400 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903184400 -0300" stop="20260903184700 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903184700 -0300" stop="20260903185000 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903185000 -0300" stop="20260903185300 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903185300 -0300" stop="20260903185700 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903185700 -0300" stop="20260903190000 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193100 -0300" channel="Bis.br">
-    <title lang="pt">Voz Da Consciência</title>
-  </programme>
-  <programme start="20260903193100 -0300" stop="20260903200100 -0300" channel="Bis.br">
-    <title lang="pt">Hip Hop Machine</title>
-  </programme>
-  <programme start="20260903200100 -0300" stop="20260903203100 -0300" channel="Bis.br">
-    <title lang="pt">Experimente</title>
-  </programme>
-  <programme start="20260903203100 -0300" stop="20260903210100 -0300" channel="Bis.br">
-    <title lang="pt">Filhos Da Música</title>
-  </programme>
-  <programme start="20260903210100 -0300" stop="20260903213200 -0300" channel="Bis.br">
-    <title lang="pt">Afrofluxo: O Som Da Música Preta</title>
-  </programme>
-  <programme start="20260903213200 -0300" stop="20260903213500 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
-  </programme>
-  <programme start="20260903213500 -0300" stop="20260903213800 -0300" channel="Bis.br">
-    <title lang="pt">Setlist</title>
   </programme>
   <programme start="20260903213800 -0300" stop="20260903214100 -0300" channel="Bis.br">
     <title lang="pt">Setlist</title>
@@ -13052,15 +12652,6 @@
   <programme start="20260909205900 -0300" stop="20260909215900 -0300" channel="Bis.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903152700 -0300" stop="20260903170800 -0300" channel="CINEMAX HD.br">
-    <title lang="pt">A Sogra</title>
-  </programme>
-  <programme start="20260903170800 -0300" stop="20260903185600 -0300" channel="CINEMAX HD.br">
-    <title lang="pt">Padrinhos Ltda.</title>
-  </programme>
-  <programme start="20260903185600 -0300" stop="20260903204000 -0300" channel="CINEMAX HD.br">
-    <title lang="pt">Amor à Distância</title>
-  </programme>
   <programme start="20260903204000 -0300" stop="20260903223000 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Alma da Festa</title>
   </programme>
@@ -13141,24 +12732,6 @@
   </programme>
   <programme start="20260905223000 -0300" stop="20260905233000 -0300" channel="CINEMAX HD.br">
     <title lang="pt">Harry Potter e a Câmara Secreta</title>
-  </programme>
-  <programme start="20260903150000 -0300" stop="20260903175000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN 360º</title>
-  </programme>
-  <programme start="20260903175000 -0300" stop="20260903180000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN Mercado</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903195500 -0300" channel="CNN Brasil.br">
-    <title lang="pt">Hora H</title>
-  </programme>
-  <programme start="20260903195500 -0300" stop="20260903200000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN Agro News</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903205500 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN Prime Time</title>
-  </programme>
-  <programme start="20260903205500 -0300" stop="20260903210000 -0300" channel="CNN Brasil.br">
-    <title lang="pt">CNN Agro News</title>
   </programme>
   <programme start="20260903210000 -0300" stop="20260903220000 -0300" channel="CNN Brasil.br">
     <title lang="pt">CNN Eleições 2026 : Entrevistas Presidenciáveis</title>
@@ -13318,36 +12891,6 @@
   </programme>
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="CNN Brasil.br">
     <title lang="pt">CNN Prime Time</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903160000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903170000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903173000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">O Mundo (Sem Filtro) de Any Malu</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903180000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">Clarêncio, o Otimista</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">Apenas um Show - As Fitas Perdidas</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">O Mundo Maravilhosamente Estranho de Gumball</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Cartoon Network.br">
-    <title lang="pt">Irmão do Jorel</title>
   </programme>
   <programme start="20260903210000 -0300" stop="20260903220000 -0300" channel="Cartoon Network.br">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -13552,123 +13095,6 @@
   </programme>
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="Cartoon Network.br">
     <title lang="pt">Steven Universo</title>
-  </programme>
-  <programme start="20260903153900 -0300" stop="20260903154600 -0300" channel="Cartoonito.br">
-    <title lang="pt">Grizzy e os Lemmings</title>
-  </programme>
-  <programme start="20260903154600 -0300" stop="20260903155300 -0300" channel="Cartoonito.br">
-    <title lang="pt">Grizzy e os Lemmings : Amizade Improvável</title>
-  </programme>
-  <programme start="20260903155300 -0300" stop="20260903160000 -0300" channel="Cartoonito.br">
-    <title lang="pt">Grizzy and the Lemmings : Miojo de Chocolate</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903160800 -0300" channel="Cartoonito.br">
-    <title lang="pt">Lu e Seus Amigos : Estourando Bolhas</title>
-  </programme>
-  <programme start="20260903160800 -0300" stop="20260903161700 -0300" channel="Cartoonito.br">
-    <title lang="pt">Lu e Seus Amigos : A Decisão da Lu</title>
-  </programme>
-  <programme start="20260903161700 -0300" stop="20260903162500 -0300" channel="Cartoonito.br">
-    <title lang="pt">Lu e Seus Amigos : Linhas Crescentes</title>
-  </programme>
-  <programme start="20260903162500 -0300" stop="20260903163300 -0300" channel="Cartoonito.br">
-    <title lang="pt">Lu e Seus Amigos : A Lagarta Mandou</title>
-  </programme>
-  <programme start="20260903163300 -0300" stop="20260903164000 -0300" channel="Cartoonito.br">
-    <title lang="pt">Pocoyo : O Vigia do Sono</title>
-  </programme>
-  <programme start="20260903164000 -0300" stop="20260903164800 -0300" channel="Cartoonito.br">
-    <title lang="pt">Pocoyo : Piratas</title>
-  </programme>
-  <programme start="20260903164800 -0300" stop="20260903165500 -0300" channel="Cartoonito.br">
-    <title lang="pt">Pocoyo : O Restaurante do Pocoyo</title>
-  </programme>
-  <programme start="20260903165500 -0300" stop="20260903170300 -0300" channel="Cartoonito.br">
-    <title lang="pt">Pocoyo : O Circo</title>
-  </programme>
-  <programme start="20260903170300 -0300" stop="20260903172700 -0300" channel="Cartoonito.br">
-    <title lang="pt">A Casa Mágica da Gabby : Detetives da Casa Mágica</title>
-  </programme>
-  <programme start="20260903172700 -0300" stop="20260903173400 -0300" channel="Cartoonito.br">
-    <title lang="pt">Mundo Bita - Imagine-se : Festa no Escuro</title>
-  </programme>
-  <programme start="20260903173400 -0300" stop="20260903174100 -0300" channel="Cartoonito.br">
-    <title lang="pt">Mundo Bita - Imagine-se : Abra as Portas da Criatividade</title>
-  </programme>
-  <programme start="20260903174100 -0300" stop="20260903175400 -0300" channel="Cartoonito.br">
-    <title lang="pt">Crescendo com a Galinha Pintadinha : A Ilha Encantada</title>
-  </programme>
-  <programme start="20260903175400 -0300" stop="20260903180100 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : O Distintivo da Hora de se Arrumar</title>
-  </programme>
-  <programme start="20260903180100 -0300" stop="20260903180800 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : Duggee e o Distintivo da Assombração</title>
-  </programme>
-  <programme start="20260903180800 -0300" stop="20260903181600 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : Duggee e o Distintivo da Banana Corajosa</title>
-  </programme>
-  <programme start="20260903181600 -0300" stop="20260903182300 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : Duggee e o Distintivo das Bolhas</title>
-  </programme>
-  <programme start="20260903182300 -0300" stop="20260903183100 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : O Distintivo dos Desejos</title>
-  </programme>
-  <programme start="20260903183100 -0300" stop="20260903183800 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : O Distintivo da Biblioteca</title>
-  </programme>
-  <programme start="20260903183800 -0300" stop="20260903184500 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : Duggee e o Distintivo de Bolo</title>
-  </programme>
-  <programme start="20260903184500 -0300" stop="20260903185200 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : Duggee e o Distintivo de Primeiros Socorros</title>
-  </programme>
-  <programme start="20260903185200 -0300" stop="20260903190000 -0300" channel="Cartoonito.br">
-    <title lang="pt">Oi, Duggee! : A Insígnia da Brincadeira</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903191100 -0300" channel="Cartoonito.br">
-    <title lang="pt">Perninha em Obras : O Passeio de Balão</title>
-  </programme>
-  <programme start="20260903191100 -0300" stop="20260903192300 -0300" channel="Cartoonito.br">
-    <title lang="pt">Perninha em Obras : O Pequeno Piu-Piu</title>
-  </programme>
-  <programme start="20260903192300 -0300" stop="20260903193500 -0300" channel="Cartoonito.br">
-    <title lang="pt">Perninha em Obras : O Caminhão da Baleia</title>
-  </programme>
-  <programme start="20260903193500 -0300" stop="20260903194600 -0300" channel="Cartoonito.br">
-    <title lang="pt">Perninha em Obras : A Casa do Taz</title>
-  </programme>
-  <programme start="20260903194600 -0300" stop="20260903195700 -0300" channel="Cartoonito.br">
-    <title lang="pt">Perninha em Obras : Para Deixar Brilhando</title>
-  </programme>
-  <programme start="20260903195700 -0300" stop="20260903200900 -0300" channel="Cartoonito.br">
-    <title lang="pt">Batwheels : Missão - Bichinho de Pelúcia</title>
-  </programme>
-  <programme start="20260903200900 -0300" stop="20260903202000 -0300" channel="Cartoonito.br">
-    <title lang="pt">Batwheels : Harley Fez Isso</title>
-  </programme>
-  <programme start="20260903202000 -0300" stop="20260903203200 -0300" channel="Cartoonito.br">
-    <title lang="pt">Batwheels : E Já Está no Ar</title>
-  </programme>
-  <programme start="20260903203200 -0300" stop="20260903204300 -0300" channel="Cartoonito.br">
-    <title lang="pt">Batwheels : O que É o que É</title>
-  </programme>
-  <programme start="20260903204300 -0300" stop="20260903205500 -0300" channel="Cartoonito.br">
-    <title lang="pt">Batwheels : Morcegos a Mostra</title>
-  </programme>
-  <programme start="20260903205500 -0300" stop="20260903210600 -0300" channel="Cartoonito.br">
-    <title lang="pt">Batwheels : A Gatástrofe do Bam</title>
-  </programme>
-  <programme start="20260903210600 -0300" stop="20260903211300 -0300" channel="Cartoonito.br">
-    <title lang="pt">Grizzy e os Lemmings : Peixinho Adorado</title>
-  </programme>
-  <programme start="20260903211300 -0300" stop="20260903212100 -0300" channel="Cartoonito.br">
-    <title lang="pt">Grizzy and the Lemmings : Dança na Muralha</title>
-  </programme>
-  <programme start="20260903212100 -0300" stop="20260903212800 -0300" channel="Cartoonito.br">
-    <title lang="pt">Grizzy e os Lemmings : Magia Dentro do Frasco</title>
-  </programme>
-  <programme start="20260903212800 -0300" stop="20260903213500 -0300" channel="Cartoonito.br">
-    <title lang="pt">Grizzy e os Lemmings : Cabine Interplanetária</title>
   </programme>
   <programme start="20260903213500 -0300" stop="20260903214800 -0300" channel="Cartoonito.br">
     <title lang="pt">Crescendo com a Galinha Pintadinha : A Ilha Encantada</title>
@@ -14741,12 +14167,6 @@
   <programme start="20260905235600 -0300" stop="20260906005600 -0300" channel="Cartoonito.br">
     <title lang="pt">Mundo Bita - Imagine-se : Festa no Escuro</title>
   </programme>
-  <programme start="20260903130000 -0300" stop="20260903170000 -0300" channel="Combate.br">
-    <title lang="pt">Finais - Lausanne, Suiça</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903210000 -0300" channel="Combate.br">
-    <title lang="pt">Finais - Lausanne, Suiça</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260903235900 -0300" channel="Combate.br">
     <title lang="pt">Finais - Lausanne, Suiça</title>
   </programme>
@@ -14860,27 +14280,6 @@
   </programme>
   <programme start="20260910000000 -0300" stop="20260910010000 -0300" channel="Combate.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903163000 -0300" channel="Curta! HD.br">
-    <title lang="pt">Chaplin e os Tempos Modernos</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903180000 -0300" channel="Curta! HD.br">
-    <title lang="pt">O Bom Cinema</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="Curta! HD.br">
-    <title lang="pt">Lobo do Lobo e a Literatura Latino-Americana : Conceição Evaristo</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="Curta! HD.br">
-    <title lang="pt">Grandes Mitos Gregos : Belerofonte - O Homem que Queria Ser Deus</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="Curta! HD.br">
-    <title lang="pt">Ideias para o Mundo : Pierre Lévy</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903210000 -0300" channel="Curta! HD.br">
-    <title lang="pt">Consciência³ : A Consciência de Gaia</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="Curta! HD.br">
-    <title lang="pt">Incertezas Críticas : Djamila Ribeiro</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="Curta! HD.br">
     <title lang="pt">Os Manuscritos Secretos da História : Don Giovanni, de Wolfgang Amadeus Mozart</title>
@@ -15068,21 +14467,6 @@
   <programme start="20260905220000 -0300" stop="20260905230000 -0300" channel="Curta! HD.br">
     <title lang="pt">Jair Rodrigues - Deixa que Digam</title>
   </programme>
-  <programme start="20260903153700 -0300" stop="20260903162900 -0300" channel="Discovery Channel.br">
-    <title lang="pt">Desafio em Dose Dupla : Inferno Verde</title>
-  </programme>
-  <programme start="20260903162900 -0300" stop="20260903172100 -0300" channel="Discovery Channel.br">
-    <title lang="pt">Desafio em Dose Dupla - Brasil : Atolados na Lama</title>
-  </programme>
-  <programme start="20260903172100 -0300" stop="20260903181000 -0300" channel="Discovery Channel.br">
-    <title lang="pt">Ed Stafford, o Sobrevivente : Arizona</title>
-  </programme>
-  <programme start="20260903181000 -0300" stop="20260903190000 -0300" channel="Discovery Channel.br">
-    <title lang="pt">Ed Stafford, o Sobrevivente : Regras de Sobrevivência</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903203900 -0300" channel="Discovery Channel.br">
-    <title lang="pt">Largados e Pelados : Eles e Elas</title>
-  </programme>
   <programme start="20260903203900 -0300" stop="20260903221700 -0300" channel="Discovery Channel.br">
     <title lang="pt">Largados e Pelados - Campeões do Mundo : Ou Enfrenta ou Cai Fora</title>
   </programme>
@@ -15254,24 +14638,6 @@
   <programme start="20260905235500 -0300" stop="20260906005500 -0300" channel="Discovery Channel.br">
     <title lang="pt">Aeroporto - Área Restrita: Estados Unidos : De Mentiras a Pistas</title>
   </programme>
-  <programme start="20260903152300 -0300" stop="20260903161700 -0300" channel="Discovery Home &amp; Health HD.br">
-    <title lang="pt">90 Dias para Casar : Casais Novos, Vidas Novas</title>
-  </programme>
-  <programme start="20260903161700 -0300" stop="20260903170900 -0300" channel="Discovery Home &amp; Health HD.br">
-    <title lang="pt">90 Dias para Casar : América, Cheguei</title>
-  </programme>
-  <programme start="20260903170900 -0300" stop="20260903180100 -0300" channel="Discovery Home &amp; Health HD.br">
-    <title lang="pt">Quilos Mortais : A História de Bettie Jo</title>
-  </programme>
-  <programme start="20260903180100 -0300" stop="20260903194100 -0300" channel="Discovery Home &amp; Health HD.br">
-    <title lang="pt">Quilos Mortais : A História de Angela</title>
-  </programme>
-  <programme start="20260903194100 -0300" stop="20260903203000 -0300" channel="Discovery Home &amp; Health HD.br">
-    <title lang="pt">Dr. Pimple Popper: Breaking Out</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903211900 -0300" channel="Discovery Home &amp; Health HD.br">
-    <title lang="pt">Dra. Sandra Lee - A Rainha dos Cravos : Moicano de Cistos</title>
-  </programme>
   <programme start="20260903211900 -0300" stop="20260903220800 -0300" channel="Discovery Home &amp; Health HD.br">
     <title lang="pt">Skin A&amp;E</title>
   </programme>
@@ -15430,102 +14796,6 @@
   </programme>
   <programme start="20260905232900 -0300" stop="20260906002900 -0300" channel="Discovery Home &amp; Health HD.br">
     <title lang="pt">Te Devo Essa! Reforma das Estrelas : Aquele com a Courteney Cox</title>
-  </programme>
-  <programme start="20260903153200 -0300" stop="20260903155700 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa Pig : O Parque de Dinossauro do Avô...</title>
-  </programme>
-  <programme start="20260903155700 -0300" stop="20260903160800 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Bubble&amp;#039;s Hotel : Bocejo Fujão</title>
-  </programme>
-  <programme start="20260903160800 -0300" stop="20260903161500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Turma da Mônica : A Outra</title>
-  </programme>
-  <programme start="20260903161500 -0300" stop="20260903162200 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Turma da Mônica : O Horóscopo de Madame Desirée</title>
-  </programme>
-  <programme start="20260903162200 -0300" stop="20260903162900 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Turma da Mônica : Depois do Banho</title>
-  </programme>
-  <programme start="20260903162900 -0300" stop="20260903163400 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : Walkie Talkies</title>
-  </programme>
-  <programme start="20260903163400 -0300" stop="20260903165900 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : A Festa de Despedida da Madame...</title>
-  </programme>
-  <programme start="20260903165900 -0300" stop="20260903171000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Zouk a Bruxinha : O Tapete Voador</title>
-  </programme>
-  <programme start="20260903171000 -0300" stop="20260903173500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : A Rainha; A Ilha Deserta; O...</title>
-  </programme>
-  <programme start="20260903173500 -0300" stop="20260903174000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : Festa do Pijama para Todos</title>
-  </programme>
-  <programme start="20260903174000 -0300" stop="20260903180300 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : O Carro de Corrida do George; O...</title>
-  </programme>
-  <programme start="20260903180300 -0300" stop="20260903181400 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Hello Kitty: Super Style! : O Rio Radical</title>
-  </programme>
-  <programme start="20260903181400 -0300" stop="20260903183800 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Mermicorno - A Queda das Estrelas : Eclipse Total do Meu Coração</title>
-  </programme>
-  <programme start="20260903183800 -0300" stop="20260903190000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Mermicorno - A Queda das Estrelas : Maremotos</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903190700 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Turma da Mônica : Cuidado com o Apagão</title>
-  </programme>
-  <programme start="20260903190700 -0300" stop="20260903191400 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Turma da Mônica : O Menino do Boné Amarelinho</title>
-  </programme>
-  <programme start="20260903191400 -0300" stop="20260903192500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">O Show da Luna! : Brincando sem Parar</title>
-  </programme>
-  <programme start="20260903192500 -0300" stop="20260903193800 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">O Show da Luna! : Voa ou Não Voa?</title>
-  </programme>
-  <programme start="20260903193800 -0300" stop="20260903194900 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Polly Pocket : Pause a Música</title>
-  </programme>
-  <programme start="20260903194900 -0300" stop="20260903200000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Polly Pocket : Corra, Lila, Corra</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903200500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : Ônibus de Caminhada</title>
-  </programme>
-  <programme start="20260903200500 -0300" stop="20260903201000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa Pig : Felizes para Sempre</title>
-  </programme>
-  <programme start="20260903201000 -0300" stop="20260903201500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : Aula de Canto</title>
-  </programme>
-  <programme start="20260903201500 -0300" stop="20260903204000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : A Casa de Férias; Férias ao Sol;...</title>
-  </programme>
-  <programme start="20260903204000 -0300" stop="20260903204500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : A Competição de Canto</title>
-  </programme>
-  <programme start="20260903204500 -0300" stop="20260903205000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Peppa : Larenzo Leão</title>
-  </programme>
-  <programme start="20260903205000 -0300" stop="20260903205500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Mini Beat Power Rockers : Sem Arranhões!</title>
-  </programme>
-  <programme start="20260903205500 -0300" stop="20260903210000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Mini Beat Power Rockers : Um Presente para Dolores</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903210500 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Mini Beat Power Rockers : Um Dia Perfeito</title>
-  </programme>
-  <programme start="20260903210500 -0300" stop="20260903211000 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Mini Beat Power Rockers : Cha-cha-chá</title>
-  </programme>
-  <programme start="20260903211000 -0300" stop="20260903212100 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Hello Kitty: Super Style! : Manchete de Jornal</title>
-  </programme>
-  <programme start="20260903212100 -0300" stop="20260903213200 -0300" channel="Discovery Kids HD.br">
-    <title lang="pt">Hello Kitty: Super Style! : A Pulseira Encantada</title>
   </programme>
   <programme start="20260903213200 -0300" stop="20260903215600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">Mermicorno - A Queda das Estrelas : A Justiceira do Gelo</title>
@@ -16214,30 +15484,6 @@
   <programme start="20260905233600 -0300" stop="20260906003600 -0300" channel="Discovery Kids HD.br">
     <title lang="pt">100% Lobo - O Livro de Hath : O Camarão Gigante</title>
   </programme>
-  <programme start="20260903151200 -0300" stop="20260903160000 -0300" channel="Discovery Science.br">
-    <title lang="pt">Mistérios no Museu : Jackie O. Saves Grand Central,...</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903164800 -0300" channel="Discovery Science.br">
-    <title lang="pt">Adam Savage - Invenções Extraordinárias : A Arma Mais Mortal de Hollywood</title>
-  </programme>
-  <programme start="20260903164800 -0300" stop="20260903173600 -0300" channel="Discovery Science.br">
-    <title lang="pt">Tesouro Visto do Espaço : A Tempestade</title>
-  </programme>
-  <programme start="20260903173600 -0300" stop="20260903182400 -0300" channel="Discovery Science.br">
-    <title lang="pt">Ases da Construção : Túnel Gotthard Base</title>
-  </programme>
-  <programme start="20260903182400 -0300" stop="20260903191200 -0300" channel="Discovery Science.br">
-    <title lang="pt">Desvendando o Passado : Segredos dos Assassinatos Maia</title>
-  </programme>
-  <programme start="20260903191200 -0300" stop="20260903200000 -0300" channel="Discovery Science.br">
-    <title lang="pt">Os Últimos Segredos de Houdini : O Truque da Bala</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903204800 -0300" channel="Discovery Science.br">
-    <title lang="pt">Planeta Energia : Petróleo</title>
-  </programme>
-  <programme start="20260903204800 -0300" stop="20260903213600 -0300" channel="Discovery Science.br">
-    <title lang="pt">Febre do Ouro : Parker Dobra a Aposta</title>
-  </programme>
   <programme start="20260903213600 -0300" stop="20260903222400 -0300" channel="Discovery Science.br">
     <title lang="pt">Ases da Construção : Ponte Woodrow Wilson</title>
   </programme>
@@ -16427,39 +15673,6 @@
   <programme start="20260905231200 -0300" stop="20260906001200 -0300" channel="Discovery Science.br">
     <title lang="pt">Desastre : Aviões</title>
   </programme>
-  <programme start="20260903150000 -0300" stop="20260903155000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">Twin Turbos : Mania de Minibikes</title>
-  </programme>
-  <programme start="20260903155000 -0300" stop="20260903161500 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">4x4 Sob Medida : Jeep Customizado</title>
-  </programme>
-  <programme start="20260903161500 -0300" stop="20260903164000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">4x4 Sob Medida : Dodge Ram com Eixo Flutuante</title>
-  </programme>
-  <programme start="20260903164000 -0300" stop="20260903173000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">Viciado em Motores - Goblin Garage : Mercedes 200D - Viagem pela Albânia</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903182000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">Viciado em Motores - Goblin Garage : Beetle</title>
-  </programme>
-  <programme start="20260903182000 -0300" stop="20260903184500 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">Vida Automotiva : Caroline Ganho (Gol GTS)</title>
-  </programme>
-  <programme start="20260903184500 -0300" stop="20260903191000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">Vida Automotiva : Dudu Fritz (VW Passat VR6)</title>
-  </programme>
-  <programme start="20260903191000 -0300" stop="20260903193500 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">4x4 Sob Medida : Defender de Alumínio</title>
-  </programme>
-  <programme start="20260903193500 -0300" stop="20260903200000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">4x4 Sob Medida : Projeto Gambler 500</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903205000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">Carro Ostentação com Will Castro : Chevelle de Cara Nova</title>
-  </programme>
-  <programme start="20260903205000 -0300" stop="20260903214000 -0300" channel="Discovery Turbo.br">
-    <title lang="pt">American Chopper : Águas Turbulentas</title>
-  </programme>
   <programme start="20260903214000 -0300" stop="20260903223000 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Twin Turbos : Ameaça Tripla</title>
   </programme>
@@ -16648,48 +15861,6 @@
   </programme>
   <programme start="20260905232000 -0300" stop="20260906002000 -0300" channel="Discovery Turbo.br">
     <title lang="pt">Kindig Customs: Road To The Ridler : Aluminum And More Aluminum</title>
-  </programme>
-  <programme start="20260903153600 -0300" stop="20260903160000 -0300" channel="Discovery World.br">
-    <title lang="pt">Casa de Praia : Paraíso no Texas</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903162400 -0300" channel="Discovery World.br">
-    <title lang="pt">Sabores da América: Bacon : O Turbacon</title>
-  </programme>
-  <programme start="20260903162400 -0300" stop="20260903164800 -0300" channel="Discovery World.br">
-    <title lang="pt">Buying Alaska</title>
-  </programme>
-  <programme start="20260903164800 -0300" stop="20260903171200 -0300" channel="Discovery World.br">
-    <title lang="pt">O Poder dos Alimentos : Uma Cidade de Peso</title>
-  </programme>
-  <programme start="20260903171200 -0300" stop="20260903173600 -0300" channel="Discovery World.br">
-    <title lang="pt">Minha Casa nas Montanhas : Da Fazenda Para a Montanha</title>
-  </programme>
-  <programme start="20260903173600 -0300" stop="20260903180000 -0300" channel="Discovery World.br">
-    <title lang="pt">Casas de Férias Incríveis : Granadinas, Itália, Florida Keys e Hamptons</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903182400 -0300" channel="Discovery World.br">
-    <title lang="pt">O Hotel Ideal : Montreal</title>
-  </programme>
-  <programme start="20260903182400 -0300" stop="20260903184800 -0300" channel="Discovery World.br">
-    <title lang="pt">O Poder dos Alimentos : Comida para Campeões</title>
-  </programme>
-  <programme start="20260903184800 -0300" stop="20260903191200 -0300" channel="Discovery World.br">
-    <title lang="pt">Viciados em Viagens : Alasca</title>
-  </programme>
-  <programme start="20260903191200 -0300" stop="20260903193600 -0300" channel="Discovery World.br">
-    <title lang="pt">Vende-se Pântano : Bebê a Bordo</title>
-  </programme>
-  <programme start="20260903193600 -0300" stop="20260903200000 -0300" channel="Discovery World.br">
-    <title lang="pt">O Hotel Ideal : Paris</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903202400 -0300" channel="Discovery World.br">
-    <title lang="pt">Você Renova : Quarto da Manu</title>
-  </programme>
-  <programme start="20260903202400 -0300" stop="20260903204800 -0300" channel="Discovery World.br">
-    <title lang="pt">Você Renova : Sala da Amizade</title>
-  </programme>
-  <programme start="20260903204800 -0300" stop="20260903211200 -0300" channel="Discovery World.br">
-    <title lang="pt">Paraísos pelo Mundo - Praias : Diversão em Família na Costa Rica</title>
   </programme>
   <programme start="20260903211200 -0300" stop="20260903220000 -0300" channel="Discovery World.br">
     <title lang="pt">1000 Lugares para Conhecer Antes de Morrer : México</title>
@@ -17009,27 +16180,6 @@
   <programme start="20260905233600 -0300" stop="20260906003600 -0300" channel="Discovery World.br">
     <title lang="pt">Buying Hawaii : Zona Vulcânica</title>
   </programme>
-  <programme start="20260903151000 -0300" stop="20260903160000 -0300" channel="E! Entertainment Television.br">
-    <title lang="pt">Keeping Up With the Kardashians : Bebê a Caminho</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903165000 -0300" channel="E! Entertainment Television.br">
-    <title lang="pt">Keeping Up With the Kardashians : Diamantes São para Sempre</title>
-  </programme>
-  <programme start="20260903165000 -0300" stop="20260903174000 -0300" channel="E! Entertainment Television.br">
-    <title lang="pt">Million Dollar Listing Los Angeles : De Volta ao Mercado</title>
-  </programme>
-  <programme start="20260903174000 -0300" stop="20260903183000 -0300" channel="E! Entertainment Television.br">
-    <title lang="pt">Million Dollar Listing Los Angeles : Relaxa e Vá em Frente</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903193000 -0300" channel="E! Entertainment Television.br">
-    <title lang="pt">Million Dollar Listing Los Angeles : Casamento Branco</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903202000 -0300" channel="E! Entertainment Television.br">
-    <title lang="pt">Botched : Roda do Infortúnio</title>
-  </programme>
-  <programme start="20260903202000 -0300" stop="20260903211000 -0300" channel="E! Entertainment Television.br">
-    <title lang="pt">Botched : Bumbum para Todo Lado</title>
-  </programme>
   <programme start="20260903211000 -0300" stop="20260903220000 -0300" channel="E! Entertainment Television.br">
     <title lang="pt">Botched : Lava Quente</title>
   </programme>
@@ -17210,7 +16360,7 @@
   <programme start="20260905230000 -0300" stop="20260906000000 -0300" channel="E! Entertainment Television.br">
     <title lang="pt">Love Island</title>
   </programme>
-  <programme start="20260903150000 -0300" stop="20260904020000 -0300" channel="ESPN 2.br">
+  <programme start="20260903210000 -0300" stop="20260904020000 -0300" channel="ESPN 2.br">
     <title lang="pt">Sportscenter</title>
   </programme>
   <programme start="20260904020000 -0300" stop="20260904050000 -0300" channel="ESPN 2.br">
@@ -17372,19 +16522,7 @@
   <programme start="20260909193000 -0300" stop="20260909203000 -0300" channel="ESPN 2.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903153000 -0300" stop="20260903170000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Linha de Passe: Mesa-Redonda</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903190000 -0300" channel="ESPN 3.br">
-    <title lang="pt">VT - Rugby: Brasil x Classic All Blacks</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Ciclismo: Destaques La Vuelta 26</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903203000 -0300" channel="ESPN 3.br">
-    <title lang="pt">Especial: Aquece NFL</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260904040000 -0300" channel="ESPN 3.br">
+  <programme start="20260903213000 -0300" stop="20260904040000 -0300" channel="ESPN 3.br">
     <title lang="pt">Sportscenter Americano</title>
   </programme>
   <programme start="20260904040000 -0300" stop="20260904050000 -0300" channel="ESPN 3.br">
@@ -17621,15 +16759,6 @@
   <programme start="20260909223000 -0300" stop="20260909233000 -0300" channel="ESPN 3.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903153000 -0300" stop="20260903173000 -0300" channel="ESPN 4.br">
-    <title lang="pt">VT - Banfield x River Plate</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903193000 -0300" channel="ESPN 4.br">
-    <title lang="pt">VT - Aston Villa x Arsenal</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903210000 -0300" channel="ESPN 4.br">
-    <title lang="pt">Especial: O Futuro da Seleção Brasileira</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260904003000 -0300" channel="ESPN 4.br">
     <title lang="pt">La Vuelta Highlights</title>
   </programme>
@@ -17863,21 +16992,6 @@
   </programme>
   <programme start="20260909190000 -0300" stop="20260909200000 -0300" channel="ESPN 4.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="ESPN 5.br">
-    <title lang="pt">VT - Galatasaray x Goztepe</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="ESPN 5.br">
-    <title lang="pt">VT - HEBC Hamburg x Borussia Dortmund</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="ESPN 5.br">
-    <title lang="pt">Bola da Vez: Gui Khury</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="ESPN 5.br">
-    <title lang="pt">Show da Rodada da EFL</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="ESPN 5.br">
-    <title lang="pt">Show da Rodada da Premier League</title>
   </programme>
   <programme start="20260903200000 -0300" stop="20260903230000 -0300" channel="ESPN 5.br">
     <title lang="pt">Ciclismo: La Vuelta 26</title>
@@ -18119,12 +17233,6 @@
   <programme start="20260909230000 -0300" stop="20260910000000 -0300" channel="ESPN 5.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903150000 -0300" stop="20260903203000 -0300" channel="ESPN Brasil.br">
-    <title lang="pt">Clássicos ESPN</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="ESPN Brasil.br">
-    <title lang="pt">Show da Rodada da Premier League</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260903220000 -0300" channel="ESPN Brasil.br">
     <title lang="pt">Bola da Vez: Gui Khury</title>
   </programme>
@@ -18269,15 +17377,6 @@
   <programme start="20260909110000 -0300" stop="20260909120000 -0300" channel="ESPN Brasil.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903154000 -0300" stop="20260903180500 -0300" channel="Film &amp; Arts HD.br">
-    <title lang="pt">Showgirls</title>
-  </programme>
-  <programme start="20260903180500 -0300" stop="20260903194000 -0300" channel="Film &amp; Arts HD.br">
-    <title lang="pt">Kafka: O Julgamento - Ballet Nacional Tcheco</title>
-  </programme>
-  <programme start="20260903194000 -0300" stop="20260903211500 -0300" channel="Film &amp; Arts HD.br">
-    <title lang="pt">Clint Eastwood - Uma Vida no Cinema</title>
-  </programme>
   <programme start="20260903211500 -0300" stop="20260903220000 -0300" channel="Film &amp; Arts HD.br">
     <title lang="pt">Kafka : Bureau</title>
   </programme>
@@ -18412,33 +17511,6 @@
   </programme>
   <programme start="20260905220000 -0300" stop="20260905230000 -0300" channel="Film &amp; Arts HD.br">
     <title lang="pt">Como Eu Era Antes de Você</title>
-  </programme>
-  <programme start="20260903153700 -0300" stop="20260903162200 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">A Disputa dos Confeiteiros - Halloween : Dia dos Mortos</title>
-  </programme>
-  <programme start="20260903162200 -0300" stop="20260903170900 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">A Guerra dos Bolos : Dinossauros</title>
-  </programme>
-  <programme start="20260903170900 -0300" stop="20260903175500 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">A Guerra dos Cupcakes : Kentucky Derby</title>
-  </programme>
-  <programme start="20260903175500 -0300" stop="20260903184000 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">A Guerra dos Cupcakes : Bollywood</title>
-  </programme>
-  <programme start="20260903184000 -0300" stop="20260903192600 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">Show de Cozinha : Dia de Churrasco</title>
-  </programme>
-  <programme start="20260903192600 -0300" stop="20260903200800 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">Show de Cozinha : Receitas sem Forno</title>
-  </programme>
-  <programme start="20260903200800 -0300" stop="20260903203100 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">Duelo com Bobby Flay : Briga Irlandesa</title>
-  </programme>
-  <programme start="20260903203100 -0300" stop="20260903205400 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">Duelo com Bobby Flay : Bem-vindo à Nova York</title>
-  </programme>
-  <programme start="20260903205400 -0300" stop="20260903213600 -0300" channel="Food Network HD Brasil.br">
-    <title lang="pt">O Gênio da Confeitaria : Gênio Global</title>
   </programme>
   <programme start="20260903213600 -0300" stop="20260903222100 -0300" channel="Food Network HD Brasil.br">
     <title lang="pt">A Disputa dos Confeiteiros - Primavera : Floradas Deliciosas</title>
@@ -18733,54 +17805,6 @@
   </programme>
   <programme start="20260905234100 -0300" stop="20260906004100 -0300" channel="Food Network HD Brasil.br">
     <title lang="pt">Giada em Casa : Toda Arrumada</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903160000 -0300" channel="Futura.br">
-    <title lang="pt">Tem Clima Pra Isso?</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903163000 -0300" channel="Futura.br">
-    <title lang="pt">Da Nascente À Foz</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903170000 -0300" channel="Futura.br">
-    <title lang="pt">Sou Palhaço</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903171500 -0300" channel="Futura.br">
-    <title lang="pt">Amazônia: Novas Histórias</title>
-  </programme>
-  <programme start="20260903171500 -0300" stop="20260903173000 -0300" channel="Futura.br">
-    <title lang="pt">Planeta Menos Um Lixo</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903180000 -0300" channel="Futura.br">
-    <title lang="pt">Sabores Da Floresta</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="Futura.br">
-    <title lang="pt">Reconstruindo Nosso Ambiente</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190000 -0300" channel="Futura.br">
-    <title lang="pt">Dinos Do Brasil</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903191500 -0300" channel="Futura.br">
-    <title lang="pt">Amazônia: Novas Histórias</title>
-  </programme>
-  <programme start="20260903191500 -0300" stop="20260903193000 -0300" channel="Futura.br">
-    <title lang="pt">Desafio Nas Escolas</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903194500 -0300" channel="Futura.br">
-    <title lang="pt">(In)confidências</title>
-  </programme>
-  <programme start="20260903194500 -0300" stop="20260903200000 -0300" channel="Futura.br">
-    <title lang="pt">Territórios</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="Futura.br">
-    <title lang="pt">Todo Mundo É Filho De Santo</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903204500 -0300" channel="Futura.br">
-    <title lang="pt">Inspira Fundo</title>
-  </programme>
-  <programme start="20260903204500 -0300" stop="20260903210000 -0300" channel="Futura.br">
-    <title lang="pt">Diz Aí - Juventudes</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="Futura.br">
-    <title lang="pt">Canal Da Quebrada</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="Futura.br">
     <title lang="pt">Mutirão Saúde</title>
@@ -19553,30 +18577,6 @@
   <programme start="20260910000000 -0300" stop="20260910010000 -0300" channel="Futura.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903151200 -0300" stop="20260903155600 -0300" channel="GNT.br">
-    <title lang="pt">Avisa Lá Que Eu Vou</title>
-  </programme>
-  <programme start="20260903155600 -0300" stop="20260903163600 -0300" channel="GNT.br">
-    <title lang="pt">Que Marravilha!</title>
-  </programme>
-  <programme start="20260903163600 -0300" stop="20260903170600 -0300" channel="GNT.br">
-    <title lang="pt">Tempero De Família</title>
-  </programme>
-  <programme start="20260903170600 -0300" stop="20260903174200 -0300" channel="GNT.br">
-    <title lang="pt">Tempero De Família</title>
-  </programme>
-  <programme start="20260903174200 -0300" stop="20260903182700 -0300" channel="GNT.br">
-    <title lang="pt">Que Marravilha!</title>
-  </programme>
-  <programme start="20260903182700 -0300" stop="20260903190000 -0300" channel="GNT.br">
-    <title lang="pt">Cozinha Prática Com Rita Lobo</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903194300 -0300" channel="GNT.br">
-    <title lang="pt">Cozinha Prática Com Rita Lobo</title>
-  </programme>
-  <programme start="20260903194300 -0300" stop="20260903204400 -0300" channel="GNT.br">
-    <title lang="pt">Que Seja Doce</title>
-  </programme>
   <programme start="20260903204400 -0300" stop="20260903214500 -0300" channel="GNT.br">
     <title lang="pt">Que Seja Doce</title>
   </programme>
@@ -20246,24 +19246,6 @@
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="Globo News.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903154000 -0300" stop="20260903171000 -0300" channel="Globo São Paulo HD.br">
-    <title lang="pt">Sessão da Tarde: Se Eu Fosse Você 2</title>
-  </programme>
-  <programme start="20260903171000 -0300" stop="20260903182000 -0300" channel="Globo São Paulo HD.br">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
-  </programme>
-  <programme start="20260903182000 -0300" stop="20260903190500 -0300" channel="Globo São Paulo HD.br">
-    <title lang="pt">A Nobreza do Amor</title>
-  </programme>
-  <programme start="20260903190500 -0300" stop="20260903193500 -0300" channel="Globo São Paulo HD.br">
-    <title lang="pt">SP2</title>
-  </programme>
-  <programme start="20260903193500 -0300" stop="20260903203000 -0300" channel="Globo São Paulo HD.br">
-    <title lang="pt">Por Você</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903205500 -0300" channel="Globo São Paulo HD.br">
-    <title lang="pt">Horário Político</title>
-  </programme>
   <programme start="20260903205500 -0300" stop="20260903214500 -0300" channel="Globo São Paulo HD.br">
     <title lang="pt">Jornal Nacional</title>
   </programme>
@@ -20710,57 +19692,6 @@
   </programme>
   <programme start="20260909212000 -0300" stop="20260909222000 -0300" channel="Globo São Paulo HD.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903153100 -0300" stop="20260903154300 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903154300 -0300" stop="20260903155500 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903155500 -0300" stop="20260903160700 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903160700 -0300" stop="20260903161900 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903161900 -0300" stop="20260903163100 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903163100 -0300" stop="20260903164300 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903164300 -0300" stop="20260903165500 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903165500 -0300" stop="20260903170700 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903170700 -0300" stop="20260903171900 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903171900 -0300" stop="20260903175400 -0300" channel="Gloob HD.br">
-    <title lang="pt">Tara Duncan</title>
-  </programme>
-  <programme start="20260903175400 -0300" stop="20260903181600 -0300" channel="Gloob HD.br">
-    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260903181600 -0300" stop="20260903190200 -0300" channel="Gloob HD.br">
-    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260903190200 -0300" stop="20260903192300 -0300" channel="Gloob HD.br">
-    <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
-  </programme>
-  <programme start="20260903192300 -0300" stop="20260903194600 -0300" channel="Gloob HD.br">
-    <title lang="pt">D.P.A. - Detetives Do Prédio Azul</title>
-  </programme>
-  <programme start="20260903194600 -0300" stop="20260903201300 -0300" channel="Gloob HD.br">
-    <title lang="pt">D.P.A. Mini</title>
-  </programme>
-  <programme start="20260903201300 -0300" stop="20260903203700 -0300" channel="Gloob HD.br">
-    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
-  </programme>
-  <programme start="20260903203700 -0300" stop="20260903210000 -0300" channel="Gloob HD.br">
-    <title lang="pt">Miraculous - As Aventuras De Ladybug</title>
   </programme>
   <programme start="20260903210000 -0300" stop="20260903223000 -0300" channel="Gloob HD.br">
     <title lang="pt">Cine Gloob: Dpa 2 - O Misterio Italiano</title>
@@ -21580,147 +20511,6 @@
   </programme>
   <programme start="20260910001200 -0300" stop="20260910011200 -0300" channel="Gloob HD.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903154000 -0300" stop="20260903155000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Alice &amp; Lewis</title>
-  </programme>
-  <programme start="20260903155000 -0300" stop="20260903160000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Alice &amp; Lewis</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903161000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Ursinhos Carinhosos</title>
-  </programme>
-  <programme start="20260903161000 -0300" stop="20260903162000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Ursinhos Carinhosos</title>
-  </programme>
-  <programme start="20260903162000 -0300" stop="20260903162300 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">D.P.A. Mini</title>
-  </programme>
-  <programme start="20260903162300 -0300" stop="20260903162500 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">D.P.A. Mini</title>
-  </programme>
-  <programme start="20260903162500 -0300" stop="20260903163000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Pipas</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903163700 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Oi, Duggee!</title>
-  </programme>
-  <programme start="20260903163700 -0300" stop="20260903164400 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Oi, Duggee!</title>
-  </programme>
-  <programme start="20260903164400 -0300" stop="20260903165100 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Oi, Duggee!</title>
-  </programme>
-  <programme start="20260903165100 -0300" stop="20260903170000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Oi, Duggee!</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903171000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Bookaboo</title>
-  </programme>
-  <programme start="20260903171000 -0300" stop="20260903171300 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Cocomelon</title>
-  </programme>
-  <programme start="20260903171300 -0300" stop="20260903171600 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Cocomelon</title>
-  </programme>
-  <programme start="20260903171600 -0300" stop="20260903172000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Cocomelon</title>
-  </programme>
-  <programme start="20260903172000 -0300" stop="20260903173000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Moley</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903174000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Moley</title>
-  </programme>
-  <programme start="20260903174000 -0300" stop="20260903175000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Milo</title>
-  </programme>
-  <programme start="20260903175000 -0300" stop="20260903175500 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Mya Go</title>
-  </programme>
-  <programme start="20260903175500 -0300" stop="20260903180000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Mya Go</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903180500 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Mya Go</title>
-  </programme>
-  <programme start="20260903180500 -0300" stop="20260903181000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Mya Go</title>
-  </programme>
-  <programme start="20260903181000 -0300" stop="20260903182000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Mya Go</title>
-  </programme>
-  <programme start="20260903182000 -0300" stop="20260903182500 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Baby Riki</title>
-  </programme>
-  <programme start="20260903182500 -0300" stop="20260903183000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Baby Riki</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903184000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Trulli Tales</title>
-  </programme>
-  <programme start="20260903184000 -0300" stop="20260903185000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Trulli Tales</title>
-  </programme>
-  <programme start="20260903185000 -0300" stop="20260903190000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Trulli Tales</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903192000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Trulli Tales</title>
-  </programme>
-  <programme start="20260903192000 -0300" stop="20260903193000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Alice &amp; Lewis</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903194000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Alice &amp; Lewis</title>
-  </programme>
-  <programme start="20260903194000 -0300" stop="20260903194300 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">As Aventuras De Sunny Bunnies</title>
-  </programme>
-  <programme start="20260903194300 -0300" stop="20260903194600 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">As Aventuras De Sunny Bunnies</title>
-  </programme>
-  <programme start="20260903194600 -0300" stop="20260903194900 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">As Aventuras De Sunny Bunnies</title>
-  </programme>
-  <programme start="20260903194900 -0300" stop="20260903195500 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">As Aventuras De Sunny Bunnies</title>
-  </programme>
-  <programme start="20260903195500 -0300" stop="20260903200200 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260903200200 -0300" stop="20260903201000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Pocoyo</title>
-  </programme>
-  <programme start="20260903201000 -0300" stop="20260903202000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">O Pequeno Príncipe E Seus Amig</title>
-  </programme>
-  <programme start="20260903202000 -0300" stop="20260903203000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Bookaboo</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903204000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">S.O.S. Fada Manu</title>
-  </programme>
-  <programme start="20260903204000 -0300" stop="20260903204700 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Vamos Brincar</title>
-  </programme>
-  <programme start="20260903204700 -0300" stop="20260903210000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Vamos Brincar</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903210500 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Clube Da Anittinha</title>
-  </programme>
-  <programme start="20260903210500 -0300" stop="20260903211000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Clube Da Anittinha</title>
-  </programme>
-  <programme start="20260903211000 -0300" stop="20260903212000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Ursinhos Carinhosos</title>
-  </programme>
-  <programme start="20260903212000 -0300" stop="20260903213000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Senninha Na Pista Maluca</title>
-  </programme>
-  <programme start="20260903213000 -0300" stop="20260903214000 -0300" channel="Gloobinho HD.br">
-    <title lang="pt">Vovó Tatá</title>
   </programme>
   <programme start="20260903214000 -0300" stop="20260903214500 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Oi, Duggee!</title>
@@ -24209,27 +22999,6 @@
   <programme start="20260910000000 -0300" stop="20260910010000 -0300" channel="Gloobinho HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903154000 -0300" stop="20260903162900 -0300" channel="H2 HD.br">
-    <title lang="pt">Cidades Ocultas : Túneis do Inferno (Okinawa)</title>
-  </programme>
-  <programme start="20260903162900 -0300" stop="20260903171100 -0300" channel="H2 HD.br">
-    <title lang="pt">Construindo um Império : China</title>
-  </programme>
-  <programme start="20260903171100 -0300" stop="20260903180000 -0300" channel="H2 HD.br">
-    <title lang="pt">Inventos da Antiguidade : A Mega Conquista do Oceano</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903182500 -0300" channel="H2 HD.br">
-    <title lang="pt">Carangas Absurdas : Os Reis da Ferrugem</title>
-  </programme>
-  <programme start="20260903182500 -0300" stop="20260903185000 -0300" channel="H2 HD.br">
-    <title lang="pt">Carangas Absurdas : Justiça Sobre Rodas</title>
-  </programme>
-  <programme start="20260903185000 -0300" stop="20260903193800 -0300" channel="H2 HD.br">
-    <title lang="pt">Mundos perdidos : Os Templários</title>
-  </programme>
-  <programme start="20260903193800 -0300" stop="20260903203000 -0300" channel="H2 HD.br">
-    <title lang="pt">Confronto dos Deuses : Ulisses: A Vingança do Guerreiro</title>
-  </programme>
   <programme start="20260903203000 -0300" stop="20260903220100 -0300" channel="H2 HD.br">
     <title lang="pt">Poderosos Chefões - As Cinco Familias da Máfia : A Morte das Velhas Regras</title>
   </programme>
@@ -24428,15 +23197,6 @@
   <programme start="20260905234700 -0300" stop="20260906004700 -0300" channel="H2 HD.br">
     <title lang="pt">Brinquedos que Mudaram o Mundo : Invasão Transformadora</title>
   </programme>
-  <programme start="20260903144000 -0300" stop="20260903163600 -0300" channel="HBO Family HD.br">
-    <title lang="pt">Wonka</title>
-  </programme>
-  <programme start="20260903163600 -0300" stop="20260903182100 -0300" channel="HBO Family HD.br">
-    <title lang="pt">LEGO Ninjago - O Filme</title>
-  </programme>
-  <programme start="20260903182100 -0300" stop="20260903195900 -0300" channel="HBO Family HD.br">
-    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
-  </programme>
   <programme start="20260903195900 -0300" stop="20260903222000 -0300" channel="HBO Family HD.br">
     <title lang="pt">Harry Potter e a Ordem da Fênix</title>
   </programme>
@@ -24524,18 +23284,6 @@
   <programme start="20260905234700 -0300" stop="20260906004700 -0300" channel="HBO Family HD.br">
     <title lang="pt">Shazam!</title>
   </programme>
-  <programme start="20260903150400 -0300" stop="20260903164900 -0300" channel="HBO Mundi.br">
-    <title lang="pt">A Leste de Wall</title>
-  </programme>
-  <programme start="20260903164900 -0300" stop="20260903190300 -0300" channel="HBO Mundi.br">
-    <title lang="pt">Garota, Interrompida</title>
-  </programme>
-  <programme start="20260903190300 -0300" stop="20260903193500 -0300" channel="HBO Mundi.br">
-    <title lang="pt">Nua na Rede - A Verdade Sobre Rose Leonel : Multidões de Cúmplices</title>
-  </programme>
-  <programme start="20260903193500 -0300" stop="20260903201900 -0300" channel="HBO Mundi.br">
-    <title lang="pt">Pílula de Farinha - O Escândalo que Gerou Vidas : Demônios se Alimentam de Mágoas</title>
-  </programme>
   <programme start="20260903201900 -0300" stop="20260903215900 -0300" channel="HBO Mundi.br">
     <title lang="pt">O Pintor</title>
   </programme>
@@ -24613,18 +23361,6 @@
   </programme>
   <programme start="20260905220000 -0300" stop="20260905230000 -0300" channel="HBO Mundi.br">
     <title lang="pt">Django Unchained</title>
-  </programme>
-  <programme start="20260903135000 -0300" stop="20260903164000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Duna - Parte Dois</title>
-  </programme>
-  <programme start="20260903164000 -0300" stop="20260903183000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Faça Ela Voltar</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190600 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas : Adriana Zehbrauskas</title>
-  </programme>
-  <programme start="20260903190600 -0300" stop="20260903194000 -0300" channel="HBO Plus HD.br">
-    <title lang="pt">Câmera Entre Balas : Samuel Aranda</title>
   </programme>
   <programme start="20260903194000 -0300" stop="20260903220500 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Mickey 17</title>
@@ -24706,15 +23442,6 @@
   </programme>
   <programme start="20260905220000 -0300" stop="20260905230000 -0300" channel="HBO Plus HD.br">
     <title lang="pt">Aquaman 2 - O Reino Perdido</title>
-  </programme>
-  <programme start="20260903141500 -0300" stop="20260903161000 -0300" channel="HBO Pop.br">
-    <title lang="pt">Caçador de Recompensas</title>
-  </programme>
-  <programme start="20260903161000 -0300" stop="20260903181200 -0300" channel="HBO Pop.br">
-    <title lang="pt">Amor a Toda Prova</title>
-  </programme>
-  <programme start="20260903181200 -0300" stop="20260903202700 -0300" channel="HBO Pop.br">
-    <title lang="pt">Homem-Aranha - De Volta ao Lar</title>
   </programme>
   <programme start="20260903202700 -0300" stop="20260903220100 -0300" channel="HBO Pop.br">
     <title lang="pt">Professora sem Classe</title>
@@ -24799,24 +23526,6 @@
   </programme>
   <programme start="20260905234500 -0300" stop="20260906004500 -0300" channel="HBO Pop.br">
     <title lang="pt">Professora sem Classe</title>
-  </programme>
-  <programme start="20260903141800 -0300" stop="20260903154600 -0300" channel="HBO Signature.br">
-    <title lang="pt">Music Box : Mr. Saturday Night</title>
-  </programme>
-  <programme start="20260903154600 -0300" stop="20260903171600 -0300" channel="HBO Signature.br">
-    <title lang="pt">A Cobra do Alabama</title>
-  </programme>
-  <programme start="20260903171600 -0300" stop="20260903181100 -0300" channel="HBO Signature.br">
-    <title lang="pt">DTF St. Louis</title>
-  </programme>
-  <programme start="20260903181100 -0300" stop="20260903191600 -0300" channel="HBO Signature.br">
-    <title lang="pt">DTF St. Louis : Pode Pegar</title>
-  </programme>
-  <programme start="20260903191600 -0300" stop="20260903201100 -0300" channel="HBO Signature.br">
-    <title lang="pt">DTF St. Louis : O Ambicioso</title>
-  </programme>
-  <programme start="20260903201100 -0300" stop="20260903210700 -0300" channel="HBO Signature.br">
-    <title lang="pt">DTF St. Louis : Seguradora de Vida e Saúde Missouri Mutual</title>
   </programme>
   <programme start="20260903210700 -0300" stop="20260903220200 -0300" channel="HBO Signature.br">
     <title lang="pt">DTF St. Louis : Anfezina</title>
@@ -24928,15 +23637,6 @@
   </programme>
   <programme start="20260905235700 -0300" stop="20260906005700 -0300" channel="HBO Signature.br">
     <title lang="pt">Lanternas : Isolado</title>
-  </programme>
-  <programme start="20260903150100 -0300" stop="20260903165000 -0300" channel="HBO Xtreme.br">
-    <title lang="pt">Vida</title>
-  </programme>
-  <programme start="20260903165000 -0300" stop="20260903192300 -0300" channel="HBO Xtreme.br">
-    <title lang="pt">Furiosa: Uma Saga Mad Max</title>
-  </programme>
-  <programme start="20260903192300 -0300" stop="20260903200300 -0300" channel="HBO Xtreme.br">
-    <title lang="pt">Funk.doc</title>
   </programme>
   <programme start="20260903200300 -0300" stop="20260903220000 -0300" channel="HBO Xtreme.br">
     <title lang="pt">No Limite do Amanhã</title>
@@ -25178,15 +23878,6 @@
   <programme start="20260909213400 -0300" stop="20260909223400 -0300" channel="HBO Xtreme.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903152600 -0300" stop="20260903171500 -0300" channel="HBO.br">
-    <title lang="pt">Terremoto - A Falha de San Andreas</title>
-  </programme>
-  <programme start="20260903171500 -0300" stop="20260903192100 -0300" channel="HBO.br">
-    <title lang="pt">Relatos de um Assassino</title>
-  </programme>
-  <programme start="20260903192100 -0300" stop="20260903210000 -0300" channel="HBO.br">
-    <title lang="pt">Beekeeper - Rede de Vingança</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260903220000 -0300" channel="HBO.br">
     <title lang="pt">Lanternas : Isolado</title>
   </programme>
@@ -25271,15 +23962,6 @@
   <programme start="20260905235100 -0300" stop="20260906005100 -0300" channel="HBO.br">
     <title lang="pt">Beekeeper - Rede de Vingança</title>
   </programme>
-  <programme start="20260903144500 -0300" stop="20260903164100 -0300" channel="HBO2.br">
-    <title lang="pt">Possuída no Deserto</title>
-  </programme>
-  <programme start="20260903164100 -0300" stop="20260903185600 -0300" channel="HBO2.br">
-    <title lang="pt">Círculo de Fogo</title>
-  </programme>
-  <programme start="20260903185600 -0300" stop="20260903195600 -0300" channel="HBO2.br">
-    <title lang="pt">Bateau Mouche - O Naufrágio da Justiça</title>
-  </programme>
   <programme start="20260903195600 -0300" stop="20260903220100 -0300" channel="HBO2.br">
     <title lang="pt">Twisters</title>
   </programme>
@@ -25360,54 +24042,6 @@
   </programme>
   <programme start="20260905220100 -0300" stop="20260905230100 -0300" channel="HBO2.br">
     <title lang="pt">Maldição da Múmia</title>
-  </programme>
-  <programme start="20260903150600 -0300" stop="20260903155300 -0300" channel="HGTV HD.br">
-    <title lang="pt">Piscinas Incríveis : Quanto Mais Quente...</title>
-  </programme>
-  <programme start="20260903155300 -0300" stop="20260903161600 -0300" channel="HGTV HD.br">
-    <title lang="pt">Reformando Quintais com Chris Lambton : Para Adultos e Crianças</title>
-  </programme>
-  <programme start="20260903161600 -0300" stop="20260903163800 -0300" channel="HGTV HD.br">
-    <title lang="pt">Reformando Quintais com Chris Lambton : Muito Verde e Diversão</title>
-  </programme>
-  <programme start="20260903163800 -0300" stop="20260903170100 -0300" channel="HGTV HD.br">
-    <title lang="pt">Desafio da Renovação : Faíscas</title>
-  </programme>
-  <programme start="20260903170100 -0300" stop="20260903172200 -0300" channel="HGTV HD.br">
-    <title lang="pt">Desafio da Renovação : Luz e Natureza</title>
-  </programme>
-  <programme start="20260903172200 -0300" stop="20260903174800 -0300" channel="HGTV HD.br">
-    <title lang="pt">Você Renova : Sala da Harmonia</title>
-  </programme>
-  <programme start="20260903174800 -0300" stop="20260903181400 -0300" channel="HGTV HD.br">
-    <title lang="pt">Você Renova : Sala do Convívio</title>
-  </programme>
-  <programme start="20260903181400 -0300" stop="20260903183600 -0300" channel="HGTV HD.br">
-    <title lang="pt">Vida no Paraíso - México : Jovem Novamente em Puerto Aventuras</title>
-  </programme>
-  <programme start="20260903183600 -0300" stop="20260903185900 -0300" channel="HGTV HD.br">
-    <title lang="pt">Vida no Paraíso - México : Paraíso em Playa del Carmen</title>
-  </programme>
-  <programme start="20260903185900 -0300" stop="20260903192100 -0300" channel="HGTV HD.br">
-    <title lang="pt">Em Busca da Casa Perfeita : Vida na Fazenda a Oeste de Michigan</title>
-  </programme>
-  <programme start="20260903192100 -0300" stop="20260903194400 -0300" channel="HGTV HD.br">
-    <title lang="pt">Em Busca da Casa Perfeita : Casa Familiar na Flórida</title>
-  </programme>
-  <programme start="20260903194400 -0300" stop="20260903200600 -0300" channel="HGTV HD.br">
-    <title lang="pt">Reformas Incríveis : Família Reunida</title>
-  </programme>
-  <programme start="20260903200600 -0300" stop="20260903202800 -0300" channel="HGTV HD.br">
-    <title lang="pt">Reformas Incríveis : A Nova Cozinha da Mamãe</title>
-  </programme>
-  <programme start="20260903202800 -0300" stop="20260903205000 -0300" channel="HGTV HD.br">
-    <title lang="pt">Cozinha dos Sonhos com John e Anthony : Um Lar Perfeito</title>
-  </programme>
-  <programme start="20260903205000 -0300" stop="20260903211300 -0300" channel="HGTV HD.br">
-    <title lang="pt">Cozinha dos Sonhos com John e Anthony : Deixem com os Profissionais</title>
-  </programme>
-  <programme start="20260903211300 -0300" stop="20260903213400 -0300" channel="HGTV HD.br">
-    <title lang="pt">Celebridades em Casa : Denise Richards, Alan Thicke e Lynda Carter</title>
   </programme>
   <programme start="20260903213400 -0300" stop="20260903215600 -0300" channel="HGTV HD.br">
     <title lang="pt">Celebridades em Casa : Jamie Foxx, Patti Stanger e Cesar Millan</title>
@@ -25748,33 +24382,6 @@
   <programme start="20260905233900 -0300" stop="20260906003900 -0300" channel="HGTV HD.br">
     <title lang="pt">Piscinas Incríveis : Uma Floresta para Chamar de Sua</title>
   </programme>
-  <programme start="20260903145500 -0300" stop="20260903154500 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Inexplicável - Com William Shatner : Serial Killers</title>
-  </programme>
-  <programme start="20260903154500 -0300" stop="20260903163500 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Inacreditável com Dan Aykroyd : Fugas Incríveis</title>
-  </programme>
-  <programme start="20260903163500 -0300" stop="20260903172500 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Inacreditável com Dan Aykroyd : Fenômenos Estranhos</title>
-  </programme>
-  <programme start="20260903172500 -0300" stop="20260903181500 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Inacreditável com Dan Aykroyd : Espetáculos Inesperados</title>
-  </programme>
-  <programme start="20260903181500 -0300" stop="20260903184500 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Esquadrão UFO : Mistério em Iporanga</title>
-  </programme>
-  <programme start="20260903184500 -0300" stop="20260903191000 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Esquadrão UFO : OSNI em Avaré</title>
-  </programme>
-  <programme start="20260903191000 -0300" stop="20260903194000 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Parados na Fronteira Chile</title>
-  </programme>
-  <programme start="20260903194000 -0300" stop="20260903203000 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Alienígenas do Passado : Área 52</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903212000 -0300" channel="HISTORY CHANNEL HD.br">
-    <title lang="pt">Alienígenas do Passado : Os Escolhidos</title>
-  </programme>
   <programme start="20260903212000 -0300" stop="20260903221000 -0300" channel="HISTORY CHANNEL HD.br">
     <title lang="pt">Alienígenas do Passado : O Legado de J. Allen Hynek</title>
   </programme>
@@ -25969,36 +24576,6 @@
   </programme>
   <programme start="20260905234500 -0300" stop="20260906004500 -0300" channel="HISTORY CHANNEL HD.br">
     <title lang="pt">Grandes Mistérios da História com Laurence Fishburne : Caso Roswell - Diário da Testemunha</title>
-  </programme>
-  <programme start="20260903145600 -0300" stop="20260903154600 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Pecados Mortais</title>
-  </programme>
-  <programme start="20260903154600 -0300" stop="20260903163600 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Paixões Perigosas</title>
-  </programme>
-  <programme start="20260903163600 -0300" stop="20260903172500 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Análise de um Crime</title>
-  </programme>
-  <programme start="20260903172500 -0300" stop="20260903181400 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Detetive Americano com Joe Kenda</title>
-  </programme>
-  <programme start="20260903181400 -0300" stop="20260903183900 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Olhos Da Lei</title>
-  </programme>
-  <programme start="20260903183900 -0300" stop="20260903190300 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Olhos Da Lei</title>
-  </programme>
-  <programme start="20260903190300 -0300" stop="20260903195300 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Bodycam: Registros Criminosos</title>
-  </programme>
-  <programme start="20260903195300 -0300" stop="20260903201800 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Crimes Que Viralizaram</title>
-  </programme>
-  <programme start="20260903201800 -0300" stop="20260903204300 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Crimes Que Viralizaram</title>
-  </programme>
-  <programme start="20260903204300 -0300" stop="20260903212700 -0300" channel="Investigação Discovery HD.br">
-    <title lang="pt">Corpos no Porão</title>
   </programme>
   <programme start="20260903212700 -0300" stop="20260903221600 -0300" channel="Investigação Discovery HD.br">
     <title lang="pt">Câmera Crime</title>
@@ -26579,18 +25156,6 @@
   <programme start="20260909212700 -0300" stop="20260909222700 -0300" channel="Investigação Discovery HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="JOVEM PAN NEWS.br">
-    <title lang="pt">Tempo Real</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="JOVEM PAN NEWS.br">
-    <title lang="pt">3 em 1</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200000 -0300" channel="JOVEM PAN NEWS.br">
-    <title lang="pt">Os Pingos nos Is</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903210000 -0300" channel="JOVEM PAN NEWS.br">
-    <title lang="pt">Jornal Jovem Pan</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260903223000 -0300" channel="JOVEM PAN NEWS.br">
     <title lang="pt">Eleições 2026</title>
   </programme>
@@ -26695,15 +25260,6 @@
   </programme>
   <programme start="20260905220000 -0300" stop="20260905230000 -0300" channel="JOVEM PAN NEWS.br">
     <title lang="pt">Pânico</title>
-  </programme>
-  <programme start="20260903154000 -0300" stop="20260903171500 -0300" channel="Lifetime.br">
-    <title lang="pt">A Menina que Sobreviveu</title>
-  </programme>
-  <programme start="20260903171500 -0300" stop="20260903185000 -0300" channel="Lifetime.br">
-    <title lang="pt">O Pesadelo de uma Esposa</title>
-  </programme>
-  <programme start="20260903185000 -0300" stop="20260903202500 -0300" channel="Lifetime.br">
-    <title lang="pt">Vingança pela Coroa</title>
   </programme>
   <programme start="20260903202500 -0300" stop="20260903220000 -0300" channel="Lifetime.br">
     <title lang="pt">O Pesadelo de uma Esposa</title>
@@ -26812,15 +25368,6 @@
   </programme>
   <programme start="20260905234000 -0300" stop="20260906004000 -0300" channel="Lifetime.br">
     <title lang="pt">Desaparecida no Colégio</title>
-  </programme>
-  <programme start="20260903152000 -0300" stop="20260903172000 -0300" channel="MEGAPIX HD.br">
-    <title lang="pt">Policial Em Apuros 2</title>
-  </programme>
-  <programme start="20260903172000 -0300" stop="20260903191500 -0300" channel="MEGAPIX HD.br">
-    <title lang="pt">Arca de Noé</title>
-  </programme>
-  <programme start="20260903191500 -0300" stop="20260903210000 -0300" channel="MEGAPIX HD.br">
-    <title lang="pt">Felinos Megapix: Tom &amp; Jerry: O Filme</title>
   </programme>
   <programme start="20260903210000 -0300" stop="20260903225500 -0300" channel="MEGAPIX HD.br">
     <title lang="pt">Felinos Megapix: Gato de Botas 2: O Último Pedido</title>
@@ -27040,42 +25587,6 @@
   </programme>
   <programme start="20260909210000 -0300" stop="20260909220000 -0300" channel="MEGAPIX HD.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903151900 -0300" stop="20260903160400 -0300" channel="Multishow.br">
-    <title lang="pt">Vai Que Cola</title>
-  </programme>
-  <programme start="20260903160400 -0300" stop="20260903164900 -0300" channel="Multishow.br">
-    <title lang="pt">Vai Que Cola</title>
-  </programme>
-  <programme start="20260903164900 -0300" stop="20260903172400 -0300" channel="Multishow.br">
-    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
-  </programme>
-  <programme start="20260903172400 -0300" stop="20260903180000 -0300" channel="Multishow.br">
-    <title lang="pt">Sessão Nostalgia - Tapas E Beijos</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903191500 -0300" channel="Multishow.br">
-    <title lang="pt">Tvz Ao Vivo: Tvz Com Lexa E Gominho - Jenny Prioli e Natty Hills (Ao Vivo)</title>
-  </programme>
-  <programme start="20260903191500 -0300" stop="20260903191900 -0300" channel="Multishow.br">
-    <title lang="pt">Boletim Estrelas Da Casa</title>
-  </programme>
-  <programme start="20260903191900 -0300" stop="20260903194900 -0300" channel="Multishow.br">
-    <title lang="pt">O Dono Do Lar</title>
-  </programme>
-  <programme start="20260903194900 -0300" stop="20260903195300 -0300" channel="Multishow.br">
-    <title lang="pt">Boletim Estrelas Da Casa</title>
-  </programme>
-  <programme start="20260903195300 -0300" stop="20260903203100 -0300" channel="Multishow.br">
-    <title lang="pt">Sessão Nostalgia - Toma Lá Da Cá</title>
-  </programme>
-  <programme start="20260903203100 -0300" stop="20260903203700 -0300" channel="Multishow.br">
-    <title lang="pt">Humor Multishow</title>
-  </programme>
-  <programme start="20260903203700 -0300" stop="20260903210700 -0300" channel="Multishow.br">
-    <title lang="pt">Sessão Nostalgia - A Grande Família</title>
-  </programme>
-  <programme start="20260903210700 -0300" stop="20260903211100 -0300" channel="Multishow.br">
-    <title lang="pt">Boletim Estrelas Da Casa</title>
   </programme>
   <programme start="20260903211100 -0300" stop="20260903214300 -0300" channel="Multishow.br">
     <title lang="pt">Sessão Nostalgia - A Grande Família</title>
@@ -27610,27 +26121,6 @@
   </programme>
   <programme start="20260909210900 -0300" stop="20260909220900 -0300" channel="Multishow.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903150000 -0300" stop="20260903190000 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Medalhão Persa</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Sá &amp; Guarabyra</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Sonar</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903211000 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20260903211000 -0300" stop="20260903213500 -0300" channel="Music Box Brasil HD.br">
-    <title lang="pt">Music Box in Concert</title>
   </programme>
   <programme start="20260903213500 -0300" stop="20260903215500 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Music Box in Concert</title>
@@ -30332,51 +28822,6 @@
   <programme start="20260909210000 -0300" stop="20260909220000 -0300" channel="Music Box Brasil HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903153300 -0300" stop="20260903160000 -0300" channel="OFF HD.br">
-    <title lang="pt">Trilhas E Travessias</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903162700 -0300" channel="OFF HD.br">
-    <title lang="pt">Morando Na Estrada</title>
-  </programme>
-  <programme start="20260903162700 -0300" stop="20260903165300 -0300" channel="OFF HD.br">
-    <title lang="pt">Morando Na Estrada</title>
-  </programme>
-  <programme start="20260903165300 -0300" stop="20260903170700 -0300" channel="OFF HD.br">
-    <title lang="pt">Curtas Do Off: Sobre Elas</title>
-  </programme>
-  <programme start="20260903170700 -0300" stop="20260903172000 -0300" channel="OFF HD.br">
-    <title lang="pt">Curtas Do Off: 7 Lições Do Japão</title>
-  </programme>
-  <programme start="20260903172000 -0300" stop="20260903174600 -0300" channel="OFF HD.br">
-    <title lang="pt">Skate Em Partes</title>
-  </programme>
-  <programme start="20260903174600 -0300" stop="20260903181200 -0300" channel="OFF HD.br">
-    <title lang="pt">Vida Do Bob</title>
-  </programme>
-  <programme start="20260903181200 -0300" stop="20260903190000 -0300" channel="OFF HD.br">
-    <title lang="pt">Skate The World</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903192500 -0300" channel="OFF HD.br">
-    <title lang="pt">Skate Nas Periferias</title>
-  </programme>
-  <programme start="20260903192500 -0300" stop="20260903195200 -0300" channel="OFF HD.br">
-    <title lang="pt">Janaínas: Deusas Do Mar</title>
-  </programme>
-  <programme start="20260903195200 -0300" stop="20260903200000 -0300" channel="OFF HD.br">
-    <title lang="pt">Curtas Do Off: Bike Under The Lights</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903202900 -0300" channel="OFF HD.br">
-    <title lang="pt">Kaiak</title>
-  </programme>
-  <programme start="20260903202900 -0300" stop="20260903205600 -0300" channel="OFF HD.br">
-    <title lang="pt">Kaiak</title>
-  </programme>
-  <programme start="20260903205600 -0300" stop="20260903210800 -0300" channel="OFF HD.br">
-    <title lang="pt">Curtas Do Off: Seres Noturnos</title>
-  </programme>
-  <programme start="20260903210800 -0300" stop="20260903213500 -0300" channel="OFF HD.br">
-    <title lang="pt">Mar E Música</title>
-  </programme>
   <programme start="20260903213500 -0300" stop="20260903220400 -0300" channel="OFF HD.br">
     <title lang="pt">Caminhos De Orgulho</title>
   </programme>
@@ -31331,15 +29776,6 @@
   <programme start="20260909205800 -0300" stop="20260909215800 -0300" channel="OFF HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="PREMIERE 3 HD.br">
-    <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="PREMIERE 3 HD.br">
-    <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200000 -0300" channel="PREMIERE 3 HD.br">
-    <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
-  </programme>
   <programme start="20260903200000 -0300" stop="20260903220000 -0300" channel="PREMIERE 3 HD.br">
     <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
   </programme>
@@ -31556,15 +29992,6 @@
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="PREMIERE 3 HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="Premiere 2.br">
-    <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="Premiere 2.br">
-    <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200000 -0300" channel="Premiere 2.br">
-    <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
-  </programme>
   <programme start="20260903200000 -0300" stop="20260903220000 -0300" channel="Premiere 2.br">
     <title lang="pt">Dia 05/09 - Fluminense x Vasco</title>
   </programme>
@@ -31780,15 +30207,6 @@
   </programme>
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="Premiere 2.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="Premiere 4.br">
-    <title lang="pt">Dia 05/09 - Bragantino x Bahia</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="Premiere 4.br">
-    <title lang="pt">Dia 05/09 - Bragantino x Bahia</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200000 -0300" channel="Premiere 4.br">
-    <title lang="pt">Dia 05/09 - Bragantino x Bahia</title>
   </programme>
   <programme start="20260903200000 -0300" stop="20260903220000 -0300" channel="Premiere 4.br">
     <title lang="pt">Dia 05/09 - Bragantino x Bahia</title>
@@ -32008,15 +30426,6 @@
   </programme>
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="Premiere 4.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="Premiere 5 Brazil.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="Premiere 5 Brazil.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200000 -0300" channel="Premiere 5 Brazil.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
   </programme>
   <programme start="20260903200000 -0300" stop="20260903220000 -0300" channel="Premiere 5 Brazil.br">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
@@ -32240,15 +30649,6 @@
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="Premiere 5 Brazil.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="Premiere 6 HD.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="Premiere 6 HD.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200000 -0300" channel="Premiere 6 HD.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
   <programme start="20260903200000 -0300" stop="20260903220000 -0300" channel="Premiere 6 HD.br">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
   </programme>
@@ -32471,15 +30871,6 @@
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="Premiere 6 HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="Premiere 7 HD.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="Premiere 7 HD.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200000 -0300" channel="Premiere 7 HD.br">
-    <title lang="pt">Com o PREMIERE dá jogo!</title>
-  </programme>
   <programme start="20260903200000 -0300" stop="20260903220000 -0300" channel="Premiere 7 HD.br">
     <title lang="pt">Com o PREMIERE dá jogo!</title>
   </programme>
@@ -32701,39 +31092,6 @@
   </programme>
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="Premiere 7 HD.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903160000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - São Paulo x Bragantino</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903163000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Bahia x Internacional</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903170000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Remo x Coritiba</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903180000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">Giro Da Rodada - Brasileirão - 25ª Rodada</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Palmeiras x Vasco</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Bragantino x Grêmio</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Vitória x Bahia</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Internacional x Atlético-MG</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Fluminense x Remo</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Santos x Mirassol</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="Premiere Clubes.br">
-    <title lang="pt">VT - Coritiba x Corinthians</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="Premiere Clubes.br">
     <title lang="pt">VT - Chapecoense x São Paulo</title>
@@ -33314,27 +31672,6 @@
   <programme start="20260909183000 -0300" stop="20260909193000 -0300" channel="Premiere Clubes.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903150000 -0300" stop="20260903190000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">1001 Noites</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Semana Pop</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903201000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Linha Tênue - Transtornos da Mente : Transtorno Compulsivo</title>
-  </programme>
-  <programme start="20260903201000 -0300" stop="20260903202100 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Oxumarê</title>
-  </programme>
-  <programme start="20260903202100 -0300" stop="20260903203000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Z</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Territórios Negros</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="Prime Box Brazil HD.br">
-    <title lang="pt">Partiu?! : Piores Caronas da Terra</title>
-  </programme>
   <programme start="20260903213000 -0300" stop="20260903215500 -0300" channel="Prime Box Brazil HD.br">
     <title lang="pt">Fronteiras - 21 Filmes Essenciais para Compreender o Século XXI</title>
   </programme>
@@ -33676,33 +32013,6 @@
   </programme>
   <programme start="20260905235500 -0300" stop="20260906005500 -0300" channel="Prime Box Brazil HD.br">
     <title lang="pt">Bastidores Prime</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903163000 -0300" channel="Record TV.br">
-    <title lang="pt">Jesus</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903174000 -0300" channel="Record TV.br">
-    <title lang="pt">Cidade Alerta</title>
-  </programme>
-  <programme start="20260903174000 -0300" stop="20260903174500 -0300" channel="Record TV.br">
-    <title lang="pt">Jornal da Record 24h</title>
-  </programme>
-  <programme start="20260903174500 -0300" stop="20260903180000 -0300" channel="Record TV.br">
-    <title lang="pt">Cidade Alerta</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903185000 -0300" channel="Record TV.br">
-    <title lang="pt">Cidade Alerta</title>
-  </programme>
-  <programme start="20260903185000 -0300" stop="20260903194500 -0300" channel="Record TV.br">
-    <title lang="pt">Cidade Alerta</title>
-  </programme>
-  <programme start="20260903194500 -0300" stop="20260903203000 -0300" channel="Record TV.br">
-    <title lang="pt">Jornal da Record</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903205500 -0300" channel="Record TV.br">
-    <title lang="pt">Horário Político</title>
-  </programme>
-  <programme start="20260903205500 -0300" stop="20260903211500 -0300" channel="Record TV.br">
-    <title lang="pt">Jornal da Record</title>
   </programme>
   <programme start="20260903211500 -0300" stop="20260903221500 -0300" channel="Record TV.br">
     <title lang="pt">Iludida</title>
@@ -34163,27 +32473,6 @@
   <programme start="20260909205500 -0300" stop="20260909215500 -0300" channel="Record TV.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903153000 -0300" stop="20260903163000 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">Clip Gospel</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903170000 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">Jornal da Marcha</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903173000 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">Palavra Do Dia Com Apóstolo Estevam</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903180000 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">Escola de Profetas</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903180500 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">Oração da Fé</title>
-  </programme>
-  <programme start="20260903180500 -0300" stop="20260903190000 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">Prosperity</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903200000 -0300" channel="Rede Gospel HD.br">
-    <title lang="pt">Diário de Notícias</title>
-  </programme>
   <programme start="20260903200000 -0300" stop="20260903220000 -0300" channel="Rede Gospel HD.br">
     <title lang="pt">Renascer</title>
   </programme>
@@ -34625,24 +32914,6 @@
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="Rede Gospel HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903153000 -0300" stop="20260903173000 -0300" channel="Rede TV.br">
-    <title lang="pt">A Tarde é Sua</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903183000 -0300" channel="Rede TV.br">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903185000 -0300" channel="Rede TV.br">
-    <title lang="pt">RedeTV! Notícias - 2ª Edição</title>
-  </programme>
-  <programme start="20260903185000 -0300" stop="20260903194500 -0300" channel="Rede TV.br">
-    <title lang="pt">Brasil Do Povo</title>
-  </programme>
-  <programme start="20260903194500 -0300" stop="20260903203000 -0300" channel="Rede TV.br">
-    <title lang="pt">RedeTV! News</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Rede TV.br">
-    <title lang="pt">Horário Eleitoral Gratuito</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260903220000 -0300" channel="Rede TV.br">
     <title lang="pt">Igreja Internacional da Graça de Deus</title>
   </programme>
@@ -35042,42 +33313,6 @@
   <programme start="20260909210000 -0300" stop="20260909220000 -0300" channel="Rede TV.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903151000 -0300" stop="20260903161500 -0300" channel="Rede Vida.br">
-    <title lang="pt">Bendita Hora</title>
-  </programme>
-  <programme start="20260903161500 -0300" stop="20260903170000 -0300" channel="Rede Vida.br">
-    <title lang="pt">Escolhas da Vida</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903173000 -0300" channel="Rede Vida.br">
-    <title lang="pt">Novena dos Filhos e Filhas de São José</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903174500 -0300" channel="Rede Vida.br">
-    <title lang="pt">Encontro com Cristo</title>
-  </programme>
-  <programme start="20260903174500 -0300" stop="20260903180000 -0300" channel="Rede Vida.br">
-    <title lang="pt">Terço Bizantino</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="Rede Vida.br">
-    <title lang="pt">O Santo Terço</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903185500 -0300" channel="Rede Vida.br">
-    <title lang="pt">JCTV</title>
-  </programme>
-  <programme start="20260903185500 -0300" stop="20260903190000 -0300" channel="Rede Vida.br">
-    <title lang="pt">Memória de Fé</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903195500 -0300" channel="Rede Vida.br">
-    <title lang="pt">Santuário da Vida : Missa</title>
-  </programme>
-  <programme start="20260903195500 -0300" stop="20260903200000 -0300" channel="Rede Vida.br">
-    <title lang="pt">Crônicas de Fé e Afeto</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="Rede Vida.br">
-    <title lang="pt">Terço de Nossa Senhora</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Rede Vida.br">
-    <title lang="pt">Rosário da Vida</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260903223000 -0300" channel="Rede Vida.br">
     <title lang="pt">#RedeVidaTamoJunto</title>
   </programme>
@@ -35311,24 +33546,6 @@
   </programme>
   <programme start="20260905230000 -0300" stop="20260906000000 -0300" channel="Rede Vida.br">
     <title lang="pt">Fazendo Barulho</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903170000 -0300" channel="SBT.br">
-    <title lang="pt">Fofocalizando</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903181500 -0300" channel="SBT.br">
-    <title lang="pt">O Que a Vida Me Roubou</title>
-  </programme>
-  <programme start="20260903181500 -0300" stop="20260903194500 -0300" channel="SBT.br">
-    <title lang="pt">SBT Cidades</title>
-  </programme>
-  <programme start="20260903194500 -0300" stop="20260903203000 -0300" channel="SBT.br">
-    <title lang="pt">SBT Brasil</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903205500 -0300" channel="SBT.br">
-    <title lang="pt">Horário Eleitoral</title>
-  </programme>
-  <programme start="20260903205500 -0300" stop="20260903210500 -0300" channel="SBT.br">
-    <title lang="pt">SBT Brasil</title>
   </programme>
   <programme start="20260903210500 -0300" stop="20260903215000 -0300" channel="SBT.br">
     <title lang="pt">Amor Valente</title>
@@ -35666,30 +33883,6 @@
   <programme start="20260909211000 -0300" stop="20260909221000 -0300" channel="SBT.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903152000 -0300" stop="20260903160300 -0300" channel="SPACE.br">
-    <title lang="pt">CSI Investigação Criminal : Caminho para a Recuperação</title>
-  </programme>
-  <programme start="20260903160300 -0300" stop="20260903164900 -0300" channel="SPACE.br">
-    <title lang="pt">CSI Investigação Criminal : Desejo de Sangue</title>
-  </programme>
-  <programme start="20260903164900 -0300" stop="20260903173400 -0300" channel="SPACE.br">
-    <title lang="pt">CSI: Miami : Queima Lenta</title>
-  </programme>
-  <programme start="20260903173400 -0300" stop="20260903182100 -0300" channel="SPACE.br">
-    <title lang="pt">CSI: Miami : Congelador</title>
-  </programme>
-  <programme start="20260903182100 -0300" stop="20260903190700 -0300" channel="SPACE.br">
-    <title lang="pt">CSI Investigação Criminal : Quem e o quê?</title>
-  </programme>
-  <programme start="20260903190700 -0300" stop="20260903195300 -0300" channel="SPACE.br">
-    <title lang="pt">CSI Investigação Criminal : Ângulo de Ataque</title>
-  </programme>
-  <programme start="20260903195300 -0300" stop="20260903203900 -0300" channel="SPACE.br">
-    <title lang="pt">CSI Investigação Criminal : Caixão e Enterro</title>
-  </programme>
-  <programme start="20260903203900 -0300" stop="20260903212600 -0300" channel="SPACE.br">
-    <title lang="pt">CSI: Miami : Provocação</title>
-  </programme>
   <programme start="20260903212600 -0300" stop="20260903221300 -0300" channel="SPACE.br">
     <title lang="pt">CSI: Miami : Vingança</title>
   </programme>
@@ -35855,18 +34048,6 @@
   <programme start="20260905230000 -0300" stop="20260906000000 -0300" channel="SPACE.br">
     <title lang="pt">Dia de Treinamento</title>
   </programme>
-  <programme start="20260903151500 -0300" stop="20260903154500 -0300" channel="Sony.br">
-    <title lang="pt">My Wife and Kids : The Anniversary</title>
-  </programme>
-  <programme start="20260903154500 -0300" stop="20260903161000 -0300" channel="Sony.br">
-    <title lang="pt">My Wife and Kids : The Anniversary</title>
-  </programme>
-  <programme start="20260903161000 -0300" stop="20260903175500 -0300" channel="Sony.br">
-    <title lang="pt">A Grande Muralha</title>
-  </programme>
-  <programme start="20260903175500 -0300" stop="20260903200000 -0300" channel="Sony.br">
-    <title lang="pt">O Dia Depois de Amanhã</title>
-  </programme>
   <programme start="20260903200000 -0300" stop="20260903214500 -0300" channel="Sony.br">
     <title lang="pt">De Volta ao Jogo</title>
   </programme>
@@ -36010,9 +34191,6 @@
   </programme>
   <programme start="20260905232500 -0300" stop="20260906002500 -0300" channel="Sony.br">
     <title lang="pt">O Colecionador de Ossos</title>
-  </programme>
-  <programme start="20260903140000 -0300" stop="20260903160000 -0300" channel="SporTV 3.br">
-    <title lang="pt">Surfe - Melhores Momentos - Etapa de Teahupo&amp;#039;o</title>
   </programme>
   <programme start="20260903160000 -0300" stop="20260904023000 -0300" channel="SporTV 3.br">
     <title lang="pt">A Onda</title>
@@ -36218,10 +34396,7 @@
   <programme start="20260910020000 -0300" stop="20260910030000 -0300" channel="SporTV 3.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903144500 -0300" stop="20260903174500 -0300" channel="SporTV.br">
-    <title lang="pt">Globo Esporte</title>
-  </programme>
-  <programme start="20260903174500 -0300" stop="20260904003000 -0300" channel="SporTV.br">
+  <programme start="20260903194000 -0300" stop="20260904003000 -0300" channel="SporTV.br">
     <title lang="pt">VT - Santos x Palmeiras</title>
   </programme>
   <programme start="20260904003000 -0300" stop="20260904013000 -0300" channel="SporTV.br">
@@ -36472,21 +34647,6 @@
   </programme>
   <programme start="20260909173000 -0300" stop="20260909183000 -0300" channel="SporTV.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903143000 -0300" stop="20260903163000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Diamond League - 14ª Etapa - Zurique, Suiça</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903170000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Maria Lenk, de Braços Abertos</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903183000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Troféu José Finkel de Natação - Finais - São …</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903193000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">Road To Glory</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903213000 -0300" channel="SporTV2 HD.br">
-    <title lang="pt">VT - Brasil x Japão</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903234500 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Liga das Nações Feminina de Vôlei</title>
@@ -36761,18 +34921,6 @@
   <programme start="20260909210000 -0300" stop="20260909220000 -0300" channel="SporTV2 HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903140500 -0300" stop="20260903160000 -0300" channel="Studio Universal.br">
-    <title lang="pt">Sing 2</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903173500 -0300" channel="Studio Universal.br">
-    <title lang="pt">Kung Fu Panda 4</title>
-  </programme>
-  <programme start="20260903173500 -0300" stop="20260903191000 -0300" channel="Studio Universal.br">
-    <title lang="pt">Super Mario Bros. - O Filme</title>
-  </programme>
-  <programme start="20260903191000 -0300" stop="20260903210000 -0300" channel="Studio Universal.br">
-    <title lang="pt">Sol</title>
-  </programme>
   <programme start="20260903210000 -0300" stop="20260903230000 -0300" channel="Studio Universal.br">
     <title lang="pt">Anjos Da Lei</title>
   </programme>
@@ -37012,27 +35160,6 @@
   </programme>
   <programme start="20260909210000 -0300" stop="20260909220000 -0300" channel="Studio Universal.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903154000 -0300" stop="20260903163000 -0300" channel="Syfy HD.br">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903172000 -0300" channel="Syfy HD.br">
-    <title lang="pt">Blue Bloods</title>
-  </programme>
-  <programme start="20260903172000 -0300" stop="20260903181000 -0300" channel="Syfy HD.br">
-    <title lang="pt">Suits</title>
-  </programme>
-  <programme start="20260903181000 -0300" stop="20260903190000 -0300" channel="Syfy HD.br">
-    <title lang="pt">Suits</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903195000 -0300" channel="Syfy HD.br">
-    <title lang="pt">The Rookie</title>
-  </programme>
-  <programme start="20260903195000 -0300" stop="20260903204000 -0300" channel="Syfy HD.br">
-    <title lang="pt">The Rookie</title>
-  </programme>
-  <programme start="20260903204000 -0300" stop="20260903213000 -0300" channel="Syfy HD.br">
-    <title lang="pt">The Rookie</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903222000 -0300" channel="Syfy HD.br">
     <title lang="pt">Blue Bloods</title>
@@ -37514,15 +35641,6 @@
   <programme start="20260909213000 -0300" stop="20260909223000 -0300" channel="Syfy HD.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903144900 -0300" stop="20260903162500 -0300" channel="TCM.br">
-    <title lang="pt">The Racer</title>
-  </programme>
-  <programme start="20260903162500 -0300" stop="20260903175900 -0300" channel="TCM.br">
-    <title lang="pt">O Mistério da Felicidade</title>
-  </programme>
-  <programme start="20260903175900 -0300" stop="20260903195000 -0300" channel="TCM.br">
-    <title lang="pt">Cidade Sem Lei</title>
-  </programme>
   <programme start="20260903195000 -0300" stop="20260903220000 -0300" channel="TCM.br">
     <title lang="pt">O Tesouro de Sierra Madre</title>
   </programme>
@@ -37805,15 +35923,6 @@
   <programme start="20260909220000 -0300" stop="20260909230000 -0300" channel="TCM.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903143500 -0300" stop="20260903162500 -0300" channel="TELECINE PIPOCA.br">
-    <title lang="pt">Cartas para Julieta</title>
-  </programme>
-  <programme start="20260903162500 -0300" stop="20260903182500 -0300" channel="TELECINE PIPOCA.br">
-    <title lang="pt">Robin Hood - A Origem</title>
-  </programme>
-  <programme start="20260903182500 -0300" stop="20260903201000 -0300" channel="TELECINE PIPOCA.br">
-    <title lang="pt">Deixa Acontecer</title>
-  </programme>
   <programme start="20260903201000 -0300" stop="20260903220000 -0300" channel="TELECINE PIPOCA.br">
     <title lang="pt">O Silêncio da Vingança</title>
   </programme>
@@ -37900,30 +36009,6 @@
   </programme>
   <programme start="20260905234000 -0300" stop="20260906004000 -0300" channel="TELECINE PIPOCA.br">
     <title lang="pt">Kong - A Ilha da Caveira</title>
-  </programme>
-  <programme start="20260903154100 -0300" stop="20260903163000 -0300" channel="TLC.br">
-    <title lang="pt">Uma Mulher de Peso : Viagem Tropical, Novo Capítulo</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903171900 -0300" channel="TLC.br">
-    <title lang="pt">4 Mulheres e 1 Marido : A Última Reunião em Família</title>
-  </programme>
-  <programme start="20260903171900 -0300" stop="20260903180800 -0300" channel="TLC.br">
-    <title lang="pt">4 Mulheres e 1 Marido : Contando a Verdade</title>
-  </programme>
-  <programme start="20260903180800 -0300" stop="20260903185200 -0300" channel="TLC.br">
-    <title lang="pt">O Vestido Ideal : Noiva no Gelo</title>
-  </programme>
-  <programme start="20260903185200 -0300" stop="20260903191700 -0300" channel="TLC.br">
-    <title lang="pt">O Vestido Ideal - Reino Unido : A Melhor Amiga da Noiva</title>
-  </programme>
-  <programme start="20260903191700 -0300" stop="20260903194200 -0300" channel="TLC.br">
-    <title lang="pt">O Vestido Ideal - Reino Unido : O Dilema do Vestido</title>
-  </programme>
-  <programme start="20260903194200 -0300" stop="20260903203200 -0300" channel="TLC.br">
-    <title lang="pt">Uma Mulher de Peso : Até Onde a Whit Desce?</title>
-  </programme>
-  <programme start="20260903203200 -0300" stop="20260903211600 -0300" channel="TLC.br">
-    <title lang="pt">Meu Grande Casamento Cigano : Rituais, Regras e o Teste Cigano Definitivo</title>
   </programme>
   <programme start="20260903211600 -0300" stop="20260903220600 -0300" channel="TLC.br">
     <title lang="pt">Filhinho da Mamãe : Cobrinha Safada</title>
@@ -38152,27 +36237,6 @@
   </programme>
   <programme start="20260905235700 -0300" stop="20260906005700 -0300" channel="TLC.br">
     <title lang="pt">O Vestido Ideal : Vamos Dar ao Homem o que Ele Quer</title>
-  </programme>
-  <programme start="20260903153600 -0300" stop="20260903162300 -0300" channel="TNT Novelas.br">
-    <title lang="pt">Iludida</title>
-  </programme>
-  <programme start="20260903162300 -0300" stop="20260903172200 -0300" channel="TNT Novelas.br">
-    <title lang="pt">Beleza Fatal</title>
-  </programme>
-  <programme start="20260903172200 -0300" stop="20260903181600 -0300" channel="TNT Novelas.br">
-    <title lang="pt">Beleza Fatal</title>
-  </programme>
-  <programme start="20260903181600 -0300" stop="20260903190200 -0300" channel="TNT Novelas.br">
-    <title lang="pt">Força de Mulher</title>
-  </programme>
-  <programme start="20260903190200 -0300" stop="20260903194800 -0300" channel="TNT Novelas.br">
-    <title lang="pt">Iludida</title>
-  </programme>
-  <programme start="20260903194800 -0300" stop="20260903203700 -0300" channel="TNT Novelas.br">
-    <title lang="pt">Reis</title>
-  </programme>
-  <programme start="20260903203700 -0300" stop="20260903214000 -0300" channel="TNT Novelas.br">
-    <title lang="pt">A Promessa</title>
   </programme>
   <programme start="20260903214000 -0300" stop="20260903223300 -0300" channel="TNT Novelas.br">
     <title lang="pt">Beleza Fatal</title>
@@ -38702,27 +36766,6 @@
   <programme start="20260909214200 -0300" stop="20260909224200 -0300" channel="TNT Novelas.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903153800 -0300" stop="20260903162700 -0300" channel="TNT Series HD.br">
-    <title lang="pt">Cold Case : The Lost Soul of Herman Lester</title>
-  </programme>
-  <programme start="20260903162700 -0300" stop="20260903171200 -0300" channel="TNT Series HD.br">
-    <title lang="pt">Cold Case : Resolutions</title>
-  </programme>
-  <programme start="20260903171200 -0300" stop="20260903175900 -0300" channel="TNT Series HD.br">
-    <title lang="pt">The Mentalist : Red Dawn</title>
-  </programme>
-  <programme start="20260903175900 -0300" stop="20260903184200 -0300" channel="TNT Series HD.br">
-    <title lang="pt">The Mentalist : Cherry Picked</title>
-  </programme>
-  <programme start="20260903184200 -0300" stop="20260903192700 -0300" channel="TNT Series HD.br">
-    <title lang="pt">The Mentalist : The Red Tattoo</title>
-  </programme>
-  <programme start="20260903192700 -0300" stop="20260903201400 -0300" channel="TNT Series HD.br">
-    <title lang="pt">The Mentalist : Fire and Brimstone</title>
-  </programme>
-  <programme start="20260903201400 -0300" stop="20260903210100 -0300" channel="TNT Series HD.br">
-    <title lang="pt">The Mentalist : Red Dawn</title>
-  </programme>
   <programme start="20260903210100 -0300" stop="20260903214500 -0300" channel="TNT Series HD.br">
     <title lang="pt">The Mentalist : Cherry Picked</title>
   </programme>
@@ -38924,15 +36967,6 @@
   <programme start="20260905231700 -0300" stop="20260906001700 -0300" channel="TNT Series HD.br">
     <title lang="pt">Cold Case : Maternal Instincts</title>
   </programme>
-  <programme start="20260903141500 -0300" stop="20260903160600 -0300" channel="TNT.br">
-    <title lang="pt">Fúria de Titãs</title>
-  </programme>
-  <programme start="20260903160600 -0300" stop="20260903180500 -0300" channel="TNT.br">
-    <title lang="pt">Magnatas do Crime</title>
-  </programme>
-  <programme start="20260903180500 -0300" stop="20260903201800 -0300" channel="TNT.br">
-    <title lang="pt">Esquadrão Suicida</title>
-  </programme>
   <programme start="20260903201800 -0300" stop="20260903215500 -0300" channel="TNT.br">
     <title lang="pt">A Hora do Rush 2</title>
   </programme>
@@ -39103,27 +37137,6 @@
   </programme>
   <programme start="20260905223000 -0300" stop="20260905233000 -0300" channel="TNT.br">
     <title lang="pt">Bastardos Inglórios</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903164500 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">Viva a Tarde</title>
-  </programme>
-  <programme start="20260903164500 -0300" stop="20260903175000 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">TJ Aparecida</title>
-  </programme>
-  <programme start="20260903175000 -0300" stop="20260903180000 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">Escola de Maria</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">Basílica Histórica de Nossa Senhora Aparecida : Missa</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">Terço de Aparecida : Padre Antônio Maria</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903203000 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">Bênção da Noite</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903205500 -0300" channel="TV Aparecida (aberta).br">
-    <title lang="pt">Horário Eleitoral</title>
   </programme>
   <programme start="20260903205500 -0300" stop="20260903220000 -0300" channel="TV Aparecida (aberta).br">
     <title lang="pt">Arquivo A</title>
@@ -39313,30 +37326,6 @@
   </programme>
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="TV Aparecida (aberta).br">
     <title lang="pt">Medalhão.com</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903160000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Expedições : Torres de Bonsucesso</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903180000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Sem Censura</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Brasil Visto de Cima : Zona da Mata - Terra de Barões</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Stadium</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903200000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Repórter Brasil</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Um Milagre</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Propaganda Eleitoral</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="TV Brasil.br">
-    <title lang="pt">Um Milagre</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903223000 -0300" channel="TV Brasil.br">
     <title lang="pt">Passo a Passo - A História do Ballet Paraisópolis</title>
@@ -39628,42 +37617,6 @@
   </programme>
   <programme start="20260905212000 -0300" stop="20260905222000 -0300" channel="TV Brasil.br">
     <title lang="pt">Final, Volta: Juventude-SE x Planalto-GO - Campeonato Brasileiro de Futebol Feminino - Série A3 : Final, Volta: Juventude-SE x Planalto-GO</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903154500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Iuri &amp; Udi</title>
-  </programme>
-  <programme start="20260903154500 -0300" stop="20260903160000 -0300" channel="TV Cultura.br">
-    <title lang="pt">O Show da Luna!</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903162000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Weme e a Natureza</title>
-  </programme>
-  <programme start="20260903162000 -0300" stop="20260903163000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Turma da Mônica</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903164500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Quintal da Cultura</title>
-  </programme>
-  <programme start="20260903164500 -0300" stop="20260903170000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Irmão do Jorel</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903173000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Mundo da Lua</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903180000 -0300" channel="TV Cultura.br">
-    <title lang="pt">O Mundo de Beakman</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Shaun, o Carneiro</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903193000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Antimatéria - Energia Geek</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903203000 -0300" channel="TV Cultura.br">
-    <title lang="pt">Arena dos Saberes</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903205500 -0300" channel="TV Cultura.br">
-    <title lang="pt">Propaganda Eleitoral</title>
   </programme>
   <programme start="20260903205500 -0300" stop="20260903220000 -0300" channel="TV Cultura.br">
     <title lang="pt">Jornal da Cultura</title>
@@ -40058,24 +38011,6 @@
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="TV Cultura.br">
     <title lang="pt">O Desmonte do Monte</title>
   </programme>
-  <programme start="20260903153000 -0300" stop="20260903174500 -0300" channel="TV Gazeta.br">
-    <title lang="pt">Mulheres</title>
-  </programme>
-  <programme start="20260903174500 -0300" stop="20260903180000 -0300" channel="TV Gazeta.br">
-    <title lang="pt">Gazeta News</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="TV Gazeta.br">
-    <title lang="pt">Gazeta Esportiva</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903200000 -0300" channel="TV Gazeta.br">
-    <title lang="pt">Jornal da Gazeta</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="TV Gazeta.br">
-    <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903205500 -0300" channel="TV Gazeta.br">
-    <title lang="pt">Propaganda Eleitoral</title>
-  </programme>
   <programme start="20260903205500 -0300" stop="20260904023700 -0300" channel="TV Gazeta.br">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
   </programme>
@@ -40174,84 +38109,6 @@
   </programme>
   <programme start="20260905205500 -0300" stop="20260905215500 -0300" channel="TV Gazeta.br">
     <title lang="pt">Igreja Universal do Reino de Deus</title>
-  </programme>
-  <programme start="20260903154000 -0300" stop="20260903160000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Pratinho da Iaiá : Inteligência (Feijão)</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903163000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Mundo da Lua : Aeroporto 2001</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903170000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">X-Tudo</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903171000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Quintal no Museu : Pateo do Collegio</title>
-  </programme>
-  <programme start="20260903171000 -0300" stop="20260903172000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Os Óculos Mágicos de Charlotte : Charlotte em Parintins</title>
-  </programme>
-  <programme start="20260903172000 -0300" stop="20260903173000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Esquadrão do Mar Azul : Bem Estranho!</title>
-  </programme>
-  <programme start="20260903173000 -0300" stop="20260903174000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Isso Disso : Metrô</title>
-  </programme>
-  <programme start="20260903174000 -0300" stop="20260903175000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Recreio do Jacarelvis</title>
-  </programme>
-  <programme start="20260903175000 -0300" stop="20260903180000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Patrulha do Futuro : Igualdade de Gênero</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903182000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">A Arca do Ziraldo : Continue a Nadar</title>
-  </programme>
-  <programme start="20260903182000 -0300" stop="20260903183500 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Meu AmigãoZão : Este Lugar É Meu</title>
-  </programme>
-  <programme start="20260903183500 -0300" stop="20260903184500 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Musical Rá Tim Bum!</title>
-  </programme>
-  <programme start="20260903184500 -0300" stop="20260903190000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Cocoricó : Revezar - Trabalhar com Revezamento</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903191500 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Quintal da Cultura na Missão do Dia : Cidade das Abelhas</title>
-  </programme>
-  <programme start="20260903191500 -0300" stop="20260903192000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Contos Rá-Tim-Bum : As Aparências Enganam</title>
-  </programme>
-  <programme start="20260903192000 -0300" stop="20260903194000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Yoga com Histórias : Yoga com Bichos</title>
-  </programme>
-  <programme start="20260903194000 -0300" stop="20260903195500 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Rubra em Família : Improviso</title>
-  </programme>
-  <programme start="20260903195500 -0300" stop="20260903200000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Morgana &amp; Celeste : O Monstro do Lago Ness</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903201000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">O Mago das Formas : O Trem</title>
-  </programme>
-  <programme start="20260903201000 -0300" stop="20260903201500 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Paramigos Imparáveis : Casos de Família</title>
-  </programme>
-  <programme start="20260903201500 -0300" stop="20260903202000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">A Mansão Maluca do Professor Ambrósio : Corra, Leslie, Corra!</title>
-  </programme>
-  <programme start="20260903202000 -0300" stop="20260903203000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Nilba e os Desastronautas : Miss Ervilha</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Me Liga na Lata : Maranhão</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903212000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">DJ Cão e a Loja de Discos : Gaspar Z&amp;#039;África - Qual É a do Rap...</title>
-  </programme>
-  <programme start="20260903212000 -0300" stop="20260903213000 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Traçando Arte : Meu Ídolo</title>
-  </programme>
-  <programme start="20260903213000 -0300" stop="20260903213500 -0300" channel="TV RA TIM BUM.br">
-    <title lang="pt">Astro Não Mia : A Ideia É Minha</title>
   </programme>
   <programme start="20260903213500 -0300" stop="20260903214500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">Simão e Bartolomeu : O Futuro é Agora</title>
@@ -40817,15 +38674,6 @@
   <programme start="20260905234500 -0300" stop="20260906004500 -0300" channel="TV RA TIM BUM.br">
     <title lang="pt">1, 2, 3 Agora É Sua Vez : 1, 2, 3 Agora É Sua vez 25</title>
   </programme>
-  <programme start="20260903132500 -0300" stop="20260903160500 -0300" channel="Telecine Action.br">
-    <title lang="pt">Gladiador</title>
-  </programme>
-  <programme start="20260903160500 -0300" stop="20260903174500 -0300" channel="Telecine Action.br">
-    <title lang="pt">O Sobrevivente</title>
-  </programme>
-  <programme start="20260903174500 -0300" stop="20260903200500 -0300" channel="Telecine Action.br">
-    <title lang="pt">Medusa</title>
-  </programme>
   <programme start="20260903200500 -0300" stop="20260903220000 -0300" channel="Telecine Action.br">
     <title lang="pt">Corra!</title>
   </programme>
@@ -40913,15 +38761,6 @@
   <programme start="20260905235000 -0300" stop="20260906005000 -0300" channel="Telecine Action.br">
     <title lang="pt">Jogador Nº 1</title>
   </programme>
-  <programme start="20260903143000 -0300" stop="20260903162500 -0300" channel="Telecine Cult.br">
-    <title lang="pt">Jules e Jim - Uma Mulher para Dois</title>
-  </programme>
-  <programme start="20260903162500 -0300" stop="20260903181000 -0300" channel="Telecine Cult.br">
-    <title lang="pt">Corrente do Mal</title>
-  </programme>
-  <programme start="20260903181000 -0300" stop="20260903202000 -0300" channel="Telecine Cult.br">
-    <title lang="pt">Adorável Vagabundo</title>
-  </programme>
   <programme start="20260903202000 -0300" stop="20260903220000 -0300" channel="Telecine Cult.br">
     <title lang="pt">Convenção das Bruxas</title>
   </programme>
@@ -40999,15 +38838,6 @@
   </programme>
   <programme start="20260905220000 -0300" stop="20260905230000 -0300" channel="Telecine Cult.br">
     <title lang="pt">Os Infiltrados</title>
-  </programme>
-  <programme start="20260903151000 -0300" stop="20260903165500 -0300" channel="Telecine Fun.br">
-    <title lang="pt">Como Treinar o Seu Dragão</title>
-  </programme>
-  <programme start="20260903165500 -0300" stop="20260903183500 -0300" channel="Telecine Fun.br">
-    <title lang="pt">Space Jam - O Jogo do Século</title>
-  </programme>
-  <programme start="20260903183500 -0300" stop="20260903202000 -0300" channel="Telecine Fun.br">
-    <title lang="pt">A Volta do Todo Poderoso</title>
   </programme>
   <programme start="20260903202000 -0300" stop="20260903220000 -0300" channel="Telecine Fun.br">
     <title lang="pt">Bee Movie - A História de uma Abelha</title>
@@ -41102,15 +38932,6 @@
   <programme start="20260905233000 -0300" stop="20260906003000 -0300" channel="Telecine Fun.br">
     <title lang="pt">Ainbo - A Guerreira da Amazônia</title>
   </programme>
-  <programme start="20260903140500 -0300" stop="20260903155500 -0300" channel="Telecine Premium.br">
-    <title lang="pt">Plano de Aposentadoria</title>
-  </programme>
-  <programme start="20260903155500 -0300" stop="20260903182000 -0300" channel="Telecine Premium.br">
-    <title lang="pt">Nasce uma Estrela</title>
-  </programme>
-  <programme start="20260903182000 -0300" stop="20260903200000 -0300" channel="Telecine Premium.br">
-    <title lang="pt">O Mestre do Crime</title>
-  </programme>
   <programme start="20260903200000 -0300" stop="20260903215500 -0300" channel="Telecine Premium.br">
     <title lang="pt">Os Farofeiros 2</title>
   </programme>
@@ -41195,12 +39016,6 @@
   <programme start="20260905234000 -0300" stop="20260906004000 -0300" channel="Telecine Premium.br">
     <title lang="pt">M3gan</title>
   </programme>
-  <programme start="20260903154000 -0300" stop="20260903180000 -0300" channel="Telecine Touch.br">
-    <title lang="pt">12 Anos de Escravidão</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903200500 -0300" channel="Telecine Touch.br">
-    <title lang="pt">Luiz Gonzaga - Légua Tirana</title>
-  </programme>
   <programme start="20260903200500 -0300" stop="20260903220000 -0300" channel="Telecine Touch.br">
     <title lang="pt">Um Dia</title>
   </programme>
@@ -41281,27 +39096,6 @@
   </programme>
   <programme start="20260905235000 -0300" stop="20260906005000 -0300" channel="Telecine Touch.br">
     <title lang="pt">A Saga Crepúsculo - Lua Nova</title>
-  </programme>
-  <programme start="20260903150000 -0300" stop="20260903190000 -0300" channel="Travel Box Brazil.br">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903191500 -0300" channel="Travel Box Brazil.br">
-    <title lang="pt">Pra Viagem</title>
-  </programme>
-  <programme start="20260903191500 -0300" stop="20260903193000 -0300" channel="Travel Box Brazil.br">
-    <title lang="pt">Giro Aventureiros</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="Travel Box Brazil.br">
-    <title lang="pt">Comida de Viagem</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="Travel Box Brazil.br">
-    <title lang="pt">Com Fome de Viagem</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="Travel Box Brazil.br">
-    <title lang="pt">Vibe de Dois</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903211500 -0300" channel="Travel Box Brazil.br">
-    <title lang="pt">Viaje na Melhor Idade</title>
   </programme>
   <programme start="20260903211500 -0300" stop="20260903214500 -0300" channel="Travel Box Brazil.br">
     <title lang="pt">A Vida e o Lugar</title>
@@ -42476,27 +40270,6 @@
   <programme start="20260909211500 -0300" stop="20260909221500 -0300" channel="Travel Box Brazil.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903154000 -0300" stop="20260903163000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903172000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Chicago Fire</title>
-  </programme>
-  <programme start="20260903172000 -0300" stop="20260903181000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Law &amp; Order: Svu</title>
-  </programme>
-  <programme start="20260903181000 -0300" stop="20260903190000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Law &amp; Order: Svu</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903195000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Law &amp; Order: Svu</title>
-  </programme>
-  <programme start="20260903195000 -0300" stop="20260903204000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
-  <programme start="20260903204000 -0300" stop="20260903213000 -0300" channel="Universal Channel.br">
-    <title lang="pt">Chicago P.D.</title>
-  </programme>
   <programme start="20260903213000 -0300" stop="20260903222000 -0300" channel="Universal Channel.br">
     <title lang="pt">Fbi</title>
   </programme>
@@ -43000,27 +40773,6 @@
   </programme>
   <programme start="20260909213000 -0300" stop="20260909223000 -0300" channel="Universal Channel.br">
     <title lang="pt">Programação indisponível</title>
-  </programme>
-  <programme start="20260903152700 -0300" stop="20260903161400 -0300" channel="Viva.br">
-    <title lang="pt">Rock Story</title>
-  </programme>
-  <programme start="20260903161400 -0300" stop="20260903165800 -0300" channel="Viva.br">
-    <title lang="pt">Amor À Vida</title>
-  </programme>
-  <programme start="20260903165800 -0300" stop="20260903180000 -0300" channel="Viva.br">
-    <title lang="pt">Minha Menina</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="Viva.br">
-    <title lang="pt">As Crianças Que Amamos</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903191900 -0300" channel="Viva.br">
-    <title lang="pt">Anjo Mau</title>
-  </programme>
-  <programme start="20260903191900 -0300" stop="20260903200800 -0300" channel="Viva.br">
-    <title lang="pt">O Rei Do Gado</title>
-  </programme>
-  <programme start="20260903200800 -0300" stop="20260903205500 -0300" channel="Viva.br">
-    <title lang="pt">Rock Story</title>
   </programme>
   <programme start="20260903205500 -0300" stop="20260903214900 -0300" channel="Viva.br">
     <title lang="pt">As Filhas Da Senhora Garcia</title>
@@ -43541,30 +41293,6 @@
   <programme start="20260909211100 -0300" stop="20260909221100 -0300" channel="Viva.br">
     <title lang="pt">Programação indisponível</title>
   </programme>
-  <programme start="20260903153000 -0300" stop="20260903155500 -0300" channel="Warner Channel.br">
-    <title lang="pt">Two and a Half Men : Working for Caligula</title>
-  </programme>
-  <programme start="20260903155500 -0300" stop="20260903161800 -0300" channel="Warner Channel.br">
-    <title lang="pt">Two and a Half Men : Who&amp;#039;s Vod Kanockers?</title>
-  </programme>
-  <programme start="20260903161800 -0300" stop="20260903164100 -0300" channel="Warner Channel.br">
-    <title lang="pt">Two and a Half Men : The Sea Is a Harsh Mistress</title>
-  </programme>
-  <programme start="20260903164100 -0300" stop="20260903182600 -0300" channel="Warner Channel.br">
-    <title lang="pt">Bem-Vindo à Selva</title>
-  </programme>
-  <programme start="20260903182600 -0300" stop="20260903201000 -0300" channel="Warner Channel.br">
-    <title lang="pt">Eu Sou a Lenda</title>
-  </programme>
-  <programme start="20260903201000 -0300" stop="20260903203300 -0300" channel="Warner Channel.br">
-    <title lang="pt">The Big Bang Theory : The Terminator Decoupling</title>
-  </programme>
-  <programme start="20260903203300 -0300" stop="20260903205700 -0300" channel="Warner Channel.br">
-    <title lang="pt">The Big Bang Theory : The Work Song Nanocluster</title>
-  </programme>
-  <programme start="20260903205700 -0300" stop="20260903212000 -0300" channel="Warner Channel.br">
-    <title lang="pt">The Big Bang Theory : The Dead Hooker Juxtaposition</title>
-  </programme>
   <programme start="20260903212000 -0300" stop="20260903214300 -0300" channel="Warner Channel.br">
     <title lang="pt">The Big Bang Theory : The Hofstadter Isotope</title>
   </programme>
@@ -43834,69 +41562,6 @@
   </programme>
   <programme start="20260905223000 -0300" stop="20260905233000 -0300" channel="Warner Channel.br">
     <title lang="pt">Oito Mulheres e um Segredo</title>
-  </programme>
-  <programme start="20260903153000 -0300" stop="20260903160000 -0300" channel="Woohoo.br">
-    <title lang="pt">Som na Lata</title>
-  </programme>
-  <programme start="20260903160000 -0300" stop="20260903161500 -0300" channel="Woohoo.br">
-    <title lang="pt">Queue Games</title>
-  </programme>
-  <programme start="20260903161500 -0300" stop="20260903161900 -0300" channel="Woohoo.br">
-    <title lang="pt">Surf Kidz</title>
-  </programme>
-  <programme start="20260903161900 -0300" stop="20260903162300 -0300" channel="Woohoo.br">
-    <title lang="pt">Free Surf</title>
-  </programme>
-  <programme start="20260903162300 -0300" stop="20260903162500 -0300" channel="Woohoo.br">
-    <title lang="pt">Queue Staff Picks</title>
-  </programme>
-  <programme start="20260903162500 -0300" stop="20260903162700 -0300" channel="Woohoo.br">
-    <title lang="pt">Queue Staff Picks</title>
-  </programme>
-  <programme start="20260903162700 -0300" stop="20260903163000 -0300" channel="Woohoo.br">
-    <title lang="pt">Gibigice</title>
-  </programme>
-  <programme start="20260903163000 -0300" stop="20260903164500 -0300" channel="Woohoo.br">
-    <title lang="pt">Olho de Peixe : Conheça Otavio Neto</title>
-  </programme>
-  <programme start="20260903164500 -0300" stop="20260903170000 -0300" channel="Woohoo.br">
-    <title lang="pt">Check Point</title>
-  </programme>
-  <programme start="20260903170000 -0300" stop="20260903180000 -0300" channel="Woohoo.br">
-    <title lang="pt">Streamerland</title>
-  </programme>
-  <programme start="20260903180000 -0300" stop="20260903183000 -0300" channel="Woohoo.br">
-    <title lang="pt">Viajando pelo Brasil</title>
-  </programme>
-  <programme start="20260903183000 -0300" stop="20260903190000 -0300" channel="Woohoo.br">
-    <title lang="pt">Eu Mega Recomendo</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903191500 -0300" channel="Woohoo.br">
-    <title lang="pt">Caminhos da Sol</title>
-  </programme>
-  <programme start="20260903191500 -0300" stop="20260903193000 -0300" channel="Woohoo.br">
-    <title lang="pt">Onboarding Tribos</title>
-  </programme>
-  <programme start="20260903193000 -0300" stop="20260903194500 -0300" channel="Woohoo.br">
-    <title lang="pt">Woohoo Music</title>
-  </programme>
-  <programme start="20260903194500 -0300" stop="20260903200000 -0300" channel="Woohoo.br">
-    <title lang="pt">Moovies</title>
-  </programme>
-  <programme start="20260903200000 -0300" stop="20260903201500 -0300" channel="Woohoo.br">
-    <title lang="pt">Custom : SLS Paris</title>
-  </programme>
-  <programme start="20260903201500 -0300" stop="20260903203000 -0300" channel="Woohoo.br">
-    <title lang="pt">Luara e o Mar</title>
-  </programme>
-  <programme start="20260903203000 -0300" stop="20260903204500 -0300" channel="Woohoo.br">
-    <title lang="pt">Tattoodo no Game</title>
-  </programme>
-  <programme start="20260903204500 -0300" stop="20260903210000 -0300" channel="Woohoo.br">
-    <title lang="pt">Locals</title>
-  </programme>
-  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="Woohoo.br">
-    <title lang="pt">D.N.A. : LS Jack</title>
   </programme>
   <programme start="20260903213000 -0300" stop="20260903214500 -0300" channel="Woohoo.br">
     <title lang="pt">Dose Dupla</title>
